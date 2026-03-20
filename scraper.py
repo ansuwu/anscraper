@@ -182,9 +182,10 @@ def extract_prices_from_element(el) -> tuple[float | None, float | None]:
         return original, sale
 
     # All price-like strings: largest = original, smallest = sale
-    # Skip dollar amounts in savings/rewards/shipping context
+    # Skip dollar amounts in savings/rewards/shipping/percentage context
     skip_words = ("save", "earn", "reward", "cashback", "money", "shipping",
-                  "off)", "coupon", "credit", "bonus", "free", "deposit")
+                  "off)", "coupon", "credit", "bonus", "free", "deposit",
+                  "% off", "percent", "up to")
     price_texts = el.find_all(string=re.compile(r"\$\s*\d+[\d,.]*"))
     prices = []
     for pt in price_texts:
@@ -192,6 +193,13 @@ def extract_prices_from_element(el) -> tuple[float | None, float | None]:
         parent_text = pt.parent.get_text().lower() if pt.parent else ""
         if any(w in parent_text for w in skip_words):
             continue
+        # Skip if the text itself contains a percentage (e.g. "Save 19% ($180.00)")
+        full_text = pt.strip() if isinstance(pt, str) else str(pt)
+        if "%" in (pt.parent.get_text() if pt.parent else ""):
+            # Only skip if the dollar amount is near a percentage sign
+            parent_full = pt.parent.get_text() if pt.parent else ""
+            if re.search(r"\d+\s*%", parent_full):
+                continue
         p = parse_price(pt)
         if p and p > 0:
             prices.append(p)
@@ -559,8 +567,14 @@ def _parse_generic_soup(soup, site, min_discount):
 
         # Sanity check: reject obviously bad price parses
         if orig and sale and sale < orig:
-            if orig > 50000 or (sale > 0 and orig / sale > 20):
-                continue  # bad parse, skip this card
+            if orig > 50000:
+                continue  # unrealistic original price
+            # If the "sale" price is suspiciously low relative to original,
+            # it's likely a misparse (e.g. picking up "19" from "Save 19%")
+            if sale > 0 and orig / sale > 10 and sale < 50:
+                continue  # e.g. $949 / $19 = 50x, likely wrong
+            if sale > 0 and orig / sale > 15:
+                continue  # even for higher sale prices, 15x ratio is suspect
             discount = max(discount, calc_discount(orig, sale))
 
         if discount >= min_discount:
@@ -579,7 +593,6 @@ def _parse_generic_soup(soup, site, min_discount):
 # ---------------------------------------------------------------------------
 
 SCRAPERS = {
-    "redflagdeals": scrape_redflagdeals,
     "generic": scrape_generic,
     "browser": scrape_browser,
 }
