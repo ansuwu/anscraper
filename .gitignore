@@ -1,0 +1,4 @@
+seen_deals.json
+__pycache__/
+*.pyc
+.env

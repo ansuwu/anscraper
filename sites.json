@@ -1,0 +1,128 @@
+{
+  "_README": "Edit this file to add/remove/modify websites. Set 'enabled' to false to skip a site. All sites below have been verified to load successfully.",
+  "minimum_discount_percent": 50,
+  "max_results": 0,
+  "max_results_per_site": 0,
+  "price_min": 0,
+  "price_max": 0,
+  "keywords": [],
+  "exclude_keywords": [],
+  "categories": [],
+  "discord_webhook_url": "",
+  "notify_max_per_run": 25,
+  "history_expiry_days": 7,
+  "default_max_pages": 10,
+  "_FILTER_HELP": {
+    "max_results": "Cap total deals shown (0 = unlimited)",
+    "max_results_per_site": "Cap deals per site to prevent one site flooding results (0 = unlimited)",
+    "price_min": "Only show deals where the sale price is >= this (0 = no minimum)",
+    "price_max": "Only show deals where the sale price is <= this (0 = no maximum)",
+    "keywords": "Only show deals whose title contains at least one of these words (empty = show all). Example: [\"laptop\", \"headphones\", \"TV\"]",
+    "exclude_keywords": "Hide deals whose title contains any of these words. Example: [\"refurbished\", \"subscription\"]",
+    "categories": "Only scrape sites in these categories (empty = all). Example: [\"electronics\", \"fashion\"]",
+    "discord_webhook_url": "Your Discord webhook URL. Leave empty to disable Discord notifications",
+    "notify_max_per_run": "Max deals to send to Discord per run (0 = unlimited)",
+    "history_expiry_days": "Days to keep deals in history before re-notifying (default 7)",
+    "default_max_pages": "Max pages to scrape per site (default 10, set per-site with 'max_pages')"
+  },
+  "sites": [
+
+    {"name": "RedFlagDeals", "url": "https://forums.redflagdeals.com/hot-deals-f9/", "type": "redflagdeals", "enabled": true, "category": "deals", "description": "Canada's largest deal-sharing community"},
+    {"name": "SmartCanucks", "url": "https://smartcanucks.ca/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian coupons, deals and freebies"},
+    {"name": "Bargainmoose", "url": "https://www.bargainmoose.ca/deals", "type": "generic", "enabled": true, "category": "deals", "description": "Canadian deals and coupons"},
+    {"name": "SaveaLoonie", "url": "https://www.savealoonie.com/category/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian freebies, coupons and deals"},
+    {"name": "MapleMoney Deals", "url": "https://maplemoney.com/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian money-saving deals"},
+    {"name": "Checkout51", "url": "https://www.checkout51.com/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian cashback offers on groceries", "paginate": false},
+    {"name": "GoCoupons.ca", "url": "https://www.gocoupons.ca/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian coupon codes and deals", "paginate": false},
+
+    {"name": "Newegg Canada", "url": "https://www.newegg.ca/d/Special/ShellShocker", "type": "generic", "enabled": true, "category": "electronics", "description": "Newegg Canada shell shocker deals", "paginate": false},
+    {"name": "Dell Canada Outlet", "url": "https://www.dell.com/en-ca/shop/dell-refurbished/ab/dell-outlet", "type": "generic", "enabled": true, "category": "electronics", "description": "Dell Canada outlet and refurbished", "paginate": false},
+    {"name": "Lenovo Canada Deals", "url": "https://www.lenovo.com/ca/en/d/deals/", "type": "generic", "enabled": true, "category": "electronics", "description": "Lenovo Canada doorbusters and deals"},
+    {"name": "Microsoft Store Canada", "url": "https://www.microsoft.com/en-ca/store/b/sale", "type": "generic", "enabled": true, "category": "electronics", "description": "Microsoft Store Canada sale", "paginate": false},
+    {"name": "Samsung Canada", "url": "https://www.samsung.com/ca/offer/", "type": "generic", "enabled": true, "category": "electronics", "description": "Samsung Canada offers", "paginate": false},
+    {"name": "Visions Electronics", "url": "https://www.visions.ca/clearance", "type": "generic", "enabled": true, "category": "electronics", "description": "Visions Electronics clearance"},
+    {"name": "Apple Refurbished Canada", "url": "https://www.apple.com/ca/shop/refurbished", "type": "generic", "enabled": true, "category": "electronics", "description": "Apple Canada certified refurbished products", "paginate": false},
+
+    {"name": "Amazon.ca Deals", "url": "https://www.amazon.ca/deals", "type": "browser", "enabled": true, "category": "marketplace", "description": "Amazon Canada deals (browser required)"},
+    {"name": "Walmart Canada", "url": "https://www.walmart.ca/en/rollbacks", "type": "browser", "enabled": true, "category": "marketplace", "description": "Walmart Canada rollbacks (browser required)"},
+    {"name": "Canadian Tire", "url": "https://www.canadiantire.ca/en/deals.html", "type": "browser", "enabled": true, "category": "department", "description": "Canadian Tire deals (browser required)"},
+    {"name": "Sport Chek", "url": "https://www.sportchek.ca/sale.html", "type": "browser", "enabled": true, "category": "sports", "description": "Sport Chek sale (browser required)"},
+    {"name": "Mark's / L'Équipeur", "url": "https://www.marks.com/en/sale.html", "type": "browser", "enabled": true, "category": "fashion", "description": "Mark's sale (browser required)"},
+    {"name": "Staples Canada", "url": "https://www.staples.ca/collections/clearance-centre-48", "type": "browser", "enabled": true, "category": "electronics", "description": "Staples clearance (browser required)"},
+    {"name": "Home Hardware", "url": "https://www.homehardware.ca/en/promotions", "type": "browser", "enabled": true, "category": "home", "description": "Home Hardware promotions (browser required)"},
+    {"name": "Aritzia", "url": "https://www.aritzia.com/en/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Aritzia sale (browser required)"},
+    {"name": "Simons", "url": "https://www.simons.ca/en/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Simons fashion sale (browser required)"},
+    {"name": "Nike Canada", "url": "https://www.nike.com/ca/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Nike Canada sale (browser required)"},
+    {"name": "Under Armour Canada", "url": "https://www.underarmour.com/en-ca/c/outlet/", "type": "browser", "enabled": true, "category": "fashion", "description": "Under Armour outlet (browser required)"},
+    {"name": "SSENSE", "url": "https://www.ssense.com/en-ca/men/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "SSENSE designer sale (browser required)"},
+    {"name": "Nordstrom Canada", "url": "https://www.nordstrom.ca/browse/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Nordstrom Canada sale (browser required)"},
+    {"name": "MEC", "url": "https://www.mec.ca/en/products/deals-and-clearance", "type": "browser", "enabled": true, "category": "sports", "description": "MEC clearance (browser required)"},
+    {"name": "Toys R Us Canada", "url": "https://www.toysrus.ca/en/Deals/", "type": "browser", "enabled": true, "category": "books-toys", "description": "Toys R Us deals (browser required)"},
+    {"name": "PetSmart Canada", "url": "https://www.petsmart.ca/sale/", "type": "browser", "enabled": true, "category": "pets", "description": "PetSmart Canada sale (browser required)"},
+
+    {"name": "SportingLife", "url": "https://www.sportinglife.ca/en-CA/sale/", "type": "generic", "enabled": true, "category": "sports", "description": "Sporting Life sale section"},
+    {"name": "Running Room", "url": "https://www.runningroom.com/ca/sale/", "type": "generic", "enabled": true, "category": "sports", "description": "Running Room sale section"},
+    {"name": "Altitude Sports", "url": "https://www.altitude-sports.com/collections/sale", "type": "generic", "enabled": true, "category": "sports", "description": "Altitude Sports sale section"},
+
+    {"name": "Roots Canada", "url": "https://www.roots.com/ca/en/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "Roots Canada sale items"},
+    {"name": "Old Navy Canada", "url": "https://oldnavy.gapcanada.ca/browse/category.do?cid=1091755", "type": "generic", "enabled": true, "category": "fashion", "description": "Old Navy Canada clearance"},
+    {"name": "Gap Canada", "url": "https://www.gapcanada.ca/browse/category.do?cid=1185270", "type": "generic", "enabled": true, "category": "fashion", "description": "Gap Canada sale section"},
+    {"name": "Banana Republic Canada", "url": "https://bananarepublic.gapcanada.ca/browse/category.do?cid=1118274", "type": "generic", "enabled": true, "category": "fashion", "description": "Banana Republic Canada sale"},
+    {"name": "Uniqlo Canada", "url": "https://www.uniqlo.com/ca/en/feature/limited-offers/men", "type": "generic", "enabled": true, "category": "fashion", "description": "Uniqlo Canada limited offers"},
+    {"name": "Joe Fresh", "url": "https://www.joefresh.com/ca/Categories/Sale/c/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Joe Fresh sale section"},
+    {"name": "Reitmans", "url": "https://www.reitmans.com/en/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "Reitmans sale section"},
+    {"name": "Penningtons", "url": "https://www.penningtons.com/en/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "Penningtons plus-size sale"},
+    {"name": "Aldo Canada", "url": "https://www.aldoshoes.com/ca/en/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Aldo Canada shoe sale (Montreal-based)"},
+    {"name": "DSW Canada", "url": "https://www.dsw.ca/en/ca/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "DSW Canada shoe sale"},
+    {"name": "The Shoe Company", "url": "https://www.theshoecompany.ca/en/ca/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "The Shoe Company sale"},
+    {"name": "Call It Spring Canada", "url": "https://www.callitspring.com/ca/en/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Call It Spring sale"},
+    {"name": "Puma Canada", "url": "https://ca.puma.com/ca/en/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Puma Canada sale"},
+    {"name": "Columbia Canada", "url": "https://www.columbiasportswear.ca/en/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "Columbia Canada sale"},
+    {"name": "Moose Knuckles", "url": "https://www.mooseknucklescanada.com/collections/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Moose Knuckles sale (Canadian luxury outerwear)"},
+    {"name": "Arc'teryx Outlet", "url": "https://outlet.arcteryx.com/ca/en/", "type": "generic", "enabled": true, "category": "fashion", "description": "Arc'teryx outlet (Vancouver-based)"},
+
+    {"name": "IKEA Canada", "url": "https://www.ikea.com/ca/en/offers/", "type": "generic", "enabled": true, "category": "home", "description": "IKEA Canada offers and last chance"},
+    {"name": "Wayfair Canada", "url": "https://www.wayfair.ca/daily-sales", "type": "generic", "enabled": true, "category": "home", "description": "Wayfair Canada daily sales and clearance"},
+    {"name": "Structube", "url": "https://www.structube.com/en_ca/sale", "type": "generic", "enabled": true, "category": "home", "description": "Structube furniture sale"},
+    {"name": "Article", "url": "https://www.article.com/sale", "type": "generic", "enabled": true, "category": "home", "description": "Article furniture sale (Vancouver-based)"},
+    {"name": "Linen Chest", "url": "https://www.linenchest.com/en/sale", "type": "generic", "enabled": true, "category": "home", "description": "Linen Chest sale (Canadian home retailer)"},
+    {"name": "Bouclair", "url": "https://www.bouclair.com/en/sale/", "type": "generic", "enabled": true, "category": "home", "description": "Bouclair home decor sale"},
+
+    {"name": "Indigo / Chapters", "url": "https://www.indigo.ca/en-ca/sale/", "type": "generic", "enabled": true, "category": "books-toys", "description": "Indigo books and lifestyle sale"},
+    {"name": "Mastermind Toys", "url": "https://www.mastermindtoys.com/collections/sale", "type": "generic", "enabled": true, "category": "books-toys", "description": "Mastermind Toys sale (Canadian)"},
+
+    {"name": "Pet Valu", "url": "https://www.petvalu.ca/deals", "type": "generic", "enabled": true, "category": "pets", "description": "Pet Valu deals (Canadian)"},
+
+    {"name": "Lee Valley Tools", "url": "https://www.leevalley.com/en-ca/shop/sale", "type": "generic", "enabled": true, "category": "tools", "description": "Lee Valley Tools sale (Ottawa-based)"},
+
+    {"name": "Steam (Canada)", "url": "https://store.steampowered.com/specials", "type": "generic", "enabled": true, "category": "gaming", "description": "Steam game deals", "paginate": false},
+    {"name": "GOG Deals", "url": "https://www.gog.com/games?priceRange=0,50&discounted=true", "type": "generic", "enabled": true, "category": "gaming", "description": "GOG DRM-free game deals"},
+    {"name": "Humble Bundle", "url": "https://www.humblebundle.com/store/promo/spring-sale/", "type": "generic", "enabled": true, "category": "gaming", "description": "Humble Bundle game deals"},
+
+    {"name": "Douglas (Canadian)", "url": "https://www.douglasbed.ca/pages/sale", "type": "generic", "enabled": true, "category": "mattress", "description": "Douglas mattress sale (Canadian company)", "paginate": false},
+    {"name": "Sleep Country Canada", "url": "https://www.sleepcountry.ca/sale", "type": "generic", "enabled": false, "category": "mattress", "description": "Sleep Country Canada sale", "paginate": false},
+
+    {"name": "DAVIDsTEA", "url": "https://www.davidstea.com/ca_en/sale/", "type": "generic", "enabled": true, "category": "food-drink", "description": "DAVIDsTEA sale (Montreal-based)"},
+    {"name": "HelloFresh Canada", "url": "https://www.hellofresh.ca/deals", "type": "generic", "enabled": false, "category": "food-drink", "description": "HelloFresh Canada deals", "paginate": false},
+
+    {"name": "Clearly.ca", "url": "https://www.clearly.ca/sale", "type": "generic", "enabled": true, "category": "eyewear", "description": "Clearly eyewear sale (Vancouver-based)"},
+
+    {"name": "Bell Deals", "url": "https://www.bell.ca/Promotions", "type": "generic", "enabled": false, "category": "telecom", "description": "Bell Canada promotions", "paginate": false},
+    {"name": "Telus Deals", "url": "https://www.telus.com/en/deals", "type": "generic", "enabled": false, "category": "telecom", "description": "Telus deals and promotions", "paginate": false},
+    {"name": "Fido Deals", "url": "https://www.fido.ca/promotions", "type": "generic", "enabled": false, "category": "telecom", "description": "Fido promotions", "paginate": false},
+    {"name": "Koodo Deals", "url": "https://www.koodomobile.com/en/rate-plans", "type": "generic", "enabled": false, "category": "telecom", "description": "Koodo rate plans and deals", "paginate": false},
+    {"name": "Freedom Mobile Deals", "url": "https://www.freedommobile.ca/en-CA/plans", "type": "generic", "enabled": false, "category": "telecom", "description": "Freedom Mobile plan deals", "paginate": false},
+
+    {"name": "WestJet Deals", "url": "https://www.westjet.com/en-ca/deals", "type": "generic", "enabled": false, "category": "travel", "description": "WestJet flight deals", "paginate": false},
+
+    {"name": "Michaels Canada", "url": "https://canada.michaels.com/en/sale", "type": "generic", "enabled": true, "category": "crafts", "description": "Michaels Canada craft supply sale"},
+
+    {"name": "Canada Computers", "url": "https://www.canadacomputers.com/clearance", "type": "browser", "enabled": true, "category": "electronics", "description": "Canada Computers clearance"},
+    {"name": "Foot Locker Canada", "url": "https://www.footlocker.ca/category/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Foot Locker Canada sale"},
+    {"name": "Browns Shoes", "url": "https://www.brownsshoes.com/en/sale/", "type": "generic", "enabled": true, "category": "fashion", "description": "Browns Shoes sale"},
+    {"name": "SoftMoc", "url": "https://www.softmoc.com/ca/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "SoftMoc sale"},
+    {"name": "Little Burgundy", "url": "https://www.littleburgundyshoes.com/en/collections/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Little Burgundy shoe sale"},
+    {"name": "Vessi", "url": "https://ca.vessi.com/collections/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Vessi waterproof shoes sale (Vancouver-based)"},
+    {"name": "Giant Tiger", "url": "https://www.gianttiger.com/collections/clearance", "type": "generic", "enabled": true, "category": "department", "description": "Giant Tiger clearance"}
+  ]
+}
