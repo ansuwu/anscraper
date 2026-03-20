@@ -27,9 +27,9 @@
   },
   "sites": [
 
-    {"name": "RedFlagDeals", "url": "https://forums.redflagdeals.com/hot-deals-f9/", "type": "redflagdeals", "enabled": true, "category": "deals", "description": "Canada's largest deal-sharing community"},
+    {"name": "RedFlagDeals", "url": "https://forums.redflagdeals.com/hot-deals-f9/", "type": "redflagdeals", "enabled": false, "category": "deals", "description": "Canada's largest deal-sharing community"},
     {"name": "SmartCanucks", "url": "https://smartcanucks.ca/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian coupons, deals and freebies"},
-    {"name": "Bargainmoose", "url": "https://www.bargainmoose.ca/deals", "type": "generic", "enabled": true, "category": "deals", "description": "Canadian deals and coupons"},
+    {"name": "Bargainmoose", "url": "https://www.bargainmoose.ca/deals", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian deals and coupons"},
     {"name": "SaveaLoonie", "url": "https://www.savealoonie.com/category/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian freebies, coupons and deals"},
     {"name": "MapleMoney Deals", "url": "https://maplemoney.com/deals/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian money-saving deals"},
     {"name": "Checkout51", "url": "https://www.checkout51.com/", "type": "generic", "enabled": false, "category": "deals", "description": "Canadian cashback offers on groceries", "paginate": false},
