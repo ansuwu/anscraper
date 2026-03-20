@@ -95,9 +95,9 @@
 
     {"name": "Lee Valley Tools", "url": "https://www.leevalley.com/en-ca/shop/sale", "type": "generic", "enabled": true, "category": "tools", "description": "Lee Valley Tools sale (Ottawa-based)"},
 
-    {"name": "Steam (Canada)", "url": "https://store.steampowered.com/specials", "type": "generic", "enabled": true, "category": "gaming", "description": "Steam game deals", "paginate": false},
-    {"name": "GOG Deals", "url": "https://www.gog.com/games?priceRange=0,50&discounted=true", "type": "generic", "enabled": true, "category": "gaming", "description": "GOG DRM-free game deals"},
-    {"name": "Humble Bundle", "url": "https://www.humblebundle.com/store/promo/spring-sale/", "type": "generic", "enabled": true, "category": "gaming", "description": "Humble Bundle game deals"},
+    {"name": "Steam (Canada)", "url": "https://store.steampowered.com/specials", "type": "generic", "enabled": false, "category": "gaming", "description": "Steam game deals", "paginate": false},
+    {"name": "GOG Deals", "url": "https://www.gog.com/games?priceRange=0,50&discounted=true", "type": "generic", "enabled": false, "category": "gaming", "description": "GOG DRM-free game deals"},
+    {"name": "Humble Bundle", "url": "https://www.humblebundle.com/store/promo/spring-sale/", "type": "generic", "enabled": false, "category": "gaming", "description": "Humble Bundle game deals"},
 
     {"name": "Douglas (Canadian)", "url": "https://www.douglasbed.ca/pages/sale", "type": "generic", "enabled": true, "category": "mattress", "description": "Douglas mattress sale (Canadian company)", "paginate": false},
     {"name": "Sleep Country Canada", "url": "https://www.sleepcountry.ca/sale", "type": "generic", "enabled": false, "category": "mattress", "description": "Sleep Country Canada sale", "paginate": false},

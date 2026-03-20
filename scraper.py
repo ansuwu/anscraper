@@ -182,9 +182,16 @@ def extract_prices_from_element(el) -> tuple[float | None, float | None]:
         return original, sale
 
     # All price-like strings: largest = original, smallest = sale
+    # Skip dollar amounts in savings/rewards/shipping context
+    skip_words = ("save", "earn", "reward", "cashback", "money", "shipping",
+                  "off)", "coupon", "credit", "bonus", "free", "deposit")
     price_texts = el.find_all(string=re.compile(r"\$\s*\d+[\d,.]*"))
     prices = []
     for pt in price_texts:
+        # Check surrounding text for non-price context
+        parent_text = pt.parent.get_text().lower() if pt.parent else ""
+        if any(w in parent_text for w in skip_words):
+            continue
         p = parse_price(pt)
         if p and p > 0:
             prices.append(p)
@@ -550,10 +557,9 @@ def _parse_generic_soup(soup, site, min_discount):
             if m:
                 discount = float(m.group(1))
 
-        # Sanity check: reject if original price is absurdly high (parsing error)
-        # or if original is more than 100x the sale price
+        # Sanity check: reject obviously bad price parses
         if orig and sale and sale < orig:
-            if orig > 50000 or (sale > 0 and orig / sale > 100):
+            if orig > 50000 or (sale > 0 and orig / sale > 20):
                 continue  # bad parse, skip this card
             discount = max(discount, calc_discount(orig, sale))
 
