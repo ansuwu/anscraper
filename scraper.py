@@ -115,9 +115,14 @@ def fetch_page(session: requests.Session, url: str) -> BeautifulSoup | None:
 def parse_price(text: str) -> float | None:
     if not text:
         return None
-    cleaned = re.sub(r"[^\d.]", "", text.strip())
+    # Extract the first dollar amount from the text (e.g. "$127.97" from "$150.00$127.97")
+    m = re.search(r"\$?\s*(\d{1,6}(?:[,]\d{3})*(?:\.\d{2})?)", text.strip())
+    if not m:
+        return None
+    cleaned = m.group(1).replace(",", "")
     try:
-        return float(cleaned)
+        val = float(cleaned)
+        return val if val > 0 else None
     except (ValueError, TypeError):
         return None
 
@@ -166,9 +171,12 @@ def extract_prices_from_element(el) -> tuple[float | None, float | None]:
     )
 
     if strikethrough:
-        original = original or parse_price(strikethrough.get_text())
+        # Use direct text of the element to avoid concatenating child prices
+        strike_text = strikethrough.string or strikethrough.get_text(separator=" ")
+        original = original or parse_price(strike_text)
     if current:
-        sale = sale or parse_price(current.get_text())
+        current_text = current.string or current.get_text(separator=" ")
+        sale = sale or parse_price(current_text)
 
     if original and sale:
         return original, sale
@@ -514,7 +522,14 @@ def _parse_generic_soup(soup, site, min_discount):
         if len(title) < 4 or len(title) > 200:
             continue
 
-        link_el = card.select_one("a[href]") or title_el if title_el.name == "a" else None
+        # Find product link — prefer title link, then any link in the card
+        link_el = None
+        if title_el.name == "a":
+            link_el = title_el
+        elif title_el.find_parent("a"):
+            link_el = title_el.find_parent("a")
+        if not link_el:
+            link_el = card.select_one("a[href]")
         link = site["url"]
         if link_el and link_el.get("href"):
             href = link_el["href"]
@@ -535,7 +550,11 @@ def _parse_generic_soup(soup, site, min_discount):
             if m:
                 discount = float(m.group(1))
 
+        # Sanity check: reject if original price is absurdly high (parsing error)
+        # or if original is more than 100x the sale price
         if orig and sale and sale < orig:
+            if orig > 50000 or (sale > 0 and orig / sale > 100):
+                continue  # bad parse, skip this card
             discount = max(discount, calc_discount(orig, sale))
 
         if discount >= min_discount:
