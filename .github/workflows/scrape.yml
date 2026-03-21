@@ -20,23 +20,17 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: Restore deal history
-        uses: actions/cache/restore@v4
-        with:
-          path: seen_deals.json
-          key: deal-history
-          restore-keys: |
-            deal-history
-
       - name: Run scraper
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           python scraper.py --discord "$DISCORD_WEBHOOK"
 
-      - name: Save deal history
+      - name: Save deal history to repo
         if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: seen_deals.json
-          key: deal-history-${{ github.run_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_deals.json || true
+          git diff --cached --quiet || git commit -m "Update deal history [skip ci]"
+          git push || true
