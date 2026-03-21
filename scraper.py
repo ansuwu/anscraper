@@ -514,9 +514,11 @@ def _parse_generic_soup(soup, site, min_discount):
         "li[class*='product']", "[data-product]", "[data-item]",
     ]
     cards = []
+    matched_selector = None
     for sel in card_selectors:
         cards = soup.select(sel)
         if len(cards) >= 2:
+            matched_selector = sel
             break
 
     if not cards:
@@ -525,6 +527,14 @@ def _parse_generic_soup(soup, site, min_discount):
             if len(texts) >= 2 and len(el.get_text()) < 500:
                 cards.append(el)
         cards = cards[:50]
+        if cards:
+            matched_selector = "fallback (elements with 2+ prices)"
+
+    # Track diagnostics for this parse
+    site_name = site.get("name", "unknown")
+    _SCRAPE_DIAG.setdefault(site_name, {"cards_found": 0, "prices_parsed": 0, "deals_qualified": 0, "selector": ""})
+    _SCRAPE_DIAG[site_name]["cards_found"] += len(cards)
+    _SCRAPE_DIAG[site_name]["selector"] = matched_selector or "none matched"
 
     for card in cards[:100]:
         title_el = card.select_one(
@@ -558,6 +568,9 @@ def _parse_generic_soup(soup, site, min_discount):
                 link = urljoin(site["url"], href)
 
         orig, sale = extract_prices_from_element(card)
+        if orig or sale:
+            _SCRAPE_DIAG.setdefault(site.get("name", "unknown"), {"cards_found": 0, "prices_parsed": 0, "deals_qualified": 0, "selector": ""})
+            _SCRAPE_DIAG[site.get("name", "unknown")]["prices_parsed"] += 1
 
         discount = 0.0
         pct_el = card.select_one(
@@ -584,6 +597,8 @@ def _parse_generic_soup(soup, site, min_discount):
             discount = max(discount, calc_discount(orig, sale))
 
         if discount >= min_discount:
+            _SCRAPE_DIAG.setdefault(site.get("name", "unknown"), {"cards_found": 0, "prices_parsed": 0, "deals_qualified": 0, "selector": ""})
+            _SCRAPE_DIAG[site.get("name", "unknown")]["deals_qualified"] += 1
             img_el = card.select_one("img[src]")
             img = img_el["src"] if img_el else ""
             deals.append(Deal(
@@ -614,10 +629,14 @@ def _parse_amazon(soup, site, min_discount):
         'div[class*="ProductCard"]',
     ]
     cards = []
+    matched_sel = "none"
     for sel in card_selectors:
         cards = soup.select(sel)
         if len(cards) >= 2:
+            matched_sel = sel
             break
+
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": matched_sel}
 
     if not cards:
         # Fall back to generic parser
@@ -720,6 +739,8 @@ def _parse_sportchek(soup, site, min_discount):
         if len(cards) >= 2:
             break
 
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": "sportchek custom"}
+
     if not cards:
         return _parse_generic_soup(soup, site, min_discount)
 
@@ -799,6 +820,7 @@ def _parse_canada_computers(soup, site, min_discount):
     """Custom parser for Canada Computers - uses data attributes."""
     deals = []
     cards = soup.select('.js-product')
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": "canada-computers custom"}
     for card in cards:
         desc = card.select_one('.product-description')
         if not desc:
@@ -844,6 +866,7 @@ def _parse_ssense(soup, site, min_discount):
     import json as _json
     deals = []
     cards = soup.select('.plp-products__product-tile')
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": "ssense custom"}
     for card in cards:
         # Get product data from JSON-LD
         script = card.select_one('script[type="application/ld+json"]')
@@ -897,6 +920,7 @@ def _parse_footlocker(soup, site, min_discount):
     """Custom parser for Foot Locker - parses 'Price dropped from $X to $Y'."""
     deals = []
     cards = soup.select('.ProductCard')
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": "footlocker custom"}
     for card in cards:
         title_el = card.select_one('.ProductName-primary')
         if not title_el:
@@ -951,6 +975,7 @@ def _parse_aritzia(soup, site, min_discount):
     """Custom parser for Aritzia - prices in image alt text."""
     deals = []
     cards = soup.select('[data-testid*="plp-product-tile"]')
+    _SCRAPE_DIAG[site["name"]] = {"cards_found": len(cards), "prices_parsed": 0, "deals_qualified": 0, "selector": "aritzia custom"}
     for card in cards:
         # Get prices from image alt text
         img_el = card.select_one('img[alt*="Price"]')
@@ -1021,6 +1046,9 @@ def _parse_soup(soup, site, min_discount):
 # ---------------------------------------------------------------------------
 # Dispatcher
 # ---------------------------------------------------------------------------
+
+# Global diagnostics tracker
+_SCRAPE_DIAG: dict[str, dict] = {}
 
 SCRAPERS = {
     "generic": scrape_generic,
@@ -1469,12 +1497,70 @@ examples:
             new_count = len([d for d in new_deals if d.site == sname])
             print(f"    {sname}: {count} total, {new_count} new")
 
+    # --- Diagnostics report ---
+    print(f"\n  {'=' * 70}")
+    print(f"  SITE DIAGNOSTICS (what happened at each site)")
+    print(f"  {'=' * 70}")
+    print(f"  {'Site':<30} {'Cards':>6} {'Prices':>7} {'Deals':>6}  Status")
+    print(f"  {'─' * 30} {'─' * 6} {'─' * 7} {'─' * 6}  {'─' * 25}")
+
+    all_site_names = {s["name"] for s in sites}
+    diag_sites = set(_SCRAPE_DIAG.keys())
+
+    for s in sorted(all_site_names):
+        info = _SCRAPE_DIAG.get(s, {})
+        cards = info.get("cards_found", 0)
+        prices = info.get("prices_parsed", 0)
+        deals_q = info.get("deals_qualified", 0)
+        selector = info.get("selector", "")
+
+        if s not in diag_sites:
+            status = "NO DATA (fetch failed?)"
+        elif cards == 0:
+            status = "NO PRODUCTS FOUND"
+        elif prices == 0:
+            status = f"NO PRICES PARSED ({selector})"
+        elif deals_q == 0:
+            status = f"no deals >= {min_discount}% off"
+        else:
+            status = f"OK ({selector})"
+
+        print(f"  {s:<30} {cards:>6} {prices:>7} {deals_q:>6}  {status}")
+
+    print(f"  {'=' * 70}")
+
     # Send only NEW deals to Discord
     if discord_url and new_deals:
         print(f"\n  Sending {len(new_deals)} new deal(s) to Discord...")
         send_discord(new_deals, discord_url, notify_max)
     elif discord_url and not new_deals:
         print(f"\n  No new deals to send to Discord.")
+
+    # Send diagnostics summary to Discord (compact)
+    if discord_url:
+        failed_sites = []
+        working_sites = []
+        for s in sorted(all_site_names):
+            info = _SCRAPE_DIAG.get(s, {})
+            cards = info.get("cards_found", 0)
+            deals_q = info.get("deals_qualified", 0)
+            if cards == 0:
+                failed_sites.append(s)
+            elif deals_q > 0:
+                working_sites.append(f"{s} ({deals_q})")
+
+        diag_lines = [f"**Scan Report** ({elapsed:.0f}s, {len(all_site_names)} sites)"]
+        if working_sites:
+            diag_lines.append(f"Working: {', '.join(working_sites)}")
+        if failed_sites:
+            diag_lines.append(f"No products found ({len(failed_sites)}): {', '.join(failed_sites[:15])}")
+            if len(failed_sites) > 15:
+                diag_lines.append(f"  ...and {len(failed_sites) - 15} more")
+
+        try:
+            requests.post(discord_url, json={"content": "\n".join(diag_lines)}, timeout=10)
+        except Exception:
+            pass
 
 
 if __name__ == "__main__":
