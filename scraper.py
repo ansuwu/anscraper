@@ -1756,9 +1756,7 @@ examples:
             if len(failed_sites) > 15:
                 diag_lines.append(f"  ...and {len(failed_sites) - 15} more")
         if single_page_sites:
-            diag_lines.append(f"**Only 1 page scraped ({len(single_page_sites)}):** {', '.join(single_page_sites[:15])}")
-            if len(single_page_sites) > 15:
-                diag_lines.append(f"  ...and {len(single_page_sites) - 15} more")
+            diag_lines.append(f"**Only 1 page scraped ({len(single_page_sites)}):** {', '.join(single_page_sites)}")
 
         try:
             requests.post(discord_url, json={"content": "\n".join(diag_lines)}, timeout=10)
