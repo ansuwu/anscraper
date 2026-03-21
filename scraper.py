@@ -434,6 +434,7 @@ def scrape_generic(session, site, min_discount, browser=None, max_pages=10, pagi
     pages_to_scrape = max_pages if paginate else 1
 
     prev_count = None
+    pages_done = 0
     for page_num in range(1, pages_to_scrape + 1):
         url = base_url if page_num == 1 else make_page_url(base_url, page_num)
         soup = fetch_page(session, url)
@@ -441,6 +442,7 @@ def scrape_generic(session, site, min_discount, browser=None, max_pages=10, pagi
             break
 
         page_deals = _parse_soup(soup, site, min_discount)
+        pages_done += 1
 
         if not page_deals:
             break  # no products found on this page, stop
@@ -460,6 +462,7 @@ def scrape_generic(session, site, min_discount, browser=None, max_pages=10, pagi
             break
         prev_count = len(page_deals)
 
+    _diag(site["name"], pages=pages_done)
     return all_deals
 
 
@@ -474,6 +477,7 @@ def scrape_browser(session, site, min_discount, browser=None, max_pages=10, pagi
     pages_to_scrape = max_pages if paginate else 1
 
     prev_count = None
+    pages_done = 0
     for page_num in range(1, pages_to_scrape + 1):
         url = base_url if page_num == 1 else make_page_url(base_url, page_num)
         soup = fetch_page_browser(browser, url)
@@ -481,6 +485,7 @@ def scrape_browser(session, site, min_discount, browser=None, max_pages=10, pagi
             break
 
         page_deals = _parse_soup(soup, site, min_discount)
+        pages_done += 1
 
         if not page_deals:
             break
@@ -499,6 +504,7 @@ def scrape_browser(session, site, min_discount, browser=None, max_pages=10, pagi
             break
         prev_count = len(page_deals)
 
+    _diag(site["name"], pages=pages_done)
     return all_deals
 
 
@@ -1121,6 +1127,7 @@ def scrape_shopify_json(session, site, min_discount, browser=None, max_pages=10,
 
     pages_to_scrape = max_pages if paginate else 1
     page = 1
+    pages_done = 0
     while page <= pages_to_scrape:
         api_url = f"{domain}/products.json?limit=250&page={page}"
         try:
@@ -1135,7 +1142,8 @@ def scrape_shopify_json(session, site, min_discount, browser=None, max_pages=10,
             print(f"  ⚠ Shopify API failed for {site['name']}: {e}")
             break
 
-        _diag(site["name"], cards=len(products), selector="shopify JSON API")
+        pages_done += 1
+        _diag(site["name"], cards=len(products), pages=1, selector="shopify JSON API")
 
         for prod in products:
             title = prod.get("title", "")
@@ -1212,14 +1220,15 @@ def _parse_soup(soup, site, min_discount):
 # Global diagnostics tracker
 _SCRAPE_DIAG: dict[str, dict] = {}
 
-def _diag(site_name, cards=0, prices=0, deals=0, selector=""):
+def _diag(site_name, cards=0, prices=0, deals=0, selector="", pages=0):
     """Update diagnostics for a site (additive)."""
     if site_name not in _SCRAPE_DIAG:
-        _SCRAPE_DIAG[site_name] = {"cards_found": 0, "prices_parsed": 0, "deals_qualified": 0, "selector": ""}
+        _SCRAPE_DIAG[site_name] = {"cards_found": 0, "prices_parsed": 0, "deals_qualified": 0, "pages_scraped": 0, "selector": ""}
     d = _SCRAPE_DIAG[site_name]
     d["cards_found"] += cards
     d["prices_parsed"] += prices
     d["deals_qualified"] += deals
+    d["pages_scraped"] += pages
     if selector:
         d["selector"] = selector
 
@@ -1547,10 +1556,12 @@ examples:
                 site = futures[future]
                 try:
                     deals = future.result()
+                    pg = _SCRAPE_DIAG.get(site["name"], {}).get("pages_scraped", 0)
+                    pg_str = f" ({pg} pages)" if pg > 1 else ""
                     if deals:
-                        print(f"  + {site['name']}: {len(deals)} deal(s)")
+                        print(f"  + {site['name']}: {len(deals)} deal(s){pg_str}")
                     else:
-                        print(f"  . {site['name']}: no qualifying deals")
+                        print(f"  . {site['name']}: no qualifying deals{pg_str}")
                     all_deals.extend(deals)
                 except Exception as e:
                     print(f"  x {site['name']}: error - {e}")
@@ -1568,10 +1579,12 @@ examples:
                     for site in browser_sites:
                         try:
                             deals = scrape_site(site, min_discount, browser, max_pages, paginate)
+                            pg = _SCRAPE_DIAG.get(site["name"], {}).get("pages_scraped", 0)
+                            pg_str = f" ({pg} pages)" if pg > 1 else ""
                             if deals:
-                                print(f"  + {site['name']}: {len(deals)} deal(s) [browser]")
+                                print(f"  + {site['name']}: {len(deals)} deal(s){pg_str} [browser]")
                             else:
-                                print(f"  . {site['name']}: no qualifying deals [browser]")
+                                print(f"  . {site['name']}: no qualifying deals{pg_str} [browser]")
                             all_deals.extend(deals)
                         except Exception as e:
                             print(f"  x {site['name']}: error - {e}")
@@ -1672,17 +1685,18 @@ examples:
             print(f"    {sname}: {count} total, {new_count} new")
 
     # --- Diagnostics report ---
-    print(f"\n  {'=' * 70}")
+    print(f"\n  {'=' * 80}")
     print(f"  SITE DIAGNOSTICS (what happened at each site)")
-    print(f"  {'=' * 70}")
-    print(f"  {'Site':<30} {'Cards':>6} {'Prices':>7} {'Deals':>6}  Status")
-    print(f"  {'─' * 30} {'─' * 6} {'─' * 7} {'─' * 6}  {'─' * 25}")
+    print(f"  {'=' * 80}")
+    print(f"  {'Site':<30} {'Pages':>5} {'Cards':>6} {'Prices':>7} {'Deals':>6}  Status")
+    print(f"  {'─' * 30} {'─' * 5} {'─' * 6} {'─' * 7} {'─' * 6}  {'─' * 25}")
 
     all_site_names = {s["name"] for s in sites}
     diag_sites = set(_SCRAPE_DIAG.keys())
 
     for s in sorted(all_site_names):
         info = _SCRAPE_DIAG.get(s, {})
+        pg = info.get("pages_scraped", 0)
         cards = info.get("cards_found", 0)
         prices = info.get("prices_parsed", 0)
         deals_q = info.get("deals_qualified", 0)
@@ -1697,11 +1711,12 @@ examples:
         elif deals_q == 0:
             status = f"no deals >= {min_discount}% off"
         else:
-            status = f"OK ({selector})"
+            page_note = f", {pg} pg" if pg > 1 else ", 1 pg only"
+            status = f"OK{page_note} ({selector})"
 
-        print(f"  {s:<30} {cards:>6} {prices:>7} {deals_q:>6}  {status}")
+        print(f"  {s:<30} {pg:>5} {cards:>6} {prices:>7} {deals_q:>6}  {status}")
 
-    print(f"  {'=' * 70}")
+    print(f"  {'=' * 80}")
 
     # Send only NEW deals to Discord
     if discord_url and new_deals:
@@ -1719,12 +1734,15 @@ examples:
             info = _SCRAPE_DIAG.get(s, {})
             cards = info.get("cards_found", 0)
             deals_q = info.get("deals_qualified", 0)
+            pg = info.get("pages_scraped", 0)
             if cards == 0:
                 failed_sites.append(s)
             elif deals_q > 0:
-                working_sites.append(f"{s} ({deals_q})")
+                pg_str = f", {pg}pg" if pg > 1 else ""
+                working_sites.append(f"{s} ({deals_q} deals{pg_str})")
             else:
-                no_deals_sites.append(f"{s} ({cards} products)")
+                pg_str = f", {pg}pg" if pg > 1 else ""
+                no_deals_sites.append(f"{s} ({cards} products{pg_str})")
 
         diag_lines = [f"**Scan Report** ({elapsed:.0f}s, {len(all_site_names)} sites)"]
         if working_sites:
