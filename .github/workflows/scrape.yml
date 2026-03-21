@@ -5,6 +5,10 @@ on:
     - cron: '0 * * * *'  # every hour
   workflow_dispatch:       # manual trigger button
 
+concurrency:
+  group: scraper
+  cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -29,6 +33,7 @@ jobs:
       - name: Save deal history to repo
         if: always()
         run: |
+          git pull --rebase origin main || true
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add seen_deals.json || true
