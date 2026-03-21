@@ -1035,6 +1035,155 @@ def _parse_aritzia(soup, site, min_discount):
     return deals
 
 
+def _parse_visions(soup, site, min_discount):
+    """Custom parser for Visions Electronics (Magento)."""
+    deals = []
+    cards = soup.select('.product-item.item')
+    _diag(site["name"], cards=len(cards), selector="visions .product-item.item")
+    for card in cards[:100]:
+        title_el = card.select_one('.product-item-link')
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        if len(title) < 4:
+            continue
+        link = title_el.get("href", site["url"])
+        special = card.select_one('.special-price .price')
+        regular = card.select_one('.old-price .price')
+        if not special:
+            continue
+        sale = parse_price(special.get_text())
+        orig = parse_price(regular.get_text()) if regular else None
+        if sale:
+            _diag(site["name"], prices=1)
+        if not orig or not sale or sale >= orig:
+            continue
+        discount = calc_discount(orig, sale)
+        if discount >= min_discount:
+            _diag(site["name"], deals=1)
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(site=site["name"], title=title[:120], original_price=orig,
+                            sale_price=sale, discount_percent=discount, url=link, image_url=img))
+    return deals
+
+
+def _parse_kiyoko(soup, site, min_discount):
+    """Custom parser for Kiyoko Beauty (Shopify with compare-at-price class)."""
+    deals = []
+    cards = soup.select('.product-card')
+    _diag(site["name"], cards=len(cards), selector="kiyoko .product-card")
+    for card in cards[:100]:
+        title_el = card.select_one('.product-card__title, h3, h2, a.full-unstyled-link')
+        if not title_el:
+            # Try the link text
+            link_el = card.select_one('a.product-card__link')
+            if link_el:
+                title = link_el.get("aria-label", "") or link_el.get_text(strip=True)
+            else:
+                continue
+        else:
+            title = title_el.get_text(strip=True)
+        if len(title) < 4:
+            continue
+        compare_el = card.select_one('.compare-at-price')
+        sale_el = card.select_one('.price')
+        if not compare_el or not sale_el:
+            continue
+        orig = parse_price(compare_el.get_text())
+        sale = parse_price(sale_el.get_text())
+        if orig or sale:
+            _diag(site["name"], prices=1)
+        if not orig or not sale or sale >= orig:
+            continue
+        link_el = card.select_one('a[href]')
+        link = site["url"]
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            link = ("https://kiyoko.ca" + href) if href.startswith("/") else href
+        discount = calc_discount(orig, sale)
+        if discount >= min_discount:
+            _diag(site["name"], deals=1)
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(site=site["name"], title=title[:120], original_price=orig,
+                            sale_price=sale, discount_percent=discount, url=link, image_url=img))
+    return deals
+
+
+def scrape_shopify_json(session, site, min_discount, browser=None, max_pages=10, paginate=True):
+    """Scrape Shopify stores via their JSON API — much more reliable than HTML parsing."""
+    deals = []
+    base_url = site["url"].rstrip("/")
+    # Extract base domain
+    parsed = urlparse(base_url)
+    domain = f"{parsed.scheme}://{parsed.netloc}"
+
+    pages_to_scrape = max_pages if paginate else 1
+    page = 1
+    while page <= pages_to_scrape:
+        api_url = f"{domain}/products.json?limit=250&page={page}"
+        try:
+            resp = session.get(api_url, timeout=REQUEST_TIMEOUT)
+            if resp.status_code != 200:
+                break
+            data = resp.json()
+            products = data.get("products", [])
+            if not products:
+                break
+        except Exception as e:
+            print(f"  ⚠ Shopify API failed for {site['name']}: {e}")
+            break
+
+        _diag(site["name"], cards=len(products), selector="shopify JSON API")
+
+        for prod in products:
+            title = prod.get("title", "")
+            if len(title) < 4:
+                continue
+            handle = prod.get("handle", "")
+            link = f"{domain}/products/{handle}" if handle else site["url"]
+            # Get first image
+            images = prod.get("images", [])
+            img = images[0].get("src", "") if images else ""
+
+            # Check all variants for discounts
+            for variant in prod.get("variants", []):
+                price_str = variant.get("price", "0")
+                compare_str = variant.get("compare_at_price")
+                try:
+                    sale = float(price_str)
+                except (ValueError, TypeError):
+                    continue
+                if not compare_str:
+                    continue
+                try:
+                    orig = float(compare_str)
+                except (ValueError, TypeError):
+                    continue
+
+                _diag(site["name"], prices=1)
+
+                if orig <= 0 or sale >= orig:
+                    continue
+
+                discount = calc_discount(orig, sale)
+                if discount >= min_discount:
+                    _diag(site["name"], deals=1)
+                    variant_title = variant.get("title", "")
+                    full_title = f"{title} - {variant_title}" if variant_title and variant_title != "Default Title" else title
+                    deals.append(Deal(
+                        site=site["name"], title=full_title[:120],
+                        original_price=orig, sale_price=sale,
+                        discount_percent=discount, url=link, image_url=img,
+                    ))
+                    break  # Only take the best variant per product
+
+        page += 1
+
+    return deals
+
+
 # Map site names to custom parsers
 CUSTOM_PARSERS = {
     "Amazon.ca Deals": _parse_amazon,
@@ -1043,6 +1192,8 @@ CUSTOM_PARSERS = {
     "SSENSE": _parse_ssense,
     "Foot Locker Canada": _parse_footlocker,
     "Aritzia": _parse_aritzia,
+    "Visions Electronics": _parse_visions,
+    "Kiyoko Beauty": _parse_kiyoko,
 }
 
 
@@ -1075,6 +1226,7 @@ def _diag(site_name, cards=0, prices=0, deals=0, selector=""):
 SCRAPERS = {
     "generic": scrape_generic,
     "browser": scrape_browser,
+    "shopify_json": scrape_shopify_json,
 }
 
 
