@@ -9,7 +9,7 @@
   "exclude_keywords": [],
   "categories": [],
   "discord_webhook_url": "https://discord.com/api/webhooks/1484679763066093661/_8Y_riJmAO49Hineu5z1WE2bNVFC_ui5TPA7WSTgxdHHWqUq1aKFclaLYgByZr6-LT8-",
-  "notify_max_per_run": 25,
+  "notify_max_per_run": 150,
   "history_expiry_days": 7,
   "default_max_pages": 10,
   "_FILTER_HELP": {
@@ -56,7 +56,7 @@
     {"name": "Nike Canada", "url": "https://www.nike.com/ca/sale", "type": "browser", "enabled": false, "category": "fashion", "description": "BLOCKED - only shows current price, no original price for discount calc"},
     {"name": "Adidas Canada", "url": "https://www.adidas.ca/en/sale", "type": "browser", "enabled": false, "category": "fashion", "description": "BLOCKED - SPA doesn't render products in headless browser"},
     {"name": "Under Armour Canada", "url": "https://www.underarmour.com/en-ca/c/outlet/", "type": "browser", "enabled": true, "category": "fashion", "description": "Under Armour outlet (browser required)"},
-    {"name": "SSENSE", "url": "https://www.ssense.com/en-ca/men/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "SSENSE designer sale (browser required)"},
+    {"name": "SSENSE", "url": "https://www.ssense.com/en-ca/men/sale", "type": "browser", "enabled": false, "category": "fashion", "description": "SSENSE designer sale (browser required)"},
     {"name": "Nordstrom Canada", "url": "https://www.nordstrom.ca/browse/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Nordstrom Canada sale (browser required)"},
     {"name": "Mark's / L'Equipeur", "url": "https://www.marks.com/en/sale.html", "type": "browser", "enabled": true, "category": "fashion", "description": "Mark's sale (browser required)"},
     {"name": "Foot Locker Canada", "url": "https://www.footlocker.ca/category/sale", "type": "browser", "enabled": true, "category": "fashion", "description": "Foot Locker Canada sale"},
