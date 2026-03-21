@@ -21,10 +21,12 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Restore deal history
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: seen_deals.json
           key: deal-history
+          restore-keys: |
+            deal-history
 
       - name: Run scraper
         env:

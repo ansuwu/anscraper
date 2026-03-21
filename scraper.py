@@ -533,7 +533,11 @@ def _parse_generic_soup(soup, site, min_discount):
         )
         if not title_el:
             continue
+        # Get title text and strip any embedded prices/dollar amounts
         title = title_el.get_text(strip=True)
+        title = re.sub(r"\$\s*\d[\d,.]*", "", title).strip()
+        # Also clean up leftover artifacts like double spaces
+        title = re.sub(r"\s{2,}", " ", title)
         if len(title) < 4 or len(title) > 200:
             continue
 
