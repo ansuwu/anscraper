@@ -466,46 +466,152 @@ def scrape_generic(session, site, min_discount, browser=None, max_pages=10, pagi
     return all_deals
 
 
+def _try_load_more(page):
+    """Try clicking load-more / show-more buttons. Returns True if clicked."""
+    selectors = [
+        "button:has-text('Load More')", "button:has-text('Show More')",
+        "button:has-text('Load more')", "button:has-text('Show more')",
+        "a:has-text('Load More')", "a:has-text('Show More')",
+        "a:has-text('Load more')", "a:has-text('Show more')",
+        "[class*='load-more'] button", "[class*='load-more'] a",
+        "[class*='show-more'] button", "[class*='show-more'] a",
+        "button:has-text('View More')", "a:has-text('View More')",
+        "button:has-text('See More')", "a:has-text('See More')",
+        "button:has-text('View more')", "a:has-text('View more')",
+    ]
+    for sel in selectors:
+        try:
+            btn = page.locator(sel).first
+            if btn.is_visible(timeout=500):
+                btn.scroll_into_view_if_needed()
+                btn.click()
+                page.wait_for_timeout(2000)
+                return True
+        except Exception:
+            pass
+    return False
+
+
+def _try_next_page(page):
+    """Try clicking a 'Next' pagination button. Returns True if clicked and page navigated."""
+    selectors = [
+        "a:has-text('Next')", "button:has-text('Next')",
+        "a:has-text('next')", "button:has-text('next')",
+        "[class*='pagination'] a:has-text('>')",
+        "[class*='pagination'] a:has-text('\u203a')",
+        "[class*='pagination'] a:has-text('\u00bb')",
+        "a[aria-label='Next']", "a[aria-label='Next page']",
+        "button[aria-label='Next']", "button[aria-label='Next page']",
+        "[class*='next-page']", "[class*='nextPage']",
+        "a[rel='next']", "link[rel='next']",
+        ".pagination .next a", ".pagination-next a",
+    ]
+    old_url = page.url
+    for sel in selectors:
+        try:
+            btn = page.locator(sel).first
+            if btn.is_visible(timeout=500):
+                btn.scroll_into_view_if_needed()
+                btn.click()
+                page.wait_for_timeout(3000)
+                # Verify we actually navigated or content changed
+                if page.url != old_url:
+                    return True
+                return True
+        except Exception:
+            pass
+    return False
+
+
 def scrape_browser(session, site, min_discount, browser=None, max_pages=10, paginate=True):
-    """Generic scraper using Playwright headless browser, with pagination."""
+    """Generic scraper using Playwright headless browser, with scroll + next-page pagination."""
     if not browser:
         print(f"  ⚠ {site['name']}: Playwright not available, skipping")
         return []
 
-    all_deals = []
     base_url = site["url"]
-    pages_to_scrape = max_pages if paginate else 1
+    max_iterations = max_pages if paginate else 1
 
-    prev_count = None
-    pages_done = 0
-    for page_num in range(1, pages_to_scrape + 1):
-        url = base_url if page_num == 1 else make_page_url(base_url, page_num)
-        soup = fetch_page_browser(browser, url)
-        if not soup:
-            break
+    context = None
+    try:
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            locale="en-CA",
+            viewport={"width": 1920, "height": 1080},
+        )
+        page = context.new_page()
+        page.goto(base_url, wait_until="domcontentloaded", timeout=BROWSER_TIMEOUT * 1000)
+        page.wait_for_timeout(3000)
 
-        page_deals = _parse_soup(soup, site, min_discount)
-        pages_done += 1
+        all_deals = []
+        pages_done = 1
+        uses_next_page = False  # track if site uses next-page navigation
 
-        if not page_deals:
-            break
+        for i in range(max_iterations - 1):
+            old_height = page.evaluate("document.body.scrollHeight")
 
-        # Detect duplicate-heavy page
-        if all_deals:
-            new_titles = {d.title.lower() for d in page_deals}
-            existing_titles = {d.title.lower() for d in all_deals}
-            overlap = len(new_titles & existing_titles)
-            if overlap > len(new_titles) * 0.8:
-                break
+            # Strategy 1: Try load-more / show-more buttons
+            clicked_more = _try_load_more(page)
 
-        all_deals.extend(page_deals)
+            if not clicked_more:
+                # Strategy 2: Scroll to bottom for infinite scroll
+                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                page.wait_for_timeout(2000)
 
-        if prev_count is not None and len(page_deals) < prev_count * 0.5:
-            break
-        prev_count = len(page_deals)
+            new_height = page.evaluate("document.body.scrollHeight")
 
-    _diag(site["name"], pages=pages_done)
-    return all_deals
+            if new_height > old_height or clicked_more:
+                pages_done += 1
+                continue
+
+            # Strategy 3: If scrolling didn't load more, try clicking Next page
+            # First, parse current page before navigating away
+            if not uses_next_page and not all_deals:
+                html = page.content()
+                soup = BeautifulSoup(html, "html.parser")
+                all_deals = _parse_soup(soup, site, min_discount)
+
+            if _try_next_page(page):
+                uses_next_page = True
+                page.wait_for_timeout(2000)
+                # Parse the new page
+                html = page.content()
+                soup = BeautifulSoup(html, "html.parser")
+                page_deals = _parse_soup(soup, site, min_discount)
+                pages_done += 1
+
+                if not page_deals:
+                    break  # Empty page, stop
+
+                # Detect duplicate pages (site returned same content)
+                if all_deals:
+                    new_titles = {d.title.lower() for d in page_deals}
+                    existing_titles = {d.title.lower() for d in all_deals}
+                    overlap = len(new_titles & existing_titles)
+                    if overlap > len(new_titles) * 0.8:
+                        break
+
+                all_deals.extend(page_deals)
+                continue
+
+            break  # Nothing worked, stop
+
+        # If we used scroll/load-more (not next-page), parse the final page
+        if not uses_next_page:
+            html = page.content()
+            soup = BeautifulSoup(html, "html.parser")
+            all_deals = _parse_soup(soup, site, min_discount)
+
+        _diag(site["name"], pages=pages_done)
+        return all_deals
+
+    except Exception as e:
+        print(f"  ⚠ Browser failed for {base_url}: {e}")
+        _diag(site["name"], pages=1)
+        return []
+    finally:
+        if context:
+            context.close()
 
 
 def _parse_generic_soup(soup, site, min_discount):
@@ -1759,8 +1865,11 @@ examples:
             diag_lines.append(f"**Only 1 page scraped ({len(single_page_sites)}):** {', '.join(single_page_sites)}")
 
         # Wait for all deal embeds to finish delivering before sending report
+        # Each batch of 10 takes ~2s (send + rate limit delay), plus summary message
         if new_deals:
-            time.sleep(3)
+            batches_sent = min(len(new_deals), notify_max) // 10 + 1
+            wait_time = max(5, batches_sent * 2)
+            time.sleep(wait_time)
 
         try:
             requests.post(discord_url, json={"content": "\n".join(diag_lines)}, timeout=10)
