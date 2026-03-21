@@ -1729,7 +1729,8 @@ examples:
     if discord_url:
         failed_sites = []
         working_sites = []
-        no_deals_sites = []
+        single_page_sites = []
+        total_working = 0
         for s in sorted(all_site_names):
             info = _SCRAPE_DIAG.get(s, {})
             cards = info.get("cards_found", 0)
@@ -1737,24 +1738,27 @@ examples:
             pg = info.get("pages_scraped", 0)
             if cards == 0:
                 failed_sites.append(s)
-            elif deals_q > 0:
-                pg_str = f", {pg}pg" if pg > 1 else ""
-                working_sites.append(f"{s} ({deals_q} deals{pg_str})")
             else:
-                pg_str = f", {pg}pg" if pg > 1 else ""
-                no_deals_sites.append(f"{s} ({cards} products{pg_str})")
+                total_working += 1
+                if deals_q > 0:
+                    pg_str = f", {pg}pg" if pg > 1 else ""
+                    working_sites.append(f"{s} ({deals_q} deals{pg_str})")
+                # Track sites that only scraped 1 page (might be missing products)
+                if pg <= 1 and cards > 0:
+                    single_page_sites.append(s)
 
         diag_lines = [f"**Scan Report** ({elapsed:.0f}s, {len(all_site_names)} sites)"]
         if working_sites:
             diag_lines.append(f"**Deals found:** {', '.join(working_sites)}")
-        if no_deals_sites:
-            diag_lines.append(f"**Products found but none >=50% off ({len(no_deals_sites)}):** {', '.join(no_deals_sites[:10])}")
-            if len(no_deals_sites) > 10:
-                diag_lines.append(f"  ...and {len(no_deals_sites) - 10} more")
+        diag_lines.append(f"**{total_working}/{len(all_site_names)} sites working** (found products)")
         if failed_sites:
             diag_lines.append(f"**No products found ({len(failed_sites)}):** {', '.join(failed_sites[:15])}")
             if len(failed_sites) > 15:
                 diag_lines.append(f"  ...and {len(failed_sites) - 15} more")
+        if single_page_sites:
+            diag_lines.append(f"**Only 1 page scraped ({len(single_page_sites)}):** {', '.join(single_page_sites[:15])}")
+            if len(single_page_sites) > 15:
+                diag_lines.append(f"  ...and {len(single_page_sites) - 15} more")
 
         try:
             requests.post(discord_url, json={"content": "\n".join(diag_lines)}, timeout=10)
