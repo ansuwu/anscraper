@@ -1758,6 +1758,10 @@ examples:
         if single_page_sites:
             diag_lines.append(f"**Only 1 page scraped ({len(single_page_sites)}):** {', '.join(single_page_sites)}")
 
+        # Wait for all deal embeds to finish delivering before sending report
+        if new_deals:
+            time.sleep(3)
+
         try:
             requests.post(discord_url, json={"content": "\n".join(diag_lines)}, timeout=10)
         except Exception:
