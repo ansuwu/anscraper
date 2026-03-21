@@ -82,7 +82,7 @@
     {"name": "Vessi", "url": "https://ca.vessi.com/collections/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Vessi waterproof shoes sale (Vancouver-based)"},
     {"name": "Puma Canada", "url": "https://ca.puma.com/ca/en/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Puma Canada sale"},
     {"name": "Columbia Canada", "url": "https://www.columbiasportswear.ca/en/sale/", "type": "generic", "enabled": false, "category": "fashion", "description": "DISABLED - no products found"},
-    {"name": "Moose Knuckles", "url": "https://www.mooseknucklescanada.com/collections/sale", "type": "generic", "enabled": false, "category": "fashion", "description": "DISABLED - no sale products in Shopify API"},
+    {"name": "Moose Knuckles", "url": "https://www.mooseknucklescanada.com/collections/sale", "type": "generic", "enabled": true, "category": "fashion", "description": "Moose Knuckles sale (Canadian luxury outerwear)"},
     {"name": "Arc'teryx Outlet", "url": "https://outlet.arcteryx.com/ca/en/", "type": "generic", "enabled": false, "category": "fashion", "description": "DISABLED - no products found"},
 
     {"name": "Sephora Canada", "url": "https://www.sephora.com/ca/en/sale", "type": "browser", "enabled": false, "category": "beauty", "description": "BLOCKED - products don't render in headless browser"},
@@ -93,8 +93,8 @@
     {"name": "Kiokii & Co", "url": "https://kiokii.com/collections/all", "type": "shopify_json", "enabled": true, "category": "beauty", "description": "Kiokii & Co K-beauty (Shopify JSON API)"},
 
     {"name": "IKEA Canada", "url": "https://www.ikea.com/ca/en/offers/", "type": "browser", "enabled": true, "category": "home", "description": "IKEA Canada offers (JS rendered)"},
-    {"name": "Wayfair Canada", "url": "https://www.wayfair.ca/daily-sales", "type": "generic", "enabled": false, "category": "home", "description": "DISABLED - custom React app, no standard product cards"},
-    {"name": "Structube", "url": "https://www.structube.com/en_ca/sale", "type": "generic", "enabled": false, "category": "home", "description": "DISABLED - no products found, JS rendered"},
+    {"name": "Wayfair Canada", "url": "https://www.wayfair.ca/daily-sales", "type": "generic", "enabled": true, "category": "home", "description": "Wayfair Canada daily sales and clearance"},
+    {"name": "Structube", "url": "https://www.structube.com/en_ca/sale", "type": "generic", "enabled": true, "category": "home", "description": "Structube furniture sale"},
     {"name": "Article", "url": "https://www.article.com/sale", "type": "generic", "enabled": true, "category": "home", "description": "Article furniture sale (Vancouver-based)"},
     {"name": "Linen Chest", "url": "https://www.linenchest.com/en/sale", "type": "generic", "enabled": false, "category": "home", "description": "DISABLED - no products found"},
     {"name": "Bouclair", "url": "https://www.bouclair.com/en/sale/", "type": "generic", "enabled": false, "category": "home", "description": "DISABLED - no products found"},
