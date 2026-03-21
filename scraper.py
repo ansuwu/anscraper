@@ -440,7 +440,7 @@ def scrape_generic(session, site, min_discount, browser=None, max_pages=10, pagi
         if not soup:
             break
 
-        page_deals = _parse_generic_soup(soup, site, min_discount)
+        page_deals = _parse_soup(soup, site, min_discount)
 
         if not page_deals:
             break  # no products found on this page, stop
@@ -480,7 +480,7 @@ def scrape_browser(session, site, min_discount, browser=None, max_pages=10, pagi
         if not soup:
             break
 
-        page_deals = _parse_generic_soup(soup, site, min_discount)
+        page_deals = _parse_soup(soup, site, min_discount)
 
         if not page_deals:
             break
@@ -573,8 +573,10 @@ def _parse_generic_soup(soup, site, min_discount):
         if orig and sale and sale < orig:
             if orig > 50000:
                 continue  # unrealistic original price
-            # If the "sale" price is suspiciously low relative to original,
-            # it's likely a misparse (e.g. picking up "19" from "Save 19%")
+            # If the "sale" price is suspiciously low, it's likely a misparse
+            # (e.g. picking up "19" from "Save 19%" or "$5.00" from rewards)
+            if sale > 0 and sale < 10 and orig > 50:
+                continue  # sub-$10 "sale" on $50+ item = almost certainly wrong
             if sale > 0 and orig / sale > 10 and sale < 50:
                 continue  # e.g. $949 / $19 = 50x, likely wrong
             if sale > 0 and orig / sale > 15:
@@ -590,6 +592,430 @@ def _parse_generic_soup(soup, site, min_discount):
                 discount_percent=discount, url=link, image_url=img,
             ))
     return deals
+
+
+# ---------------------------------------------------------------------------
+# Custom site parsers
+# ---------------------------------------------------------------------------
+
+def _parse_amazon(soup, site, min_discount):
+    """Custom parser for Amazon.ca deals page — tries multiple card formats."""
+    deals = []
+
+    # Try multiple card selectors (Amazon changes these frequently)
+    card_selectors = [
+        '[data-testid="product-card"]',
+        '[data-testid="deal-card"]',
+        'div.DealCard-module__dealCard',
+        'div[class*="DealCard"]',
+        'div[class*="deal-card"]',
+        'div[data-deal-id]',
+        'div.a-section div[data-component-type="s-search-result"]',
+        'div[class*="ProductCard"]',
+    ]
+    cards = []
+    for sel in card_selectors:
+        cards = soup.select(sel)
+        if len(cards) >= 2:
+            break
+
+    if not cards:
+        # Fall back to generic parser
+        return _parse_generic_soup(soup, site, min_discount)
+
+    for card in cards[:100]:
+        # Title: try multiple approaches
+        title = ""
+        for title_sel in ('span.a-truncate-full', '[class*="Title"]', '[class*="title"]',
+                          'a[class*="Title"]', 'h2', 'h3', 'span[class*="name"]'):
+            title_el = card.select_one(title_sel)
+            if title_el:
+                title = title_el.get_text(strip=True)
+                if len(title) >= 4:
+                    break
+
+        if len(title) < 4:
+            continue
+
+        # Strip any embedded prices from title
+        title = re.sub(r"\$\s*\d[\d,.]*", "", title).strip()
+
+        # Product link
+        link = site["url"]
+        link_el = card.select_one('a[href*="/dp/"], a[href*="/deal/"], a[href]')
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            if href.startswith("/"):
+                link = "https://www.amazon.ca" + href
+            elif href.startswith("http"):
+                link = href
+
+        # Extract discount percentage first (most reliable on Amazon)
+        discount = 0.0
+        pct_texts = card.find_all(string=re.compile(r"\d+\s*%"))
+        for pt in pct_texts:
+            m = re.search(r"(\d+)\s*%", pt)
+            if m:
+                pct = float(m.group(1))
+                if 10 <= pct <= 95:  # reasonable discount range
+                    discount = max(discount, pct)
+
+        # Extract prices
+        orig, sale = None, None
+
+        # Try "List:" / "Deal Price:" pattern
+        price_texts = card.find_all(string=re.compile(r"\$"))
+        for pt in price_texts:
+            text = pt.strip() if isinstance(pt, str) else str(pt)
+            parent_text = pt.parent.get_text().lower() if pt.parent else ""
+            if "list" in parent_text or "was" in parent_text:
+                orig = orig or parse_price(text)
+            elif "deal" in parent_text or "price" in parent_text:
+                sale = sale or parse_price(text)
+
+        # If we didn't find labeled prices, try strikethrough approach
+        if not (orig and sale):
+            o, s = extract_prices_from_element(card)
+            orig = orig or o
+            sale = sale or s
+
+        if orig and sale and sale < orig:
+            discount = max(discount, calc_discount(orig, sale))
+
+        if discount >= min_discount:
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig or 0, sale_price=sale or 0,
+                discount_percent=discount, url=link, image_url=img,
+            ))
+
+    # If custom parser found very few, supplement with generic
+    if len(deals) < 3:
+        generic_deals = _parse_generic_soup(soup, site, min_discount)
+        # Merge, avoiding duplicates
+        existing_titles = {d.title.lower() for d in deals}
+        for d in generic_deals:
+            if d.title.lower() not in existing_titles:
+                deals.append(d)
+
+    return deals
+
+
+def _parse_sportchek(soup, site, min_discount):
+    """Custom parser for Sport Chek sale page."""
+    deals = []
+
+    # Try multiple card selectors
+    card_selectors = [
+        '[data-testid="product-grids"]',
+        '.nl-product-card',
+        '[class*="product-card"]',
+        '[class*="product-tile"]',
+    ]
+    cards = []
+    for sel in card_selectors:
+        cards = soup.select(sel)
+        if len(cards) >= 2:
+            break
+
+    if not cards:
+        return _parse_generic_soup(soup, site, min_discount)
+
+    for card in cards[:100]:
+        title_el = card.select_one('.nl-product-card__title, [class*="title"], h2, h3')
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        title = re.sub(r"\$\s*\d[\d,.]*", "", title).strip()
+        if len(title) < 4:
+            continue
+
+        link_el = card.select_one('a.prod-link, a[href*="/pdp/"], a[href*="/product/"], a[href]')
+        link = site["url"]
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            if href.startswith("/"):
+                link = "https://www.sportchek.ca" + href
+            elif href.startswith("http"):
+                link = href
+
+        orig, sale = None, None
+
+        # Strategy 1: Find strikethrough (was) and current price separately
+        was_el = card.select_one('[class*="was"], [class*="regular"], del, s, [style*="line-through"]')
+        if was_el:
+            # Only use direct text to avoid grabbing child prices
+            was_text = was_el.string or was_el.get_text(separator=" ")
+            orig = parse_price(was_text)
+
+        # Current price — find price elements, skip was/save ones
+        for pel in card.select('[class*="price"], [class*="Price"]'):
+            cls_str = " ".join(pel.get("class", [])).lower()
+            text = pel.get_text(strip=True)
+            # Skip was-price, save, and container elements
+            if any(w in cls_str for w in ("was", "regular", "save", "compare", "original")):
+                continue
+            if any(w in text.lower()[:15] for w in ("was", "save", "reg")):
+                continue
+            # Skip if text has percentage (it's a savings badge, not a price)
+            if "%" in text:
+                continue
+            p = parse_price(text)
+            if p and p > 0:
+                sale = p
+                break
+
+        # Strategy 2: Discount from save badge (percentage)
+        discount = 0.0
+        for badge_sel in ('[class*="save"]', '[class*="discount"]', '[class*="badge"]'):
+            badge = card.select_one(badge_sel)
+            if badge:
+                m = re.search(r"(\d+)\s*%", badge.get_text())
+                if m:
+                    discount = float(m.group(1))
+                    break
+
+        if orig and sale and sale < orig:
+            # Sanity: reject if sale price looks like a percentage number
+            if sale < 100 and orig > sale * 10 and discount == 0:
+                # Likely picked up percentage as price (e.g. $19 from "19%")
+                continue
+            discount = max(discount, calc_discount(orig, sale))
+
+        if discount >= min_discount:
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig or 0, sale_price=sale or 0,
+                discount_percent=discount, url=link, image_url=img,
+            ))
+    return deals
+
+
+def _parse_canada_computers(soup, site, min_discount):
+    """Custom parser for Canada Computers - uses data attributes."""
+    deals = []
+    cards = soup.select('.js-product')
+    for card in cards:
+        desc = card.select_one('.product-description')
+        if not desc:
+            continue
+
+        title_el = card.select_one('.product-title a, .product-title')
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        if len(title) < 4:
+            continue
+
+        link_el = card.select_one('a.product-thumbnail, .product-title a')
+        link = site["url"]
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            if href.startswith("/"):
+                link = "https://www.canadacomputers.com" + href
+            elif href.startswith("http"):
+                link = href
+
+        # Clean data attributes
+        orig = parse_price(desc.get("data-regular_price", ""))
+        sale = parse_price(desc.get("data-final_price", ""))
+
+        if not orig or not sale or sale >= orig:
+            continue
+
+        discount = calc_discount(orig, sale)
+        if discount >= min_discount:
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig, sale_price=sale,
+                discount_percent=discount, url=link, image_url=img,
+            ))
+    return deals
+
+
+def _parse_ssense(soup, site, min_discount):
+    """Custom parser for SSENSE - uses JSON-LD structured data."""
+    import json as _json
+    deals = []
+    cards = soup.select('.plp-products__product-tile')
+    for card in cards:
+        # Get product data from JSON-LD
+        script = card.select_one('script[type="application/ld+json"]')
+        if not script or not script.string:
+            continue
+        try:
+            data = _json.loads(script.string)
+        except _json.JSONDecodeError:
+            continue
+
+        title = data.get("name", "")
+        brand = data.get("brand", {}).get("name", "")
+        if brand:
+            title = f"{brand} - {title}"
+        if len(title) < 4:
+            continue
+
+        # JSON-LD price is the sale price
+        sale = float(data.get("offers", {}).get("price", 0))
+
+        # Original price is displayed in the price element
+        orig = None
+        price_els = card.select('[class*="price"]')
+        for pel in price_els:
+            p = parse_price(pel.get_text())
+            if p and p > sale:
+                orig = p
+                break
+
+        if not orig or not sale or sale >= orig:
+            continue
+
+        # Product link
+        link = site["url"]
+        offers_url = data.get("offers", {}).get("url", "")
+        if offers_url:
+            link = "https://www.ssense.com" + offers_url if offers_url.startswith("/") else offers_url
+
+        discount = calc_discount(orig, sale)
+        if discount >= min_discount:
+            img_url = data.get("image", "")
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig, sale_price=sale,
+                discount_percent=discount, url=link, image_url=img_url,
+            ))
+    return deals
+
+
+def _parse_footlocker(soup, site, min_discount):
+    """Custom parser for Foot Locker - parses 'Price dropped from $X to $Y'."""
+    deals = []
+    cards = soup.select('.ProductCard')
+    for card in cards:
+        title_el = card.select_one('.ProductName-primary')
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        if len(title) < 4:
+            continue
+
+        link_el = card.select_one('a.ProductCard-link')
+        link = site["url"]
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            if href.startswith("/"):
+                link = "https://www.footlocker.ca" + href
+            elif href.startswith("http"):
+                link = href
+
+        orig, sale = None, None
+
+        # Parse "Price dropped from $X.XX to $Y.YY"
+        price_el = card.select_one('[class*="Price"]')
+        if price_el:
+            text = price_el.get_text()
+            m = re.search(r"from\s+\$?([\d,.]+)\s+to\s+\$?([\d,.]+)", text)
+            if m:
+                orig = float(m.group(1).replace(",", ""))
+                sale = float(m.group(2).replace(",", ""))
+
+        # Discount from badge
+        discount = 0.0
+        sale_els = card.select('[class*="sale"]')
+        for sel in sale_els:
+            m = re.search(r"(\d+)%\s*off", sel.get_text(), re.IGNORECASE)
+            if m:
+                discount = float(m.group(1))
+
+        if orig and sale and sale < orig:
+            discount = max(discount, calc_discount(orig, sale))
+
+        if discount >= min_discount:
+            img_el = card.select_one("img[src]")
+            img = img_el["src"] if img_el else ""
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig or 0, sale_price=sale or 0,
+                discount_percent=discount, url=link, image_url=img,
+            ))
+    return deals
+
+
+def _parse_aritzia(soup, site, min_discount):
+    """Custom parser for Aritzia - prices in image alt text."""
+    deals = []
+    cards = soup.select('[data-testid*="plp-product-tile"]')
+    for card in cards:
+        # Get prices from image alt text
+        img_el = card.select_one('img[alt*="Price"]')
+        if not img_el:
+            continue
+        alt = img_el.get("alt", "")
+
+        # Parse: "PRODUCT NAME - Original Price: $248. Discounted Price: $98.99 to $248"
+        orig_match = re.search(r"Original Price:\s*\$?([\d,.]+)", alt)
+        sale_match = re.search(r"Discounted Price:\s*\$?([\d,.]+)", alt)
+        if not orig_match or not sale_match:
+            continue
+
+        orig = float(orig_match.group(1).replace(",", ""))
+        sale = float(sale_match.group(1).replace(",", ""))
+        if sale >= orig or orig <= 0:
+            continue
+
+        # Title from alt text (before " - " or from a separate element)
+        title_parts = alt.split(" - ")
+        title = title_parts[0].strip() if title_parts else ""
+        if not title or len(title) < 4:
+            title_el = card.select_one('[class*="title"], h2, h3, h4')
+            if title_el:
+                title = title_el.get_text(strip=True)
+        if len(title) < 4:
+            continue
+
+        link_el = card.select_one('a[href]')
+        link = site["url"]
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            if href.startswith("/"):
+                link = "https://www.aritzia.com" + href
+            elif href.startswith("http"):
+                link = href
+
+        discount = calc_discount(orig, sale)
+        if discount >= min_discount:
+            img = img_el.get("src", "")
+            deals.append(Deal(
+                site=site["name"], title=title[:120],
+                original_price=orig, sale_price=sale,
+                discount_percent=discount, url=link, image_url=img,
+            ))
+    return deals
+
+
+# Map site names to custom parsers
+CUSTOM_PARSERS = {
+    "Amazon.ca Deals": _parse_amazon,
+    "Sport Chek": _parse_sportchek,
+    "Canada Computers": _parse_canada_computers,
+    "SSENSE": _parse_ssense,
+    "Foot Locker Canada": _parse_footlocker,
+    "Aritzia": _parse_aritzia,
+}
+
+
+def _parse_soup(soup, site, min_discount):
+    """Dispatch to custom parser if available, otherwise use generic."""
+    parser = CUSTOM_PARSERS.get(site["name"])
+    if parser:
+        return parser(soup, site, min_discount)
+    return _parse_generic_soup(soup, site, min_discount)
 
 
 # ---------------------------------------------------------------------------
@@ -1032,6 +1458,16 @@ examples:
         save_csv(filtered, args.csv)
     if args.html:
         save_html(filtered, args.html)
+
+    # Summary by site
+    site_summary = {}
+    for d in filtered:
+        site_summary[d.site] = site_summary.get(d.site, 0) + 1
+    if site_summary:
+        print(f"\n  Deals by site:")
+        for sname, count in sorted(site_summary.items(), key=lambda x: -x[1]):
+            new_count = len([d for d in new_deals if d.site == sname])
+            print(f"    {sname}: {count} total, {new_count} new")
 
     # Send only NEW deals to Discord
     if discord_url and new_deals:

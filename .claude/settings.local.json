@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python scraper.py --list)",
+      "Bash(python scraper.py --sites \"RedFlagDeals,Best Buy Canada\")",
+      "Bash(python scraper.py --sites \"RedFlagDeals\")",
+      "Bash(python scraper.py --html deals.html)",
+      "Bash(python -u -c \":*)",
+      "Bash(playwright install:*)",
+      "Bash(python -m playwright install chromium)",
+      "Bash(python scraper.py --sites \"Best Buy Canada,Canadian Tire,Lululemon Canada\")",
+      "Bash(python scraper.py --sites \"Sport Chek\")",
+      "Bash(python scraper.py --no-browser --keywords \"headphone,monitor,laptop,TV\" --max-results 10)",
+      "Bash(python scraper.py --no-browser --category gaming --max-per-site 3)",
+      "Bash(python scraper.py --help)",
+      "Bash(python scraper.py --no-browser --sites \"RedFlagDeals\" --no-pagination)",
+      "Bash(python scraper.py --no-browser --sites \"RedFlagDeals\" --reset-history)",
+      "Bash(python scraper.py --no-browser --sites \"RedFlagDeals\" --max-pages 3)",
+      "Bash(python scraper.py --reset-history)",
+      "Bash(python scraper.py --no-browser)",
+      "Bash(python -c \":*)",
+      "Bash(python scraper.py --no-browser --sites \"Under Armour Canada\")",
+      "Bash(python scraper.py --no-browser --sites \"RedFlagDeals,SportingLife,Puma Canada,Visions Electronics\" --no-pagination)",
+      "Bash(python scraper.py --sites \"Amazon.ca Deals\" --no-pagination)"
+    ]
+  }
+}
