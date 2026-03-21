@@ -87,6 +87,11 @@
 
     {"name": "Sephora Canada", "url": "https://www.sephora.com/ca/en/sale", "type": "browser", "enabled": false, "category": "beauty", "description": "BLOCKED - products don't render in headless browser"},
 
+    {"name": "Jolse", "url": "https://jolse.com/collection/sale/", "type": "generic", "enabled": true, "category": "beauty", "description": "Jolse K-beauty sale"},
+    {"name": "KBeauty.ca", "url": "https://kbeauty.ca/collections/sale", "type": "generic", "enabled": true, "category": "beauty", "description": "KBeauty.ca Canadian K-beauty sale"},
+    {"name": "Kiyoko Beauty", "url": "https://kiyoko.ca/collections/sale", "type": "generic", "enabled": true, "category": "beauty", "description": "Kiyoko Beauty K-beauty sale"},
+    {"name": "Kiokii & Co", "url": "https://kiokii.com/collections/sale", "type": "generic", "enabled": true, "category": "beauty", "description": "Kiokii & Co K-beauty sale"},
+
     {"name": "IKEA Canada", "url": "https://www.ikea.com/ca/en/offers/", "type": "generic", "enabled": true, "category": "home", "description": "IKEA Canada offers and last chance"},
     {"name": "Wayfair Canada", "url": "https://www.wayfair.ca/daily-sales", "type": "generic", "enabled": true, "category": "home", "description": "Wayfair Canada daily sales and clearance"},
     {"name": "Structube", "url": "https://www.structube.com/en_ca/sale", "type": "generic", "enabled": true, "category": "home", "description": "Structube furniture sale"},
