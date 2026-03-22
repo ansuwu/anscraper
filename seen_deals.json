@@ -773,6 +773,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-03-21T23:08:26.100869",
       "sale_price": 109.99
+    },
+    "161c881a1075c42061b28212f97bbabb": {
+      "title": "Court Classic Vulcanized",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-22T05:27:54.599121",
+      "sale_price": 37.5
     }
   }
 }
