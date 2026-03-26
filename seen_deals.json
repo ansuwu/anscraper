@@ -1013,6 +1013,42 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-03-26T06:19:19.831171",
       "sale_price": 20.0
+    },
+    "31a1b7dafd9e085b139d987ae08f0287": {
+      "title": "BarbourWomen's Blakely Knit Cardigan",
+      "site": "SportingLife",
+      "first_seen": "2026-03-26T10:29:52.438195",
+      "sale_price": 93.97
+    },
+    "8bb65b7ee9ca1d62562b0b7441881f34": {
+      "title": "Under ArmourMen's Charged Assert 10 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-03-26T10:29:52.438212",
+      "sale_price": 46.98
+    },
+    "93c3231b080bb6657fb98ca9b86e78de": {
+      "title": "Ripzone Kids' Grade/Pre-school Puddle Jumper Waterproof Rubber Boots",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-26T10:29:52.438219",
+      "sale_price": 19.98
+    },
+    "e2953970d61dc9380273d1b512d46ffd": {
+      "title": "Under Armour Men's Commit TR 4.0 Training Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-26T10:29:52.438227",
+      "sale_price": 49.98
+    },
+    "fc890169817260583a3f00c1173ecbfa": {
+      "title": "SauconyWomen's Ride 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-03-26T10:29:52.438233",
+      "sale_price": 89.98
+    },
+    "07f726a1a0873343d54ed7a5ba61dd02": {
+      "title": "ColumbiaMen's Lake 22™ II Down Jacket",
+      "site": "SportingLife",
+      "first_seen": "2026-03-26T10:29:52.438239",
+      "sale_price": 104.98
     }
   }
 }
