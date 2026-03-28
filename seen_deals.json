@@ -1,17 +1,5 @@
 {
   "deals": {
-    "607255a6b524bb9c2638e49927f6e3d3": {
-      "title": "ROKR EG01 3D Pinball Machine Wooden Puzzle",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-21T22:04:35.866673",
-      "sale_price": 99.99
-    },
-    "3518402123095354c68ad42067bb01e8": {
-      "title": "AMD Ryzen 5 5500 - Ryzen 5 5000 Series Cezanne (Zen 3) 6-Core 3.6 GHz Socket AM4 65W No Integrated Graphics Desktop CPU ",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-21T23:08:26.100869",
-      "sale_price": 109.99
-    },
     "161c881a1075c42061b28212f97bbabb": {
       "title": "Court Classic Vulcanized",
       "site": "Puma Canada",
@@ -2225,6 +2213,18 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-28T21:30:51.471256",
       "sale_price": 54.99
+    },
+    "e0ca97b986318c4b876a5f6840e0f8da": {
+      "title": "Ripzone Kids' Grade/pre-school Pacific Kids Rain Boots",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-28T23:28:26.542044",
+      "sale_price": 19.98
+    },
+    "1a447696e9aeb35e90d75065ce6b11e5": {
+      "title": "JBL Vibe Flex 2 Wireless Earbuds",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-28T23:28:26.542174",
+      "sale_price": 49.98
     }
   }
 }
