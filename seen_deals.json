@@ -1,83 +1,5 @@
 {
   "deals": {
-    "2727cdc16d15f727bcacc5a6a5aa884e": {
-      "title": "FLUID POPLIN DRESS",
-      "site": "Aritzia",
-      "first_seen": "2026-03-21T11:45:16.875258",
-      "sale_price": 40.99
-    },
-    "7f0642daa88cf30e84d0a0c10c2ccb83": {
-      "title": "THE ROGER ADVANTAGE",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-21T11:45:16.875272",
-      "sale_price": 79.98
-    },
-    "0c6c871db5e2d487c6b7a33ca190a2d0": {
-      "title": "ADRIANA HEEL",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-21T11:45:16.875304",
-      "sale_price": 78.98
-    },
-    "104bebfb2e7f2fd89a185fb72075bde6": {
-      "title": "TELEGRAPH BOMBER",
-      "site": "Aritzia",
-      "first_seen": "2026-03-21T11:45:16.875307",
-      "sale_price": 98.99
-    },
-    "17fd42b795df58787bb24d2d28a723d8": {
-      "title": "AGOLDE VANA JEAN",
-      "site": "Aritzia",
-      "first_seen": "2026-03-21T11:45:16.875310",
-      "sale_price": 110.99
-    },
-    "d0c0be73c33d04fff2f86002c858c68d": {
-      "title": "Jumper Laptop 15.6 Inch, Office 365, 4GB RAM 128GB Storage Expandable 1TB, 4 Cores Celeron, HD Display, Windows 11 Lapto",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-21T11:45:16.875315",
-      "sale_price": 319.99
-    },
-    "7354a170d32c097898c585d13b58e34c": {
-      "title": "grace & stella Under Eye Mask - Christmas Gifts for Women, Gifts for Mom, Under Eye Patches to Reduce Dark Circles, Puff",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-21T11:45:16.875324",
-      "sale_price": 18.95
-    },
-    "a5a1007903db62478c5dccab1d8674d5": {
-      "title": "LYNN ESPADRILLE SANDAL",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-21T11:45:16.875340",
-      "sale_price": 78.98
-    },
-    "d2b1be34ae0323721c10158e1f9cd074": {
-      "title": "Softride Escalate",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T11:45:16.875372",
-      "sale_price": 55.0
-    },
-    "165ed3176e60d818119fc5178d849aca": {
-      "title": "MagMax NITRO™",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T11:45:16.875378",
-      "sale_price": 120.0
-    },
-    "b6808c5fb01b6f6c6dc0135241a80c50": {
-      "title": "FUTURE 8 ULTIMATE",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T11:45:16.875381",
-      "sale_price": 150.0
-    },
-    "01dc4533bf5bb41026e2c7af7c95289a": {
-      "title": "Ms.Rachel Knit Overall MRF24RP01",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T13:56:38.867830",
-      "sale_price": 11.7
-    },
-    "b0c9498b8fb00954aa5b6d1e31316e32": {
-      "title": "Ms.Rachel Sleeper MRF24SL01",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T13:56:38.867839",
-      "sale_price": 7.2
-    },
     "7aab6e12d11319f1b282c49fdeae3df9": {
       "title": "soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime, H",
       "site": "Amazon.ca Deals",
@@ -2291,6 +2213,36 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-28T10:26:09.718067",
       "sale_price": 54.99
+    },
+    "1507bff91c5a72573714e8fef50397a7": {
+      "title": "CLASSIC CLOG",
+      "site": "Browns Shoes",
+      "first_seen": "2026-03-28T14:25:01.754953",
+      "sale_price": 37.49
+    },
+    "64422ef1980517eb7cb50b3a32061dae": {
+      "title": "Reebok Men's Club 85 Foundation Lifestyle Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-28T14:25:01.755004",
+      "sale_price": 39.99
+    },
+    "db36ab3395cf8c9be02129aacf2cc563": {
+      "title": "Oral-B iO Series 2 Limited Rechargeable Electric Powered Toothbrush, Pure White with 1 Gentle Care Brush Head and 1 Blac",
+      "site": "Amazon.ca Deals",
+      "first_seen": "2026-03-28T14:25:01.755270",
+      "sale_price": 59.99
+    },
+    "b873aac4759941c1518f6158bd5f3b63": {
+      "title": "New Era Seinfeld Festivus T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T14:25:01.755301",
+      "sale_price": 28.0
+    },
+    "9525bf315db2d89f73558cf4f9b2a092": {
+      "title": "Jordan Brooklyn Oversize Pullover Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T14:25:01.755305",
+      "sale_price": 42.5
     }
   }
 }
