@@ -1,17 +1,5 @@
 {
   "deals": {
-    "4c605479ac3e66868060ba246ec65fa8": {
-      "title": "Court Lally",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T09:04:03.732858",
-      "sale_price": 45.0
-    },
-    "924f07261e11f55df4056861ef0a1bb3": {
-      "title": "Nike Long Sleeve Travel T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T09:04:03.732878",
-      "sale_price": 24.0
-    },
     "74b221012d42751f0dcf3e3bed783338": {
       "title": "jumper 17.6 Inch Laptop Computer with Office 365, 16GB RAM 640GB Storage, N95 CPU, Windows 11, WiFi 6, Bluetooth 5.2, Ba",
       "site": "Amazon.ca Deals",
@@ -2279,6 +2267,48 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-03-28T08:24:22.897039",
       "sale_price": 37.5
+    },
+    "c59fc8eac0fa0e27449aeafaefd781b0": {
+      "title": "Team Group 16GB (2 x 8GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory Model FF3D516G6000HC38ADC01",
+      "site": "Newegg Canada",
+      "first_seen": "2026-03-28T10:26:09.717748",
+      "sale_price": 87.76
+    },
+    "cf70e20bd1248e2f312594acfcb0731b": {
+      "title": "PUMATECH",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.717860",
+      "sale_price": 34.99
+    },
+    "5a3c146122f4df029270110a8e1c41a2": {
+      "title": "Cool Cat 2.0",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.717875",
+      "sale_price": 18.99
+    },
+    "fd073c246fbad4de0fc42f1b6edd69e3": {
+      "title": "Astro Play",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.717899",
+      "sale_price": 43.99
+    },
+    "ad26363060bf9dc9f7f5ef7056e5fd79": {
+      "title": "FUTURE 8 ULTIMATE",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.717938",
+      "sale_price": 139.99
+    },
+    "30c363d112f0ac11ea4e249c39c4c36a": {
+      "title": "Pounce Lite",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.718059",
+      "sale_price": 44.99
+    },
+    "ec08f98462a9e7c1bd70dedfb6350c67": {
+      "title": "Court Classic Lux",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T10:26:09.718067",
+      "sale_price": 54.99
     }
   }
 }
