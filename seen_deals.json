@@ -1,509 +1,5 @@
 {
   "deals": {
-    "28d831e7cfcc0b4326c2ab9a81906555": {
-      "title": "Black Rouge Colordation Mood Palette - MP01 Brickdation",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161686",
-      "sale_price": 4.0
-    },
-    "2ef361be73ad62095011b8c98c75a5a3": {
-      "title": "SOME BY MI Snail Truecica Miracle Repair Toner",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161693",
-      "sale_price": 4.0
-    },
-    "ba6e109299b376fc4ea5e54208622cd5": {
-      "title": "SOME BY MI Beta Panthenol Repair Serum 30mL",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161697",
-      "sale_price": 5.0
-    },
-    "3ed9b1ac188d093e2d552b91f7015f06": {
-      "title": "Black Rouge Dewy Whip Cheek and Beam - DW01 Strawberry",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161701",
-      "sale_price": 4.0
-    },
-    "0a4741698224ca26feb2be1637b007e2": {
-      "title": "New Balance Women's XC Seven Spike",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161704",
-      "sale_price": 20.0
-    },
-    "f86ab449b8c53117dd085c849a2b68ea": {
-      "title": "SOME BY MI Propolis B5 Glow Barrier Calming Toner",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161707",
-      "sale_price": 5.0
-    },
-    "3d822c16a3aaf9d206a546136f6e95cf": {
-      "title": "Black Rouge Cream Matt Rouge 3 - CM13 Delicate Rose",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161710",
-      "sale_price": 3.0
-    },
-    "6179276940929bbc4ab8b528c2126951": {
-      "title": "Black Rouge Power Proof Pen Liner - P01 Deep Black",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161713",
-      "sale_price": 4.0
-    },
-    "40120ddc7c36e16464106862fab9d14c": {
-      "title": "Black Rouge CG Perfect Lash Cara CG01",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161716",
-      "sale_price": 4.0
-    },
-    "5084381c35d7b6d9241b1e23da171963": {
-      "title": "Ms.Rachel Signature Overall",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T05:25:47.161719",
-      "sale_price": 14.7
-    },
-    "c68886020d413768e3f7b40a6c33a3e0": {
-      "title": "Ms. Rachel Fuzzy Colourblock Jacket",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T05:25:47.161723",
-      "sale_price": 13.5
-    },
-    "41fd5f9d6c11aa8b0dd1f6eec54be2c7": {
-      "title": "Ms. Rachel Sleep Set",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T05:25:47.161727",
-      "sale_price": 8.7
-    },
-    "d9622e66c1d7e2e56b65b6689a84638d": {
-      "title": "Ms.Rachel Sweatshirt",
-      "site": "Mastermind Toys",
-      "first_seen": "2026-03-21T05:25:47.161729",
-      "sale_price": 8.7
-    },
-    "79ef72c3e617e28a313a27454aadebae": {
-      "title": "Black Rouge Icy to Fog Velvet - FV01 Pink Rest",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161732",
-      "sale_price": 4.0
-    },
-    "0329144cb31e34baa2784c48efad2d24": {
-      "title": "Saucony Women's Spitfire 5 B Width Track Spike",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161735",
-      "sale_price": 40.0
-    },
-    "e43fea7284ea72a5e63f4a816e480595": {
-      "title": "Black Rouge Chewy Lip Glaze - GZ01 Peach Blossom",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161738",
-      "sale_price": 4.0
-    },
-    "679314a424d6bb1b6f57a08f557ef490": {
-      "title": "Black Rouge Glow Bokki Tint - GB01 Pepper Red",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161741",
-      "sale_price": 4.0
-    },
-    "1d4a19333f8f82e2ac3aa3b3d4c99b0d": {
-      "title": "Black Rouge Double Layer Over Velvet 3 - DL15 Amber Carat",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161744",
-      "sale_price": 4.0
-    },
-    "560fe78d6f986739600f63bcf7fc7568": {
-      "title": "Black Rouge Muddish Cushion Velvet - MV01 Peach pudding",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161747",
-      "sale_price": 4.0
-    },
-    "f3716b23ece40c6ca51a26d8829b1ef8": {
-      "title": "Black Rouge Double Layer Over Velvet 2 - DL07 Fauvism red",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161750",
-      "sale_price": 4.0
-    },
-    "e2c48c6a10489cd1fc69473beb230adf": {
-      "title": "Black Rouge Air Fit Velvet Tint 9 - A46 Dot Clair Red",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161753",
-      "sale_price": 4.0
-    },
-    "e7aa50f5f1dda5dee4f6e5adfa6e9244": {
-      "title": "Black Rouge Double Layer Over Velvet - DL01 Salmon layer",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161756",
-      "sale_price": 4.0
-    },
-    "658f6a634ac91ea64980db4b2befd94d": {
-      "title": "Black Rouge Drip Hot Water Tint - LV07 Caramel Roasting",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161759",
-      "sale_price": 4.0
-    },
-    "4a9f6030cfc495cc685f85c277e5f69c": {
-      "title": "Black Rouge Air Fit Velvet TInt 8 - A42 Blacktea Soul",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161761",
-      "sale_price": 4.0
-    },
-    "099deb230b866efd5c0007ffd017a3b5": {
-      "title": "Black Rouge Drop Eyes Stick Glitz - D01 Crystal Glitz",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161764",
-      "sale_price": 4.0
-    },
-    "c30192bf1a26b99a528438d54e20ea5f": {
-      "title": "Black Rouge Mara Hot Water Tint - LV00 Mild MARA",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161767",
-      "sale_price": 4.0
-    },
-    "da8fd64bef6908957abdce717a142aae": {
-      "title": "Black Rouge Air Fit Velvet Tint 7 - A33 Sunset Crown",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161770",
-      "sale_price": 4.0
-    },
-    "dea568d90b3bb00bb3fc3f81c16fcd3a": {
-      "title": "Black Rouge Air Fit Velvet Tint 6 - A28 Mango Tulip Garden",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161773",
-      "sale_price": 4.0
-    },
-    "75311665e3d733b3085d50a5681c5eb3": {
-      "title": "Black Rouge Air Fit Velvet Tint 5 - A23 Vintage Sunset",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161776",
-      "sale_price": 4.0
-    },
-    "b5d1ae26feff46dd2064279c82c7459e": {
-      "title": "Black Rouge Pearlvely I Glitter - G01 Sweet Sweet Honey",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161779",
-      "sale_price": 4.0
-    },
-    "0d365ad127c6bffb998bff96ec79e062": {
-      "title": "Black Rouge Air Fit Velvet Tint 2 - A09 Sweet Cinnamon",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161781",
-      "sale_price": 4.0
-    },
-    "447a1f4b0c87c8f60e46231e8d4f449b": {
-      "title": "Black Rouge Air Fit Velvet Tint 1 - A01 Strawberry Red",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161784",
-      "sale_price": 4.0
-    },
-    "3d161fb15054faf552a3bdfa40f82cfe": {
-      "title": "New Balance Men's XC7 v3 Track Spike",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161787",
-      "sale_price": 30.0
-    },
-    "59a91bb8e06ee5da99d2e42d100b85b7": {
-      "title": "New Balance Women's XC7 v3 Track Spike",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161790",
-      "sale_price": 30.0
-    },
-    "dedb5dedb40ea4ac5fcb60afbcd192f9": {
-      "title": "New Balance Unisex Mid Distance 500 V8 Spike",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161792",
-      "sale_price": 35.0
-    },
-    "462b6d368876d20b2ae2287fd16890ab": {
-      "title": "CougarWomen's Vantage Waterproof Boot",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161795",
-      "sale_price": 79.98
-    },
-    "cdffad59793e947e2bff709aa6104150": {
-      "title": "Paper Napkins, 20 Piece",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-21T05:25:47.161798",
-      "sale_price": 6.0
-    },
-    "8fdd306bc93da372a35b8d3299aabff7": {
-      "title": "Saucony Women's Havoc XC 3 Spike B Width Running Shoe",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161801",
-      "sale_price": 25.0
-    },
-    "0568f5cfb0e706b8d063aafc13e61159": {
-      "title": "Saucony Women's Kilkenny XC9 Spike B Width Running Shoe",
-      "site": "Running Room",
-      "first_seen": "2026-03-21T05:25:47.161804",
-      "sale_price": 25.0
-    },
-    "0767a1c56b234058e751d8d3f1a0e8fc": {
-      "title": "Best Ever Mug",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-21T05:25:47.161807",
-      "sale_price": 5.0
-    },
-    "5a7ce07a1b6ceff2c5c5a70099866959": {
-      "title": "SAMBA OG",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-21T05:25:47.161810",
-      "sale_price": 79.98
-    },
-    "566dbc10fe353485894c719f96fbde8a": {
-      "title": "LARGE BOOK LIGHT",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-21T05:25:47.161813",
-      "sale_price": 12.0
-    },
-    "25614aa89a7d967aa4d75eaa45030e19": {
-      "title": "Damaged Boxes - I'm from Fig Cleansing Oil 200ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161816",
-      "sale_price": 14.0
-    },
-    "06b1908ddb359143362e854dbd4855a8": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-21T05:25:47.161820",
-      "sale_price": 419.97
-    },
-    "24115de291eb232858ac87948fb3ddc1": {
-      "title": "Moose KnucklesMen's Walker Jacket",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161823",
-      "sale_price": 246.97
-    },
-    "5e0af065269d1486305d2807a9c70973": {
-      "title": "Romand Glasting Colour Gloss - Special Offer - 05 Dim Mauve",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-03-21T05:25:47.161826",
-      "sale_price": 6.99
-    },
-    "19e4ab6918c53203fe76d7a08924e5ab": {
-      "title": "2026 12 Month Planner, Marble",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-21T05:25:47.161829",
-      "sale_price": 14.99
-    },
-    "a9fe23a2a7f1268dec10a30504aa90f8": {
-      "title": "SalomonMen's Alphacross 5 GTX Trail Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161832",
-      "sale_price": 69.98
-    },
-    "c84e6b6b3efb4599e55391ad66f6c8a1": {
-      "title": "MerrellWomen's Moab Speed 2 Mid GTX Hiking Boot",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161835",
-      "sale_price": 114.98
-    },
-    "3faa14ded90626b7b8a2dc0e1d512161": {
-      "title": "New BalanceWomen's Fresh Foam X 1080v14 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161838",
-      "sale_price": 104.98
-    },
-    "17c3d15377fecf442e2618b8fc82880a": {
-      "title": "Moose KnucklesWomen's Eden Liner Jacket",
-      "site": "SportingLife",
-      "first_seen": "2026-03-21T05:25:47.161841",
-      "sale_price": 224.97
-    },
-    "906a50cefc8b33cb39e8ecc913c54e7a": {
-      "title": "PETTYGROVE BOOT",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-21T05:25:47.161844",
-      "sale_price": 188.98
-    },
-    "c413197ba5b3732363347a62c9d75fb3": {
-      "title": "Sherpa Winter Cap - Kids",
-      "site": "Altitude Sports",
-      "first_seen": "2026-03-21T05:25:47.161849",
-      "sale_price": 0
-    },
-    "ab702296253dea9fd8b913fc9f156a5a": {
-      "title": "Set of 6 Wine Glass Charms, Characters",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-21T05:25:47.161852",
-      "sale_price": 8.0
-    },
-    "bf4073117dabd36bf9a2fc31f9fc1413": {
-      "title": "APLB Tranexamic Acid Niacinamide Sheet Mask - 1pcs",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161855",
-      "sale_price": 1.0
-    },
-    "45f636ee84ea1c49b4047cf4f2060d60": {
-      "title": "DEOPROCE Bakuchiol Repair Solution Toner 150mL",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161858",
-      "sale_price": 9.0
-    },
-    "7082fef42071065e61198471be12d9e2": {
-      "title": "DEOPROCE Bakuchiol Repair Solution Lotion 150mL",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161861",
-      "sale_price": 9.0
-    },
-    "9802fbcc60944c5cdde89bf7fe9540a3": {
-      "title": "DEOPROCE Bakuchiol Repair Solution Essence 50mL",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161863",
-      "sale_price": 9.0
-    },
-    "9ea70e93b975a32a2b579a839f7f5a8a": {
-      "title": "DEOPROCE Bakuchiol Repair Solution Eye Cream 30g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161866",
-      "sale_price": 9.0
-    },
-    "e5fa2a9d62da940b5f534dc4f0dd934e": {
-      "title": "La Bella CICIBELLA Cotton Face Towel 60 Sheets",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161869",
-      "sale_price": 6.0
-    },
-    "ef6ca17cbf3edbe1474d71211cfe9748": {
-      "title": "RAVIEL Green Derma Double Cica Cream - Single",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-03-21T05:25:47.161872",
-      "sale_price": 9.0
-    },
-    "e4480e36e4d4ab96aa62a6f765c89d67": {
-      "title": "PUMA Essentials",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161875",
-      "sale_price": 20.0
-    },
-    "82c31309f97c2591a50512ee314f3eec": {
-      "title": "Pacer Future Street Plus",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161877",
-      "sale_price": 60.0
-    },
-    "77afb061ca6c6d819a9339b470b7f551": {
-      "title": "Cool Cat 2.0",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161880",
-      "sale_price": 22.5
-    },
-    "5a2ffe84d7e7b072c923c90e8639e611": {
-      "title": "PUMA Club 5v5 Lux",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161883",
-      "sale_price": 50.0
-    },
-    "837858b73d277e7f3be6a33698d6e532": {
-      "title": "Vikky v3",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161886",
-      "sale_price": 42.5
-    },
-    "9899497c56bf254b2011a9fa01763b12": {
-      "title": "Contempt Demi Remix Mesh",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161889",
-      "sale_price": 50.0
-    },
-    "a387870b3a5d790c81af58cf19078ee7": {
-      "title": "Neutron",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161892",
-      "sale_price": 60.0
-    },
-    "e1582b744af7e21dcadb20a92b7a4253": {
-      "title": "Adelina 2",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161895",
-      "sale_price": 35.0
-    },
-    "59f2df413719122d6c04d0fb50dcbd28": {
-      "title": "Porsche Legacy Court Classic Lux",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161897",
-      "sale_price": 70.0
-    },
-    "b4b947cefa6842d882c0c79361c9dff5": {
-      "title": "Skyrocket Lite",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161900",
-      "sale_price": 47.5
-    },
-    "2029dd3e4b3cbee505f092e0ca7690af": {
-      "title": "Carina 3.0 Metallic Whisper",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-21T05:25:47.161903",
-      "sale_price": 45.0
-    },
-    "c1b579679e582b83a0ca6dcac5b76722": {
-      "title": "Jordan Brooklyn Air Oversized Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161906",
-      "sale_price": 24.0
-    },
-    "61dc0f00123d292c03ba75ab77590ad5": {
-      "title": "Jordan Brooklyn Oversize Stretch Full-Zip Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161909",
-      "sale_price": 50.0
-    },
-    "95addc3384db7c4e312dfd5d70e66519": {
-      "title": "Nike NSW T Shirt 90 Fw BR Connect 2",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161912",
-      "sale_price": 24.0
-    },
-    "7f96db8d3364c9fdd77117e3f1cf4141": {
-      "title": "Jordan Authentic Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161915",
-      "sale_price": 22.5
-    },
-    "2d14ec2da3f827aff048d98615e02c35": {
-      "title": "Jordan Brooklyn Oversize Full-Zip Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161919",
-      "sale_price": 50.0
-    },
-    "61d4345bf4e645d77f8af2f126fa1fc9": {
-      "title": "Nike NSW Premium Essentials SUST T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161922",
-      "sale_price": 27.5
-    },
-    "0898048d33791cca1237770fbd3a13e4": {
-      "title": "Nike NSW M90 Air T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161925",
-      "sale_price": 24.0
-    },
-    "0990dd8217d5389af0591727cabeb5f1": {
-      "title": "Nike NSW Boxy T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161927",
-      "sale_price": 17.5
-    },
-    "e456a4d8e51ea8c5867fb6ac35415d4d": {
-      "title": "Jordan Retro 12",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161930",
-      "sale_price": 50.0
-    },
-    "69112a39f249c34b6626f8f0754beda9": {
-      "title": "adidas Originals Trefoil Essentials T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161933",
-      "sale_price": 20.0
-    },
-    "ebceb51e65176c52034df05ae6ef6b54": {
-      "title": "Nike NSW Premium Essential L/S",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T05:25:47.161936",
-      "sale_price": 32.0
-    },
-    "9c3d0e93f9b4616308bfe0591907a937": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-21T05:35:46.215519",
-      "sale_price": 246.85
-    },
     "5bd7e641a8392ce15705cffa4b694eea": {
       "title": "MSI Ventus GeForce RTX 5070 Ti Graphics Card RTX 5070 TI 16G VENTUS 3X OC BLACK",
       "site": "Newegg Canada",
@@ -2453,6 +1949,342 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-03-28T00:27:00.936088",
       "sale_price": 25.0
+    },
+    "28d831e7cfcc0b4326c2ab9a81906555": {
+      "title": "Black Rouge Colordation Mood Palette - MP01 Brickdation",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163211",
+      "sale_price": 4.0
+    },
+    "2ef361be73ad62095011b8c98c75a5a3": {
+      "title": "SOME BY MI Snail Truecica Miracle Repair Toner",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163218",
+      "sale_price": 4.0
+    },
+    "0a4741698224ca26feb2be1637b007e2": {
+      "title": "New Balance Women's XC Seven Spike",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163222",
+      "sale_price": 20.0
+    },
+    "ba6e109299b376fc4ea5e54208622cd5": {
+      "title": "SOME BY MI Beta Panthenol Repair Serum 30mL",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163225",
+      "sale_price": 5.0
+    },
+    "3ed9b1ac188d093e2d552b91f7015f06": {
+      "title": "Black Rouge Dewy Whip Cheek and Beam - DW01 Strawberry",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163227",
+      "sale_price": 4.0
+    },
+    "f86ab449b8c53117dd085c849a2b68ea": {
+      "title": "SOME BY MI Propolis B5 Glow Barrier Calming Toner",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163230",
+      "sale_price": 5.0
+    },
+    "3d822c16a3aaf9d206a546136f6e95cf": {
+      "title": "Black Rouge Cream Matt Rouge 3 - CM13 Delicate Rose",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163238",
+      "sale_price": 3.0
+    },
+    "6179276940929bbc4ab8b528c2126951": {
+      "title": "Black Rouge Power Proof Pen Liner - P01 Deep Black",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163240",
+      "sale_price": 4.0
+    },
+    "40120ddc7c36e16464106862fab9d14c": {
+      "title": "Black Rouge CG Perfect Lash Cara CG01",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163243",
+      "sale_price": 4.0
+    },
+    "05ac5fab1fde44001675a1a9b0ca372b": {
+      "title": "CREATIVE Sensemore Air True Wireless Earbuds, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-03-28T05:44:44.163249",
+      "sale_price": 29.99
+    },
+    "79ef72c3e617e28a313a27454aadebae": {
+      "title": "Black Rouge Icy to Fog Velvet - FV01 Pink Rest",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163251",
+      "sale_price": 4.0
+    },
+    "0329144cb31e34baa2784c48efad2d24": {
+      "title": "Saucony Women's Spitfire 5 B Width Track Spike",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163254",
+      "sale_price": 40.0
+    },
+    "e43fea7284ea72a5e63f4a816e480595": {
+      "title": "Black Rouge Chewy Lip Glaze - GZ01 Peach Blossom",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163267",
+      "sale_price": 4.0
+    },
+    "679314a424d6bb1b6f57a08f557ef490": {
+      "title": "Black Rouge Glow Bokki Tint - GB01 Pepper Red",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163270",
+      "sale_price": 4.0
+    },
+    "1d4a19333f8f82e2ac3aa3b3d4c99b0d": {
+      "title": "Black Rouge Double Layer Over Velvet 3 - DL15 Amber Carat",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163272",
+      "sale_price": 4.0
+    },
+    "560fe78d6f986739600f63bcf7fc7568": {
+      "title": "Black Rouge Muddish Cushion Velvet - MV01 Peach pudding",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163275",
+      "sale_price": 4.0
+    },
+    "f3716b23ece40c6ca51a26d8829b1ef8": {
+      "title": "Black Rouge Double Layer Over Velvet 2 - DL07 Fauvism red",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163278",
+      "sale_price": 4.0
+    },
+    "e7aa50f5f1dda5dee4f6e5adfa6e9244": {
+      "title": "Black Rouge Double Layer Over Velvet - DL01 Salmon layer",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163283",
+      "sale_price": 4.0
+    },
+    "099deb230b866efd5c0007ffd017a3b5": {
+      "title": "Black Rouge Drop Eyes Stick Glitz - D01 Crystal Glitz",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163286",
+      "sale_price": 4.0
+    },
+    "b5d1ae26feff46dd2064279c82c7459e": {
+      "title": "Black Rouge Pearlvely I Glitter - G01 Sweet Sweet Honey",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163289",
+      "sale_price": 4.0
+    },
+    "3d161fb15054faf552a3bdfa40f82cfe": {
+      "title": "New Balance Men's XC7 v3 Track Spike",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163293",
+      "sale_price": 30.0
+    },
+    "59a91bb8e06ee5da99d2e42d100b85b7": {
+      "title": "New Balance Women's XC7 v3 Track Spike",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163295",
+      "sale_price": 30.0
+    },
+    "dedb5dedb40ea4ac5fcb60afbcd192f9": {
+      "title": "New Balance Unisex Mid Distance 500 V8 Spike",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163301",
+      "sale_price": 35.0
+    },
+    "e2c48c6a10489cd1fc69473beb230adf": {
+      "title": "Black Rouge Air Fit Velvet Tint 9 - A46 Dot Clair Red",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163309",
+      "sale_price": 4.0
+    },
+    "658f6a634ac91ea64980db4b2befd94d": {
+      "title": "Black Rouge Drip Hot Water Tint - LV07 Caramel Roasting",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163312",
+      "sale_price": 4.0
+    },
+    "4a9f6030cfc495cc685f85c277e5f69c": {
+      "title": "Black Rouge Air Fit Velvet TInt 8 - A42 Blacktea Soul",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163314",
+      "sale_price": 4.0
+    },
+    "c30192bf1a26b99a528438d54e20ea5f": {
+      "title": "Black Rouge Mara Hot Water Tint - LV00 Mild MARA",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163317",
+      "sale_price": 4.0
+    },
+    "da8fd64bef6908957abdce717a142aae": {
+      "title": "Black Rouge Air Fit Velvet Tint 7 - A33 Sunset Crown",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163320",
+      "sale_price": 4.0
+    },
+    "dea568d90b3bb00bb3fc3f81c16fcd3a": {
+      "title": "Black Rouge Air Fit Velvet Tint 6 - A28 Mango Tulip Garden",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163322",
+      "sale_price": 4.0
+    },
+    "75311665e3d733b3085d50a5681c5eb3": {
+      "title": "Black Rouge Air Fit Velvet Tint 5 - A23 Vintage Sunset",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163325",
+      "sale_price": 4.0
+    },
+    "0d365ad127c6bffb998bff96ec79e062": {
+      "title": "Black Rouge Air Fit Velvet Tint 2 - A09 Sweet Cinnamon",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163327",
+      "sale_price": 4.0
+    },
+    "447a1f4b0c87c8f60e46231e8d4f449b": {
+      "title": "Black Rouge Air Fit Velvet Tint 1 - A01 Strawberry Red",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163330",
+      "sale_price": 4.0
+    },
+    "10aa177feb87b63575ffc0d7ac519863": {
+      "title": "Club 5v5 Sparkle",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T05:44:44.163334",
+      "sale_price": 43.99
+    },
+    "0ce30d2953dbf2c414bbd359fdd6a1c9": {
+      "title": "PUMA Elevated Essentials Acid Wash",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-28T05:44:44.163357",
+      "sale_price": 31.99
+    },
+    "cdffad59793e947e2bff709aa6104150": {
+      "title": "Paper Napkins, 20 Piece",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-03-28T05:44:44.163360",
+      "sale_price": 6.0
+    },
+    "0767a1c56b234058e751d8d3f1a0e8fc": {
+      "title": "Best Ever Mug",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-03-28T05:44:44.163364",
+      "sale_price": 5.0
+    },
+    "0568f5cfb0e706b8d063aafc13e61159": {
+      "title": "Saucony Women's Kilkenny XC9 Spike B Width Running Shoe",
+      "site": "Running Room",
+      "first_seen": "2026-03-28T05:44:44.163367",
+      "sale_price": 25.0
+    },
+    "566dbc10fe353485894c719f96fbde8a": {
+      "title": "LARGE BOOK LIGHT",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-03-28T05:44:44.163440",
+      "sale_price": 12.0
+    },
+    "24115de291eb232858ac87948fb3ddc1": {
+      "title": "Moose KnucklesMen's Walker Jacket",
+      "site": "SportingLife",
+      "first_seen": "2026-03-28T05:44:44.163502",
+      "sale_price": 246.97
+    },
+    "5e0af065269d1486305d2807a9c70973": {
+      "title": "Romand Glasting Colour Gloss - Special Offer - 05 Dim Mauve",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-03-28T05:44:44.163507",
+      "sale_price": 6.99
+    },
+    "19e4ab6918c53203fe76d7a08924e5ab": {
+      "title": "2026 12 Month Planner, Marble",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-03-28T05:44:44.163510",
+      "sale_price": 14.99
+    },
+    "3faa14ded90626b7b8a2dc0e1d512161": {
+      "title": "New BalanceWomen's Fresh Foam X 1080v14 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-03-28T05:44:44.163547",
+      "sale_price": 104.98
+    },
+    "17c3d15377fecf442e2618b8fc82880a": {
+      "title": "Moose KnucklesWomen's Eden Liner Jacket",
+      "site": "SportingLife",
+      "first_seen": "2026-03-28T05:44:44.163550",
+      "sale_price": 224.97
+    },
+    "bf4073117dabd36bf9a2fc31f9fc1413": {
+      "title": "APLB Tranexamic Acid Niacinamide Sheet Mask - 1pcs",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163560",
+      "sale_price": 1.0
+    },
+    "45f636ee84ea1c49b4047cf4f2060d60": {
+      "title": "DEOPROCE Bakuchiol Repair Solution Toner 150mL",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163563",
+      "sale_price": 9.0
+    },
+    "7082fef42071065e61198471be12d9e2": {
+      "title": "DEOPROCE Bakuchiol Repair Solution Lotion 150mL",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163565",
+      "sale_price": 9.0
+    },
+    "9802fbcc60944c5cdde89bf7fe9540a3": {
+      "title": "DEOPROCE Bakuchiol Repair Solution Essence 50mL",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163568",
+      "sale_price": 9.0
+    },
+    "9ea70e93b975a32a2b579a839f7f5a8a": {
+      "title": "DEOPROCE Bakuchiol Repair Solution Eye Cream 30g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163570",
+      "sale_price": 9.0
+    },
+    "25614aa89a7d967aa4d75eaa45030e19": {
+      "title": "Damaged Boxes - I'm from Fig Cleansing Oil 200ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163573",
+      "sale_price": 14.0
+    },
+    "ef6ca17cbf3edbe1474d71211cfe9748": {
+      "title": "RAVIEL Green Derma Double Cica Cream - Single",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-03-28T05:44:44.163577",
+      "sale_price": 9.0
+    },
+    "ab702296253dea9fd8b913fc9f156a5a": {
+      "title": "Set of 6 Wine Glass Charms, Characters",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-03-28T05:44:44.163579",
+      "sale_price": 8.0
+    },
+    "61d4345bf4e645d77f8af2f126fa1fc9": {
+      "title": "Nike NSW Premium Essentials SUST T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T05:44:44.163582",
+      "sale_price": 27.5
+    },
+    "95addc3384db7c4e312dfd5d70e66519": {
+      "title": "Nike NSW T Shirt 90 Fw BR Connect 2",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T05:44:44.163585",
+      "sale_price": 24.0
+    },
+    "7f96db8d3364c9fdd77117e3f1cf4141": {
+      "title": "Jordan Authentic Short Sleeve Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T05:44:44.163588",
+      "sale_price": 22.5
+    },
+    "69112a39f249c34b6626f8f0754beda9": {
+      "title": "adidas Originals Trefoil Essentials T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T05:44:44.163592",
+      "sale_price": 20.0
+    },
+    "0898048d33791cca1237770fbd3a13e4": {
+      "title": "Nike NSW M90 Air T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T05:44:44.163594",
+      "sale_price": 24.0
     }
   }
 }
