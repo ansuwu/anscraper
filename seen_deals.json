@@ -1,29 +1,5 @@
 {
   "deals": {
-    "5bd7e641a8392ce15705cffa4b694eea": {
-      "title": "MSI Ventus GeForce RTX 5070 Ti Graphics Card RTX 5070 TI 16G VENTUS 3X OC BLACK",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-21T07:13:03.593882",
-      "sale_price": 100.0
-    },
-    "9262cf45536d415d622e540c014a5aad": {
-      "title": "Nike Club Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T07:13:03.594008",
-      "sale_price": 37.5
-    },
-    "ed603c52e294e75f8d69029bf2586bd6": {
-      "title": "Nike Kobe Dri-FIT M90 Long Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T07:13:03.594015",
-      "sale_price": 37.5
-    },
-    "a2095922898a1a18a0a52109640f661b": {
-      "title": "Jordan Retro 1 High OG",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-21T07:13:03.594022",
-      "sale_price": 40.0
-    },
     "4c605479ac3e66868060ba246ec65fa8": {
       "title": "Court Lally",
       "site": "Puma Canada",
@@ -2285,6 +2261,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-03-28T05:44:44.163594",
       "sale_price": 24.0
+    },
+    "5bd7e641a8392ce15705cffa4b694eea": {
+      "title": "MSI Ventus GeForce RTX 5070 Ti Graphics Card RTX 5070 TI 16G VENTUS 3X OC BLACK",
+      "site": "Newegg Canada",
+      "first_seen": "2026-03-28T08:24:22.896655",
+      "sale_price": 100.0
+    },
+    "9262cf45536d415d622e540c014a5aad": {
+      "title": "Nike Club Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T08:24:22.897033",
+      "sale_price": 37.5
+    },
+    "ed603c52e294e75f8d69029bf2586bd6": {
+      "title": "Nike Kobe Dri-FIT M90 Long Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-28T08:24:22.897039",
+      "sale_price": 37.5
     }
   }
 }
