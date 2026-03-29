@@ -2339,6 +2339,30 @@
       "site": "Newegg Canada",
       "first_seen": "2026-03-29T16:26:03.125884",
       "sale_price": 20.0
+    },
+    "6ca1b4b6019c5ca826cb44f3e7947bc6": {
+      "title": "GOODLUX BLOOMSBURY DRESS",
+      "site": "Aritzia",
+      "first_seen": "2026-03-29T20:17:10.789547",
+      "sale_price": 30.99
+    },
+    "95b310d9a5ecf38aee6774b869b1900b": {
+      "title": "HEYDEN DRESS",
+      "site": "Aritzia",
+      "first_seen": "2026-03-29T20:17:10.789557",
+      "sale_price": 58.99
+    },
+    "dc02faf245023bf1bf8adaa255564669": {
+      "title": "BUTTER CHEEKY HI-RISE 26\" LEGGING",
+      "site": "Aritzia",
+      "first_seen": "2026-03-29T20:17:10.789730",
+      "sale_price": 38.99
+    },
+    "d7109f72f93fc78ad2bd261b84aaf902": {
+      "title": "COZY SWEATFLEECE MEGA RAGLAN™ HOODIE",
+      "site": "Aritzia",
+      "first_seen": "2026-03-29T20:17:10.789786",
+      "sale_price": 47.5
     }
   }
 }
