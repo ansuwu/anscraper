@@ -1,17 +1,5 @@
 {
   "deals": {
-    "bb72aef8583f1d692063dad73e40a571": {
-      "title": "Carina Mia Butterfly",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-22T08:07:02.592702",
-      "sale_price": 45.0
-    },
-    "708fb4545923eb46b72826f8fce463f0": {
-      "title": "adidas Essential Open Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-22T08:07:02.592723",
-      "sale_price": 42.5
-    },
     "245d776bc0e6b9772c10ecd6224c6ce6": {
       "title": "Nike NSW EMB Futura T-Shirt",
       "site": "Foot Locker Canada",
@@ -2219,6 +2207,60 @@
       "site": "Sport Chek",
       "first_seen": "2026-03-28T23:28:26.542174",
       "sale_price": 49.98
+    },
+    "6168e034f5ad5c0656cd25dd6f0adc6c": {
+      "title": "Evostripe",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723379",
+      "sale_price": 32.99
+    },
+    "950534d6ac3941b0c37de06f0f9d8e5a": {
+      "title": "PUMA Essentials Logo Lab",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723419",
+      "sale_price": 12.99
+    },
+    "0938bc282b43a798c5b94dc63000c6a7": {
+      "title": "Train All Day Essentials",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723437",
+      "sale_price": 18.99
+    },
+    "c82c1b050f915c1de3bded7942c39c03": {
+      "title": "Carina 3.0 Metallic Whisper",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723457",
+      "sale_price": 38.99
+    },
+    "f09b493f833a63eaafd62db5738e72a2": {
+      "title": "Bari Comfort",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723460",
+      "sale_price": 38.99
+    },
+    "8fb678ab8f85f224e3afbbf481854698": {
+      "title": "FUTURE 8 PRO",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723533",
+      "sale_price": 97.99
+    },
+    "465901d85423fceef9cd9c43721b2a1b": {
+      "title": "Sport Pack",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723588",
+      "sale_price": 18.99
+    },
+    "06b0c8569d662b17770820a38ff8af0a": {
+      "title": "Ayro Street Camo",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723621",
+      "sale_price": 54.99
+    },
+    "5a2ffe84d7e7b072c923c90e8639e611": {
+      "title": "PUMA Club 5v5 Lux",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T08:25:48.723663",
+      "sale_price": 50.0
     }
   }
 }
