@@ -1,11 +1,5 @@
 {
   "deals": {
-    "245d776bc0e6b9772c10ecd6224c6ce6": {
-      "title": "Nike NSW EMB Futura T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-22T09:19:34.752617",
-      "sale_price": 12.0
-    },
     "6ca1b4b6019c5ca826cb44f3e7947bc6": {
       "title": "GOODLUX BLOOMSBURY DRESS",
       "site": "Aritzia",
@@ -2261,6 +2255,24 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-29T08:25:48.723663",
       "sale_price": 50.0
+    },
+    "150e0c3e08853f23ec296b2d66a5a99c": {
+      "title": "Powerbilt TPX Men's Golf Balls - 3 Piece",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-29T10:32:12.002678",
+      "sale_price": 14.98
+    },
+    "79bdf9f809caefa312e04646c33f5821": {
+      "title": "FUTURE 8 PRO",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-29T10:32:12.002735",
+      "sale_price": 74.99
+    },
+    "33c223e65914154a33e4992000234b23": {
+      "title": "True Catalyst 7X3 Grip Senior Hockey Stick, Carbon Fiber, Mid Kick",
+      "site": "Sport Chek",
+      "first_seen": "2026-03-29T10:32:12.002740",
+      "sale_price": 129.98
     }
   }
 }
