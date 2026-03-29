@@ -1,11 +1,5 @@
 {
   "deals": {
-    "6ca1b4b6019c5ca826cb44f3e7947bc6": {
-      "title": "GOODLUX BLOOMSBURY DRESS",
-      "site": "Aritzia",
-      "first_seen": "2026-03-22T14:11:29.646819",
-      "sale_price": 30.99
-    },
     "ed621cb1e79e804d694a9ea8b078b8ed": {
       "title": "MSI PRO B760M-P LGA 1700 Intel B760 SATA 6Gb/s Micro ATX Motherboard",
       "site": "Newegg Canada",
@@ -2339,6 +2333,18 @@
       "site": "Canada Computers",
       "first_seen": "2026-03-29T12:29:25.834979",
       "sale_price": 9.99
+    },
+    "b94e43f49cc92069f22d8a5e8ee9fbc8": {
+      "title": "Jordan Brooklyn Oversize Stretch Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-29T14:33:51.868575",
+      "sale_price": 47.5
+    },
+    "708fb4545923eb46b72826f8fce463f0": {
+      "title": "adidas Essential Open Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-03-29T14:33:51.868582",
+      "sale_price": 42.5
     }
   }
 }
