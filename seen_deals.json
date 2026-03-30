@@ -1,17 +1,5 @@
 {
   "deals": {
-    "5b5de75eddc946fbdf15c76eca31bb4b": {
-      "title": "The North FaceWomen's Altamesa 500 Trail Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-03-23T11:49:45.940558",
-      "sale_price": 99.98
-    },
-    "b8c8e99142e121b5010f5c77e93ec71a": {
-      "title": "New Era Elm Street Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-23T11:49:45.940608",
-      "sale_price": 28.0
-    },
     "250e5b44caa339ac887b5e7525623b06": {
       "title": "Lian Li V100 ATX Mid-Tower PC Case, 4 x 120mm ARGB PWM Fans Pre-Installed, LED RGB Strip, Display Platform with Tempered",
       "site": "Newegg Canada",
@@ -2405,6 +2393,12 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-30T11:02:59.047911",
       "sale_price": 64.99
+    },
+    "bbf12a87229a874ead9563b60d4c836f": {
+      "title": "HOMESPON Large Waterproof Beach Bag for Women Sandproof Tote Bag Pool Bag with Zipper and Pockets for Travel Vacation Gy",
+      "site": "Amazon.ca Deals",
+      "first_seen": "2026-03-30T15:11:45.408889",
+      "sale_price": 19.99
     }
   }
 }
