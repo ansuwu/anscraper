@@ -1,17 +1,5 @@
 {
   "deals": {
-    "07782b0b1a599bb57ed5214a9f4d26a6": {
-      "title": "Moose KnucklesMen's Walker Jacket",
-      "site": "SportingLife",
-      "first_seen": "2026-03-23T08:52:35.610734",
-      "sale_price": 221.98
-    },
-    "287861514c64b57d32a31607dbddf405": {
-      "title": "Moose KnucklesWomen's Eden Liner Jacket",
-      "site": "SportingLife",
-      "first_seen": "2026-03-23T08:52:35.610739",
-      "sale_price": 201.98
-    },
     "5b5de75eddc946fbdf15c76eca31bb4b": {
       "title": "The North FaceWomen's Altamesa 500 Trail Running Shoe",
       "site": "SportingLife",
@@ -2381,6 +2369,42 @@
       "site": "Sport Chek",
       "first_seen": "2026-03-29T21:28:50.021552",
       "sale_price": 44.98
+    },
+    "e66fbb2582d1ecfe3ba65566f6210be8": {
+      "title": "LEVI'S DAD JEAN",
+      "site": "Aritzia",
+      "first_seen": "2026-03-30T11:02:59.047815",
+      "sale_price": 38.99
+    },
+    "42ebba45299cdd0ea51ded75d8cc58d2": {
+      "title": "Sport Heritage",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-30T11:02:59.047833",
+      "sale_price": 12.99
+    },
+    "0851b9277e0586b968eb3b00cf3d1dfc": {
+      "title": "Soft Carson",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-30T11:02:59.047842",
+      "sale_price": 33.99
+    },
+    "b9677e2a0235b8b4b9d59a8e00f0429b": {
+      "title": "Softride Escalate",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-30T11:02:59.047868",
+      "sale_price": 52.99
+    },
+    "123b1c97f4834a8050a0354337ee9316": {
+      "title": "Multiflex 2",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-30T11:02:59.047886",
+      "sale_price": 29.99
+    },
+    "2a30b276213f89d2ca22ede5b7471de3": {
+      "title": "ULTRA 5 PRO",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-30T11:02:59.047911",
+      "sale_price": 64.99
     }
   }
 }
