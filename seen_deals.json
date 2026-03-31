@@ -1,17 +1,5 @@
 {
   "deals": {
-    "115c36e895bcc0fc32afcbaef00fbcd1": {
-      "title": "ASRock X870 PRO RS AM5 ATX Motherboard",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-24T05:30:58.853420",
-      "sale_price": 29.99
-    },
-    "aa94d6b8c0a01cf6a9afafb721354394": {
-      "title": "MSI 27\" Dual Mode UHD 4K 144Hz Full HD 288Hz IPS with Adaptive-Sync 1ms HDR400 Ai Crosshair Gaming Computer Monitor with",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-24T05:30:58.853429",
-      "sale_price": 50.0
-    },
     "124a60acb2bc36fea975430a5f7b008e": {
       "title": "Cats Club",
       "site": "Puma Canada",
@@ -2381,6 +2369,18 @@
       "site": "Amazon.ca Deals",
       "first_seen": "2026-03-30T15:11:45.408889",
       "sale_price": 19.99
+    },
+    "af5972996514d5d6fcd5758c9c12211b": {
+      "title": "Phanteks Enthoo Pro TG PH-ES614PTG_BK Integrated RGB Lighting Control Tempered Glass Side Panel ATX Full Tower Computer ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-03-31T06:12:44.368751",
+      "sale_price": 19.99
+    },
+    "1de0cdcfca9f49ce4e2ecf5722b0f22d": {
+      "title": "PUMA Essentials Outerwear",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-31T06:12:44.368826",
+      "sale_price": 41.99
     }
   }
 }
