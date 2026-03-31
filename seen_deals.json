@@ -1,23 +1,5 @@
 {
   "deals": {
-    "124a60acb2bc36fea975430a5f7b008e": {
-      "title": "Cats Club",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-24T08:20:05.643682",
-      "sale_price": 20.99
-    },
-    "229b49bc9ee93a0804c88eb0fc843295": {
-      "title": "AMD Ryzen 5 7600X - Zen 4 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-24T08:20:05.643708",
-      "sale_price": 224.95
-    },
-    "7e6a6edf949c18c61d217f10177851b9": {
-      "title": "Evostripe",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-24T08:20:05.643747",
-      "sale_price": 40.0
-    },
     "abc2aef76978f66334328f631cc27577": {
       "title": "GIGABYTE 27\" QHD 2K 1440P 180hz IPS with AMD FreeSync Premium 1ms HDR ready Gaming Computer Monitor GS27QA",
       "site": "Newegg Canada",
@@ -2381,6 +2363,24 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-31T06:12:44.368826",
       "sale_price": 41.99
+    },
+    "8683414babcfd800161072b6b7a96a09": {
+      "title": "PUMA Essentials Satin",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-31T10:00:26.665753",
+      "sale_price": 33.99
+    },
+    "cb21445711352d421eccb97a80ffb928": {
+      "title": "Jackery Portable Power Station Explorer 2000 Plus, Solar Generator with 2042Wh LiFePO4 Battery 3000W Output, Expandable ",
+      "site": "Amazon.ca Deals",
+      "first_seen": "2026-03-31T10:00:26.665772",
+      "sale_price": 1799.0
+    },
+    "cd6311fc12f45d9b0e8dc26171bd66d0": {
+      "title": "Train All Day Essentials",
+      "site": "Puma Canada",
+      "first_seen": "2026-03-31T10:00:26.665785",
+      "sale_price": 14.99
     }
   }
 }
