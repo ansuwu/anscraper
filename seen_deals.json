@@ -1,41 +1,5 @@
 {
   "deals": {
-    "abc2aef76978f66334328f631cc27577": {
-      "title": "GIGABYTE 27\" QHD 2K 1440P 180hz IPS with AMD FreeSync Premium 1ms HDR ready Gaming Computer Monitor GS27QA",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-24T11:49:21.242005",
-      "sale_price": 49.99
-    },
-    "a3d66a4d49a386363c8189ba244dc635": {
-      "title": "TOMORROW PAJAMA SHIRT",
-      "site": "Aritzia",
-      "first_seen": "2026-03-24T11:49:21.242089",
-      "sale_price": 26.99
-    },
-    "3de709a52a051cf7c08f87c7e636980c": {
-      "title": "UTILITY SHIRT",
-      "site": "Aritzia",
-      "first_seen": "2026-03-24T11:49:21.242095",
-      "sale_price": 34.99
-    },
-    "0d2d6dd4dbb9a4de7cfb5cb138421d02": {
-      "title": "COZY SWEATFLEECE MEGA RAGLAN™ HOODIE",
-      "site": "Aritzia",
-      "first_seen": "2026-03-24T11:49:21.242108",
-      "sale_price": 37.99
-    },
-    "793b42ec51d78953711620957468227b": {
-      "title": "ORIGINAL CONTOUR FLOURISH TOP",
-      "site": "Aritzia",
-      "first_seen": "2026-03-24T11:49:21.242144",
-      "sale_price": 28.99
-    },
-    "1beeb33d8fb4406ca4bbbf10a0a79225": {
-      "title": "GENERATION BLAZER",
-      "site": "Aritzia",
-      "first_seen": "2026-03-24T11:49:21.242165",
-      "sale_price": 123.99
-    },
     "122c203112603d510598ed87712e8fd0": {
       "title": "10000mAh 22.5W Transparent Portable Intelligent Real-time Screen Displ",
       "site": "Canada Computers",
@@ -2381,6 +2345,30 @@
       "site": "Puma Canada",
       "first_seen": "2026-03-31T10:00:26.665785",
       "sale_price": 14.99
+    },
+    "f4ad4c2aa00f035f66b1503e53ebf55d": {
+      "title": "TNABUTTER™ CHEEKY HI-RISE 7\" SHORT",
+      "site": "Aritzia",
+      "first_seen": "2026-03-31T12:22:28.849673",
+      "sale_price": 10.99
+    },
+    "21416d315c555a3dd2ecc6c9c3151d52": {
+      "title": "HERITAGE KNIT MERINO WOOL CREW SWEATER",
+      "site": "Aritzia",
+      "first_seen": "2026-03-31T12:22:28.849678",
+      "sale_price": 40.99
+    },
+    "a3d66a4d49a386363c8189ba244dc635": {
+      "title": "TOMORROW PAJAMA SHIRT",
+      "site": "Aritzia",
+      "first_seen": "2026-03-31T12:22:28.849715",
+      "sale_price": 26.99
+    },
+    "0e70a624c55f5e864816b4bbb30789d5": {
+      "title": "FLUID POPLIN DRESS",
+      "site": "Aritzia",
+      "first_seen": "2026-03-31T12:22:28.849720",
+      "sale_price": 54.99
     }
   }
 }
