@@ -1,35 +1,5 @@
 {
   "deals": {
-    "faac5a7b9fb0b0f3c733fe80ba30c1ef": {
-      "title": "Stacked Books Planter",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-25T16:02:26.614992",
-      "sale_price": 13.0
-    },
-    "19f2b5678745abaff1738cfb7423ada5": {
-      "title": "Reading Headrest",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-25T16:02:26.615001",
-      "sale_price": 15.0
-    },
-    "5b74b2e855252f12cc10e5b3ae7cb49b": {
-      "title": "Mini Expression Pillow, Reserved for Reading",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-25T16:02:26.615009",
-      "sale_price": 15.0
-    },
-    "8d287b091ba29fa0b0dba640f65dcde1": {
-      "title": "Book Vase, Large",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-25T16:02:26.615015",
-      "sale_price": 12.0
-    },
-    "4d4a91eb8e15ae470e3928ac6c0acefa": {
-      "title": "Embroidered Book Pillow, To Be Read",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-03-25T16:02:26.615088",
-      "sale_price": 12.0
-    },
     "e309239b069952c1dff9a40f4f8cc3d5": {
       "title": "MSI MAG A850GL PCIE5, Fully Modular Compact Gaming 850W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 Ready, Native Dual-co",
       "site": "Newegg Canada",
@@ -2374,6 +2344,12 @@
       "title": "NORA THONG SANDAL",
       "site": "Browns Shoes",
       "first_seen": "2026-04-01T15:12:16.646995",
+      "sale_price": 63.18
+    },
+    "5c3d469af028f703fb148887d08347b0": {
+      "title": "GOLDENGLOW",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-01T17:54:17.509182",
       "sale_price": 63.18
     }
   }
