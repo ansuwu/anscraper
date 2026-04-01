@@ -1,11 +1,5 @@
 {
   "deals": {
-    "45ec888060f91e401ece1f04e6b13c7a": {
-      "title": "CORSAIR RM850e (2025) Fully Modular Low-Noise ATX Power Supply with 12V-2x6 Cable – ATX 3.1 & PCIe 5.1 Compliant, Cybene",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-25T11:42:32.803785",
-      "sale_price": 35.0
-    },
     "faac5a7b9fb0b0f3c733fe80ba30c1ef": {
       "title": "Stacked Books Planter",
       "site": "Indigo / Chapters",
@@ -2369,6 +2363,18 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-01T10:51:31.790961",
       "sale_price": 195.97
+    },
+    "b3dbc8e45baf387c9459fa36830b3b1c": {
+      "title": "MSI B650 GAMING PLUS WIFI AM5 AMD B650 SATA 6Gb/s ATX Motherboard",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-01T15:12:16.646967",
+      "sale_price": 75.0
+    },
+    "c080d84e96305530b5cedf79e6beb6f9": {
+      "title": "NORA THONG SANDAL",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-01T15:12:16.646995",
+      "sale_price": 63.18
     }
   }
 }
