@@ -1,17 +1,5 @@
 {
   "deals": {
-    "122c203112603d510598ed87712e8fd0": {
-      "title": "10000mAh 22.5W Transparent Portable Intelligent Real-time Screen Displ",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-25T05:31:58.061577",
-      "sale_price": 14.88
-    },
-    "70fc666f83d2aa65898def4b27ae6b5d": {
-      "title": "5000mAh PD 20W USB-C Portable Slim Wireless Magnetic Power Bank,White",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-25T05:31:58.061582",
-      "sale_price": 14.88
-    },
     "8c94645c6afb9057c7525dc341144a41": {
       "title": "Sony WH-CH720N Noise Cancelling Wireless Headphones Bluetooth Over The Ear Headset with Microphone and Alexa Voice Contr",
       "site": "Amazon.ca Deals",
@@ -2375,6 +2363,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-03-31T20:13:26.908542",
       "sale_price": 14.99
+    },
+    "aa94d6b8c0a01cf6a9afafb721354394": {
+      "title": "MSI 27\" Dual Mode UHD 4K 144Hz Full HD 288Hz IPS with Adaptive-Sync 1ms HDR400 Ai Crosshair Gaming Computer Monitor with",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-01T06:26:40.847676",
+      "sale_price": 50.0
     }
   }
 }
