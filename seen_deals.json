@@ -1,59 +1,5 @@
 {
   "deals": {
-    "7faed48e0b86856feb91577d2f262d46": {
-      "title": "LG UltraGear 27\" QHD 2560x1440 IPS 200Hz (OC) 1ms Gaming Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433253",
-      "sale_price": 149.99
-    },
-    "3bead53a416fd1c867654a03b6cee6b3": {
-      "title": "Samsung 32\" QHD VA 75 hz 5ms HDR10 with USB type-C LAN port Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433259",
-      "sale_price": 149.99
-    },
-    "383b42a02bb807d6f49587ed38681a97": {
-      "title": "MSI G32CQ5P 32\" 2560 x1440 (WQHD), 170Hz 1ms Curved Gaming Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433321",
-      "sale_price": 129.99
-    },
-    "326ea5c1a6c5938a357ca2ed9c44da8a": {
-      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pocket",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-27T15:41:44.433332",
-      "sale_price": 25.49
-    },
-    "f47cbc776c3e7889060ffa21ae191a92": {
-      "title": "Anker SOLIX C1000 Gen 2 Portable Power Station, 2,000W (Peak 3,000W) Solar Generator, Full Charge in 49 Min, 1,024Wh LiF",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-27T15:41:44.433398",
-      "sale_price": 579.0
-    },
-    "e5ac28bed124b0db9a42517d96794eea": {
-      "title": "ASUS ROG Swift 26.5\" QHD 240Hz 0.03ms GTG OLED G-Sync Gaming Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433410",
-      "sale_price": 499.99
-    },
-    "c9ce7033e84e7fe17d7fe955c1774a5f": {
-      "title": "soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime, H",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-27T15:41:44.433440",
-      "sale_price": 47.48
-    },
-    "adb30115ba80ef04971729bed531f420": {
-      "title": "ViewSonic Curved Gaming Monitor 27\", VA, FHD, 1ms, 165 Hz",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433449",
-      "sale_price": 99.99
-    },
-    "491a5371f495ab058d3e722b3f3901f1": {
-      "title": "BENQ VA GamingMonitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-27T15:41:44.433452",
-      "sale_price": 99.99
-    },
     "ef738b08bd24eab601f88e968fca6713": {
       "title": "Reebok Men's Classic Leather Shoes",
       "site": "Sport Chek",
@@ -1235,6 +1181,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-03T08:51:27.395689",
       "sale_price": 52.5
+    },
+    "8b4e25781be32eb7a51185df9dc332b3": {
+      "title": "SNOWCAP BEANIE",
+      "site": "Aritzia",
+      "first_seen": "2026-04-03T17:17:36.608418",
+      "sale_price": 13.99
     }
   }
 }
