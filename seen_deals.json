@@ -1,11 +1,5 @@
 {
   "deals": {
-    "34872cc8e1201152f9201efecffcde72": {
-      "title": "Reebok Women's Classic Leather Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-03-27T00:16:58.493430",
-      "sale_price": 39.98
-    },
     "ccb0173d3d3461edfecb78c23b80dbc9": {
       "title": "HUAWEI Wireless Charging Mouse Pad GT, Firm smooth polymer surface, 55035505",
       "site": "Canada Computers",
@@ -2087,6 +2081,12 @@
       "site": "Aritzia",
       "first_seen": "2026-04-02T19:53:46.355050",
       "sale_price": 19.99
+    },
+    "d0b7db764630bfc801c49f5616f99a84": {
+      "title": "RAZER Basilisk V3 Wired Gaming Mouse (RZ01-04000100-R3U1)",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-03T06:05:51.244829",
+      "sale_price": 49.99
     }
   }
 }
