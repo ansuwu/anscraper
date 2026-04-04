@@ -1,47 +1,5 @@
 {
   "deals": {
-    "c59fc8eac0fa0e27449aeafaefd781b0": {
-      "title": "Team Group 16GB (2 x 8GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory Model FF3D516G6000HC38ADC01",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-28T10:26:09.717748",
-      "sale_price": 87.76
-    },
-    "cf70e20bd1248e2f312594acfcb0731b": {
-      "title": "PUMATECH",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.717860",
-      "sale_price": 34.99
-    },
-    "5a3c146122f4df029270110a8e1c41a2": {
-      "title": "Cool Cat 2.0",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.717875",
-      "sale_price": 18.99
-    },
-    "fd073c246fbad4de0fc42f1b6edd69e3": {
-      "title": "Astro Play",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.717899",
-      "sale_price": 43.99
-    },
-    "ad26363060bf9dc9f7f5ef7056e5fd79": {
-      "title": "FUTURE 8 ULTIMATE",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.717938",
-      "sale_price": 139.99
-    },
-    "30c363d112f0ac11ea4e249c39c4c36a": {
-      "title": "Pounce Lite",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.718059",
-      "sale_price": 44.99
-    },
-    "ec08f98462a9e7c1bd70dedfb6350c67": {
-      "title": "Court Classic Lux",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-28T10:26:09.718067",
-      "sale_price": 54.99
-    },
     "1507bff91c5a72573714e8fef50397a7": {
       "title": "CLASSIC CLOG",
       "site": "Browns Shoes",
@@ -863,6 +821,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-04T10:12:58.638867",
       "sale_price": 22.5
+    },
+    "cf63441bc5a07ad21ab727b71917eced": {
+      "title": "Glorious Raptor Clicky switches - Mechanical (36pieces)",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-04T11:20:53.866070",
+      "sale_price": 12.88
+    },
+    "353d6a568b7bab099d69d9f27fe24f29": {
+      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  1m/ 3.28ft (CAC-1371)",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-04T11:20:53.866130",
+      "sale_price": 7.88
     }
   }
 }
