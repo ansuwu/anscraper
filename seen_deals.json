@@ -1,23 +1,5 @@
 {
   "deals": {
-    "5bd7e641a8392ce15705cffa4b694eea": {
-      "title": "MSI Ventus GeForce RTX 5070 Ti Graphics Card RTX 5070 TI 16G VENTUS 3X OC BLACK",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-28T08:24:22.896655",
-      "sale_price": 100.0
-    },
-    "9262cf45536d415d622e540c014a5aad": {
-      "title": "Nike Club Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-28T08:24:22.897033",
-      "sale_price": 37.5
-    },
-    "ed603c52e294e75f8d69029bf2586bd6": {
-      "title": "Nike Kobe Dri-FIT M90 Long Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-28T08:24:22.897039",
-      "sale_price": 37.5
-    },
     "c59fc8eac0fa0e27449aeafaefd781b0": {
       "title": "Team Group 16GB (2 x 8GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory Model FF3D516G6000HC38ADC01",
       "site": "Newegg Canada",
@@ -875,6 +857,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-04T08:17:11.840993",
       "sale_price": 24.0
+    },
+    "7f96db8d3364c9fdd77117e3f1cf4141": {
+      "title": "Jordan Authentic Short Sleeve Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-04T10:12:58.638867",
+      "sale_price": 22.5
     }
   }
 }
