@@ -1,35 +1,5 @@
 {
   "deals": {
-    "1507bff91c5a72573714e8fef50397a7": {
-      "title": "CLASSIC CLOG",
-      "site": "Browns Shoes",
-      "first_seen": "2026-03-28T14:25:01.754953",
-      "sale_price": 37.49
-    },
-    "64422ef1980517eb7cb50b3a32061dae": {
-      "title": "Reebok Men's Club 85 Foundation Lifestyle Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-03-28T14:25:01.755004",
-      "sale_price": 39.99
-    },
-    "db36ab3395cf8c9be02129aacf2cc563": {
-      "title": "Oral-B iO Series 2 Limited Rechargeable Electric Powered Toothbrush, Pure White with 1 Gentle Care Brush Head and 1 Blac",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-28T14:25:01.755270",
-      "sale_price": 59.99
-    },
-    "b873aac4759941c1518f6158bd5f3b63": {
-      "title": "New Era Seinfeld Festivus T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-28T14:25:01.755301",
-      "sale_price": 28.0
-    },
-    "9525bf315db2d89f73558cf4f9b2a092": {
-      "title": "Jordan Brooklyn Oversize Pullover Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-03-28T14:25:01.755305",
-      "sale_price": 42.5
-    },
     "2727cdc16d15f727bcacc5a6a5aa884e": {
       "title": "FLUID POPLIN DRESS",
       "site": "Aritzia",
@@ -839,6 +809,12 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-04T14:18:33.369556",
       "sale_price": 49.98
+    },
+    "93c3231b080bb6657fb98ca9b86e78de": {
+      "title": "Ripzone Kids' Grade/Pre-school Puddle Jumper Waterproof Rubber Boots",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-04T16:13:42.021132",
+      "sale_price": 19.98
     }
   }
 }
