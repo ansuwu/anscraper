@@ -1,71 +1,5 @@
 {
   "deals": {
-    "c26545d477d969aec381d1dc3ee5a625": {
-      "title": "Ring Spotlight Cam Wired HD Security Camera - Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834590",
-      "sale_price": 51.88
-    },
-    "bdc877efb89a4c0f060c4d099d82af7a": {
-      "title": "CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK16GX4M2E3200C16",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-29T12:29:25.834669",
-      "sale_price": 70.99
-    },
-    "7dbeaed9eb1fcfc14c6e7cb3132e903e": {
-      "title": "LOGIIX Essential Kit Classic Jolt & Power Cube USB Type C 18W iPhone",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834694",
-      "sale_price": 19.99
-    },
-    "1d8430a46362cf9ebbea77bfb9454ea6": {
-      "title": "Razer Kaira (Simone T2) Wireless Headset for Xbox Series X",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834700",
-      "sale_price": 44.88
-    },
-    "9828470a3df6a5c889a9f6677bf8d13a": {
-      "title": "EPSON T812XL High Capacity Cyan Ink Cartridge with Sensormatic",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834786",
-      "sale_price": 20.88
-    },
-    "5be9575c504e3c1023bf6ba7ad444e11": {
-      "title": "CANON PowerShot ZOOM Monocular Camera",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834817",
-      "sale_price": 166.88
-    },
-    "a649c43080af6e716523780d30ab97d7": {
-      "title": "iCAN 20W USB-C PD Cell-phone Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834836",
-      "sale_price": 4.88
-    },
-    "0948eadcffa2bdbfde1ef5d9f5f47511": {
-      "title": "Ring Spotlight Cam Wired HD Security Camera - White",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834842",
-      "sale_price": 103.88
-    },
-    "e615fc0826f71f997ad31ec2f747a61b": {
-      "title": "Belkin Boost Up Pad 10W",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834854",
-      "sale_price": 9.88
-    },
-    "057c3a06d722aec438c55be54dda78b1": {
-      "title": "iCAN Tempered Glass Top TV Stand",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834965",
-      "sale_price": 49.88
-    },
-    "f7f3f5cc6df71aca2aeedb7b75724bb9": {
-      "title": "be quiet! MC2 COOLER",
-      "site": "Canada Computers",
-      "first_seen": "2026-03-29T12:29:25.834979",
-      "sale_price": 9.99
-    },
     "b94e43f49cc92069f22d8a5e8ee9fbc8": {
       "title": "Jordan Brooklyn Oversize Stretch Pants",
       "site": "Foot Locker Canada",
@@ -659,6 +593,18 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-05T10:33:33.321939",
       "sale_price": 14.98
+    },
+    "2efa4fbebf50d91c94f5088d1bb29aa7": {
+      "title": "AZZA CSAZ-290 FIGHTER Black Case",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-05T14:20:31.258927",
+      "sale_price": 14.99
+    },
+    "ef738b08bd24eab601f88e968fca6713": {
+      "title": "Reebok Men's Classic Leather Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-05T14:20:31.258960",
+      "sale_price": 39.98
     }
   }
 }
