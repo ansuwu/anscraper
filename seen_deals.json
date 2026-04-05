@@ -1,11 +1,5 @@
 {
   "deals": {
-    "77f23d81b52536326d21703ca9bb6a35": {
-      "title": "MSI MAG A850GL PCIE5 WHITE, Fully Modular Compact Gaming 850W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 Ready, Native D",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-29T16:26:03.125884",
-      "sale_price": 20.0
-    },
     "6ca1b4b6019c5ca826cb44f3e7947bc6": {
       "title": "GOODLUX BLOOMSBURY DRESS",
       "site": "Aritzia",
@@ -617,6 +611,18 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-05T16:16:45.372265",
       "sale_price": 129.98
+    },
+    "f57910f9cf186161ce3eafa96433d9a4": {
+      "title": "RAYOVAC AA Alkaline Battery 4 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-05T18:17:18.331776",
+      "sale_price": 0.88
+    },
+    "264af5f459df28b9e5019a8aeaa575bc": {
+      "title": "Jordan NC Lights Short Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-05T18:17:18.331890",
+      "sale_price": 22.5
     }
   }
 }
