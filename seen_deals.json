@@ -1,77 +1,5 @@
 {
   "deals": {
-    "6168e034f5ad5c0656cd25dd6f0adc6c": {
-      "title": "Evostripe",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723379",
-      "sale_price": 32.99
-    },
-    "950534d6ac3941b0c37de06f0f9d8e5a": {
-      "title": "PUMA Essentials Logo Lab",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723419",
-      "sale_price": 12.99
-    },
-    "0938bc282b43a798c5b94dc63000c6a7": {
-      "title": "Train All Day Essentials",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723437",
-      "sale_price": 18.99
-    },
-    "c82c1b050f915c1de3bded7942c39c03": {
-      "title": "Carina 3.0 Metallic Whisper",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723457",
-      "sale_price": 38.99
-    },
-    "f09b493f833a63eaafd62db5738e72a2": {
-      "title": "Bari Comfort",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723460",
-      "sale_price": 38.99
-    },
-    "8fb678ab8f85f224e3afbbf481854698": {
-      "title": "FUTURE 8 PRO",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723533",
-      "sale_price": 97.99
-    },
-    "465901d85423fceef9cd9c43721b2a1b": {
-      "title": "Sport Pack",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723588",
-      "sale_price": 18.99
-    },
-    "06b0c8569d662b17770820a38ff8af0a": {
-      "title": "Ayro Street Camo",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723621",
-      "sale_price": 54.99
-    },
-    "5a2ffe84d7e7b072c923c90e8639e611": {
-      "title": "PUMA Club 5v5 Lux",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T08:25:48.723663",
-      "sale_price": 50.0
-    },
-    "150e0c3e08853f23ec296b2d66a5a99c": {
-      "title": "Powerbilt TPX Men's Golf Balls - 3 Piece",
-      "site": "Sport Chek",
-      "first_seen": "2026-03-29T10:32:12.002678",
-      "sale_price": 14.98
-    },
-    "79bdf9f809caefa312e04646c33f5821": {
-      "title": "FUTURE 8 PRO",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-29T10:32:12.002735",
-      "sale_price": 74.99
-    },
-    "33c223e65914154a33e4992000234b23": {
-      "title": "True Catalyst 7X3 Grip Senior Hockey Stick, Carbon Fiber, Mid Kick",
-      "site": "Sport Chek",
-      "first_seen": "2026-03-29T10:32:12.002740",
-      "sale_price": 129.98
-    },
     "c26545d477d969aec381d1dc3ee5a625": {
       "title": "Ring Spotlight Cam Wired HD Security Camera - Black",
       "site": "Canada Computers",
@@ -725,6 +653,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-05T06:10:15.503073",
       "sale_price": 100.0
+    },
+    "150e0c3e08853f23ec296b2d66a5a99c": {
+      "title": "Powerbilt TPX Men's Golf Balls - 3 Piece",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-05T10:33:33.321939",
+      "sale_price": 14.98
     }
   }
 }
