@@ -1,23 +1,5 @@
 {
   "deals": {
-    "8683414babcfd800161072b6b7a96a09": {
-      "title": "PUMA Essentials Satin",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-31T10:00:26.665753",
-      "sale_price": 33.99
-    },
-    "cb21445711352d421eccb97a80ffb928": {
-      "title": "Jackery Portable Power Station Explorer 2000 Plus, Solar Generator with 2042Wh LiFePO4 Battery 3000W Output, Expandable ",
-      "site": "Amazon.ca Deals",
-      "first_seen": "2026-03-31T10:00:26.665772",
-      "sale_price": 1799.0
-    },
-    "cd6311fc12f45d9b0e8dc26171bd66d0": {
-      "title": "Train All Day Essentials",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-31T10:00:26.665785",
-      "sale_price": 14.99
-    },
     "f4ad4c2aa00f035f66b1503e53ebf55d": {
       "title": "TNABUTTER™ CHEEKY HI-RISE 7\" SHORT",
       "site": "Aritzia",
@@ -677,6 +659,18 @@
       "site": "Browns Shoes",
       "first_seen": "2026-04-07T06:23:11.081619",
       "sale_price": 87.98
+    },
+    "6e8262c001619950b8dc207258393c80": {
+      "title": "PUMA Essentials",
+      "site": "Puma Canada",
+      "first_seen": "2026-04-07T10:53:37.509772",
+      "sale_price": 28.99
+    },
+    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
+      "title": "Nike Futura Block T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-07T10:53:37.509890",
+      "sale_price": 25.0
     }
   }
 }
