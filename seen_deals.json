@@ -1,29 +1,5 @@
 {
   "deals": {
-    "f4ad4c2aa00f035f66b1503e53ebf55d": {
-      "title": "TNABUTTER™ CHEEKY HI-RISE 7\" SHORT",
-      "site": "Aritzia",
-      "first_seen": "2026-03-31T12:22:28.849673",
-      "sale_price": 10.99
-    },
-    "21416d315c555a3dd2ecc6c9c3151d52": {
-      "title": "HERITAGE KNIT MERINO WOOL CREW SWEATER",
-      "site": "Aritzia",
-      "first_seen": "2026-03-31T12:22:28.849678",
-      "sale_price": 40.99
-    },
-    "a3d66a4d49a386363c8189ba244dc635": {
-      "title": "TOMORROW PAJAMA SHIRT",
-      "site": "Aritzia",
-      "first_seen": "2026-03-31T12:22:28.849715",
-      "sale_price": 26.99
-    },
-    "0e70a624c55f5e864816b4bbb30789d5": {
-      "title": "FLUID POPLIN DRESS",
-      "site": "Aritzia",
-      "first_seen": "2026-03-31T12:22:28.849720",
-      "sale_price": 54.99
-    },
     "7d8ec9e689a410cf434515f291eb2846": {
       "title": "be quiet! 120mm Case Fan",
       "site": "Canada Computers",
@@ -671,6 +647,48 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-07T10:53:37.509890",
       "sale_price": 25.0
+    },
+    "62b2f0ecc974b3cdec5f6c431ab0b061": {
+      "title": "GOLDENGLOW",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-07T15:15:09.815635",
+      "sale_price": 78.98
+    },
+    "dc5a1f72025d84fbb6fb3d696fa3f2f7": {
+      "title": "CLOUDMONSTER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-07T15:15:09.815647",
+      "sale_price": 119.98
+    },
+    "6dd130fa191f15ba1dfc59c3afb352cd": {
+      "title": "NORA THONG SANDAL",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-07T15:15:09.815656",
+      "sale_price": 78.98
+    },
+    "cca223d31b7b5fb3651b8658d573e822": {
+      "title": "CLIFTON 10",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-07T15:15:09.815660",
+      "sale_price": 109.98
+    },
+    "67e6ec29b90373b02b76604b345ca80b": {
+      "title": "UGG Tazz II",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-07T15:15:09.815675",
+      "sale_price": 87.5
+    },
+    "db662bc522502151ed0691e25bf3cbdd": {
+      "title": "UGG Tasman II",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-07T15:15:09.815679",
+      "sale_price": 75.0
+    },
+    "5728c1c5b47b485af95c234a1da492d1": {
+      "title": "Shiseido Fino Premium Touch Hair Mask (230g)",
+      "site": "Kiyoko Beauty",
+      "first_seen": "2026-04-07T15:15:09.815690",
+      "sale_price": 8.0
     }
   }
 }
