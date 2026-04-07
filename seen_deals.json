@@ -1,17 +1,5 @@
 {
   "deals": {
-    "af5972996514d5d6fcd5758c9c12211b": {
-      "title": "Phanteks Enthoo Pro TG PH-ES614PTG_BK Integrated RGB Lighting Control Tempered Glass Side Panel ATX Full Tower Computer ",
-      "site": "Newegg Canada",
-      "first_seen": "2026-03-31T06:12:44.368751",
-      "sale_price": 19.99
-    },
-    "1de0cdcfca9f49ce4e2ecf5722b0f22d": {
-      "title": "PUMA Essentials Outerwear",
-      "site": "Puma Canada",
-      "first_seen": "2026-03-31T06:12:44.368826",
-      "sale_price": 41.99
-    },
     "8683414babcfd800161072b6b7a96a09": {
       "title": "PUMA Essentials Satin",
       "site": "Puma Canada",
@@ -677,6 +665,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-07T00:17:59.126184",
       "sale_price": 20.0
+    },
+    "d0d717db6b048d7b5bab67324b7f90a4": {
+      "title": "MSI SHADOW GeForce RTX 5060 Ti Graphics Card RTX 5060 Ti 16G SHADOW 2X OC PLUS",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-07T06:23:11.081547",
+      "sale_price": 60.0
+    },
+    "0b6431991140d4ca9fbcff763bac23fe": {
+      "title": "CLIFTON 10",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-07T06:23:11.081619",
+      "sale_price": 87.98
     }
   }
 }
