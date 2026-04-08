@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5c3d469af028f703fb148887d08347b0": {
-      "title": "GOLDENGLOW",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-01T17:54:17.509182",
-      "sale_price": 63.18
-    },
     "fc890169817260583a3f00c1173ecbfa": {
       "title": "SauconyWomen's Ride 18 Running Shoe",
       "site": "SportingLife",
@@ -761,6 +755,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-08T10:55:53.027498",
       "sale_price": 50.0
+    },
+    "3b67d76d33b36c613e955c50d15eebae": {
+      "title": "ORIGINAL CONTOUR SQUARENECK HIP LONGSLEEVE",
+      "site": "Aritzia",
+      "first_seen": "2026-04-08T19:17:50.202263",
+      "sale_price": 28.99
+    },
+    "ccd5892c18dfc756a21b3fa62a7f0b4b": {
+      "title": "THE EFFORTLESS PANT™ CURVE-FIT",
+      "site": "Aritzia",
+      "first_seen": "2026-04-08T19:17:50.202272",
+      "sale_price": 73.99
+    },
+    "9d060471fac140b14accf06990444a80": {
+      "title": "HARLOW SWEATER",
+      "site": "Aritzia",
+      "first_seen": "2026-04-08T19:17:50.202276",
+      "sale_price": 88.99
     }
   }
 }
