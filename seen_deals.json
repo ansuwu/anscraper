@@ -1,17 +1,5 @@
 {
   "deals": {
-    "aa94d6b8c0a01cf6a9afafb721354394": {
-      "title": "MSI 27\" Dual Mode UHD 4K 144Hz Full HD 288Hz IPS with Adaptive-Sync 1ms HDR400 Ai Crosshair Gaming Computer Monitor with",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-01T06:26:40.847676",
-      "sale_price": 50.0
-    },
-    "a7a2c1f6860afb763e4dd41d8290f23d": {
-      "title": "Kingston NV3 M.2 2280 2TB PCIe 4.0 x4 NVMe Internal Solid State Drive (SSD) SNV3S/2000G Up to 6000 MB/s",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-01T10:51:31.790961",
-      "sale_price": 195.97
-    },
     "b3dbc8e45baf387c9459fa36830b3b1c": {
       "title": "MSI B650 GAMING PLUS WIFI AM5 AMD B650 SATA 6Gb/s ATX Motherboard",
       "site": "Newegg Canada",
@@ -779,6 +767,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-04-08T06:15:47.248228",
       "sale_price": 572.5
+    },
+    "f39bed4c8a1d67d30415c970e81cab91": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-08T10:55:53.027498",
+      "sale_price": 50.0
     }
   }
 }
