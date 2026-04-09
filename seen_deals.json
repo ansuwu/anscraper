@@ -1,11 +1,5 @@
 {
   "deals": {
-    "fc890169817260583a3f00c1173ecbfa": {
-      "title": "SauconyWomen's Ride 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-02T12:19:27.188088",
-      "sale_price": 89.98
-    },
     "297ba1905f07af0f902aad75a349a139": {
       "title": "SOFT SEAMLESS VICEROY LEGGING",
       "site": "Aritzia",
@@ -785,6 +779,36 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-09T10:42:37.108069",
       "sale_price": 74.98
+    },
+    "8a26742ca0c0ee3f8a8d337c67e71adf": {
+      "title": "Cozi All City Cargo Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-09T16:27:28.304236",
+      "sale_price": 19.99
+    },
+    "c9f474d6867ddc9823bcc4940b0f2108": {
+      "title": "adidas Originals Handball Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-09T16:27:28.304308",
+      "sale_price": 70.0
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-09T16:27:28.304313",
+      "sale_price": 50.0
+    },
+    "902629c9c763f1f54cea12ea7c81f904": {
+      "title": "Nike Puffle Mini Backpack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-09T16:27:28.304315",
+      "sale_price": 35.0
+    },
+    "311c6cf258d26e3657371c9f65e9365c": {
+      "title": "Jordan NC Reissue Oversize Short Sleeve Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-09T16:27:28.304319",
+      "sale_price": 27.5
     }
   }
 }
