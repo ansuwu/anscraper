@@ -1,29 +1,5 @@
 {
   "deals": {
-    "34872cc8e1201152f9201efecffcde72": {
-      "title": "Reebok Women's Classic Leather Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-03T20:10:24.388367",
-      "sale_price": 39.98
-    },
-    "92543914e105f90331d8b4e0ad1e49ea": {
-      "title": "Reebok Women's Club 85 Foundation Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-03T20:10:24.388373",
-      "sale_price": 39.99
-    },
-    "6b399041bfcb0c55a78fd29e5f804db3": {
-      "title": "New Balance Men's XC Seven Spike",
-      "site": "Running Room",
-      "first_seen": "2026-04-03T20:10:24.388396",
-      "sale_price": 40.0
-    },
-    "0a6ee9db25a920721ba8411a22109ad3": {
-      "title": "BENTON Fermentation Eye Cream 30g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-04-03T20:10:24.388413",
-      "sale_price": 11.0
-    },
     "6d0f60b631ae7e5351346f00e62844f4": {
       "title": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TLZGD432G3600HC18JDC01",
       "site": "Newegg Canada",
@@ -809,6 +785,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-10T14:55:16.608476",
       "sale_price": 30.0
+    },
+    "6b399041bfcb0c55a78fd29e5f804db3": {
+      "title": "New Balance Men's XC Seven Spike",
+      "site": "Running Room",
+      "first_seen": "2026-04-10T20:16:35.961616",
+      "sale_price": 40.0
     }
   }
 }
