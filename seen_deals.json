@@ -803,6 +803,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-10T10:56:45.689133",
       "sale_price": 52.5
+    },
+    "e787a24f22bcfa0456417c8bf56f02b6": {
+      "title": "adidas Originals Oversized Firebird Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-10T14:55:16.608363",
+      "sale_price": 19.99
+    },
+    "1336159fd55fda2ccb49b83423abaa0d": {
+      "title": "adidas Runfalcon 5",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-10T14:55:16.608476",
+      "sale_price": 30.0
     }
   }
 }
