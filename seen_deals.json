@@ -1,23 +1,5 @@
 {
   "deals": {
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-04T21:17:23.848457",
-      "sale_price": 19.88
-    },
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-04T21:17:23.848463",
-      "sale_price": 14.99
-    },
-    "4cf8e5401e1a1b73bca30ef97692e830": {
-      "title": "adidas Men's Lite Racer Adapt 7.0 Sneakers",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-04T21:17:23.848467",
-      "sale_price": 49.98
-    },
     "5bd7e641a8392ce15705cffa4b694eea": {
       "title": "MSI Ventus GeForce RTX 5070 Ti Graphics Card RTX 5070 TI 16G VENTUS 3X OC BLACK",
       "site": "Newegg Canada",
@@ -785,6 +767,18 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-11T18:22:28.926164",
       "sale_price": 85.99
+    },
+    "b9aca20e41a3c730d3058d6f03271ee4": {
+      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-11T21:25:57.244941",
+      "sale_price": 19.88
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-11T21:25:57.244948",
+      "sale_price": 14.99
     }
   }
 }
