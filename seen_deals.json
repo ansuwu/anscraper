@@ -1,11 +1,5 @@
 {
   "deals": {
-    "7f96db8d3364c9fdd77117e3f1cf4141": {
-      "title": "Jordan Authentic Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-04T10:12:58.638867",
-      "sale_price": 22.5
-    },
     "cf63441bc5a07ad21ab727b71917eced": {
       "title": "Glorious Raptor Clicky switches - Mechanical (36pieces)",
       "site": "Canada Computers",
@@ -779,6 +773,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-11T08:23:00.859754",
       "sale_price": 24.0
+    },
+    "352095beb7b2336e751db63f0c277c96": {
+      "title": "New Balance 530",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-11T11:18:39.324998",
+      "sale_price": 40.0
+    },
+    "7f96db8d3364c9fdd77117e3f1cf4141": {
+      "title": "Jordan Authentic Short Sleeve Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-11T11:18:39.325009",
+      "sale_price": 22.5
     }
   }
 }
