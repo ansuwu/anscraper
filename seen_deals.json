@@ -1,29 +1,5 @@
 {
   "deals": {
-    "9c3d0e93f9b4616308bfe0591907a937": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-05T16:16:45.372193",
-      "sale_price": 246.85
-    },
-    "26563f14a103e60b3479d1d61f1d7d88": {
-      "title": "Ripzone Kids' Grade/Pre-School Pacific Rain Boots",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-05T16:16:45.372246",
-      "sale_price": 19.98
-    },
-    "bbdcfd077f920b73c684a755d919c0d9": {
-      "title": "be quiet! PURE WINGS 3 140mm PWM Case Fan, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-05T16:16:45.372257",
-      "sale_price": 9.99
-    },
-    "33c223e65914154a33e4992000234b23": {
-      "title": "True Catalyst 7X3 Grip Senior Hockey Stick, Carbon Fiber, Mid Kick",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-05T16:16:45.372265",
-      "sale_price": 129.98
-    },
     "f57910f9cf186161ce3eafa96433d9a4": {
       "title": "RAYOVAC AA Alkaline Battery 4 Pack",
       "site": "Canada Computers",
@@ -815,6 +791,24 @@
       "site": "Aritzia",
       "first_seen": "2026-04-12T09:53:52.020219",
       "sale_price": 113.99
+    },
+    "6c49cae5aa10631b0b4973cff065b420": {
+      "title": "Phanteks XT M3, Compact Micro-ATX Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 3x 120mm D-RGB f",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-12T17:22:54.008190",
+      "sale_price": 12.99
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-12T17:22:54.008252",
+      "sale_price": 49.99
+    },
+    "5db16e11648439ff7dc9f3d682460abf": {
+      "title": "Saucony Ride Millennium",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-12T17:22:54.008291",
+      "sale_price": 65.0
     }
   }
 }
