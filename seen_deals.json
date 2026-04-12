@@ -1,23 +1,5 @@
 {
   "deals": {
-    "f57910f9cf186161ce3eafa96433d9a4": {
-      "title": "RAYOVAC AA Alkaline Battery 4 Pack",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-05T18:17:18.331776",
-      "sale_price": 0.88
-    },
-    "264af5f459df28b9e5019a8aeaa575bc": {
-      "title": "Jordan NC Lights Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-05T18:17:18.331890",
-      "sale_price": 22.5
-    },
-    "06b1908ddb359143362e854dbd4855a8": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-05T20:13:45.511119",
-      "sale_price": 419.97
-    },
     "81c49741413c7c572d8a130bf6fb8eda": {
       "title": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040",
       "site": "Newegg Canada",
@@ -809,6 +791,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-12T17:22:54.008291",
       "sale_price": 65.0
+    },
+    "264af5f459df28b9e5019a8aeaa575bc": {
+      "title": "Jordan NC Lights Short Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-12T20:15:39.056138",
+      "sale_price": 22.5
     }
   }
 }
