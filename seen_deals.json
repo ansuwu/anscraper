@@ -1,41 +1,5 @@
 {
   "deals": {
-    "c9f97b7e7205ccf6297a228db1337c30": {
-      "title": "PUMA Essentials",
-      "site": "Puma Canada",
-      "first_seen": "2026-04-06T10:55:58.591677",
-      "sale_price": 16.0
-    },
-    "5a2ffe84d7e7b072c923c90e8639e611": {
-      "title": "PUMA Club 5v5 Lux",
-      "site": "Puma Canada",
-      "first_seen": "2026-04-06T10:55:58.591682",
-      "sale_price": 50.0
-    },
-    "837858b73d277e7f3be6a33698d6e532": {
-      "title": "Vikky v3",
-      "site": "Puma Canada",
-      "first_seen": "2026-04-06T10:55:58.591685",
-      "sale_price": 42.5
-    },
-    "77afb061ca6c6d819a9339b470b7f551": {
-      "title": "Cool Cat 2.0",
-      "site": "Puma Canada",
-      "first_seen": "2026-04-06T10:55:58.591688",
-      "sale_price": 22.5
-    },
-    "b4b947cefa6842d882c0c79361c9dff5": {
-      "title": "Skyrocket Lite",
-      "site": "Puma Canada",
-      "first_seen": "2026-04-06T10:55:58.591691",
-      "sale_price": 47.5
-    },
-    "a1b2e77a8eedf5fdd74c38543c2cc531": {
-      "title": "adidas Originals Samba",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-06T10:55:58.591702",
-      "sale_price": 65.0
-    },
     "6042873cce6c4d482e72ad0b754bf4ac": {
       "title": "Ripzone Kids' Grade School Puddle Jumper Rain Boots",
       "site": "Sport Chek",
@@ -785,6 +749,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-12T20:15:39.056138",
       "sale_price": 22.5
+    },
+    "92d61eec1180b038d474c309714e6186": {
+      "title": "Phanteks XT Pro, Mid-Tower Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 1x M25-120 Black fan in",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-13T12:15:05.163300",
+      "sale_price": 14.99
     }
   }
 }
