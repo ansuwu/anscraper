@@ -1,17 +1,5 @@
 {
   "deals": {
-    "d0d717db6b048d7b5bab67324b7f90a4": {
-      "title": "MSI SHADOW GeForce RTX 5060 Ti Graphics Card RTX 5060 Ti 16G SHADOW 2X OC PLUS",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-07T06:23:11.081547",
-      "sale_price": 60.0
-    },
-    "0b6431991140d4ca9fbcff763bac23fe": {
-      "title": "CLIFTON 10",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-07T06:23:11.081619",
-      "sale_price": 87.98
-    },
     "6e8262c001619950b8dc207258393c80": {
       "title": "PUMA Essentials",
       "site": "Puma Canada",
@@ -677,6 +665,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-14T04:57:20.892287",
       "sale_price": 65.0
+    },
+    "06b1908ddb359143362e854dbd4855a8": {
+      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-14T06:49:42.148665",
+      "sale_price": 419.97
+    },
+    "14bb2fff1d8149806e2f364fbe85f106": {
+      "title": "LCKR Marcdale Relaxed Fit Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-14T06:49:42.148699",
+      "sale_price": 30.0
     }
   }
 }
