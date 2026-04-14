@@ -1,47 +1,5 @@
 {
   "deals": {
-    "62b2f0ecc974b3cdec5f6c431ab0b061": {
-      "title": "GOLDENGLOW",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-07T15:15:09.815635",
-      "sale_price": 78.98
-    },
-    "dc5a1f72025d84fbb6fb3d696fa3f2f7": {
-      "title": "CLOUDMONSTER",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-07T15:15:09.815647",
-      "sale_price": 119.98
-    },
-    "6dd130fa191f15ba1dfc59c3afb352cd": {
-      "title": "NORA THONG SANDAL",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-07T15:15:09.815656",
-      "sale_price": 78.98
-    },
-    "cca223d31b7b5fb3651b8658d573e822": {
-      "title": "CLIFTON 10",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-07T15:15:09.815660",
-      "sale_price": 109.98
-    },
-    "67e6ec29b90373b02b76604b345ca80b": {
-      "title": "UGG Tazz II",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-07T15:15:09.815675",
-      "sale_price": 87.5
-    },
-    "db662bc522502151ed0691e25bf3cbdd": {
-      "title": "UGG Tasman II",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-07T15:15:09.815679",
-      "sale_price": 75.0
-    },
-    "5728c1c5b47b485af95c234a1da492d1": {
-      "title": "Shiseido Fino Premium Touch Hair Mask (230g)",
-      "site": "Kiyoko Beauty",
-      "first_seen": "2026-04-07T15:15:09.815690",
-      "sale_price": 8.0
-    },
     "7798e4f166e95ceb8b677afa96c12ad7": {
       "title": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
       "site": "Newegg Canada",
@@ -683,6 +641,24 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-14T15:08:36.141514",
       "sale_price": 417.94
+    },
+    "05074bfe99e4f3c3e1feaea9da2b8859": {
+      "title": "WD_BLACK SN7100 M.2 2280 2TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS200T4X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-14T16:21:25.404259",
+      "sale_price": 217.96
+    },
+    "67e6ec29b90373b02b76604b345ca80b": {
+      "title": "UGG Tazz II",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-14T16:21:25.404333",
+      "sale_price": 87.5
+    },
+    "5728c1c5b47b485af95c234a1da492d1": {
+      "title": "Shiseido Fino Premium Touch Hair Mask (230g)",
+      "site": "Kiyoko Beauty",
+      "first_seen": "2026-04-14T16:21:25.404343",
+      "sale_price": 8.0
     }
   }
 }
