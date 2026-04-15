@@ -1,23 +1,5 @@
 {
   "deals": {
-    "3b67d76d33b36c613e955c50d15eebae": {
-      "title": "ORIGINAL CONTOUR SQUARENECK HIP LONGSLEEVE",
-      "site": "Aritzia",
-      "first_seen": "2026-04-08T19:17:50.202263",
-      "sale_price": 28.99
-    },
-    "ccd5892c18dfc756a21b3fa62a7f0b4b": {
-      "title": "THE EFFORTLESS PANT™ CURVE-FIT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-08T19:17:50.202272",
-      "sale_price": 73.99
-    },
-    "9d060471fac140b14accf06990444a80": {
-      "title": "HARLOW SWEATER",
-      "site": "Aritzia",
-      "first_seen": "2026-04-08T19:17:50.202276",
-      "sale_price": 88.99
-    },
     "b74a214943bc0c6e712938ae845cbdaa": {
       "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
       "site": "Newegg Canada",
@@ -1271,6 +1253,18 @@
       "site": "Aritzia",
       "first_seen": "2026-04-15T17:28:08.910369",
       "sale_price": 93.99
+    },
+    "3dd9ded49d7393d51aa6c8e07aef256d": {
+      "title": "Samsung 27\" QHD 165Hz 1ms GTG Curved LED FreeSync Gaming Monitor",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-15T20:18:47.872870",
+      "sale_price": 149.99
+    },
+    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
+      "title": "UGG Tasman Maxi Curly",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-15T20:18:47.873040",
+      "sale_price": 82.5
     }
   }
 }
