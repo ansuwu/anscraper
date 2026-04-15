@@ -1,11 +1,5 @@
 {
   "deals": {
-    "0898048d33791cca1237770fbd3a13e4": {
-      "title": "Nike NSW M90 Air T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-08T00:12:25.365094",
-      "sale_price": 24.0
-    },
     "e5d3e9bef768f0ee724d88d3194e897c": {
       "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
       "site": "Nordstrom Canada",
@@ -665,6 +659,12 @@
       "site": "Puma Canada",
       "first_seen": "2026-04-14T18:13:19.046057",
       "sale_price": 50.0
+    },
+    "0898048d33791cca1237770fbd3a13e4": {
+      "title": "Nike NSW M90 Air T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-15T01:40:58.301797",
+      "sale_price": 24.0
     }
   }
 }
