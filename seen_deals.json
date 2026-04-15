@@ -599,6 +599,18 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-15T08:41:11.190080",
       "sale_price": 161.23
+    },
+    "955f8d65d4a412bd3a0ae425e5f86b41": {
+      "title": "LCKR C-24 Standard Fit Cargo Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-15T10:27:28.044714",
+      "sale_price": 30.0
+    },
+    "708fb4545923eb46b72826f8fce463f0": {
+      "title": "adidas Essential Open Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-15T10:27:28.044721",
+      "sale_price": 42.5
     }
   }
 }
