@@ -1,11 +1,5 @@
 {
   "deals": {
-    "f39bed4c8a1d67d30415c970e81cab91": {
-      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-08T10:55:53.027498",
-      "sale_price": 50.0
-    },
     "3b67d76d33b36c613e955c50d15eebae": {
       "title": "ORIGINAL CONTOUR SQUARENECK HIP LONGSLEEVE",
       "site": "Aritzia",
@@ -611,6 +605,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-15T10:27:28.044721",
       "sale_price": 42.5
+    },
+    "f39bed4c8a1d67d30415c970e81cab91": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-15T12:07:03.827941",
+      "sale_price": 50.0
     }
   }
 }
