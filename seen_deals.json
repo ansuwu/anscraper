@@ -1301,6 +1301,18 @@
       "site": "Canada Computers",
       "first_seen": "2026-04-15T22:07:41.847644",
       "sale_price": 89.99
+    },
+    "1b3f10645b007d014e457263beb75962": {
+      "title": "BAHE PILATES RING",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T10:24:22.505135",
+      "sale_price": 17.5
+    },
+    "1b4b7535f434c7e48872e8d4eb040d76": {
+      "title": "BAHE Flow Reformer",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T10:24:22.505140",
+      "sale_price": 15.0
     }
   }
 }
