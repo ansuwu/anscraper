@@ -1367,6 +1367,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-16T17:19:49.671277",
       "sale_price": 50.0
+    },
+    "b74a214943bc0c6e712938ae845cbdaa": {
+      "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-16T21:54:11.754557",
+      "sale_price": 152.2
+    },
+    "6d0f60b631ae7e5351346f00e62844f4": {
+      "title": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TLZGD432G3600HC18JDC01",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-16T21:54:11.754581",
+      "sale_price": 122.41
+    },
+    "19b441a876dbb87f33c266a61992485c": {
+      "title": "G&G P4100DW Wireless Monochrome Laser Printer, 33 ppm",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-16T21:54:11.754634",
+      "sale_price": 129.99
     }
   }
 }
