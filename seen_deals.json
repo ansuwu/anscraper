@@ -1,35 +1,5 @@
 {
   "deals": {
-    "8a26742ca0c0ee3f8a8d337c67e71adf": {
-      "title": "Cozi All City Cargo Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-09T16:27:28.304236",
-      "sale_price": 19.99
-    },
-    "c9f474d6867ddc9823bcc4940b0f2108": {
-      "title": "adidas Originals Handball Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-09T16:27:28.304308",
-      "sale_price": 70.0
-    },
-    "b46149340c7dec5e65836c26f1b3e208": {
-      "title": "Converse Chuck 70 Hi",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-09T16:27:28.304313",
-      "sale_price": 50.0
-    },
-    "902629c9c763f1f54cea12ea7c81f904": {
-      "title": "Nike Puffle Mini Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-09T16:27:28.304315",
-      "sale_price": 35.0
-    },
-    "311c6cf258d26e3657371c9f65e9365c": {
-      "title": "Jordan NC Reissue Oversize Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-09T16:27:28.304319",
-      "sale_price": 27.5
-    },
     "d99f20aaf0fd1088fe36e5cf48819e69": {
       "title": "HUAWEI FreeBuds SE 2 True Wireless Earbuds, White",
       "site": "Canada Computers",
@@ -1349,6 +1319,54 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-16T15:32:07.754052",
       "sale_price": 10.0
+    },
+    "4a767328c3317c62a08ae70fc207c2a8": {
+      "title": "Ripzone Men's Sirocco Windbreaker Jacket",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T17:19:49.671223",
+      "sale_price": 29.98
+    },
+    "db9fd12001e38dd5a50ead8c0369409d": {
+      "title": "BAHE Be U Yoga Block",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T17:19:49.671239",
+      "sale_price": 15.0
+    },
+    "11fe254a73a596d2e55f0897922c5981": {
+      "title": "BAHE Yoga Mat Towel",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T17:19:49.671244",
+      "sale_price": 27.5
+    },
+    "96dbb810e06232fda43b830c7eefdcef": {
+      "title": "BAHE Cork Yoga Block",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T17:19:49.671250",
+      "sale_price": 15.0
+    },
+    "ee6fa6ebdc012cfa8543808251eb2153": {
+      "title": "BAHE Flowbands Combo, 3 Pack",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-16T17:19:49.671253",
+      "sale_price": 17.5
+    },
+    "c9f474d6867ddc9823bcc4940b0f2108": {
+      "title": "adidas Originals Handball Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-16T17:19:49.671261",
+      "sale_price": 70.0
+    },
+    "902629c9c763f1f54cea12ea7c81f904": {
+      "title": "Nike Puffle Mini Backpack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-16T17:19:49.671273",
+      "sale_price": 35.0
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-16T17:19:49.671277",
+      "sale_price": 50.0
     }
   }
 }
