@@ -1,11 +1,5 @@
 {
   "deals": {
-    "d99f20aaf0fd1088fe36e5cf48819e69": {
-      "title": "HUAWEI FreeBuds SE 2 True Wireless Earbuds, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-10T06:39:48.489019",
-      "sale_price": 39.99
-    },
     "31dbb8ba9bb174bb12a7a89280b1c73e": {
       "title": "UGG Tasman",
       "site": "Foot Locker Canada",
@@ -1511,6 +1505,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-17T05:12:06.952630",
       "sale_price": 27.5
+    },
+    "d99f20aaf0fd1088fe36e5cf48819e69": {
+      "title": "HUAWEI FreeBuds SE 2 True Wireless Earbuds, White",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-17T07:11:54.633986",
+      "sale_price": 39.99
+    },
+    "396134dc7280be2ed72789cce5b64d65": {
+      "title": "Ripzone Men's Skyline Windbreaker Jacket",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-17T07:11:54.634061",
+      "sale_price": 34.98
+    },
+    "c413197ba5b3732363347a62c9d75fb3": {
+      "title": "Sherpa Winter Cap - Kids",
+      "site": "Altitude Sports",
+      "first_seen": "2026-04-17T07:11:54.634076",
+      "sale_price": 0
     }
   }
 }
