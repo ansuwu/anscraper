@@ -1,17 +1,5 @@
 {
   "deals": {
-    "31dbb8ba9bb174bb12a7a89280b1c73e": {
-      "title": "UGG Tasman",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-10T10:56:45.689119",
-      "sale_price": 50.0
-    },
-    "a821bb265170ab7e0ec7f58d69734c53": {
-      "title": "Nike Puffle Tote 2.0",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-10T10:56:45.689133",
-      "sale_price": 52.5
-    },
     "e787a24f22bcfa0456417c8bf56f02b6": {
       "title": "adidas Originals Oversized Firebird Pants",
       "site": "Foot Locker Canada",
@@ -1571,6 +1559,30 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-17T08:51:17.936953",
       "sale_price": 28.0
+    },
+    "a3d66a4d49a386363c8189ba244dc635": {
+      "title": "TOMORROW PAJAMA SHIRT",
+      "site": "Aritzia",
+      "first_seen": "2026-04-17T12:13:25.994673",
+      "sale_price": 26.99
+    },
+    "3b67d76d33b36c613e955c50d15eebae": {
+      "title": "ORIGINAL CONTOUR SQUARENECK HIP LONGSLEEVE",
+      "site": "Aritzia",
+      "first_seen": "2026-04-17T12:13:25.994823",
+      "sale_price": 28.99
+    },
+    "ccd5892c18dfc756a21b3fa62a7f0b4b": {
+      "title": "THE EFFORTLESS PANT™ CURVE-FIT",
+      "site": "Aritzia",
+      "first_seen": "2026-04-17T12:13:25.994832",
+      "sale_price": 73.99
+    },
+    "a821bb265170ab7e0ec7f58d69734c53": {
+      "title": "Nike Puffle Tote 2.0",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-17T12:13:25.994871",
+      "sale_price": 52.5
     }
   }
 }
