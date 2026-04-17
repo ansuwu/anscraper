@@ -1,17 +1,5 @@
 {
   "deals": {
-    "e787a24f22bcfa0456417c8bf56f02b6": {
-      "title": "adidas Originals Oversized Firebird Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-10T14:55:16.608363",
-      "sale_price": 19.99
-    },
-    "1336159fd55fda2ccb49b83423abaa0d": {
-      "title": "adidas Runfalcon 5",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-10T14:55:16.608476",
-      "sale_price": 30.0
-    },
     "6b399041bfcb0c55a78fd29e5f804db3": {
       "title": "New Balance Men's XC Seven Spike",
       "site": "Running Room",
@@ -1583,6 +1571,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-17T12:13:25.994871",
       "sale_price": 52.5
+    },
+    "27ddacf4d484bbf3630bc711dc2a1ff1": {
+      "title": "DIYPC ARGB-M1-BK Black Cases (Computer Cases - ATX Form)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-17T16:23:57.776953",
+      "sale_price": 12.99
     }
   }
 }
