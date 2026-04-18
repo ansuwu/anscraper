@@ -1,17 +1,5 @@
 {
   "deals": {
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-11T21:25:57.244941",
-      "sale_price": 19.88
-    },
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-11T21:25:57.244948",
-      "sale_price": 14.99
-    },
     "751c1d2d886f1a940b108c87d9b233cb": {
       "title": "Cooler Master MasterBox Q300L Micro-ATX PC Case - Compact mATX Computer Case with Magnetic Dust Filters, Modular Adjusta",
       "site": "Newegg Canada",
@@ -1547,6 +1535,54 @@
       "site": "SportingLife",
       "first_seen": "2026-04-18T15:07:44.309312",
       "sale_price": 89.98
+    },
+    "800711031c51d08b5aa9695a667ad5b5": {
+      "title": "SCULPT KNIT SQUARENECK TANK",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768115",
+      "sale_price": 19.99
+    },
+    "a899eb78fe7f8c04e6893847f73163cf": {
+      "title": "WANDERLUST HAT",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768121",
+      "sale_price": 22.99
+    },
+    "f7d9fb0cde27ac437a184f971eb297f4": {
+      "title": "ERA SATIN DRESS",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768196",
+      "sale_price": 50.99
+    },
+    "b2b2511138eca2c4272152e44b12d6b7": {
+      "title": "COSMIC WOOL CASHMERE SWEATER",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768201",
+      "sale_price": 62.99
+    },
+    "74b990d1c61f2474bdb8df280bdfa527": {
+      "title": "AGOLDE V-WAIST MINI SKIRT",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768204",
+      "sale_price": 70.99
+    },
+    "104bebfb2e7f2fd89a185fb72075bde6": {
+      "title": "TELEGRAPH BOMBER",
+      "site": "Aritzia",
+      "first_seen": "2026-04-18T21:57:54.768207",
+      "sale_price": 98.99
+    },
+    "b9aca20e41a3c730d3058d6f03271ee4": {
+      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-18T21:57:54.768322",
+      "sale_price": 19.88
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-18T21:57:54.768386",
+      "sale_price": 14.99
     }
   }
 }
