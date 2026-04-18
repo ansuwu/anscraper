@@ -1541,6 +1541,18 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-18T14:31:50.640159",
       "sale_price": 14.99
+    },
+    "ff8e5bd6bbd9adbebed1f3e08865a104": {
+      "title": "SauconyMen's Guide 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-18T15:07:44.309307",
+      "sale_price": 89.98
+    },
+    "fc890169817260583a3f00c1173ecbfa": {
+      "title": "SauconyWomen's Ride 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-18T15:07:44.309312",
+      "sale_price": 89.98
     }
   }
 }
