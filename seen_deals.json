@@ -1535,6 +1535,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-18T08:28:39.980011",
       "sale_price": 24.0
+    },
+    "688a5fddf2c63567e5d0df203d5c0f72": {
+      "title": "Redon Bungee",
+      "site": "Puma Canada",
+      "first_seen": "2026-04-18T09:10:19.140653",
+      "sale_price": 34.99
     }
   }
 }
