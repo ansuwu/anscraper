@@ -1,65 +1,5 @@
 {
   "deals": {
-    "751c1d2d886f1a940b108c87d9b233cb": {
-      "title": "Cooler Master MasterBox Q300L Micro-ATX PC Case - Compact mATX Computer Case with Magnetic Dust Filters, Modular Adjusta",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-12T09:53:52.020115",
-      "sale_price": 12.99
-    },
-    "02921097f0a5817da2b81240056e4782": {
-      "title": "NEW ERA UCLA BRUINS 9TWENTY HAT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020133",
-      "sale_price": 9.99
-    },
-    "297ba1905f07af0f902aad75a349a139": {
-      "title": "SOFT SEAMLESS VICEROY LEGGING",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020140",
-      "sale_price": 19.99
-    },
-    "1bfbbdd3d52efc39b79fecc1515aa248": {
-      "title": "NEW ERA BUFFALO BILLS 9TWENTY HAT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020143",
-      "sale_price": 11.99
-    },
-    "b8a27c505f07687e2f2a92685e43d670": {
-      "title": "SOFTSPOKE™ RHODA SWEATER",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020183",
-      "sale_price": 46.99
-    },
-    "e9b9dc27d6e9ca95c4f9b9cb01565ae4": {
-      "title": "MERAKI MERINO WOOL CARDIGAN",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020186",
-      "sale_price": 58.99
-    },
-    "5e08175288b75625374713775b8d4e1f": {
-      "title": "BENEFACTOR DRESS",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020189",
-      "sale_price": 66.99
-    },
-    "7f51423f0007605366cb927854298af8": {
-      "title": "AGOLDE 90S SHORT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020192",
-      "sale_price": 70.99
-    },
-    "d36698cbe7194cc5bc4bbf2cd7c11135": {
-      "title": "THE LIMITLESS SHORT™ CURVE-FIT MINI",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020213",
-      "sale_price": 48.99
-    },
-    "ead11fd56970d8abfa17a42d4b4db8b0": {
-      "title": "MESH CASHMERE OVERSIZED CREW SWEATER",
-      "site": "Aritzia",
-      "first_seen": "2026-04-12T09:53:52.020219",
-      "sale_price": 113.99
-    },
     "6c49cae5aa10631b0b4973cff065b420": {
       "title": "Phanteks XT M3, Compact Micro-ATX Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 3x 120mm D-RGB f",
       "site": "Newegg Canada",
@@ -1583,6 +1523,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-04-18T21:57:54.768386",
       "sale_price": 14.99
+    },
+    "81c49741413c7c572d8a130bf6fb8eda": {
+      "title": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-19T10:13:32.365873",
+      "sale_price": 385.99
     }
   }
 }
