@@ -1,11 +1,5 @@
 {
   "deals": {
-    "264af5f459df28b9e5019a8aeaa575bc": {
-      "title": "Jordan NC Lights Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-12T20:15:39.056138",
-      "sale_price": 22.5
-    },
     "92d61eec1180b038d474c309714e6186": {
       "title": "Phanteks XT Pro, Mid-Tower Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 1x M25-120 Black fan in",
       "site": "Newegg Canada",
@@ -1559,6 +1553,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-19T18:01:56.277975",
       "sale_price": 49.99
+    },
+    "264af5f459df28b9e5019a8aeaa575bc": {
+      "title": "Jordan NC Lights Short Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-19T21:00:27.081138",
+      "sale_price": 22.5
     }
   }
 }
