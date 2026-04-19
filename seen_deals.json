@@ -1,23 +1,5 @@
 {
   "deals": {
-    "6c49cae5aa10631b0b4973cff065b420": {
-      "title": "Phanteks XT M3, Compact Micro-ATX Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 3x 120mm D-RGB f",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-12T17:22:54.008190",
-      "sale_price": 12.99
-    },
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-12T17:22:54.008252",
-      "sale_price": 49.99
-    },
-    "5db16e11648439ff7dc9f3d682460abf": {
-      "title": "Saucony Ride Millennium",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-12T17:22:54.008291",
-      "sale_price": 65.0
-    },
     "264af5f459df28b9e5019a8aeaa575bc": {
       "title": "Jordan NC Lights Short Sleeve T-Shirt",
       "site": "Foot Locker Canada",
@@ -1571,6 +1553,12 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-19T15:13:30.602566",
       "sale_price": 39.98
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-19T18:01:56.277975",
+      "sale_price": 49.99
     }
   }
 }
