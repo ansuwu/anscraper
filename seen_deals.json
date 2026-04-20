@@ -1559,6 +1559,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-19T21:00:27.081138",
       "sale_price": 22.5
+    },
+    "2646fe64dac2bbbda094e1845a27eda3": {
+      "title": "SAMA S40 Black ATX Mid Tower Case - High Airflow, 4x 120mm ARGB PWM Fans, Tempered Glass, Mesh Front, Type-C, Supports A",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-20T07:31:52.274339",
+      "sale_price": 59.99
+    },
+    "229b49bc9ee93a0804c88eb0fc843295": {
+      "title": "AMD Ryzen 5 7600X - Zen 4 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-20T07:31:52.274358",
+      "sale_price": 224.95
     }
   }
 }
