@@ -1,11 +1,5 @@
 {
   "deals": {
-    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
-      "title": "Nike Futura Block T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-14T12:12:54.935235",
-      "sale_price": 25.0
-    },
     "50eb8dedb453e49b57f063d264de0e4b": {
       "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
       "site": "Newegg Canada",
@@ -1601,6 +1595,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-21T12:08:55.132205",
       "sale_price": 50.0
+    },
+    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
+      "title": "Nike Futura Block T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-21T13:11:36.039528",
+      "sale_price": 25.0
     }
   }
 }
