@@ -1,17 +1,5 @@
 {
   "deals": {
-    "06b1908ddb359143362e854dbd4855a8": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-14T06:49:42.148665",
-      "sale_price": 419.97
-    },
-    "14bb2fff1d8149806e2f364fbe85f106": {
-      "title": "LCKR Marcdale Relaxed Fit Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-14T06:49:42.148699",
-      "sale_price": 30.0
-    },
     "e13040a33d6549d3a17262bfdb143e4c": {
       "title": "Nike BB Footwear Vintage T-Shirt",
       "site": "Foot Locker Canada",
@@ -1595,6 +1583,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-21T06:49:16.229484",
       "sale_price": 27.5
+    },
+    "14bb2fff1d8149806e2f364fbe85f106": {
+      "title": "LCKR Marcdale Relaxed Fit Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-21T08:41:48.338615",
+      "sale_price": 30.0
     }
   }
 }
