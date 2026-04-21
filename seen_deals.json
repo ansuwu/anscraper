@@ -1,29 +1,5 @@
 {
   "deals": {
-    "50eb8dedb453e49b57f063d264de0e4b": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-14T15:08:36.141514",
-      "sale_price": 417.94
-    },
-    "05074bfe99e4f3c3e1feaea9da2b8859": {
-      "title": "WD_BLACK SN7100 M.2 2280 2TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS200T4X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-14T16:21:25.404259",
-      "sale_price": 217.96
-    },
-    "67e6ec29b90373b02b76604b345ca80b": {
-      "title": "UGG Tazz II",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-14T16:21:25.404333",
-      "sale_price": 87.5
-    },
-    "5728c1c5b47b485af95c234a1da492d1": {
-      "title": "Shiseido Fino Premium Touch Hair Mask (230g)",
-      "site": "Kiyoko Beauty",
-      "first_seen": "2026-04-14T16:21:25.404343",
-      "sale_price": 8.0
-    },
     "6dd130fa191f15ba1dfc59c3afb352cd": {
       "title": "NORA THONG SANDAL",
       "site": "Browns Shoes",
@@ -1601,6 +1577,42 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-21T13:11:36.039528",
       "sale_price": 25.0
+    },
+    "732166ecac4eabf09d5d15da9ce5d7d6": {
+      "title": "GIGABYTE B650M GAMING PLUS WIFI AM5 LGA 1718 AMD B650 M-ATX, DDR5, PCIe 4.0 M.2, PCIe 4.0, USB 3.2 Gen 1 Type-C, Wi-Fi 6",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-21T16:24:26.571128",
+      "sale_price": 29.99
+    },
+    "fc69b22e8099e2d09def7e92d570f854": {
+      "title": "Nike Men's Air Zoom Infinity Pro 2 Spikeless Waterproof Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-21T16:24:26.571135",
+      "sale_price": 20.88
+    },
+    "8911ba07fc45df921b797f70c607aabd": {
+      "title": "PUMA Men's Ignite Elevate Spikeless Waterproof Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-21T16:24:26.571139",
+      "sale_price": 26.88
+    },
+    "aac046a28ce291dc96c77a9f5988b288": {
+      "title": "Cole Haan Men's GrandPrø Topspin Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-21T16:24:26.571184",
+      "sale_price": 59.88
+    },
+    "482b4cf22041c09cad28814ea78a5138": {
+      "title": "Damaged Boxes - I'm from Mugwart Mask 110g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-04-21T16:24:26.571189",
+      "sale_price": 15.0
+    },
+    "5728c1c5b47b485af95c234a1da492d1": {
+      "title": "Shiseido Fino Premium Touch Hair Mask (230g)",
+      "site": "Kiyoko Beauty",
+      "first_seen": "2026-04-21T16:24:26.571241",
+      "sale_price": 8.0
     }
   }
 }
