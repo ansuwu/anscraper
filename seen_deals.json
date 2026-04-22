@@ -1,11 +1,5 @@
 {
   "deals": {
-    "539f7b9ff79d5731573b595c8460fd05": {
-      "title": "HP Elite Mini 800 G9 Mini Desktop PC, Intel Core i7-14700T, 32GB DDR5, 512GB SSD, Windows 11 Pro (A12GVUT#ABA)",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-15T13:14:49.364401",
-      "sale_price": 900.0
-    },
     "ccb0173d3d3461edfecb78c23b80dbc9": {
       "title": "HUAWEI Wireless Charging Mouse Pad GT, Firm smooth polymer surface, 55035505",
       "site": "Canada Computers",
@@ -1601,6 +1595,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-22T12:13:43.906425",
       "sale_price": 50.0
+    },
+    "7cba5c697c10aa05064e3feb7628c0ff": {
+      "title": "Nike Men's Infinity G Spiked Leather Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-22T13:19:06.114211",
+      "sale_price": 13.88
+    },
+    "b0302186fb62e69459b7ccd07dfcfd09": {
+      "title": "New Balance Men's 997 Waterproof Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-22T13:19:06.114230",
+      "sale_price": 44.88
     }
   }
 }
