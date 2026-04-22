@@ -1,17 +1,5 @@
 {
   "deals": {
-    "3dd9ded49d7393d51aa6c8e07aef256d": {
-      "title": "Samsung 27\" QHD 165Hz 1ms GTG Curved LED FreeSync Gaming Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-15T20:18:47.872870",
-      "sale_price": 149.99
-    },
-    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
-      "title": "UGG Tasman Maxi Curly",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-15T20:18:47.873040",
-      "sale_price": 82.5
-    },
     "f94f7ee8296adc117756f8d0d7313970": {
       "title": "Samsung Odyssey 3D 27\" 4K  IPS 165Hz 1ms (GtG) Gaming Monitor",
       "site": "Canada Computers",
@@ -959,6 +947,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-22T14:58:02.535012",
       "sale_price": 161.23
+    },
+    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
+      "title": "UGG Tasman Maxi Curly",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-22T20:21:42.458440",
+      "sale_price": 82.5
     }
   }
 }
