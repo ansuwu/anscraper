@@ -1,17 +1,5 @@
 {
   "deals": {
-    "1b3f10645b007d014e457263beb75962": {
-      "title": "BAHE PILATES RING",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-16T10:24:22.505135",
-      "sale_price": 17.5
-    },
-    "1b4b7535f434c7e48872e8d4eb040d76": {
-      "title": "BAHE Flow Reformer",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-16T10:24:22.505140",
-      "sale_price": 15.0
-    },
     "feb17d444559799e3c8a0cb04438fd49": {
       "title": "Cozi Pherin French Terry  Full-Zip Jacket",
       "site": "Foot Locker Canada",
@@ -947,6 +935,12 @@
       "site": "Indigo / Chapters",
       "first_seen": "2026-04-23T08:49:03.049041",
       "sale_price": 20.0
+    },
+    "ccadb88664898048b934912bbc00df77": {
+      "title": "SAMA S40 White ATX Mid Tower Case - High Airflow, 4x 120mm ARGB PWM Fans, Tempered Glass, Mesh Front, Type-C, Supports A",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-23T10:34:24.533660",
+      "sale_price": 59.99
     }
   }
 }
