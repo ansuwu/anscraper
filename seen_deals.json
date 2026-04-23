@@ -1,11 +1,5 @@
 {
   "deals": {
-    "feb17d444559799e3c8a0cb04438fd49": {
-      "title": "Cozi Pherin French Terry  Full-Zip Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-16T12:04:18.173566",
-      "sale_price": 19.99
-    },
     "ac84289ce2aee006d0a932890fa2b5a3": {
       "title": "Lian Li A3-mATX PC Case - Wood Edition - Micro ATX Case - Supports 360mm AIO Cooler & 415mm GPU - Wood Front Panel - No ",
       "site": "Newegg Canada",
@@ -941,6 +935,30 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-23T10:34:24.533660",
       "sale_price": 59.99
+    },
+    "ee48b4b50ce0233f4d5e8af75a8cff06": {
+      "title": "ELLIS LOAFER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-23T12:13:07.304379",
+      "sale_price": 69.98
+    },
+    "feb17d444559799e3c8a0cb04438fd49": {
+      "title": "Cozi Pherin French Terry  Full-Zip Jacket",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-23T12:13:07.304384",
+      "sale_price": 19.99
+    },
+    "1680d6baf18f75326abee1f8eeb5443b": {
+      "title": "NikeMen's Sportswear Club T-Shirt",
+      "site": "SportingLife",
+      "first_seen": "2026-04-23T12:13:07.304400",
+      "sale_price": 16.94
+    },
+    "c211b72880b70e4f670b32b6d068aabb": {
+      "title": "MerrellMen's Moab 3 Mid Waterproof Hiking Boot",
+      "site": "SportingLife",
+      "first_seen": "2026-04-23T12:13:07.304409",
+      "sale_price": 94.98
     }
   }
 }
