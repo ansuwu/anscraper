@@ -1,101 +1,5 @@
 {
   "deals": {
-    "9a2a12a22d050ce435386da6ab75d7c7": {
-      "title": "RAZER Kraken Kitty V2 Pro - Quartz Edition",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952346",
-      "sale_price": 99.88
-    },
-    "5bd7d9f3537ae9c732f87e1e768cf5d4": {
-      "title": "RAZER Kraken Kitty V2 Pro - Black Edition",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952351",
-      "sale_price": 99.88
-    },
-    "5ebc721aff2f71fdc9ddd3f9486eec5b": {
-      "title": "RAZER Barracuda Wireless Multi-platform Gaming and Mobile Headset",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952355",
-      "sale_price": 79.88
-    },
-    "1d8430a46362cf9ebbea77bfb9454ea6": {
-      "title": "Razer Kaira (Simone T2) Wireless Headset for Xbox Series X",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952390",
-      "sale_price": 44.88
-    },
-    "01b27b740d9846b67327db0163fe4951": {
-      "title": "Aukey OMNIA MIX DUAL-PORT USB-C + USB-A PD 65W CHARGER BLACK SMALLER",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952411",
-      "sale_price": 29.88
-    },
-    "0028dd1b5ff8c7a637dfa379e55c3ce7": {
-      "title": "HUAWEI FreeBuds 6i, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952414",
-      "sale_price": 64.99
-    },
-    "d3392cd8d0253f5889c8b30782688759": {
-      "title": "Arlo Security Camera",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952420",
-      "sale_price": 86.88
-    },
-    "3332ea2844541641e4f85e59b42fe4f4": {
-      "title": "Anker SOLIX C800X 768Wh 1200W Portable Power Station",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952423",
-      "sale_price": 350.0
-    },
-    "e3794b6dd38030e55b8ca501561c6b7b": {
-      "title": "Acer Nitro 34inch Curved 1500R 3440x1440P WQHD VA 180Hz Gaming Monitor",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952428",
-      "sale_price": 249.88
-    },
-    "a1b453d0c8f337cb196f1d44698f106a": {
-      "title": "Arlo Video Doorbell (AVD1001-100CNS) Wired, 2K HD, 180° FOV, Motion Detection Smart Activity Zone Alert, IR Night Vision",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952467",
-      "sale_price": 85.88
-    },
-    "641f4831ee13c61d38745d742ff5b703": {
-      "title": "iCAN 130W 4-Port GaN PD USB-C Wall Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952551",
-      "sale_price": 24.88
-    },
-    "f7f3f5cc6df71aca2aeedb7b75724bb9": {
-      "title": "be quiet! MC2 COOLER",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T05:12:06.952571",
-      "sale_price": 9.99
-    },
-    "311c6cf258d26e3657371c9f65e9365c": {
-      "title": "Jordan NC Reissue Oversize Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-17T05:12:06.952630",
-      "sale_price": 27.5
-    },
-    "d99f20aaf0fd1088fe36e5cf48819e69": {
-      "title": "HUAWEI FreeBuds SE 2 True Wireless Earbuds, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-17T07:11:54.633986",
-      "sale_price": 39.99
-    },
-    "396134dc7280be2ed72789cce5b64d65": {
-      "title": "Ripzone Men's Skyline Windbreaker Jacket",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-17T07:11:54.634061",
-      "sale_price": 34.98
-    },
-    "c413197ba5b3732363347a62c9d75fb3": {
-      "title": "Sherpa Winter Cap - Kids",
-      "site": "Altitude Sports",
-      "first_seen": "2026-04-17T07:11:54.634076",
-      "sale_price": 0
-    },
     "80b021f3a2d5b39146b36fd0b06788a7": {
       "title": "Ring Spotlight Cam Wired HD Security Camera - Black",
       "site": "Canada Computers",
@@ -911,6 +815,12 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-24T05:08:02.772072",
       "sale_price": 57.88
+    },
+    "122c203112603d510598ed87712e8fd0": {
+      "title": "10000mAh 22.5W Transparent Portable Intelligent Real-time Screen Displ",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-24T07:19:06.521176",
+      "sale_price": 14.88
     }
   }
 }
