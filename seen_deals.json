@@ -1,29 +1,5 @@
 {
   "deals": {
-    "a3d66a4d49a386363c8189ba244dc635": {
-      "title": "TOMORROW PAJAMA SHIRT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-17T12:13:25.994673",
-      "sale_price": 26.99
-    },
-    "3b67d76d33b36c613e955c50d15eebae": {
-      "title": "ORIGINAL CONTOUR SQUARENECK HIP LONGSLEEVE",
-      "site": "Aritzia",
-      "first_seen": "2026-04-17T12:13:25.994823",
-      "sale_price": 28.99
-    },
-    "ccd5892c18dfc756a21b3fa62a7f0b4b": {
-      "title": "THE EFFORTLESS PANT™ CURVE-FIT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-17T12:13:25.994832",
-      "sale_price": 73.99
-    },
-    "a821bb265170ab7e0ec7f58d69734c53": {
-      "title": "Nike Puffle Tote 2.0",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-17T12:13:25.994871",
-      "sale_price": 52.5
-    },
     "27ddacf4d484bbf3630bc711dc2a1ff1": {
       "title": "DIYPC ARGB-M1-BK Black Cases (Computer Cases - ATX Form)",
       "site": "Newegg Canada",
@@ -785,6 +761,12 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-24T10:40:39.647375",
       "sale_price": 35.88
+    },
+    "a821bb265170ab7e0ec7f58d69734c53": {
+      "title": "Nike Puffle Tote 2.0",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-24T13:15:39.437473",
+      "sale_price": 52.5
     }
   }
 }
