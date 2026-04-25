@@ -1,17 +1,5 @@
 {
   "deals": {
-    "ff8e5bd6bbd9adbebed1f3e08865a104": {
-      "title": "SauconyMen's Guide 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-18T15:07:44.309307",
-      "sale_price": 89.98
-    },
-    "fc890169817260583a3f00c1173ecbfa": {
-      "title": "SauconyWomen's Ride 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-18T15:07:44.309312",
-      "sale_price": 89.98
-    },
     "800711031c51d08b5aa9695a667ad5b5": {
       "title": "SCULPT KNIT SQUARENECK TANK",
       "site": "Aritzia",
@@ -947,6 +935,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-25T14:17:48.420646",
       "sale_price": 40.0
+    },
+    "ff8e5bd6bbd9adbebed1f3e08865a104": {
+      "title": "SauconyMen's Guide 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-25T15:53:29.631016",
+      "sale_price": 89.98
+    },
+    "fc890169817260583a3f00c1173ecbfa": {
+      "title": "SauconyWomen's Ride 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-25T15:53:29.631021",
+      "sale_price": 89.98
     }
   }
 }
