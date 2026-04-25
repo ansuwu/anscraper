@@ -815,6 +815,18 @@
       "site": "Aritzia",
       "first_seen": "2026-04-24T22:53:50.058822",
       "sale_price": 73.99
+    },
+    "61991d6bb9701526ddfbad978b02d750": {
+      "title": "adidas Originals Samba XLG",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-25T01:38:34.415648",
+      "sale_price": 75.0
+    },
+    "c883d009cd84d7b89bcb2da671477e91": {
+      "title": "adidas Originals Wabash Loose T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-25T01:38:34.415659",
+      "sale_price": 22.5
     }
   }
 }
