@@ -827,6 +827,48 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-25T01:38:34.415659",
       "sale_price": 22.5
+    },
+    "865ee3aaa7250c162411fd7f3c41c4a4": {
+      "title": "CAMPUS 00s",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-25T04:47:15.853946",
+      "sale_price": 37.48
+    },
+    "8a26742ca0c0ee3f8a8d337c67e71adf": {
+      "title": "Cozi All City Cargo Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-25T04:47:15.853954",
+      "sale_price": 19.99
+    },
+    "226423989da851baf69715229e33b87b": {
+      "title": "ANGEL SNEAKER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-25T04:47:15.853978",
+      "sale_price": 74.23
+    },
+    "38d232b0ef99716e0b491a1ce203ec2e": {
+      "title": "CORSAIR Scimitar Elite Wireless SE Gaming Mouse - Gun Metal",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-25T04:47:15.853981",
+      "sale_price": 79.99
+    },
+    "586dab72c84573d5739fecbcd7ad60f1": {
+      "title": "ASUS ROG Keris II Ace Wireless Gaming Mouse-White",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-25T04:47:15.853986",
+      "sale_price": 99.99
+    },
+    "df07e72414a2dcca171a9597f2b6977b": {
+      "title": "ASUS ROG Keris II Ace Wireless Gaming Mouse-Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-04-25T04:47:15.853988",
+      "sale_price": 99.99
+    },
+    "bbfaaf4df92a7941acc8c69a76f1e0e3": {
+      "title": "CHUCK TAYLOR ALL STAR CRUISE FOUNDATION",
+      "site": "Browns Shoes",
+      "first_seen": "2026-04-25T04:47:15.853993",
+      "sale_price": 37.48
     }
   }
 }
