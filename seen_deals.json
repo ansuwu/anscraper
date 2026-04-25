@@ -953,6 +953,18 @@
       "site": "Browns Shoes",
       "first_seen": "2026-04-25T11:51:52.322068",
       "sale_price": 59.98
+    },
+    "65b691cced8b25b12ae8030db872caa6": {
+      "title": "AZZA CSAZ-370 FOREST Black Case",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-25T14:17:48.420521",
+      "sale_price": 14.99
+    },
+    "352095beb7b2336e751db63f0c277c96": {
+      "title": "New Balance 530",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-25T14:17:48.420646",
+      "sale_price": 40.0
     }
   }
 }
