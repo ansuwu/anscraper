@@ -1,11 +1,5 @@
 {
   "deals": {
-    "264af5f459df28b9e5019a8aeaa575bc": {
-      "title": "Jordan NC Lights Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-19T21:00:27.081138",
-      "sale_price": 22.5
-    },
     "2646fe64dac2bbbda094e1845a27eda3": {
       "title": "SAMA S40 Black ATX Mid Tower Case - High Airflow, 4x 120mm ARGB PWM Fans, Tempered Glass, Mesh Front, Type-C, Supports A",
       "site": "Newegg Canada",
@@ -947,6 +941,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-26T18:55:51.972722",
       "sale_price": 49.99
+    },
+    "264af5f459df28b9e5019a8aeaa575bc": {
+      "title": "Jordan NC Lights Short Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-26T21:48:48.825505",
+      "sale_price": 22.5
     }
   }
 }
