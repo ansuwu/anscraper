@@ -1,11 +1,5 @@
 {
   "deals": {
-    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
-      "title": "Nike Futura Block T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-21T13:11:36.039528",
-      "sale_price": 25.0
-    },
     "732166ecac4eabf09d5d15da9ce5d7d6": {
       "title": "GIGABYTE B650M GAMING PLUS WIFI AM5 LGA 1718 AMD B650 M-ATX, DDR5, PCIe 4.0 M.2, PCIe 4.0, USB 3.2 Gen 1 Type-C, Wi-Fi 6",
       "site": "Newegg Canada",
@@ -1049,6 +1043,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-28T12:40:10.502319",
       "sale_price": 12.5
+    },
+    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
+      "title": "Nike Futura Block T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-28T15:33:16.206822",
+      "sale_price": 25.0
     }
   }
 }
