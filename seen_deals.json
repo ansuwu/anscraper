@@ -1,11 +1,5 @@
 {
   "deals": {
-    "49c2f6bb639aa41101619a76b8960af2": {
-      "title": "Damaged Boxes - Numbuzin Nad+ Eye Cream",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-04-21T18:13:09.463643",
-      "sale_price": 14.0
-    },
     "36795e120efcfb7fc11bc5b6b3ae9ede": {
       "title": "UGG Classic Micro",
       "site": "Foot Locker Canada",
@@ -1013,6 +1007,30 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-28T15:33:16.206822",
       "sale_price": 25.0
+    },
+    "fc69b22e8099e2d09def7e92d570f854": {
+      "title": "Nike Men's Air Zoom Infinity Pro 2 Spikeless Waterproof Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-28T19:38:10.169416",
+      "sale_price": 20.88
+    },
+    "ddfc369fba6eb96824307db2c36af3d1": {
+      "title": "FootJoy Men's Flex XP Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-28T19:38:10.169421",
+      "sale_price": 26.88
+    },
+    "4feaccc9e496fc177f7d9581623d1078": {
+      "title": "Earn up to CT Money®",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-28T19:38:10.169485",
+      "sale_price": 99.0
+    },
+    "49c2f6bb639aa41101619a76b8960af2": {
+      "title": "Damaged Boxes - Numbuzin Nad+ Eye Cream",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-04-28T19:38:10.169494",
+      "sale_price": 14.0
     }
   }
 }
