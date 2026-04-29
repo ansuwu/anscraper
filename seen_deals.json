@@ -1,11 +1,5 @@
 {
   "deals": {
-    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
-      "title": "UGG Tasman Maxi Curly",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-22T20:21:42.458440",
-      "sale_price": 82.5
-    },
     "67e6ec29b90373b02b76604b345ca80b": {
       "title": "UGG Tazz II",
       "site": "Foot Locker Canada",
@@ -1163,6 +1157,36 @@
       "site": "Aritzia",
       "first_seen": "2026-04-29T19:23:06.711684",
       "sale_price": 34.99
+    },
+    "f42b12270b203a3166cc00f4aae42f9c": {
+      "title": "SKIMSFITS EVERYBODY T SHIRT",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T21:13:33.852098",
+      "sale_price": 18.99
+    },
+    "472fb9d683502065ad8e2dfce57e10c8": {
+      "title": "AGEverett Stretch Sateen Slim Straight Pants (Regular, Big & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T21:13:33.852107",
+      "sale_price": 78.99
+    },
+    "164efaf58bee5f9ed05f1bc4d3e1a783": {
+      "title": "NinaNigella Sandal (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T21:13:33.852114",
+      "sale_price": 31.6
+    },
+    "dc6d6756757f863becd833c3c7c412fa": {
+      "title": "Adrianna PapellPleated Floral One-Shoulder Chiffon Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T21:13:33.852129",
+      "sale_price": 79.6
+    },
+    "0db11e4c502f08abf88c7e0530aaec7e": {
+      "title": "Vince CamutoSide Ruched Stretch Cotton Maxi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T21:13:33.852145",
+      "sale_price": 44.55
     }
   }
 }
