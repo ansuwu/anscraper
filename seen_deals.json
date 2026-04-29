@@ -1,23 +1,5 @@
 {
   "deals": {
-    "f39bed4c8a1d67d30415c970e81cab91": {
-      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-22T12:13:43.906425",
-      "sale_price": 50.0
-    },
-    "7cba5c697c10aa05064e3feb7628c0ff": {
-      "title": "Nike Men's Infinity G Spiked Leather Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-22T13:19:06.114211",
-      "sale_price": 13.88
-    },
-    "b0302186fb62e69459b7ccd07dfcfd09": {
-      "title": "New Balance Men's 997 Waterproof Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-22T13:19:06.114230",
-      "sale_price": 44.88
-    },
     "ef66bdd3a37c936648b00f1f8f864a7f": {
       "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
       "site": "Newegg Canada",
@@ -1019,6 +1001,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-29T10:20:37.310124",
       "sale_price": 50.0
+    },
+    "0130e5b3d1fa85fd10cc9359aaac4006": {
+      "title": "PUMA MB.05 Rick & Morty",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-29T13:35:58.677275",
+      "sale_price": 79.99
+    },
+    "b05157abafca9fc2e347d87283d28d37": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-29T13:35:58.677299",
+      "sale_price": 49.99
     }
   }
 }
