@@ -1,11 +1,5 @@
 {
   "deals": {
-    "ef66bdd3a37c936648b00f1f8f864a7f": {
-      "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-22T14:58:02.535012",
-      "sale_price": 161.23
-    },
     "bda9ec37e3921b0a35d90e0cdd9ad10d": {
       "title": "UGG Tasman Maxi Curly",
       "site": "Foot Locker Canada",
@@ -1013,6 +1007,144 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-29T13:35:58.677299",
       "sale_price": 49.99
+    },
+    "e5d3e9bef768f0ee724d88d3194e897c": {
+      "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290814",
+      "sale_price": 219.99
+    },
+    "363e64a47b555ce4022904639068a655": {
+      "title": "DIYPC ARGB-G5-BK Black Cases (Computer Cases - ATX Form)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-29T16:07:49.290822",
+      "sale_price": 12.99
+    },
+    "7798e4f166e95ceb8b677afa96c12ad7": {
+      "title": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-29T16:07:49.290835",
+      "sale_price": 65.38
+    },
+    "0df25eecd63604f2358b9c61816a0a9d": {
+      "title": "NordstromTrim Fit Grid Dress Shirt (Regular, Big & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290867",
+      "sale_price": 34.82
+    },
+    "07dc855ee57f77b2ad928a4571bc9cb6": {
+      "title": "CANADA WEATHER GEARWomen's Long Heavyweight 2 in 1 Puffer Jacket and Vest",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290870",
+      "sale_price": 109.99
+    },
+    "fa2dec1b4a6534d78438aac454f8f368": {
+      "title": "RhoneBase Train Lightweight Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290874",
+      "sale_price": 30.99
+    },
+    "3737667a792ba27201cb44f07a6b781e": {
+      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290876",
+      "sale_price": 66.99
+    },
+    "a001e8caed20e688711c06df82beb63f": {
+      "title": "adidasSamba LT Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290879",
+      "sale_price": 47.99
+    },
+    "4c080ef1deeed78b929fe0834ca885c9": {
+      "title": "SORELJoan Rhapsody Waterproof Chelsea Boot (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290883",
+      "sale_price": 56.0
+    },
+    "08399d0928817e8682e71188b7199e66": {
+      "title": "NordstromTrim Fit Check Premium Performance Twill Dress Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290888",
+      "sale_price": 39.8
+    },
+    "5691cde9ef85f56ee6c9d82d4c573ecb": {
+      "title": "AGProtégé Italian Light Bedford Straight Leg Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290892",
+      "sale_price": 86.0
+    },
+    "c31d80e9fd19e70d8fcd94aecbcc9cea": {
+      "title": "AGEverett Slim Straight Leg Jeans (7 Years Sulfur Hazel Wood)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290895",
+      "sale_price": 86.0
+    },
+    "4475795795b1520d0a9c98e717bd3542": {
+      "title": "Calvin KleinAssorted 5-Pack Microfiber Boxer Briefs",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290898",
+      "sale_price": 28.6
+    },
+    "d9369a9e0e46123cf9ad32852595889a": {
+      "title": "Carhartt Work In ProgressCotton Ripstop Cargo Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290901",
+      "sale_price": 58.0
+    },
+    "07b135b1b90852f281833713e4a241b1": {
+      "title": "Maggy LondonFunnel Neck Sleeveless Maxi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290903",
+      "sale_price": 55.2
+    },
+    "fcff57f628a0f72f23a0c13ee2ff2ebd": {
+      "title": "Robert BarakettGeorgia Pima Cotton T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290908",
+      "sale_price": 27.97
+    },
+    "d905a96e5957c1a3be2cadd67b370268": {
+      "title": "NordstromTrim Fit Check Non Iron Cotton Dress Shirt (Regular, Big & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290915",
+      "sale_price": 35.77
+    },
+    "4f30e6dedeb83f616c7a853c87e744d8": {
+      "title": "Donna Karan New YorkSequin Floral Sleeveless Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290926",
+      "sale_price": 148.99
+    },
+    "520b7468892988afe71870bbd92e8ccc": {
+      "title": "adidasGender Inclusive Samba OG Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290942",
+      "sale_price": 49.99
+    },
+    "b4e80a9d880492064394e8a1bb79bdee": {
+      "title": "adidasGender Inclusive Handball Spezial Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290946",
+      "sale_price": 54.99
+    },
+    "6249a5b3906ffdc69f97be91cf50e555": {
+      "title": "BOSSHuge Solid Wool Suit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290970",
+      "sale_price": 447.5
+    },
+    "6af17ceddde3a765b66e5d1caef99a98": {
+      "title": "AllSaintsBrace Cotton T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290972",
+      "sale_price": 29.5
+    },
+    "636fc45d0a3367fc44372c26631ce4c4": {
+      "title": "NYDJPintuck Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-29T16:07:49.290975",
+      "sale_price": 44.5
     }
   }
 }
