@@ -1,11 +1,5 @@
 {
   "deals": {
-    "67e6ec29b90373b02b76604b345ca80b": {
-      "title": "UGG Tazz II",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-23T07:15:46.924694",
-      "sale_price": 87.5
-    },
     "fe8bf868ce33c499ae06800cbb09ced7": {
       "title": "Nanci Baby S1 Blind Box",
       "site": "Indigo / Chapters",
@@ -1229,6 +1223,36 @@
       "site": "Newegg Canada",
       "first_seen": "2026-04-30T05:43:07.247212",
       "sale_price": 152.2
+    },
+    "ce64ce54be1c63c12274d064eda8ce11": {
+      "title": "LIAN LI A3-mATX Black SPCC M-ATX / ITX Computer Case ------ A3-mATX-X",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-30T08:18:40.993627",
+      "sale_price": 12.99
+    },
+    "04709677d2d095069deea78b2b82146a": {
+      "title": "MONTECH HS01, ATX Mid-Tower PC Case, Gaming PC, High-Airflow, Reversible Layout, Mesh Front Panel, Sink-in Design, Tooll",
+      "site": "Newegg Canada",
+      "first_seen": "2026-04-30T08:18:40.993686",
+      "sale_price": 59.99
+    },
+    "422e68a54ea8471b11c4527acc217fdf": {
+      "title": "Under ArmourMen's Velociti 4 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-30T08:18:40.993698",
+      "sale_price": 81.98
+    },
+    "73f46c86644934f5eef17f7f6f0e162f": {
+      "title": "New BalanceUnisex 480 Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-30T08:18:40.993704",
+      "sale_price": 69.98
+    },
+    "9acb838e8b301717bd0b180dcc17b88a": {
+      "title": "The North FaceWomen's Altamesa 300 Trail Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-04-30T08:18:40.993712",
+      "sale_price": 89.98
     }
   }
 }
