@@ -1,41 +1,5 @@
 {
   "deals": {
-    "8b242a06a786a75289d689ac0e0cb26e": {
-      "title": "Ripzone Women's Sirocco Windbreaker Jacket",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762092",
-      "sale_price": 34.98
-    },
-    "96dbb810e06232fda43b830c7eefdcef": {
-      "title": "BAHE Cork Yoga Block",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762114",
-      "sale_price": 15.0
-    },
-    "9a3de6c953179b6a074fb06baafb7327": {
-      "title": "BAHE Pilates Bar Set",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762119",
-      "sale_price": 30.0
-    },
-    "11fe254a73a596d2e55f0897922c5981": {
-      "title": "BAHE Yoga Mat Towel",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762122",
-      "sale_price": 27.5
-    },
-    "ee6fa6ebdc012cfa8543808251eb2153": {
-      "title": "BAHE Flowbands Combo, 3 Pack",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762125",
-      "sale_price": 17.5
-    },
-    "1b4b7535f434c7e48872e8d4eb040d76": {
-      "title": "BAHE Flow Reformer",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T20:23:50.762128",
-      "sale_price": 15.0
-    },
     "c0ed5e0d34674172c78206597fab9dea": {
       "title": "Under Armour Golf Men's Phantom Golf Shoes",
       "site": "Sport Chek",
@@ -1511,6 +1475,30 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-04-30T18:25:13.873478",
       "sale_price": 50.0
+    },
+    "8868a749218b64b7d86fbc9ba85c4b03": {
+      "title": "Reebok Women's Identity Small Logo T Shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-30T20:27:14.484821",
+      "sale_price": 11.98
+    },
+    "1f9a44740ff2010754ed2d97664f0dfc": {
+      "title": "rag & boneThe Slub Stripe T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T20:27:14.484832",
+      "sale_price": 55.2
+    },
+    "c2e8efe659da9c7c7ff3f45baafa7b1c": {
+      "title": "Billionaire Boys ClubBB Flyers Astronaut Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T20:27:14.484847",
+      "sale_price": 28.0
+    },
+    "de9272e818bf1a696724a1f20f8ef76c": {
+      "title": "Damaged Boxes - I'm from Mugward Cream 50g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-04-30T20:27:14.484892",
+      "sale_price": 14.0
     }
   }
 }
