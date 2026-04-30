@@ -1,11 +1,5 @@
 {
   "deals": {
-    "e18d756a711ba8e5350cd07b59d3207d": {
-      "title": "CLOUDMONSTER",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-23T15:26:10.231464",
-      "sale_price": 89.98
-    },
     "b465e28523e8cd7ade900f30b6ca9e2e": {
       "title": "Fractal Design Core 1000 Black Micro ATX Mini Tower Computer Case",
       "site": "Newegg Canada",
@@ -1481,6 +1475,42 @@
       "site": "Sport Chek",
       "first_seen": "2026-04-30T12:30:17.766321",
       "sale_price": 40.0
+    },
+    "1c1fde9ae104ee09836bef3fe1e094aa": {
+      "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369691",
+      "sale_price": 38.0
+    },
+    "23c65dcb03cef673cd393585945db06a": {
+      "title": "PAIGEFederal Heritage Slim Straight Leg Jeans (Regular & Big)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369711",
+      "sale_price": 91.6
+    },
+    "10e5e399f86de9d78f39a5ad7d812c2e": {
+      "title": "Tommy BahamaBoracay® Island Flat Front Stretch Chinos (Regular & Big)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369733",
+      "sale_price": 70.99
+    },
+    "10b778ad10ab4f61574687a29765785d": {
+      "title": "Fear of God EssentialsJersey Basketball Sweat Shorts",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369736",
+      "sale_price": 29.24
+    },
+    "ebcfc7d33976c6f45de2c191a880d570": {
+      "title": "BeautyBioGLOfacial Hydro-Infusion Deep Pore Cleansing + Blue LED Clarifying Tool",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369763",
+      "sale_price": 99.5
+    },
+    "e5ae62a2abcc6da2f7d783cdca9f4e98": {
+      "title": "VuoriVilla Trousers",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T16:37:50.369767",
+      "sale_price": 59.0
     }
   }
 }
