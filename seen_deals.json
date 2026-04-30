@@ -1,53 +1,5 @@
 {
   "deals": {
-    "b465e28523e8cd7ade900f30b6ca9e2e": {
-      "title": "Fractal Design Core 1000 Black Micro ATX Mini Tower Computer Case",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-23T17:31:11.947631",
-      "sale_price": 12.99
-    },
-    "7c6161d6fdb796407f7b94a1ecfb5b18": {
-      "title": "JBL Live 770 BTNC Wireless On-Ear Headphones",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T17:31:11.947681",
-      "sale_price": 129.98
-    },
-    "4a767328c3317c62a08ae70fc207c2a8": {
-      "title": "Ripzone Men's Sirocco Windbreaker Jacket",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T17:31:11.947695",
-      "sale_price": 29.98
-    },
-    "db719b30e8e32c31d0e4dde5da0dc9b6": {
-      "title": "BAHE Flow Sliders",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T17:31:11.947715",
-      "sale_price": 10.0
-    },
-    "db9fd12001e38dd5a50ead8c0369409d": {
-      "title": "BAHE Be U Yoga Block",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-23T17:31:11.947718",
-      "sale_price": 15.0
-    },
-    "c9f474d6867ddc9823bcc4940b0f2108": {
-      "title": "adidas Originals Handball Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-23T17:31:11.947720",
-      "sale_price": 70.0
-    },
-    "902629c9c763f1f54cea12ea7c81f904": {
-      "title": "Nike Puffle Mini Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-23T17:31:11.947728",
-      "sale_price": 35.0
-    },
-    "b46149340c7dec5e65836c26f1b3e208": {
-      "title": "Converse Chuck 70 Hi",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-23T17:31:11.947739",
-      "sale_price": 50.0
-    },
     "8b242a06a786a75289d689ac0e0cb26e": {
       "title": "Ripzone Women's Sirocco Windbreaker Jacket",
       "site": "Sport Chek",
@@ -1511,6 +1463,54 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-04-30T16:37:50.369767",
       "sale_price": 59.0
+    },
+    "26471c59b404bab5ff77829a140b4f3f": {
+      "title": "Ripzone Women's Horizon Long Sleeve Shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-04-30T18:25:13.873397",
+      "sale_price": 19.98
+    },
+    "06dd2eedecd3c96500f5f411741d6d39": {
+      "title": "BillabongFree Fall Fray Hem Stretch Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T18:25:13.873402",
+      "sale_price": 35.98
+    },
+    "c72f9f95efd7613d3fdba806ac052645": {
+      "title": "Wit & WisdomHigh Waist Ankle Skinny Pants (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T18:25:13.873426",
+      "sale_price": 29.97
+    },
+    "5ae61818ea5a542a5df871bb943fb228": {
+      "title": "Peter MillarCrown Crafted Albatross Pima Cotton Blend Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T18:25:13.873433",
+      "sale_price": 57.6
+    },
+    "764146b9b17a3a82f4bf25d2b2ad9401": {
+      "title": "MOTHERThe Patch Pocket Mid Rise Maven Skimp Jeans (Lets Split)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T18:25:13.873464",
+      "sale_price": 139.0
+    },
+    "e26957cebcf54bb6b5ae2ce27dd5594f": {
+      "title": "VuoriHalo 2.0 Performance Crop Racerback Tank Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-04-30T18:25:13.873468",
+      "sale_price": 29.0
+    },
+    "902629c9c763f1f54cea12ea7c81f904": {
+      "title": "Nike Puffle Mini Backpack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-30T18:25:13.873474",
+      "sale_price": 35.0
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-04-30T18:25:13.873478",
+      "sale_price": 50.0
     }
   }
 }
