@@ -1,11 +1,5 @@
 {
   "deals": {
-    "122c203112603d510598ed87712e8fd0": {
-      "title": "10000mAh 22.5W Transparent Portable Intelligent Real-time Screen Displ",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-24T07:19:06.521176",
-      "sale_price": 14.88
-    },
     "b8c8e99142e121b5010f5c77e93ec71a": {
       "title": "New Era Elm Street Short Sleeve T-Shirt",
       "site": "Foot Locker Canada",
@@ -1571,6 +1565,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-01T05:53:12.393171",
       "sale_price": 16.99
+    },
+    "33e1c66a49c60bd7509c187080f4a110": {
+      "title": "ElomiBrianna Underwire Padded Half Cup Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T08:18:41.875799",
+      "sale_price": 33.75
     }
   }
 }
