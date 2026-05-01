@@ -1,11 +1,5 @@
 {
   "deals": {
-    "56e1065f706ea1b2b5d701fa1e04bca6": {
-      "title": "Cole Haan Men's GrandPrø Topspin Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-24T10:40:39.647375",
-      "sale_price": 35.88
-    },
     "a821bb265170ab7e0ec7f58d69734c53": {
       "title": "Nike Puffle Tote 2.0",
       "site": "Foot Locker Canada",
@@ -1601,6 +1595,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-01T10:07:22.875696",
       "sale_price": 44.5
+    },
+    "431aea9b4b13430ef36d8ec7404c66dd": {
+      "title": "PUMA x Rose Skirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-01T11:22:49.862887",
+      "sale_price": 19.99
+    },
+    "25fadfcf325c8cdd987904d8486b8103": {
+      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-01T11:22:49.862979",
+      "sale_price": 12.5
     }
   }
 }
