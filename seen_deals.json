@@ -1,11 +1,5 @@
 {
   "deals": {
-    "b8c8e99142e121b5010f5c77e93ec71a": {
-      "title": "New Era Elm Street Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-24T09:18:42.301826",
-      "sale_price": 28.0
-    },
     "56e1065f706ea1b2b5d701fa1e04bca6": {
       "title": "Cole Haan Men's GrandPrø Topspin Golf Shoes",
       "site": "Sport Chek",
@@ -1571,6 +1565,42 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-01T08:18:41.875799",
       "sale_price": 33.75
+    },
+    "29805cf11fa3be07f454e86936aa3027": {
+      "title": "VikingSet of 2 3-Ply Nonstick Stainless Steel Fry Pans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875605",
+      "sale_price": 59.99
+    },
+    "eec43bab1bfb709373b55500a6956858": {
+      "title": "Carhartt Work In ProgressLogo Pocket T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875630",
+      "sale_price": 18.0
+    },
+    "fbeddeafbbd713e8a21bde0518eb2d26": {
+      "title": "NordstromMoonlight Eco Short Pajamas (Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875646",
+      "sale_price": 29.24
+    },
+    "2c5a16a94743e34eba30351f0ec8fb07": {
+      "title": "Rodd & GunnFrey's Crescent Rib Cotton Sweater Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875649",
+      "sale_price": 57.59
+    },
+    "4abc1be5a41817e2a443d2e861b19512": {
+      "title": "Eileen FisherCotton Blend Tweed Jacket (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875657",
+      "sale_price": 125.1
+    },
+    "68c105c79b86fd57898144ce8a008c38": {
+      "title": "Jack ArcherAnytime 5 Pocket Pant",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-01T10:07:22.875696",
+      "sale_price": 44.5
     }
   }
 }
