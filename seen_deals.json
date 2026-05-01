@@ -1,17 +1,5 @@
 {
   "deals": {
-    "c0ed5e0d34674172c78206597fab9dea": {
-      "title": "Under Armour Golf Men's Phantom Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-24T05:08:02.772067",
-      "sale_price": 42.88
-    },
-    "17b06fb9ebc832fa50b3fa53bee4d252": {
-      "title": "Nike Men's Air Zoom Infinity Tour NXT Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-24T05:08:02.772072",
-      "sale_price": 57.88
-    },
     "122c203112603d510598ed87712e8fd0": {
       "title": "10000mAh 22.5W Transparent Portable Intelligent Real-time Screen Displ",
       "site": "Canada Computers",
@@ -1559,6 +1547,30 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-01T02:13:43.417931",
       "sale_price": 247.5
+    },
+    "fd7e5e2c6f14603eed1e45c0db54c72e": {
+      "title": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-01T05:53:12.393125",
+      "sale_price": 149.99
+    },
+    "ef66bdd3a37c936648b00f1f8f864a7f": {
+      "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-01T05:53:12.393132",
+      "sale_price": 161.23
+    },
+    "c6eb2a1be9315f33dc06a2806379ebfb": {
+      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-01T05:53:12.393140",
+      "sale_price": 46.88
+    },
+    "0a82098b28621d6975e835ce869a82b2": {
+      "title": "be quiet! ARGB Light Wings 120mm PWM-high-speed",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-01T05:53:12.393171",
+      "sale_price": 16.99
     }
   }
 }
