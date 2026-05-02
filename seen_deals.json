@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5959afcd94b9b7be3b8b2bb661cda6a4": {
-      "title": "Lian Li VECTOR V100 MINI Micro Form Factor Compact PC Case, Pre-install 4 x 120mm ARGB PWM Fans, Panoramic Tempered Glas",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-25T10:53:04.008369",
-      "sale_price": 12.99
-    },
     "e0ba31e389aa840c1d659d2094e06591": {
       "title": "CAMPUS 00s",
       "site": "Browns Shoes",
@@ -1571,6 +1565,12 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-02T10:15:12.625209",
       "sale_price": 1.0
+    },
+    "d9e4580260bdc755afb9ee91eaa51dda": {
+      "title": "Marc JacobsThe J Marc Pebble Saddle Bag",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-02T11:03:13.931215",
+      "sale_price": 177.75
     }
   }
 }
