@@ -1,17 +1,5 @@
 {
   "deals": {
-    "61991d6bb9701526ddfbad978b02d750": {
-      "title": "adidas Originals Samba XLG",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-25T01:38:34.415648",
-      "sale_price": 75.0
-    },
-    "c883d009cd84d7b89bcb2da671477e91": {
-      "title": "adidas Originals Wabash Loose T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-25T01:38:34.415659",
-      "sale_price": 22.5
-    },
     "865ee3aaa7250c162411fd7f3c41c4a4": {
       "title": "CAMPUS 00s",
       "site": "Browns Shoes",
@@ -1727,6 +1715,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-02T00:04:12.868474",
       "sale_price": 21.99
+    },
+    "c883d009cd84d7b89bcb2da671477e91": {
+      "title": "adidas Originals Wabash Loose T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-02T01:51:49.266066",
+      "sale_price": 22.5
     }
   }
 }
