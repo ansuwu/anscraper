@@ -1,17 +1,5 @@
 {
   "deals": {
-    "054e738fd25db8d788220696b3fbcba0": {
-      "title": "FootJoy Men's Fuel Spikeless Golf Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-25T22:45:11.887737",
-      "sale_price": 46.88
-    },
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-25T22:45:11.887744",
-      "sale_price": 14.99
-    },
     "05de3a3c22bb3185811fcf39d9a726ab": {
       "title": "NEW ERA BOSTON CELTICS 9TWENTY HAT",
       "site": "Aritzia",
@@ -1607,6 +1595,24 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-02T21:52:30.494659",
       "sale_price": 14.0
+    },
+    "5bb469cb6e9d6f87502b90a58735b576": {
+      "title": "New BalanceGender Inclusive 530 Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-02T22:51:31.287412",
+      "sale_price": 39.99
+    },
+    "fd2128bbe95765456c724b30b2fe91ec": {
+      "title": "RhoneCommuter Slim Fit Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-02T22:51:31.287419",
+      "sale_price": 54.99
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-02T22:51:31.287492",
+      "sale_price": 14.99
     }
   }
 }
