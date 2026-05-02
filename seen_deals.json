@@ -1,17 +1,5 @@
 {
   "deals": {
-    "ff8e5bd6bbd9adbebed1f3e08865a104": {
-      "title": "SauconyMen's Guide 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-25T15:53:29.631016",
-      "sale_price": 89.98
-    },
-    "fc890169817260583a3f00c1173ecbfa": {
-      "title": "SauconyWomen's Ride 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-25T15:53:29.631021",
-      "sale_price": 89.98
-    },
     "054e738fd25db8d788220696b3fbcba0": {
       "title": "FootJoy Men's Fuel Spikeless Golf Shoes",
       "site": "Sport Chek",
@@ -1577,6 +1565,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-02T13:05:14.198999",
       "sale_price": 82.5
+    },
+    "cf63441bc5a07ad21ab727b71917eced": {
+      "title": "Glorious Raptor Clicky switches - Mechanical (36pieces)",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-02T15:56:18.533489",
+      "sale_price": 12.88
+    },
+    "ff8e5bd6bbd9adbebed1f3e08865a104": {
+      "title": "SauconyMen's Guide 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-02T15:56:18.533582",
+      "sale_price": 89.98
     }
   }
 }
