@@ -1,11 +1,5 @@
 {
   "deals": {
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-04-26T10:03:51.431513",
-      "sale_price": 19.88
-    },
     "dda2478e87c82538a5c429dddba30bca": {
       "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
       "site": "KBeauty.ca",
@@ -1577,6 +1571,24 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-03T08:08:00.943937",
       "sale_price": 90.0
+    },
+    "19b441a876dbb87f33c266a61992485c": {
+      "title": "G&G P4100DW Wireless Monochrome Laser Printer, 33 ppm",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-03T11:05:43.549443",
+      "sale_price": 129.99
+    },
+    "cccd21080be14a032a593ab6a00e59a1": {
+      "title": "RAYOVAC 2016 3V Lithium Coin Cell Battery 2 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-03T11:05:43.549454",
+      "sale_price": 1.88
+    },
+    "b9aca20e41a3c730d3058d6f03271ee4": {
+      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-03T11:05:43.549461",
+      "sale_price": 19.88
     }
   }
 }
