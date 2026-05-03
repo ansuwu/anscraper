@@ -1,11 +1,5 @@
 {
   "deals": {
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-26T18:55:51.972722",
-      "sale_price": 49.99
-    },
     "264af5f459df28b9e5019a8aeaa575bc": {
       "title": "Jordan NC Lights Short Sleeve T-Shirt",
       "site": "Foot Locker Canada",
@@ -1577,6 +1571,12 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-03T14:27:45.030596",
       "sale_price": 7.0
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-03T19:03:57.461499",
+      "sale_price": 49.99
     }
   }
 }
