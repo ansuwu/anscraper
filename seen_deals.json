@@ -1,89 +1,5 @@
 {
   "deals": {
-    "63b3e0cc8f5364f78bd0286c2d6ed502": {
-      "title": "VERDE ESPADRILLE",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-27T12:35:54.310910",
-      "sale_price": 44.98
-    },
-    "f4ad4c2aa00f035f66b1503e53ebf55d": {
-      "title": "TNABUTTER™ CHEEKY HI-RISE 7\" SHORT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.310933",
-      "sale_price": 10.99
-    },
-    "10736bf9aef53cd8e0f83280bff647b1": {
-      "title": "FEEDBACK SHIRT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.310937",
-      "sale_price": 21.99
-    },
-    "297ba1905f07af0f902aad75a349a139": {
-      "title": "SOFT SEAMLESS VICEROY LEGGING",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.310940",
-      "sale_price": 19.99
-    },
-    "946d7940b299f8a1407a217f309b73d5": {
-      "title": "COLETTE DRESS",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.310943",
-      "sale_price": 43.99
-    },
-    "0c97290cb16a92aa82a8fb34019c5862": {
-      "title": "CAMPUS 00s",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-27T12:35:54.310947",
-      "sale_price": 49.98
-    },
-    "62b2f0ecc974b3cdec5f6c431ab0b061": {
-      "title": "GOLDENGLOW",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-27T12:35:54.310977",
-      "sale_price": 78.98
-    },
-    "23cb2f353b7fdf872e29a9cc24fe0f90": {
-      "title": "AGOLDE TWIST LOW SLUNG BAGGY JEAN",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.310979",
-      "sale_price": 110.99
-    },
-    "7c854a7a451f8ec8aa2998c6ed302c6e": {
-      "title": "COMPOSE BLOUSE",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.311023",
-      "sale_price": 43.99
-    },
-    "793b42ec51d78953711620957468227b": {
-      "title": "ORIGINAL CONTOUR FLOURISH TOP",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.311046",
-      "sale_price": 28.99
-    },
-    "d4698bd1d90d1e332574e5e11f000c64": {
-      "title": "ANGEL SNEAKER",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-27T12:35:54.311063",
-      "sale_price": 98.98
-    },
-    "a7f3bbb7142974fbd6ad80ca89d33739": {
-      "title": "PEGGY CARDIGAN",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.311066",
-      "sale_price": 68.99
-    },
-    "d9a920a047f9ebe5a17c7a8f9a2e9f60": {
-      "title": "AGENCY WOOL PANT",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.311071",
-      "sale_price": 73.99
-    },
-    "61981a55d3c21b784a7e19d40eea48eb": {
-      "title": "ECHO ZIP-UP",
-      "site": "Aritzia",
-      "first_seen": "2026-04-27T12:35:54.311073",
-      "sale_price": 73.99
-    },
     "aa94d6b8c0a01cf6a9afafb721354394": {
       "title": "MSI 27\" Dual Mode UHD 4K 144Hz Full HD 288Hz IPS with Adaptive-Sync 1ms HDR400 Ai Crosshair Gaming Computer Monitor with",
       "site": "Newegg Canada",
@@ -1775,6 +1691,36 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-04T12:32:33.125776",
       "sale_price": 44.5
+    },
+    "2d9942be2995e7aa7d8504d8f785056b": {
+      "title": "Farrah Stacking Patio Dining Side Chair",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-04T15:18:56.321462",
+      "sale_price": 172.0
+    },
+    "c9f474d6867ddc9823bcc4940b0f2108": {
+      "title": "adidas Originals Handball Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-04T15:18:56.321614",
+      "sale_price": 70.0
+    },
+    "7f11b116e14c8ba27638adf4c45f0519": {
+      "title": "PUMA MB.05 Rick & Morty",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-04T15:18:56.321620",
+      "sale_price": 90.0
+    },
+    "f39bed4c8a1d67d30415c970e81cab91": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-04T15:18:56.321623",
+      "sale_price": 50.0
+    },
+    "61991d6bb9701526ddfbad978b02d750": {
+      "title": "adidas Originals Samba XLG",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-04T15:18:56.321629",
+      "sale_price": 75.0
     }
   }
 }
