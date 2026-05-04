@@ -1,17 +1,5 @@
 {
   "deals": {
-    "aa94d6b8c0a01cf6a9afafb721354394": {
-      "title": "MSI 27\" Dual Mode UHD 4K 144Hz Full HD 288Hz IPS with Adaptive-Sync 1ms HDR400 Ai Crosshair Gaming Computer Monitor with",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-27T16:33:38.362787",
-      "sale_price": 50.0
-    },
-    "ca24dee0481846229d4a31f086dcc0dc": {
-      "title": "adidas Originals Samba",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-27T16:33:38.362887",
-      "sale_price": 50.0
-    },
     "d054f1231c31da6f3c9e32d0c78157f5": {
       "title": "Ripzone Men's Soho Insulated Urban Style Vest",
       "site": "Sport Chek",
@@ -1721,6 +1709,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-04T15:18:56.321629",
       "sale_price": 75.0
+    },
+    "06b1908ddb359143362e854dbd4855a8": {
+      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-04T17:43:01.944725",
+      "sale_price": 419.97
     }
   }
 }
