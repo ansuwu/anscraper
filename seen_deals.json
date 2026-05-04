@@ -1,11 +1,5 @@
 {
   "deals": {
-    "06b1908ddb359143362e854dbd4855a8": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-27T10:25:46.391915",
-      "sale_price": 419.97
-    },
     "63b3e0cc8f5364f78bd0286c2d6ed502": {
       "title": "VERDE ESPADRILLE",
       "site": "Browns Shoes",
@@ -1685,6 +1679,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-04T08:33:38.536137",
       "sale_price": 90.0
+    },
+    "18186d3472d1003e525419567b261b6e": {
+      "title": "Gigabyte AORUS WATERFORCE X II 360 ICE Liquid CPU Cooler",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-04T11:17:01.887799",
+      "sale_price": 189.88
     }
   }
 }
