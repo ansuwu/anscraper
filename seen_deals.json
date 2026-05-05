@@ -1,23 +1,5 @@
 {
   "deals": {
-    "29dcf41163542ecdbd9bba41945cb18a": {
-      "title": "Phanteks Evolv X2, Mid-Tower Gaming Chassis, Vertical Cooling System, See-through Tempered Glass Chassis, Brushed Alumin",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-28T11:13:44.314663",
-      "sale_price": 19.99
-    },
-    "e13040a33d6549d3a17262bfdb143e4c": {
-      "title": "Nike BB Footwear Vintage T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-28T11:13:44.314764",
-      "sale_price": 22.5
-    },
-    "14bb2fff1d8149806e2f364fbe85f106": {
-      "title": "LCKR Marcdale Relaxed Fit Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-28T11:13:44.314777",
-      "sale_price": 30.0
-    },
     "b0b63cb0c555dce768534774f07012cb": {
       "title": "Jordan MJ 88 City Short Sleeve T-Shirt",
       "site": "Foot Locker Canada",
@@ -2045,6 +2027,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-05T10:13:19.283947",
       "sale_price": 72.5
+    },
+    "e13040a33d6549d3a17262bfdb143e4c": {
+      "title": "Nike BB Footwear Vintage T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-05T11:28:55.205153",
+      "sale_price": 22.5
     }
   }
 }
