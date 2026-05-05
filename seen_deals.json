@@ -1,11 +1,5 @@
 {
   "deals": {
-    "b0b63cb0c555dce768534774f07012cb": {
-      "title": "Jordan MJ 88 City Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-28T12:40:10.502319",
-      "sale_price": 12.5
-    },
     "9cc2bcfb9143d5234368bbfa8eeaf6af": {
       "title": "Nike Futura Block T-Shirt",
       "site": "Foot Locker Canada",
@@ -2033,6 +2027,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-05T11:28:55.205153",
       "sale_price": 22.5
+    },
+    "6d9fc1d7b31982258be40c67d90a4689": {
+      "title": "Jordan Stencil Tag T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-05T13:29:16.932038",
+      "sale_price": 15.0
+    },
+    "b0b63cb0c555dce768534774f07012cb": {
+      "title": "Jordan MJ 88 City Short Sleeve T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-05T13:29:16.932045",
+      "sale_price": 12.5
     }
   }
 }
