@@ -1,11 +1,5 @@
 {
   "deals": {
-    "9c3d0e93f9b4616308bfe0591907a937": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-28T08:25:59.354434",
-      "sale_price": 246.85
-    },
     "29dcf41163542ecdbd9bba41945cb18a": {
       "title": "Phanteks Evolv X2, Mid-Tower Gaming Chassis, Vertical Cooling System, See-through Tempered Glass Chassis, Brushed Alumin",
       "site": "Newegg Canada",
@@ -2033,6 +2027,24 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-05T07:33:31.501167",
       "sale_price": 59.99
+    },
+    "9644338fa2a680e936c696571cc7c51f": {
+      "title": "DIYPC DIY-ATX08-Wood Black Cases (Computer Cases - ATX Form)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-05T10:13:19.283829",
+      "sale_price": 14.99
+    },
+    "9a3cf1c5d9675419a801375950103336": {
+      "title": "UGG®Ultra Mini Classic Boot (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-05T10:13:19.283900",
+      "sale_price": 67.98
+    },
+    "f953815ae1c0db0707b48213e675cd1b": {
+      "title": "VionicOrinda Perforated Ballet Flat (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-05T10:13:19.283947",
+      "sale_price": 72.5
     }
   }
 }
