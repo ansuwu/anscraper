@@ -1,11 +1,5 @@
 {
   "deals": {
-    "a1b2e77a8eedf5fdd74c38543c2cc531": {
-      "title": "adidas Originals Samba",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-28T05:39:02.695659",
-      "sale_price": 65.0
-    },
     "9c3d0e93f9b4616308bfe0591907a937": {
       "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
       "site": "Newegg Canada",
@@ -2009,6 +2003,36 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-05T02:06:57.774657",
       "sale_price": 34.5
+    },
+    "d635872c4187fe14bd2b03b5c55dbfa4": {
+      "title": "Cozi Naomi Bomber Jacket",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-05T07:33:31.501079",
+      "sale_price": 19.99
+    },
+    "5ea04db14a9041f72588505ddfda285c": {
+      "title": "johnnie-OGatlin Check Performance Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-05T07:33:31.501137",
+      "sale_price": 54.99
+    },
+    "fc486baa8379719f2cdf83d707f4ecc0": {
+      "title": "Open EditCamp Short Sleeve Button Up Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-05T07:33:31.501153",
+      "sale_price": 23.6
+    },
+    "b43134a25e2b799e7b411696df87f727": {
+      "title": "SAMA V40 Black ATX Mid Tower PC Case, 6 Pre-Installed 120mm ARGB PWM Fans, Dual Tempered Glass Panels, Vertical Airflow ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-05T07:33:31.501163",
+      "sale_price": 59.99
+    },
+    "35d708f16f79a43e8412e55910aa7790": {
+      "title": "SAMA V40 White ATX Mid Tower PC Case, 6 Pre-Installed 120mm ARGB PWM Fans, Dual Tempered Glass Panels, Vertical Airflow ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-05T07:33:31.501167",
+      "sale_price": 59.99
     }
   }
 }
