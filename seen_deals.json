@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5db16e11648439ff7dc9f3d682460abf": {
-      "title": "Saucony Ride Millennium",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-28T23:05:27.360160",
-      "sale_price": 65.0
-    },
     "b8505f3ae0a9582cbca7aeb1e862c4f0": {
       "title": "50% off on Deoproce Snail Galac Line, Set of 5, (Pre-order, available May 7, 2026)",
       "site": "KBeauty.ca",
@@ -2021,6 +2015,24 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-05T21:10:57.219046",
       "sale_price": 14.0
+    },
+    "911ca8f5b0a44b9b59d12ae1e64f7087": {
+      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-06T00:01:34.103933",
+      "sale_price": 32.4
+    },
+    "6da6f485e71ad89106be30413045be9e": {
+      "title": "NordstromMoonlight Eco Crop Pajamas",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-06T00:01:34.103991",
+      "sale_price": 37.5
+    },
+    "5086ba70a4e7408a1bcb41c35db83d28": {
+      "title": "Wit & WisdomBrittany High Waist Baby Bootcut Jeans (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-06T00:01:34.103995",
+      "sale_price": 44.0
     }
   }
 }
