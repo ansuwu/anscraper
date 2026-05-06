@@ -1,11 +1,5 @@
 {
   "deals": {
-    "b8505f3ae0a9582cbca7aeb1e862c4f0": {
-      "title": "50% off on Deoproce Snail Galac Line, Set of 5, (Pre-order, available May 7, 2026)",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-04-29T00:04:57.601125",
-      "sale_price": 54.0
-    },
     "bae276d731566beacffb371ff87cfcf3": {
       "title": "ASICS® GEL-1130",
       "site": "Foot Locker Canada",
@@ -2033,6 +2027,48 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-06T00:01:34.103995",
       "sale_price": 44.0
+    },
+    "b4cfc6287172280e15edabd0d989db38": {
+      "title": "Cambra Velvet Solid Semi-Sheer Grommet Curtain Panels",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414085",
+      "sale_price": 25.0
+    },
+    "61dd43b5e456599ab44290cc543da2cc": {
+      "title": "Dunigan Machine Woven Abstract Area Rug",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414128",
+      "sale_price": 489.99
+    },
+    "29c96ce3861431fff88d760431a366e8": {
+      "title": "Mendota Geometric Khaki Indoor/Outdoor Area Rug",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414156",
+      "sale_price": 279.99
+    },
+    "bc22e01a4802aa3bf0955bbd2e7c7bcb": {
+      "title": "Ciann Floral Blue Multicolor Indoor / Outdoor Area Rug",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414163",
+      "sale_price": 237.99
+    },
+    "35070b7f88a99a574b88536972ef19c8": {
+      "title": "Vivian DELUXE Platform Bed Frame with Headboard – Acacia Wood",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414178",
+      "sale_price": 469.99
+    },
+    "c29723e0238ca1184dad780ed70f6f7b": {
+      "title": "Rectangular Pillow Cover & Insert",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414185",
+      "sale_price": 41.5
+    },
+    "4a392592f39d265cf202dad9da1e6c13": {
+      "title": "Polyester Sheer Rod Pocket Curtain Pair",
+      "site": "Wayfair Canada",
+      "first_seen": "2026-05-06T01:53:15.414188",
+      "sale_price": 35.0
     }
   }
 }
