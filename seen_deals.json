@@ -1,17 +1,5 @@
 {
   "deals": {
-    "0130e5b3d1fa85fd10cc9359aaac4006": {
-      "title": "PUMA MB.05 Rick & Morty",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-29T13:35:58.677275",
-      "sale_price": 79.99
-    },
-    "b05157abafca9fc2e347d87283d28d37": {
-      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-29T13:35:58.677299",
-      "sale_price": 49.99
-    },
     "e5d3e9bef768f0ee724d88d3194e897c": {
       "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
       "site": "Nordstrom Canada",
@@ -2117,6 +2105,18 @@
       "site": "Aritzia",
       "first_seen": "2026-05-06T12:42:12.285452",
       "sale_price": 38.99
+    },
+    "ca24dee0481846229d4a31f086dcc0dc": {
+      "title": "adidas Originals Samba",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-06T15:31:05.712836",
+      "sale_price": 50.0
+    },
+    "bae276d731566beacffb371ff87cfcf3": {
+      "title": "ASICS® GEL-1130",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-06T15:31:05.712845",
+      "sale_price": 50.0
     }
   }
 }
