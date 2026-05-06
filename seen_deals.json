@@ -1,11 +1,5 @@
 {
   "deals": {
-    "bae276d731566beacffb371ff87cfcf3": {
-      "title": "ASICS® GEL-1130",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-29T10:20:37.310124",
-      "sale_price": 50.0
-    },
     "0130e5b3d1fa85fd10cc9359aaac4006": {
       "title": "PUMA MB.05 Rick & Morty",
       "site": "Foot Locker Canada",
@@ -2081,6 +2075,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-06T08:26:47.899325",
       "sale_price": 25.0
+    },
+    "2dfb278e48028946be49b23f36f22aea": {
+      "title": "adidas Originals Adicolor Beckenbauer Jacket",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-06T11:18:37.260633",
+      "sale_price": 55.0
     }
   }
 }
