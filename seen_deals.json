@@ -1727,6 +1727,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-07T12:52:47.754835",
       "sale_price": 63.36
+    },
+    "8b90bade737527f0240f0e5938bbdcff": {
+      "title": "Nike BB Footwear Vintage T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T15:42:15.181183",
+      "sale_price": 19.99
+    },
+    "c1b579679e582b83a0ca6dcac5b76722": {
+      "title": "Jordan Brooklyn Air Oversized Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T15:42:15.181264",
+      "sale_price": 24.0
     }
   }
 }
