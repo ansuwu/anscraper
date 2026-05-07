@@ -1,53 +1,5 @@
 {
   "deals": {
-    "26471c59b404bab5ff77829a140b4f3f": {
-      "title": "Ripzone Women's Horizon Long Sleeve Shirt",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-30T18:25:13.873397",
-      "sale_price": 19.98
-    },
-    "06dd2eedecd3c96500f5f411741d6d39": {
-      "title": "BillabongFree Fall Fray Hem Stretch Wide Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T18:25:13.873402",
-      "sale_price": 35.98
-    },
-    "c72f9f95efd7613d3fdba806ac052645": {
-      "title": "Wit & WisdomHigh Waist Ankle Skinny Pants (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T18:25:13.873426",
-      "sale_price": 29.97
-    },
-    "5ae61818ea5a542a5df871bb943fb228": {
-      "title": "Peter MillarCrown Crafted Albatross Pima Cotton Blend Polo",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T18:25:13.873433",
-      "sale_price": 57.6
-    },
-    "764146b9b17a3a82f4bf25d2b2ad9401": {
-      "title": "MOTHERThe Patch Pocket Mid Rise Maven Skimp Jeans (Lets Split)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T18:25:13.873464",
-      "sale_price": 139.0
-    },
-    "e26957cebcf54bb6b5ae2ce27dd5594f": {
-      "title": "VuoriHalo 2.0 Performance Crop Racerback Tank Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T18:25:13.873468",
-      "sale_price": 29.0
-    },
-    "902629c9c763f1f54cea12ea7c81f904": {
-      "title": "Nike Puffle Mini Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-30T18:25:13.873474",
-      "sale_price": 35.0
-    },
-    "b46149340c7dec5e65836c26f1b3e208": {
-      "title": "Converse Chuck 70 Hi",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-30T18:25:13.873478",
-      "sale_price": 50.0
-    },
     "8868a749218b64b7d86fbc9ba85c4b03": {
       "title": "Reebok Women's Identity Small Logo T Shirt",
       "site": "Sport Chek",
@@ -1703,6 +1655,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-07T15:42:15.181264",
       "sale_price": 24.0
+    },
+    "902629c9c763f1f54cea12ea7c81f904": {
+      "title": "Nike Puffle Mini Backpack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T19:40:51.822813",
+      "sale_price": 35.0
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T19:40:51.822823",
+      "sale_price": 50.0
     }
   }
 }
