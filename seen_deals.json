@@ -1,29 +1,5 @@
 {
   "deals": {
-    "fdb862c453195f9ace3be7f7f66a26ca": {
-      "title": "Reebok Women's Energen 4 Running Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-30T12:30:17.766232",
-      "sale_price": 43.98
-    },
-    "29d2e0fd7a0c8a7e9daf11abc602abae": {
-      "title": "COUNTRY II",
-      "site": "Browns Shoes",
-      "first_seen": "2026-04-30T12:30:17.766242",
-      "sale_price": 79.98
-    },
-    "c106733f88f6bc4764a932552330c2c5": {
-      "title": "Reebok Women's Lux High-Rise Tights",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-30T12:30:17.766318",
-      "sale_price": 40.0
-    },
-    "6d41c2fabbdfe1668c03c17cdc57cafe": {
-      "title": "Reebok Women's Lux Yoga Hoodie",
-      "site": "Sport Chek",
-      "first_seen": "2026-04-30T12:30:17.766321",
-      "sale_price": 40.0
-    },
     "1c1fde9ae104ee09836bef3fe1e094aa": {
       "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
       "site": "Nordstrom Canada",
@@ -1733,6 +1709,24 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-07T11:21:37.803832",
       "sale_price": 16.0
+    },
+    "ff7a90b889abb47aa6fa72abe4d70cf1": {
+      "title": "DIYPC ARGB-N3-BK Black Cases (Computer Cases - ATX Form)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-07T12:52:47.754752",
+      "sale_price": 14.99
+    },
+    "353d6a568b7bab099d69d9f27fe24f29": {
+      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  1m/ 3.28ft (CAC-1371)",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-07T12:52:47.754831",
+      "sale_price": 7.88
+    },
+    "99c620b5b7ce9e1c5e59f986b488baa0": {
+      "title": "OGEECrystal Contour Collection Value",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-07T12:52:47.754835",
+      "sale_price": 63.36
     }
   }
 }
