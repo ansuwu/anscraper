@@ -1,29 +1,5 @@
 {
   "deals": {
-    "9ebea4a596758294e617db72cbadf261": {
-      "title": "SKIMSStretch Cotton Rib Romper (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T02:13:03.983770",
-      "sale_price": 29.99
-    },
-    "5a7c1ef5b8298a072a94e9f1524294c0": {
-      "title": "New Balance327 Sneaker (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T02:13:03.983780",
-      "sale_price": 41.99
-    },
-    "36795e120efcfb7fc11bc5b6b3ae9ede": {
-      "title": "UGG Classic Micro",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-04-30T02:13:03.983852",
-      "sale_price": 82.5
-    },
-    "b74a214943bc0c6e712938ae845cbdaa": {
-      "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-30T05:43:07.247212",
-      "sale_price": 152.2
-    },
     "ce64ce54be1c63c12274d064eda8ce11": {
       "title": "LIAN LI A3-mATX Black SPCC M-ATX / ITX Computer Case ------ A3-mATX-X",
       "site": "Newegg Canada",
@@ -1967,6 +1943,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-06T23:00:56.423813",
       "sale_price": 48.0
+    },
+    "36795e120efcfb7fc11bc5b6b3ae9ede": {
+      "title": "UGG Classic Micro",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T05:44:06.112007",
+      "sale_price": 82.5
     }
   }
 }
