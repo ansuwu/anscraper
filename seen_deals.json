@@ -1,29 +1,5 @@
 {
   "deals": {
-    "6ba9395f2d7e97c52ee91df7c00a7fa4": {
-      "title": "SKIMSFits Everybody Short Sleeve T-Shirt (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T23:02:15.197222",
-      "sale_price": 18.99
-    },
-    "82c27eed0e280f277f925bc69d0582c2": {
-      "title": "NikeTech Hooded Performance Zip Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T23:02:15.197279",
-      "sale_price": 49.99
-    },
-    "f57a58379be87bf3d4cf3fc9ac4f44ab": {
-      "title": "rag & boneTomlin Cotton Dobby Button-Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T23:02:15.197296",
-      "sale_price": 99.0
-    },
-    "cbfa648df83c66a78f8cd468c24ff740": {
-      "title": "MOTHERThe RamblerSlice Hover Fray Bow Ankle Wide Leg Jeans (Complete)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-04-30T23:02:15.197301",
-      "sale_price": 144.0
-    },
     "d930b19898cd2dcc828a25d9ad8edfe4": {
       "title": "TheoryClinton Precision Ponte Knit Blazer",
       "site": "Nordstrom Canada",
@@ -1619,6 +1595,12 @@
       "site": "Kiokii & Co",
       "first_seen": "2026-05-07T22:04:12.646565",
       "sale_price": 2.8
+    },
+    "fdb862c453195f9ace3be7f7f66a26ca": {
+      "title": "Reebok Women's Energen 4 Running Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-07T23:12:00.419071",
+      "sale_price": 43.98
     }
   }
 }
