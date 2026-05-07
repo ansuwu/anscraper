@@ -1,35 +1,5 @@
 {
   "deals": {
-    "ce64ce54be1c63c12274d064eda8ce11": {
-      "title": "LIAN LI A3-mATX Black SPCC M-ATX / ITX Computer Case ------ A3-mATX-X",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-30T08:18:40.993627",
-      "sale_price": 12.99
-    },
-    "04709677d2d095069deea78b2b82146a": {
-      "title": "MONTECH HS01, ATX Mid-Tower PC Case, Gaming PC, High-Airflow, Reversible Layout, Mesh Front Panel, Sink-in Design, Tooll",
-      "site": "Newegg Canada",
-      "first_seen": "2026-04-30T08:18:40.993686",
-      "sale_price": 59.99
-    },
-    "422e68a54ea8471b11c4527acc217fdf": {
-      "title": "Under ArmourMen's Velociti 4 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-30T08:18:40.993698",
-      "sale_price": 81.98
-    },
-    "73f46c86644934f5eef17f7f6f0e162f": {
-      "title": "New BalanceUnisex 480 Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-30T08:18:40.993704",
-      "sale_price": 69.98
-    },
-    "9acb838e8b301717bd0b180dcc17b88a": {
-      "title": "The North FaceWomen's Altamesa 300 Trail Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-04-30T08:18:40.993712",
-      "sale_price": 89.98
-    },
     "ef30e01d5d062961e4f7428591bb4212": {
       "title": "CROCSKids' Classic Clog (Toddler, Little Kid & Big Kid)",
       "site": "Nordstrom Canada",
@@ -1949,6 +1919,36 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-07T05:44:06.112007",
       "sale_price": 82.5
+    },
+    "feb17d444559799e3c8a0cb04438fd49": {
+      "title": "Cozi Pherin French Terry  Full-Zip Jacket",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-07T08:33:20.387412",
+      "sale_price": 19.99
+    },
+    "fc890169817260583a3f00c1173ecbfa": {
+      "title": "SauconyWomen's Ride 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-07T08:33:20.387465",
+      "sale_price": 89.98
+    },
+    "23232ddca4fb5c366855af1160641ead": {
+      "title": "MerrellMen's Pro Morph Trail Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-07T08:33:20.387470",
+      "sale_price": 89.98
+    },
+    "bdbf4d145a4efd1bb8dfc6eabb1b7f1b": {
+      "title": "MerrellWomen's Agility Peak 5 Trail Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-07T08:33:20.387473",
+      "sale_price": 94.98
+    },
+    "c1a4a88637ac47245dfd51e44764b06e": {
+      "title": "SalomonWomen's Aero Glide 3 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-07T08:33:20.387476",
+      "sale_price": 104.98
     }
   }
 }
