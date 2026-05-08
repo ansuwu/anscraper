@@ -1,11 +1,5 @@
 {
   "deals": {
-    "63948bd807bb84b26ac7f8be17936095": {
-      "title": "j5create Charger GaN 65W USB-C / USB - A 3 Port Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-01T15:02:39.873059",
-      "sale_price": 29.88
-    },
     "439482593e061cbcf3facc4a803f774b": {
       "title": "rag & boneRetro Runner Slim Ultra Sneaker (Women)",
       "site": "Nordstrom Canada",
@@ -1553,6 +1547,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-08T12:26:05.733297",
       "sale_price": 12.5
+    },
+    "49cabb63e1fd616436a2d23c7f01a39e": {
+      "title": "MIKOIbuki True HEPA Air Purifier with Auto Mode and Diffuser",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T15:06:05.269883",
+      "sale_price": 74.99
+    },
+    "b8505f3ae0a9582cbca7aeb1e862c4f0": {
+      "title": "50% off on Deoproce Snail Galac Line, Set of 5, (Pre-order, available May 7, 2026)",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-08T15:06:05.269889",
+      "sale_price": 54.0
     }
   }
 }
