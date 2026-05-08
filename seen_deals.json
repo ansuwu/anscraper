@@ -1,29 +1,5 @@
 {
   "deals": {
-    "431aea9b4b13430ef36d8ec7404c66dd": {
-      "title": "PUMA x Rose Skirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-01T11:22:49.862887",
-      "sale_price": 19.99
-    },
-    "25fadfcf325c8cdd987904d8486b8103": {
-      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-01T11:22:49.862979",
-      "sale_price": 12.5
-    },
-    "fd1f498d944fab0690311a0d78770470": {
-      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-01T12:22:59.137659",
-      "sale_price": 59.88
-    },
-    "b83e4c54cad8b6a67edc6a78dce314da": {
-      "title": "50% off on Deoproce Bakuchiol Line, Set of 5",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-01T12:22:59.137672",
-      "sale_price": 47.0
-    },
     "63948bd807bb84b26ac7f8be17936095": {
       "title": "j5create Charger GaN 65W USB-C / USB - A 3 Port Charger",
       "site": "Canada Computers",
@@ -1571,6 +1547,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-08T10:37:17.387442",
       "sale_price": 28.97
+    },
+    "25fadfcf325c8cdd987904d8486b8103": {
+      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-08T12:26:05.733297",
+      "sale_price": 12.5
     }
   }
 }
