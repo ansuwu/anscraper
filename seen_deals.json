@@ -1,41 +1,5 @@
 {
   "deals": {
-    "29805cf11fa3be07f454e86936aa3027": {
-      "title": "VikingSet of 2 3-Ply Nonstick Stainless Steel Fry Pans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875605",
-      "sale_price": 59.99
-    },
-    "eec43bab1bfb709373b55500a6956858": {
-      "title": "Carhartt Work In ProgressLogo Pocket T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875630",
-      "sale_price": 18.0
-    },
-    "fbeddeafbbd713e8a21bde0518eb2d26": {
-      "title": "NordstromMoonlight Eco Short Pajamas (Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875646",
-      "sale_price": 29.24
-    },
-    "2c5a16a94743e34eba30351f0ec8fb07": {
-      "title": "Rodd & GunnFrey's Crescent Rib Cotton Sweater Polo",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875649",
-      "sale_price": 57.59
-    },
-    "4abc1be5a41817e2a443d2e861b19512": {
-      "title": "Eileen FisherCotton Blend Tweed Jacket (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875657",
-      "sale_price": 125.1
-    },
-    "68c105c79b86fd57898144ce8a008c38": {
-      "title": "Jack ArcherAnytime 5 Pocket Pant",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T10:07:22.875696",
-      "sale_price": 44.5
-    },
     "431aea9b4b13430ef36d8ec7404c66dd": {
       "title": "PUMA x Rose Skirt",
       "site": "Foot Locker Canada",
@@ -1583,6 +1547,30 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-08T06:35:43.252454",
       "sale_price": 19.99
+    },
+    "db9c95a4637f1c4877c76bac50ce0ac1": {
+      "title": "LancômeRénergie Collection Skin Care Set Value",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T10:37:17.387390",
+      "sale_price": 77.0
+    },
+    "a001e8caed20e688711c06df82beb63f": {
+      "title": "adidasSamba LT Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T10:37:17.387429",
+      "sale_price": 47.99
+    },
+    "08399d0928817e8682e71188b7199e66": {
+      "title": "NordstromTrim Fit Check Premium Performance Twill Dress Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T10:37:17.387438",
+      "sale_price": 39.8
+    },
+    "7c33afe9db53da5de0f4ff82e9c563a1": {
+      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T10:37:17.387442",
+      "sale_price": 28.97
     }
   }
 }
