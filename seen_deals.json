@@ -1,11 +1,5 @@
 {
   "deals": {
-    "d930b19898cd2dcc828a25d9ad8edfe4": {
-      "title": "TheoryClinton Precision Ponte Knit Blazer",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-01T02:13:43.417931",
-      "sale_price": 247.5
-    },
     "fd7e5e2c6f14603eed1e45c0db54c72e": {
       "title": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
       "site": "Newegg Canada",
@@ -1601,6 +1595,18 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-07T23:12:00.419071",
       "sale_price": 43.98
+    },
+    "c2e8efe659da9c7c7ff3f45baafa7b1c": {
+      "title": "Billionaire Boys ClubBB Flyers Astronaut Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T05:09:48.875402",
+      "sale_price": 28.0
+    },
+    "defd19e7afadced89b4e75254eaf7879": {
+      "title": "AGEverett Stretch Sateen Slim Straight Pants (Regular, Big & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-08T05:09:48.875408",
+      "sale_price": 79.2
     }
   }
 }
