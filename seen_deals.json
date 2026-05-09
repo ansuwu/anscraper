@@ -1,17 +1,5 @@
 {
   "deals": {
-    "cf63441bc5a07ad21ab727b71917eced": {
-      "title": "Glorious Raptor Clicky switches - Mechanical (36pieces)",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-02T15:56:18.533489",
-      "sale_price": 12.88
-    },
-    "ff8e5bd6bbd9adbebed1f3e08865a104": {
-      "title": "SauconyMen's Guide 18 Running Shoe",
-      "site": "SportingLife",
-      "first_seen": "2026-05-02T15:56:18.533582",
-      "sale_price": 89.98
-    },
     "3adb773c0316267fc25fa3db3083b14e": {
       "title": "Canada GooseChilliwack 750 Fill Power Down Aviator Bomber Jacket",
       "site": "Nordstrom Canada",
@@ -2225,6 +2213,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-09T14:34:59.507683",
       "sale_price": 19.99
+    },
+    "ff8e5bd6bbd9adbebed1f3e08865a104": {
+      "title": "SauconyMen's Guide 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-09T16:02:29.794903",
+      "sale_price": 89.98
     }
   }
 }
