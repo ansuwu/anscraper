@@ -1,23 +1,5 @@
 {
   "deals": {
-    "5bb469cb6e9d6f87502b90a58735b576": {
-      "title": "New BalanceGender Inclusive 530 Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-02T22:51:31.287412",
-      "sale_price": 39.99
-    },
-    "fd2128bbe95765456c724b30b2fe91ec": {
-      "title": "RhoneCommuter Slim Fit Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-02T22:51:31.287419",
-      "sale_price": 54.99
-    },
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-02T22:51:31.287492",
-      "sale_price": 14.99
-    },
     "751c1d2d886f1a940b108c87d9b233cb": {
       "title": "Cooler Master MasterBox Q300L Micro-ATX PC Case - Compact mATX Computer Case with Magnetic Dust Filters, Modular Adjusta",
       "site": "Newegg Canada",
@@ -2273,6 +2255,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-09T20:56:35.669959",
       "sale_price": 39.0
+    },
+    "a6dd75bfd336d712bde2ed87f8491401": {
+      "title": "Carhartt Work In ProgressFlint Straight Leg Twill Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-09T22:51:49.530414",
+      "sale_price": 54.99
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-09T22:51:49.530491",
+      "sale_price": 14.99
     }
   }
 }
