@@ -1,17 +1,5 @@
 {
   "deals": {
-    "3adb773c0316267fc25fa3db3083b14e": {
-      "title": "Canada GooseChilliwack 750 Fill Power Down Aviator Bomber Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-02T17:55:29.714145",
-      "sale_price": 540.0
-    },
-    "ba9aa3e9830e607cba886488b665b893": {
-      "title": "NordstromTrim Fit Dash Stripe Premium Non Iron Cotton Dress Shirt (Regular, Big & Tall)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-02T17:55:29.714162",
-      "sale_price": 39.8
-    },
     "458b861811a47f0f83cea25b51322166": {
       "title": "SKIMSStretch Cotton Jersey Long Sleeve T-Shirt (Regular & Plus)",
       "site": "Nordstrom Canada",
@@ -2219,6 +2207,24 @@
       "site": "SportingLife",
       "first_seen": "2026-05-09T16:02:29.794903",
       "sale_price": 89.98
+    },
+    "15699101bc8a5d9c1d0b361e480c0093": {
+      "title": "Phanteks NV5 MK2, Showcase Mid-Tower Chassis, Rear-Connect MB Support, Integrated D/A-RGB Lighting, Seamless Tempered Gl",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-09T18:00:07.133307",
+      "sale_price": 19.99
+    },
+    "c36f443b5ee31c161c125ef89be62224": {
+      "title": "VuoriMeta 32-Inch Athletic Slim Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-09T18:00:07.133368",
+      "sale_price": 49.99
+    },
+    "2cbb486e024e867ece73fc7e80cf9976": {
+      "title": "PAIGEMason Ankle Straight Leg Jeans (Cirques)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-09T18:00:07.133380",
+      "sale_price": 99.6
     }
   }
 }
