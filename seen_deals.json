@@ -1,17 +1,5 @@
 {
   "deals": {
-    "751c1d2d886f1a940b108c87d9b233cb": {
-      "title": "Cooler Master MasterBox Q300L Micro-ATX PC Case - Compact mATX Computer Case with Magnetic Dust Filters, Modular Adjusta",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-03T08:08:00.943803",
-      "sale_price": 12.99
-    },
-    "6a6f305f13a9050b3614eeee54042e8a": {
-      "title": "SalomonGender Inclusive XT-6 Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-03T08:08:00.943937",
-      "sale_price": 90.0
-    },
     "19b441a876dbb87f33c266a61992485c": {
       "title": "G&G P4100DW Wireless Monochrome Laser Printer, 33 ppm",
       "site": "Canada Computers",
@@ -2273,6 +2261,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-10T02:10:49.363837",
       "sale_price": 65.38
+    },
+    "5bb469cb6e9d6f87502b90a58735b576": {
+      "title": "New BalanceGender Inclusive 530 Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-10T08:16:39.512618",
+      "sale_price": 39.99
     }
   }
 }
