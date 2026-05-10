@@ -2267,6 +2267,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-10T08:16:39.512618",
       "sale_price": 39.99
+    },
+    "5db16e11648439ff7dc9f3d682460abf": {
+      "title": "Saucony Ride Millennium",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-10T09:36:26.503250",
+      "sale_price": 65.0
+    },
+    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
+      "title": "UGG Tasman Maxi Curly",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-10T09:36:26.503256",
+      "sale_price": 82.5
     }
   }
 }
