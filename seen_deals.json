@@ -1,23 +1,5 @@
 {
   "deals": {
-    "dda2478e87c82538a5c429dddba30bca": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-03T14:27:45.030586",
-      "sale_price": 10.0
-    },
-    "03e9d1261437d53cb681ba36c8349f44": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-03T14:27:45.030593",
-      "sale_price": 10.0
-    },
-    "4774465cdfad78633501523d72f07d43": {
-      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-03T14:27:45.030596",
-      "sale_price": 7.0
-    },
     "57cb72a147f49c95bf5c33b8e2701afc": {
       "title": "Nike Just Do It Hoodie",
       "site": "Foot Locker Canada",
@@ -2285,6 +2267,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-10T13:13:40.150136",
       "sale_price": 55.0
+    },
+    "dda2478e87c82538a5c429dddba30bca": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-10T14:37:57.088899",
+      "sale_price": 10.0
+    },
+    "03e9d1261437d53cb681ba36c8349f44": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-10T14:37:57.088905",
+      "sale_price": 10.0
+    },
+    "4774465cdfad78633501523d72f07d43": {
+      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-10T14:37:57.088909",
+      "sale_price": 7.0
     }
   }
 }
