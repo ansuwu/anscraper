@@ -1,11 +1,5 @@
 {
   "deals": {
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-03T19:03:57.461499",
-      "sale_price": 49.99
-    },
     "6a8eeade0a4d6514b36decee2d071d9a": {
       "title": "VuoriBanks Shorts",
       "site": "Nordstrom Canada",
@@ -2345,6 +2339,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-10T18:01:44.961425",
       "sale_price": 124.0
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-10T19:06:41.615337",
+      "sale_price": 49.99
     }
   }
 }
