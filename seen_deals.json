@@ -1,35 +1,5 @@
 {
   "deals": {
-    "2d9942be2995e7aa7d8504d8f785056b": {
-      "title": "Farrah Stacking Patio Dining Side Chair",
-      "site": "Wayfair Canada",
-      "first_seen": "2026-05-04T15:18:56.321462",
-      "sale_price": 172.0
-    },
-    "c9f474d6867ddc9823bcc4940b0f2108": {
-      "title": "adidas Originals Handball Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-04T15:18:56.321614",
-      "sale_price": 70.0
-    },
-    "7f11b116e14c8ba27638adf4c45f0519": {
-      "title": "PUMA MB.05 Rick & Morty",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-04T15:18:56.321620",
-      "sale_price": 90.0
-    },
-    "f39bed4c8a1d67d30415c970e81cab91": {
-      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-04T15:18:56.321623",
-      "sale_price": 50.0
-    },
-    "61991d6bb9701526ddfbad978b02d750": {
-      "title": "adidas Originals Samba XLG",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-04T15:18:56.321629",
-      "sale_price": 75.0
-    },
     "06b1908ddb359143362e854dbd4855a8": {
       "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
       "site": "Newegg Canada",
@@ -2207,6 +2177,54 @@
       "site": "Indigo / Chapters",
       "first_seen": "2026-05-11T14:49:06.512857",
       "sale_price": 20.0
+    },
+    "651090565b05a7ea4b362084ad03ac79": {
+      "title": "SKIMSSoft Lounge Rib Sleep Set (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T17:40:11.706425",
+      "sale_price": 47.97
+    },
+    "1673f94615e4c4e3e172d258943eeafa": {
+      "title": "Open EditThe Curator Relaxed Blazer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T17:40:11.706448",
+      "sale_price": 73.97
+    },
+    "465a922a0d9dc8ae1d7052cace5fc451": {
+      "title": "ASUS AirVision M1 Smart AR Glasses",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-11T17:40:11.706459",
+      "sale_price": 449.99
+    },
+    "6a6f305f13a9050b3614eeee54042e8a": {
+      "title": "SalomonGender Inclusive XT-6 Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T17:40:11.706516",
+      "sale_price": 90.0
+    },
+    "924cd65fd95e8d92e50468e1c9c211d5": {
+      "title": "Nike Swoosh Ankle Sock 6 Pack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-11T17:40:11.706526",
+      "sale_price": 9.0
+    },
+    "c9f474d6867ddc9823bcc4940b0f2108": {
+      "title": "adidas Originals Handball Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-11T17:40:11.706533",
+      "sale_price": 70.0
+    },
+    "61991d6bb9701526ddfbad978b02d750": {
+      "title": "adidas Originals Samba XLG",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-11T17:40:11.706536",
+      "sale_price": 75.0
+    },
+    "f39bed4c8a1d67d30415c970e81cab91": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-11T17:40:11.706538",
+      "sale_price": 50.0
     }
   }
 }
