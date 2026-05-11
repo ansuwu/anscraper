@@ -1,11 +1,5 @@
 {
   "deals": {
-    "18186d3472d1003e525419567b261b6e": {
-      "title": "Gigabyte AORUS WATERFORCE X II 360 ICE Liquid CPU Cooler",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-04T11:17:01.887799",
-      "sale_price": 189.88
-    },
     "067faf40affc61a00f57aba11c839aad": {
       "title": "Rokka&RollaLightweight Quilted Hooded Puffer Jacket",
       "site": "Nordstrom Canada",
@@ -2243,6 +2237,54 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-11T09:14:58.580766",
       "sale_price": 13.0
+    },
+    "d07863dcc835dc1d7e71c83af51274e0": {
+      "title": "Barefoot Dreams®CozyChic™ Rib Throw Blanket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483495",
+      "sale_price": 49.99
+    },
+    "afaed6352d9581d6fa601c02ff6395d9": {
+      "title": "Haus of Brilliance14K White Gold 6.00 Cttw Round Lab Grown Diamond Solitaire Stud Earrings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483534",
+      "sale_price": 2499.0
+    },
+    "3da45c64b5546f9f4cfc2c1e9a88fd0b": {
+      "title": "NaturalizerJayla Half d'Orsay Slingback Pump (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483540",
+      "sale_price": 49.99
+    },
+    "6315d6c7b7b9ef3f7d2720c216713c14": {
+      "title": "SKIMSStretch Cotton Jersey T-Shirt (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483546",
+      "sale_price": 18.99
+    },
+    "44a42d19b6a741cf7bcf60565491a0fd": {
+      "title": "SKIMSHip Enhancing Mid Thigh Padded Shorts (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483551",
+      "sale_price": 42.99
+    },
+    "c375631f30a9e11afb70451886aeda02": {
+      "title": "Cole HaanGrandPro Rally LTT Sneaker (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483566",
+      "sale_price": 66.99
+    },
+    "520b7468892988afe71870bbd92e8ccc": {
+      "title": "adidasGender Inclusive Samba OG Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483622",
+      "sale_price": 49.99
+    },
+    "02232f5fcfb831a905c391dfa97e1acd": {
+      "title": "TOM FORDTraceless Soft Matte Face Primer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-11T12:18:53.483635",
+      "sale_price": 40.0
     }
   }
 }
