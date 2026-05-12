@@ -1,11 +1,5 @@
 {
   "deals": {
-    "49c2f6bb639aa41101619a76b8960af2": {
-      "title": "Damaged Boxes - Numbuzin Nad+ Eye Cream",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-05T21:10:57.219046",
-      "sale_price": 14.0
-    },
     "911ca8f5b0a44b9b59d12ae1e64f7087": {
       "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
       "site": "Nordstrom Canada",
@@ -1949,6 +1943,30 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-12T20:46:02.055051",
       "sale_price": 29.0
+    },
+    "7bf901c8d41c5e0956ad7f6fa535add7": {
+      "title": "JordanAir Jordan 1 Low Basketball Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T22:23:27.655032",
+      "sale_price": 48.0
+    },
+    "115efd7393022b9503a26c6e7200f055": {
+      "title": "VinceSpencer Oxford (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T22:23:27.655054",
+      "sale_price": 119.98
+    },
+    "49c2f6bb639aa41101619a76b8960af2": {
+      "title": "Damaged Boxes - Numbuzin Nad+ Eye Cream",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-12T22:23:27.655059",
+      "sale_price": 14.0
+    },
+    "450b3160fe18427da863024e1b31b726": {
+      "title": "Timex®Waterbury Metropolitan Chronograph Leather Strap Watch, 41mm",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T22:23:27.655111",
+      "sale_price": 99.5
     }
   }
 }
