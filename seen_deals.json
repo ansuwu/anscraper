@@ -1,17 +1,5 @@
 {
   "deals": {
-    "6d9fc1d7b31982258be40c67d90a4689": {
-      "title": "Jordan Stencil Tag T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-05T13:29:16.932038",
-      "sale_price": 15.0
-    },
-    "b0b63cb0c555dce768534774f07012cb": {
-      "title": "Jordan MJ 88 City Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-05T13:29:16.932045",
-      "sale_price": 12.5
-    },
     "5a7db0a21c3b6bcd8a92ee160d9d4947": {
       "title": "Peter MillarCoolspun Lite Quarter Zip Sweater",
       "site": "Nordstrom Canada",
@@ -1925,6 +1913,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-12T08:45:49.360731",
       "sale_price": 64.0
+    },
+    "6d9fc1d7b31982258be40c67d90a4689": {
+      "title": "Jordan Stencil Tag T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-12T14:13:11.848944",
+      "sale_price": 15.0
     }
   }
 }
