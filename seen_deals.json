@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5a7db0a21c3b6bcd8a92ee160d9d4947": {
-      "title": "Peter MillarCoolspun Lite Quarter Zip Sweater",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-05T19:20:31.707723",
-      "sale_price": 90.99
-    },
     "49c2f6bb639aa41101619a76b8960af2": {
       "title": "Damaged Boxes - Numbuzin Nad+ Eye Cream",
       "site": "KBeauty.ca",
@@ -1937,6 +1931,24 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-12T18:52:06.584187",
       "sale_price": 54.0
+    },
+    "a917b45673deb49a09819ac2917c7459": {
+      "title": "TravisMathewRome Around Floral Button Down Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T20:46:02.054982",
+      "sale_price": 44.96
+    },
+    "31e5c631c7a17140ba0e6574ca0c0972": {
+      "title": "HOKATor Summit Lifestyle Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T20:46:02.054988",
+      "sale_price": 94.5
+    },
+    "73785f80718510dfb95b3aac766a369c": {
+      "title": "Wit & WisdomStripe Balloon Sleeve Knit Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-12T20:46:02.055051",
+      "sale_price": 29.0
     }
   }
 }
