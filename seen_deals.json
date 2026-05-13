@@ -1,23 +1,5 @@
 {
   "deals": {
-    "911ca8f5b0a44b9b59d12ae1e64f7087": {
-      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T00:01:34.103933",
-      "sale_price": 32.4
-    },
-    "6da6f485e71ad89106be30413045be9e": {
-      "title": "NordstromMoonlight Eco Crop Pajamas",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T00:01:34.103991",
-      "sale_price": 37.5
-    },
-    "5086ba70a4e7408a1bcb41c35db83d28": {
-      "title": "Wit & WisdomBrittany High Waist Baby Bootcut Jeans (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T00:01:34.103995",
-      "sale_price": 44.0
-    },
     "b4cfc6287172280e15edabd0d989db38": {
       "title": "Cambra Velvet Solid Semi-Sheer Grommet Curtain Panels",
       "site": "Wayfair Canada",
@@ -1967,6 +1949,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-12T22:23:27.655111",
       "sale_price": 99.5
+    },
+    "216da6305b5ee8e6cb94fecd1c7460d7": {
+      "title": "WD_BLACK 2TB SN8100 NVMe SSD Internal Solid State Drive - Gen 5 PCIe 5.0x4, M.2 2280, Seq. Read Speeds Up to 14,900 MB/s",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-13T00:10:28.703862",
+      "sale_price": 413.99
     }
   }
 }
