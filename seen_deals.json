@@ -1,11 +1,5 @@
 {
   "deals": {
-    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
-      "title": "Nike Futura Block T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-06T08:26:47.899325",
-      "sale_price": 25.0
-    },
     "2dfb278e48028946be49b23f36f22aea": {
       "title": "adidas Originals Adicolor Beckenbauer Jacket",
       "site": "Foot Locker Canada",
@@ -1913,6 +1907,72 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-13T06:01:36.438855",
       "sale_price": 47.5
+    },
+    "aa9317bed41e224f3216cbbda65b24ed": {
+      "title": "19V69 ITALIAVintage 3 Piece Expandable Spinner Luggage Set",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863504",
+      "sale_price": 189.99
+    },
+    "b0f4856c563a440d294511bc761c5c70": {
+      "title": "Favorite DaughterGraphic Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863547",
+      "sale_price": 46.99
+    },
+    "811c6ac4c0915114431af6c059a4bfae": {
+      "title": "AllSaintsLexi Long Sleeve High-Low Shirtdress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863562",
+      "sale_price": 127.6
+    },
+    "aae11a824961a17053a03e2de95498b6": {
+      "title": "Chelsea28Tiered Ruffle Chiffon Cape Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863574",
+      "sale_price": 57.99
+    },
+    "88f42b711a22061652b42555aa29f9b1": {
+      "title": "BarbourRyedale Waxed Cotton Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863577",
+      "sale_price": 211.5
+    },
+    "7b169982a8cdf2ab7ea062cdf9efa17e": {
+      "title": "Wit & WisdomSam High Waist Wide Leg Jeans (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863580",
+      "sale_price": 39.6
+    },
+    "1fbd368a322d425666c681af4f430fa9": {
+      "title": "MOTHERThe Square Colorblock Appliqué Cotton Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863638",
+      "sale_price": 139.0
+    },
+    "d240eaf02a8fa5510d0ecafe93ed8624": {
+      "title": "DÔENAnisa Cardigan",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863642",
+      "sale_price": 139.0
+    },
+    "31f17623a572ef7c86e45850264c57c9": {
+      "title": "Alice + OliviaArlette Lace Trim Floral Satin Burnout Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863645",
+      "sale_price": 220.0
+    },
+    "efeccd56216ed74d30885a4d499dd8f9": {
+      "title": "Free PeopleMoxie Paint Fleck Cotton Utility Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863648",
+      "sale_price": 74.0
+    },
+    "f95fb4de3f24e99e429e3913e59d77c5": {
+      "title": "SanctuaryThe Marine Crop Denim Pants (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T08:53:22.863651",
+      "sale_price": 49.5
     }
   }
 }
