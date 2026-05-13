@@ -1,11 +1,5 @@
 {
   "deals": {
-    "7274c8d26a2bf584dd1fcd17436e4402": {
-      "title": "LYNN ESPADRILLE",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-06T05:41:05.243894",
-      "sale_price": 89.98
-    },
     "9cc2bcfb9143d5234368bbfa8eeaf6af": {
       "title": "Nike Futura Block T-Shirt",
       "site": "Foot Locker Canada",
@@ -1913,6 +1907,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-13T00:10:28.703862",
       "sale_price": 413.99
+    },
+    "b94e43f49cc92069f22d8a5e8ee9fbc8": {
+      "title": "Jordan Brooklyn Oversize Stretch Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-13T06:01:36.438855",
+      "sale_price": 47.5
     }
   }
 }
