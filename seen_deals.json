@@ -1,17 +1,5 @@
 {
   "deals": {
-    "ca24dee0481846229d4a31f086dcc0dc": {
-      "title": "adidas Originals Samba",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-06T15:31:05.712836",
-      "sale_price": 50.0
-    },
-    "bae276d731566beacffb371ff87cfcf3": {
-      "title": "ASICS® GEL-1130",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-06T15:31:05.712845",
-      "sale_price": 50.0
-    },
     "9c3d0e93f9b4616308bfe0591907a937": {
       "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
       "site": "Newegg Canada",
@@ -1937,6 +1925,42 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-13T14:21:29.626626",
       "sale_price": 11.98
+    },
+    "6eb3b484f8b2fb7bc16d22bbc980ed23": {
+      "title": "PAIGECindy Raw Edge Straight Leg Jeans (Foreign Film)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T17:28:42.570239",
+      "sale_price": 95.6
+    },
+    "d8d2988e3743117b483f34ada65c7d93": {
+      "title": "Free PeopleFP Movement Final Call Graphic Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T17:28:42.570246",
+      "sale_price": 39.97
+    },
+    "dfa1661d7eb1d66330dbdbce6d91b041": {
+      "title": "adidas Originals Wabash Loose T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-13T17:28:42.570262",
+      "sale_price": 19.99
+    },
+    "605b550dcc784b049ca34880635ef41f": {
+      "title": "SPANX®AirEssentials Wide Leg Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T17:28:42.570266",
+      "sale_price": 52.99
+    },
+    "3b20b51cc3b6ffe366c1ef8c574699c1": {
+      "title": "Mavi JeansCotton & Linen Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T17:28:42.570349",
+      "sale_price": 44.0
+    },
+    "ccdabc4b3ccba44fc1a13d72d9c41f4c": {
+      "title": "BP.Foldover Leggings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-13T17:28:42.570352",
+      "sale_price": 19.75
     }
   }
 }
