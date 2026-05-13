@@ -1,47 +1,5 @@
 {
   "deals": {
-    "9c3d0e93f9b4616308bfe0591907a937": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-06T17:40:16.526645",
-      "sale_price": 246.85
-    },
-    "f891448bd0bb368cc41a7d66250fe7d2": {
-      "title": "Barefoot Dreams®CozyChic® Tonal Plaid Throw Blanket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526685",
-      "sale_price": 62.3
-    },
-    "99f47c188dff5d48e469b217c86fbd51": {
-      "title": "NEXTKids' Animal Appliqué Sweatshirt & Corduroy Pants Set (Baby & Little Kid)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526701",
-      "sale_price": 18.8
-    },
-    "c11b314847646d4548407212663913e0": {
-      "title": "BirkenstockBirki Flow Clog (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526704",
-      "sale_price": 23.98
-    },
-    "4c080ef1deeed78b929fe0834ca885c9": {
-      "title": "SORELJoan Rhapsody Waterproof Chelsea Boot (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526708",
-      "sale_price": 56.0
-    },
-    "4475795795b1520d0a9c98e717bd3542": {
-      "title": "Calvin KleinAssorted 5-Pack Microfiber Boxer Briefs",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526711",
-      "sale_price": 28.6
-    },
-    "beeb98e509ad5f6c5919ae50b87b2e37": {
-      "title": "MIKOWave Neck & Back Massager Heated And Hands Free Motion",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-06T17:40:16.526761",
-      "sale_price": 89.99
-    },
     "a3d887e4cc6950086ce0b8c5e16b0f71": {
       "title": "VionicCleo Loafer (Women)",
       "site": "Nordstrom Canada",
@@ -1961,6 +1919,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-13T17:28:42.570352",
       "sale_price": 19.75
+    },
+    "9c3d0e93f9b4616308bfe0591907a937": {
+      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-13T19:52:35.989730",
+      "sale_price": 246.85
     }
   }
 }
