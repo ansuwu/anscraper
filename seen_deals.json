@@ -1,17 +1,5 @@
 {
   "deals": {
-    "8b90bade737527f0240f0e5938bbdcff": {
-      "title": "Nike BB Footwear Vintage T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-07T15:42:15.181183",
-      "sale_price": 19.99
-    },
-    "c1b579679e582b83a0ca6dcac5b76722": {
-      "title": "Jordan Brooklyn Air Oversized Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-07T15:42:15.181264",
-      "sale_price": 24.0
-    },
     "902629c9c763f1f54cea12ea7c81f904": {
       "title": "Nike Puffle Mini Backpack",
       "site": "Foot Locker Canada",
@@ -2933,6 +2921,24 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-14T13:47:24.820195",
       "sale_price": 46.0
+    },
+    "8b90bade737527f0240f0e5938bbdcff": {
+      "title": "Nike BB Footwear Vintage T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T16:22:06.980278",
+      "sale_price": 19.99
+    },
+    "c211b72880b70e4f670b32b6d068aabb": {
+      "title": "MerrellMen's Moab 3 Mid Waterproof Hiking Boot",
+      "site": "SportingLife",
+      "first_seen": "2026-05-14T16:22:06.980334",
+      "sale_price": 94.98
+    },
+    "c1b579679e582b83a0ca6dcac5b76722": {
+      "title": "Jordan Brooklyn Air Oversized Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T16:22:06.980361",
+      "sale_price": 24.0
     }
   }
 }
