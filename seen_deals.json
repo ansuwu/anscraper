@@ -1,23 +1,5 @@
 {
   "deals": {
-    "ff7a90b889abb47aa6fa72abe4d70cf1": {
-      "title": "DIYPC ARGB-N3-BK Black Cases (Computer Cases - ATX Form)",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-07T12:52:47.754752",
-      "sale_price": 14.99
-    },
-    "353d6a568b7bab099d69d9f27fe24f29": {
-      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  1m/ 3.28ft (CAC-1371)",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-07T12:52:47.754831",
-      "sale_price": 7.88
-    },
-    "99c620b5b7ce9e1c5e59f986b488baa0": {
-      "title": "OGEECrystal Contour Collection Value",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-07T12:52:47.754835",
-      "sale_price": 63.36
-    },
     "8b90bade737527f0240f0e5938bbdcff": {
       "title": "Nike BB Footwear Vintage T-Shirt",
       "site": "Foot Locker Canada",
@@ -2933,6 +2915,24 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-14T11:29:46.333076",
       "sale_price": 10.0
+    },
+    "353d6a568b7bab099d69d9f27fe24f29": {
+      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  1m/ 3.28ft (CAC-1371)",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-14T13:47:24.820136",
+      "sale_price": 7.88
+    },
+    "baa0a4f575632a986de7dc6d33f70f67": {
+      "title": "New Balance 2000",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T13:47:24.820190",
+      "sale_price": 109.99
+    },
+    "acb5518eeb882aa7bded1fb4dba0b9fb": {
+      "title": "50% off on Deoproce Bakuchiol Line Set of 5",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-14T13:47:24.820195",
+      "sale_price": 46.0
     }
   }
 }
