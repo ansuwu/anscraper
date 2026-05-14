@@ -1,11 +1,5 @@
 {
   "deals": {
-    "36795e120efcfb7fc11bc5b6b3ae9ede": {
-      "title": "UGG Classic Micro",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-07T05:44:06.112007",
-      "sale_price": 82.5
-    },
     "feb17d444559799e3c8a0cb04438fd49": {
       "title": "Cozi Pherin French Terry  Full-Zip Jacket",
       "site": "Foot Locker Canada",
@@ -1925,6 +1919,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-13T21:29:19.057495",
       "sale_price": 62.3
+    },
+    "3722ca203882efd3f7755d456de321a9": {
+      "title": "ABS 27\" QHD 2K 1440P 180Hz Fast IPS with AMD FreeSync (AMD Adaptive Sync) 1ms HDR400, DCI-P3 95% Gaming Computer Monitor",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-14T06:08:26.826750",
+      "sale_price": 79.99
+    },
+    "36795e120efcfb7fc11bc5b6b3ae9ede": {
+      "title": "UGG Classic Micro",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T06:08:26.826866",
+      "sale_price": 82.5
     }
   }
 }
