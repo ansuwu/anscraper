@@ -1,17 +1,5 @@
 {
   "deals": {
-    "902629c9c763f1f54cea12ea7c81f904": {
-      "title": "Nike Puffle Mini Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-07T19:40:51.822813",
-      "sale_price": 35.0
-    },
-    "b46149340c7dec5e65836c26f1b3e208": {
-      "title": "Converse Chuck 70 Hi",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-07T19:40:51.822823",
-      "sale_price": 50.0
-    },
     "a5a7a9a25161db77297aa8610757c385": {
       "title": "Romand Glasting Colour Gloss 06 Deepen Moor (Clearance)",
       "site": "Kiokii & Co",
@@ -2957,6 +2945,84 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-14T18:49:25.937594",
       "sale_price": 139.0
+    },
+    "b738e9b3ff8a0a218a29b6c72a96027e": {
+      "title": "SKIMSFits Everybody Short Sleeve T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963792",
+      "sale_price": 18.99
+    },
+    "41afdca224a8726c952c825abb786d6a": {
+      "title": "7 For All MankindLuxe Performance Lefthand The Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963799",
+      "sale_price": 98.99
+    },
+    "52769c9e90e446b965f886344aab2d9d": {
+      "title": "Peter MillarBleecker Zip Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963803",
+      "sale_price": 110.99
+    },
+    "1b4ecf66f443edb0650240d96438916d": {
+      "title": "BugatchiAxel Check Jacquard Cotton Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963808",
+      "sale_price": 71.6
+    },
+    "6e7afe83fb31200489df7774784bdf14": {
+      "title": "PAIGECindy Raw Edge Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963811",
+      "sale_price": 95.6
+    },
+    "7b271b9a018f401bbcb24e585399b0d1": {
+      "title": "SanctuaryThe Perfect T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963820",
+      "sale_price": 21.99
+    },
+    "148c295ac5b7da38163711983c6584fc": {
+      "title": "Cinq à SeptCezanne Denim Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963824",
+      "sale_price": 222.74
+    },
+    "c5d91b0c47596fc774c6d4384280d319": {
+      "title": "BugatchiJames OoohCotton® Retro Print Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963827",
+      "sale_price": 89.55
+    },
+    "5c47bb33fb0345e17cd5e82f416f3baa": {
+      "title": "Wit & WisdomSam High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963832",
+      "sale_price": 39.6
+    },
+    "4e68d98d1a5d7dd796aa0cbcbcbfa6cf": {
+      "title": "SAVAGE X FENTYRomantic Corded Lace Unlined Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963868",
+      "sale_price": 29.96
+    },
+    "6092dad596e728e74cd8c9a926215dab": {
+      "title": "DÔENElowette Floral Lace Hem Silk Skirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963897",
+      "sale_price": 174.0
+    },
+    "dfed44c784f7f4da19c002b544cd7884": {
+      "title": "QUAYCall The Shots 54mm Gradient Cat Eye Sunglasses",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-14T20:32:26.963904",
+      "sale_price": 35.0
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T20:32:26.963918",
+      "sale_price": 50.0
     }
   }
 }
