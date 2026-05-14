@@ -1,53 +1,5 @@
 {
   "deals": {
-    "fe8bf868ce33c499ae06800cbb09ced7": {
-      "title": "Nanci Baby S1 Blind Box",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-07T11:21:37.803628",
-      "sale_price": 5.0
-    },
-    "da0e147403a9cc412e58d4a8ccd8b086": {
-      "title": "JordanFlight Sneaker (Toddler & Little Kid)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-07T11:21:37.803740",
-      "sale_price": 27.99
-    },
-    "6d35f6ebbf5d4dcbc197ef2205fe40fe": {
-      "title": "Gloomies Board Game Bilingual",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-07T11:21:37.803758",
-      "sale_price": 20.0
-    },
-    "59b234e2658ff94649c30cf2773c645d": {
-      "title": "Fresh Croissants Lip Balm & Hand Lotion Set",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-07T11:21:37.803765",
-      "sale_price": 6.0
-    },
-    "d8489c9f0f3a6890d1bef3756b508c88": {
-      "title": "Precious Felines Lip Balm & Hand Lotion Set",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-07T11:21:37.803768",
-      "sale_price": 6.0
-    },
-    "b516a9358811b13c1ce73f926eeccb59": {
-      "title": "MPGWomen's Dreamweave Quarter-Zip Sweatshirt",
-      "site": "SportingLife",
-      "first_seen": "2026-05-07T11:21:37.803808",
-      "sale_price": 53.98
-    },
-    "225d4aa0501f7c0318093c0d7e9133dc": {
-      "title": "The Biography 30oz Water Bottle, Black",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-07T11:21:37.803828",
-      "sale_price": 20.0
-    },
-    "b2cbea98f65304ac19b1d3bdac5cd2f4": {
-      "title": "NEXTKids' Let's Dig Appliqué Hoodie (Toddler & Little Kid)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-07T11:21:37.803832",
-      "sale_price": 16.0
-    },
     "ff7a90b889abb47aa6fa72abe4d70cf1": {
       "title": "DIYPC ARGB-N3-BK Black Cases (Computer Cases - ATX Form)",
       "site": "Newegg Canada",
@@ -2969,6 +2921,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-14T08:51:29.782338",
       "sale_price": 57.5
+    },
+    "dcbf6e2988082a2a5cda48a29e4260bd": {
+      "title": "New Era Yankees 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-14T11:29:46.333002",
+      "sale_price": 19.99
+    },
+    "db719b30e8e32c31d0e4dde5da0dc9b6": {
+      "title": "BAHE Flow Sliders",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-14T11:29:46.333076",
+      "sale_price": 10.0
     }
   }
 }
