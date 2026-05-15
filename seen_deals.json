@@ -1,11 +1,5 @@
 {
   "deals": {
-    "db0e780a4afe4cf5442f91539bc26006": {
-      "title": "LCKR C-24 Standard Fit Cargo Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-08T06:35:43.252454",
-      "sale_price": 19.99
-    },
     "db9c95a4637f1c4877c76bac50ce0ac1": {
       "title": "LancômeRénergie Collection Skin Care Set Value",
       "site": "Nordstrom Canada",
@@ -3113,6 +3107,54 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-15T06:01:37.013406",
       "sale_price": 57.88
+    },
+    "3cd2d31fd89547dfb97f000ef96d4bf1": {
+      "title": "Peter MillarCoolspun Performance Full Zip Sweater Vest",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981851",
+      "sale_price": 98.99
+    },
+    "6ad3e5098c4420d8e94fa86b1925082e": {
+      "title": "ZanellaParker Stretch Wool Trousers",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981865",
+      "sale_price": 199.2
+    },
+    "ad776d2aee0bb96b5b83fad3fd388f15": {
+      "title": "NordstromMoonlight Eco Knit Pajamas",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981869",
+      "sale_price": 34.0
+    },
+    "bdc8d4fe8367430af4cdde544ef9334f": {
+      "title": "WacoalInside Job™ Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981873",
+      "sale_price": 29.6
+    },
+    "1c52cc95660bbfdd23c26b97bed92a91": {
+      "title": "CanaliContemporary Regular Fit Navy Wool Blend Tuxedo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981887",
+      "sale_price": 1077.75
+    },
+    "b4e80a9d880492064394e8a1bb79bdee": {
+      "title": "adidasGender Inclusive Handball Spezial Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981941",
+      "sale_price": 54.99
+    },
+    "f3b1dfb7295a12b4c007d2f13816966a": {
+      "title": "HutchSmocked Tulle Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981963",
+      "sale_price": 199.0
+    },
+    "32c736bf2c527496ee73b3272c6e37cc": {
+      "title": "Gianvito RossiAscent Thong 55 Sandals",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T08:48:10.981965",
+      "sale_price": 447.5
     }
   }
 }
