@@ -1,29 +1,5 @@
 {
   "deals": {
-    "db9c95a4637f1c4877c76bac50ce0ac1": {
-      "title": "LancômeRénergie Collection Skin Care Set Value",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T10:37:17.387390",
-      "sale_price": 77.0
-    },
-    "a001e8caed20e688711c06df82beb63f": {
-      "title": "adidasSamba LT Sneaker (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T10:37:17.387429",
-      "sale_price": 47.99
-    },
-    "08399d0928817e8682e71188b7199e66": {
-      "title": "NordstromTrim Fit Check Premium Performance Twill Dress Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T10:37:17.387438",
-      "sale_price": 39.8
-    },
-    "7c33afe9db53da5de0f4ff82e9c563a1": {
-      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T10:37:17.387442",
-      "sale_price": 28.97
-    },
     "25fadfcf325c8cdd987904d8486b8103": {
       "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
       "site": "Foot Locker Canada",
@@ -3155,6 +3131,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-15T08:48:10.981965",
       "sale_price": 447.5
+    },
+    "865ca66cd6c6347eb260eed05933ef82": {
+      "title": "Veronica BeardVia Slide Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T11:22:40.802944",
+      "sale_price": 149.98
     }
   }
 }
