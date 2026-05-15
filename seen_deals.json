@@ -1,11 +1,5 @@
 {
   "deals": {
-    "ef66bdd3a37c936648b00f1f8f864a7f": {
-      "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-08T22:09:22.758865",
-      "sale_price": 161.23
-    },
     "ef30e01d5d062961e4f7428591bb4212": {
       "title": "CROCSKids' Classic Clog (Toddler, Little Kid & Big Kid)",
       "site": "Nordstrom Canada",
@@ -3215,6 +3209,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-15T22:08:55.585310",
       "sale_price": 139.0
+    },
+    "4d312455c7a3b28f2521cdf4709d55f4": {
+      "title": "Peter MillarMen's Crown Crafted Surge Performance Flat Front Trousers",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T22:57:27.534999",
+      "sale_price": 88.99
+    },
+    "12564bc41f5dcb4c35cb742e12b8db4c": {
+      "title": "Mavi JeansMarcus Slim Straight Leg Tweed Pants (Regular & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T22:57:27.535062",
+      "sale_price": 74.0
     }
   }
 }
