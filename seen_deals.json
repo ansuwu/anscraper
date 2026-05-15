@@ -1,17 +1,5 @@
 {
   "deals": {
-    "49cabb63e1fd616436a2d23c7f01a39e": {
-      "title": "MIKOIbuki True HEPA Air Purifier with Auto Mode and Diffuser",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T15:06:05.269883",
-      "sale_price": 74.99
-    },
-    "b8505f3ae0a9582cbca7aeb1e862c4f0": {
-      "title": "50% off on Deoproce Snail Galac Line, Set of 5, (Pre-order, available May 7, 2026)",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-08T15:06:05.269889",
-      "sale_price": 54.0
-    },
     "c24d3b5fbff5ca8b313c63b6a6eb5f91": {
       "title": "FLORTTE Glass Sea Series Dual-Ended Highlighter & Contour Pencil - 01 Pearl Reef",
       "site": "Kiokii & Co",
@@ -3155,6 +3143,24 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-15T13:35:41.969602",
       "sale_price": 177.75
+    },
+    "7de4ddb0d428cd40a670721a5597901c": {
+      "title": "HOUSE OF CBChristiana Floral Minidress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T16:05:46.929409",
+      "sale_price": 45.0
+    },
+    "b59295123dbde897cddbd57ae52ee071": {
+      "title": "NikeTech Colorblock Full Zip Fleece Windrunner Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T16:05:46.929473",
+      "sale_price": 58.0
+    },
+    "3a1de086e99d5b8baece070cefe27f65": {
+      "title": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK32GX4M2E3200C16",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-15T16:05:46.929505",
+      "sale_price": 189.99
     }
   }
 }
