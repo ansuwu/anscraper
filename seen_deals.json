@@ -1,11 +1,5 @@
 {
   "deals": {
-    "1fe7dc8b7fb71e3326ed5090bd276bc3": {
-      "title": "204L",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-08T20:24:10.093170",
-      "sale_price": 89.98
-    },
     "ef66bdd3a37c936648b00f1f8f864a7f": {
       "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
       "site": "Newegg Canada",
@@ -3197,6 +3191,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-15T19:35:54.178304",
       "sale_price": 497.5
+    },
+    "41000cbea95c82c6baa173a14f016f65": {
+      "title": "ANGEL SNEAKER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-15T21:05:54.142858",
+      "sale_price": 69.28
     }
   }
 }
