@@ -1,17 +1,5 @@
 {
   "deals": {
-    "c2e8efe659da9c7c7ff3f45baafa7b1c": {
-      "title": "Billionaire Boys ClubBB Flyers Astronaut Cotton Graphic T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T05:09:48.875402",
-      "sale_price": 28.0
-    },
-    "defd19e7afadced89b4e75254eaf7879": {
-      "title": "AGEverett Stretch Sateen Slim Straight Pants (Regular, Big & Tall)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-08T05:09:48.875408",
-      "sale_price": 79.2
-    },
     "db0e780a4afe4cf5442f91539bc26006": {
       "title": "LCKR C-24 Standard Fit Cargo Pants",
       "site": "Foot Locker Canada",
@@ -3065,6 +3053,66 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-15T02:08:17.708933",
       "sale_price": 15.0
+    },
+    "2f3ec5cbe728ec497d0ad72f68d12fec": {
+      "title": "RAYNA SMALL HOBO",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-15T06:01:37.013301",
+      "sale_price": 22.49
+    },
+    "a2d485c18ddb87390cc88ba056047e41": {
+      "title": "SQUARE BRAID TOTE BAG",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-15T06:01:37.013325",
+      "sale_price": 49.99
+    },
+    "3f570510d904e5b03a024f041baa1ab2": {
+      "title": "7 WONDERS",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-15T06:01:37.013356",
+      "sale_price": 124.99
+    },
+    "c6eb2a1be9315f33dc06a2806379ebfb": {
+      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-15T06:01:37.013361",
+      "sale_price": 46.88
+    },
+    "ebfba325979cde10d8651f63369fefeb": {
+      "title": "HP Elite SFF | AMD Ryzen 5 8600G | 16GB | 512GB SSD | W11P",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-15T06:01:37.013367",
+      "sale_price": 899.0
+    },
+    "49f7d22343e9a84a17957b509ed677fb": {
+      "title": "Dolce VitaBaylee Grommet Mary Jane Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T06:01:37.013373",
+      "sale_price": 52.0
+    },
+    "e3db65b9972fb9eb1ee21eb32d858ca3": {
+      "title": "adidasGazelle Bold Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-15T06:01:37.013378",
+      "sale_price": 48.0
+    },
+    "0a82098b28621d6975e835ce869a82b2": {
+      "title": "be quiet! ARGB Light Wings 120mm PWM-high-speed",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-15T06:01:37.013386",
+      "sale_price": 16.99
+    },
+    "93e6cf3d061fc055a5d9cd81b93ee6c5": {
+      "title": "SL 72 OG",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-15T06:01:37.013389",
+      "sale_price": 55.98
+    },
+    "d241ed015ed61c008ed40f6e0c9c677a": {
+      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-15T06:01:37.013406",
+      "sale_price": 57.88
     }
   }
 }
