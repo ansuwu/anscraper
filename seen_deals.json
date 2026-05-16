@@ -1,11 +1,5 @@
 {
   "deals": {
-    "df8725c7994a33ece788c34c14e49287": {
-      "title": "New Era Dodgers 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-09T14:34:59.507683",
-      "sale_price": 19.99
-    },
     "ff8e5bd6bbd9adbebed1f3e08865a104": {
       "title": "SauconyMen's Guide 18 Running Shoe",
       "site": "SportingLife",
@@ -2579,6 +2573,24 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-16T13:16:04.436536",
       "sale_price": 12.99
+    },
+    "ad92b3d99d598f6f3a2bca02f169eff8": {
+      "title": "VionicOrinda Perforated Ballet Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-16T14:39:49.728132",
+      "sale_price": 72.5
+    },
+    "e7c9f1c3c07e1093c6155ac9bf5f4f9f": {
+      "title": "NikeKids' Air Max Phoenix Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-16T14:39:49.728137",
+      "sale_price": 43.5
+    },
+    "d930b19898cd2dcc828a25d9ad8edfe4": {
+      "title": "TheoryClinton Precision Ponte Knit Blazer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-16T14:39:49.728141",
+      "sale_price": 247.5
     }
   }
 }
