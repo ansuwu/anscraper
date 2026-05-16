@@ -1,17 +1,5 @@
 {
   "deals": {
-    "a6dd75bfd336d712bde2ed87f8491401": {
-      "title": "Carhartt Work In ProgressFlint Straight Leg Twill Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-09T22:51:49.530414",
-      "sale_price": 54.99
-    },
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-09T22:51:49.530491",
-      "sale_price": 14.99
-    },
     "7798e4f166e95ceb8b677afa96c12ad7": {
       "title": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
       "site": "Newegg Canada",
@@ -2735,6 +2723,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-16T22:00:05.825345",
       "sale_price": 29.97
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-16T22:53:03.631364",
+      "sale_price": 14.99
     }
   }
 }
