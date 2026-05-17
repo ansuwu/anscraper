@@ -1,17 +1,5 @@
 {
   "deals": {
-    "5db16e11648439ff7dc9f3d682460abf": {
-      "title": "Saucony Ride Millennium",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-10T09:36:26.503250",
-      "sale_price": 65.0
-    },
-    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
-      "title": "UGG Tasman Maxi Curly",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-10T09:36:26.503256",
-      "sale_price": 82.5
-    },
     "6ba9395f2d7e97c52ee91df7c00a7fa4": {
       "title": "SKIMSFits Everybody Short Sleeve T-Shirt (Regular & Plus)",
       "site": "Nordstrom Canada",
@@ -2777,6 +2765,36 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-17T08:29:25.502194",
       "sale_price": 50.0
+    },
+    "00a818c73a54ffe49ed0ab03f713df11": {
+      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T10:35:25.708909",
+      "sale_price": 66.99
+    },
+    "4438d4cd06d6dad7033cafe4e2d10794": {
+      "title": "Daniel BuchlerLounge Pajama Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T10:35:25.708922",
+      "sale_price": 44.0
+    },
+    "b05217f1e446f5fe9d039ce5ebbfc2fe": {
+      "title": "Steve MaddenLucia Mary Jane Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T10:35:25.708955",
+      "sale_price": 48.99
+    },
+    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
+      "title": "UGG Tasman Maxi Curly",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-17T10:35:25.709032",
+      "sale_price": 82.5
+    },
+    "5db16e11648439ff7dc9f3d682460abf": {
+      "title": "Saucony Ride Millennium",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-17T10:35:25.709036",
+      "sale_price": 65.0
     }
   }
 }
