@@ -1,35 +1,5 @@
 {
   "deals": {
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-10T13:13:40.150072",
-      "sale_price": 19.88
-    },
-    "969cb94961359f23cd48100a67af0dd0": {
-      "title": "adidas Originals Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-10T13:13:40.150136",
-      "sale_price": 55.0
-    },
-    "dda2478e87c82538a5c429dddba30bca": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-10T14:37:57.088899",
-      "sale_price": 10.0
-    },
-    "03e9d1261437d53cb681ba36c8349f44": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-10T14:37:57.088905",
-      "sale_price": 10.0
-    },
-    "4774465cdfad78633501523d72f07d43": {
-      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-10T14:37:57.088909",
-      "sale_price": 7.0
-    },
     "9225de0b7860fb110d0f0e309b620091": {
       "title": "HutchSmocked Tulle Gown (Regular & Plus)",
       "site": "Nordstrom Canada",
@@ -3269,6 +3239,216 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-17T13:12:22.659319",
       "sale_price": 124.0
+    },
+    "aae79ab53a543310d0d23c5af16b165a": {
+      "title": "BEAUTYSPACEBest of Hair Set Value",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702233",
+      "sale_price": 59.2
+    },
+    "d006c66dcfd6f5f582cdcfd0619b1d2e": {
+      "title": "MantraI Am The Storm - Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702266",
+      "sale_price": 15.0
+    },
+    "b4f5e317f517acbfa247815850fff269": {
+      "title": "Boll & BranchOrganic Cotton Ottoman Rib Duvet Cover & Shams Set",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702273",
+      "sale_price": 129.15
+    },
+    "9ebea4a596758294e617db72cbadf261": {
+      "title": "SKIMSStretch Cotton Rib Romper (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702283",
+      "sale_price": 29.99
+    },
+    "60152bbbd365884d69bd95265270a1ac": {
+      "title": "Wit & WisdomSkyrise Tapered Utility Pants (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702286",
+      "sale_price": 32.76
+    },
+    "31156e2eda02236fa94757d379b07a39": {
+      "title": "Billionaire Boys ClubTrek Heart Fit Jeans (Mission Control)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702303",
+      "sale_price": 78.0
+    },
+    "c7ceb2478cc2aeb77709aaa609217fbd": {
+      "title": "HONOR THE GIFTDining Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702308",
+      "sale_price": 27.6
+    },
+    "74bd5e3f28a4f37b18970b1ee035bbf3": {
+      "title": "AGProtégé Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702311",
+      "sale_price": 86.0
+    },
+    "8a35c649ecd19d92596ea99f93f37986": {
+      "title": "LacosteKids' Wide Leg Sweatpants (Big Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702323",
+      "sale_price": 24.0
+    },
+    "bbd3121f131d3d00cbae04702be1322d": {
+      "title": "EttikaSeraphine Triple Strand Layered Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702327",
+      "sale_price": 38.0
+    },
+    "3052919c93fee77bb9f294ef2c6f8ea3": {
+      "title": "StaubRustic Turquoise 2-Piece Rectangular Baking Dish Set",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702336",
+      "sale_price": 59.99
+    },
+    "be2cd8d654e0f2159b8122e53c94c084": {
+      "title": "Staub2-Piece Enameled Ceramic Oval Baking Dishes",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702338",
+      "sale_price": 59.99
+    },
+    "0e07aea8262ac10f06cc185759644ccb": {
+      "title": "NYDJMarilyn High Waist Ankle Straight Leg Jeans (Avenue Blue)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702356",
+      "sale_price": 48.99
+    },
+    "b559c6c6dcbc4e2313ae1942b7ef8a05": {
+      "title": "NordstromMoonlight Eco Knit Pajamas (Plus Size)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702362",
+      "sale_price": 38.24
+    },
+    "26eb5c962aa5d7c9d34eda2ef59b617e": {
+      "title": "BP.Pointelle Heart Cotton Blend Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702365",
+      "sale_price": 26.77
+    },
+    "84f8fad2648970033e84201cd4f76936": {
+      "title": "NordstromCubic Zirconia Huggie Drop Earrings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702381",
+      "sale_price": 33.75
+    },
+    "b2df6c0b360ac856cf564cc0ee5661ab": {
+      "title": "KUT from the KlothThe Jean Wide Leg Jeans (Sharper)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702384",
+      "sale_price": 49.05
+    },
+    "589609a2c1a60fd229320b865fac36e6": {
+      "title": "VankyoMini Wireless Projector with HDMI and Built-In Speaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702388",
+      "sale_price": 59.99
+    },
+    "8329dcd2e78080edca00d68fffc40c9c": {
+      "title": "True & CoSoft Form Square Neck Wireless Bra (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702391",
+      "sale_price": 21.99
+    },
+    "b9aca20e41a3c730d3058d6f03271ee4": {
+      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-17T14:42:52.702400",
+      "sale_price": 19.88
+    },
+    "e5ae2884698fd0b6a3edcd200a1dc029": {
+      "title": "PacSunDylan Cable Knit Zip-Up Hooded Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702444",
+      "sale_price": 32.47
+    },
+    "dda2478e87c82538a5c429dddba30bca": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-17T14:42:52.702452",
+      "sale_price": 10.0
+    },
+    "03e9d1261437d53cb681ba36c8349f44": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-17T14:42:52.702455",
+      "sale_price": 10.0
+    },
+    "4774465cdfad78633501523d72f07d43": {
+      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-17T14:42:52.702458",
+      "sale_price": 7.0
+    },
+    "e3ce0cc9f508a56538bb0b5bd87bf848": {
+      "title": "CITY BLUESEiffel Flare Jeans (Oyster)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702474",
+      "sale_price": 34.75
+    },
+    "553b2d36e6ce9f4ee9417aa03964721b": {
+      "title": "EtonSlim Fit Houndstooth King Twill Dress Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702480",
+      "sale_price": 147.5
+    },
+    "4beacd3012ea221805e245ecd69cb4d7": {
+      "title": "Jack ArcherLegacy Polo Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702486",
+      "sale_price": 49.5
+    },
+    "14b87f28357b64a637ef86c70d6791b2": {
+      "title": "Caslon®Stripe Pullover Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702491",
+      "sale_price": 39.75
+    },
+    "7fd5b7477ba6e5158f0ecbe1cfcd39d0": {
+      "title": "AVICross-Court Pickleball Skirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702495",
+      "sale_price": 54.0
+    },
+    "d9c17346d4c492c3626547a000bffaaa": {
+      "title": "The North FaceGlacier Fleece Zip Front Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702502",
+      "sale_price": 45.0
+    },
+    "506e49f1fc8f5f6d8eb3c7dc3cdbcc87": {
+      "title": "CIEBONEmbroidered Fit & Flare Minidress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702507",
+      "sale_price": 72.5
+    },
+    "37172497fca07a514b90ab704c9d5bcf": {
+      "title": "NEXTKids' Jersey Jacket, T-Shirt & Joggers Set (Toddler & Little Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702513",
+      "sale_price": 27.5
+    },
+    "b46ec94821a424731fcafc131d86019f": {
+      "title": "BP.Lace Trim Long Sleeve Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702516",
+      "sale_price": 14.75
+    },
+    "193df452ac8e706cc787802b2b2faf18": {
+      "title": "KUT from the KlothSienna Cuffed Hem Wide Leg Jeans (Clarity)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T14:42:52.702523",
+      "sale_price": 54.5
+    },
+    "969cb94961359f23cd48100a67af0dd0": {
+      "title": "adidas Originals Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-17T14:42:52.702531",
+      "sale_price": 55.0
     }
   }
 }
