@@ -1,11 +1,5 @@
 {
   "deals": {
-    "7798e4f166e95ceb8b677afa96c12ad7": {
-      "title": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-10T02:10:49.363837",
-      "sale_price": 65.38
-    },
     "5bb469cb6e9d6f87502b90a58735b576": {
       "title": "New BalanceGender Inclusive 530 Sneaker",
       "site": "Nordstrom Canada",
@@ -2729,6 +2723,24 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-16T22:53:03.631364",
       "sale_price": 14.99
+    },
+    "e5d3e9bef768f0ee724d88d3194e897c": {
+      "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T02:16:29.903719",
+      "sale_price": 219.99
+    },
+    "a6dd75bfd336d712bde2ed87f8491401": {
+      "title": "Carhartt Work In ProgressFlint Straight Leg Twill Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T02:16:29.903774",
+      "sale_price": 54.99
+    },
+    "311c1f0bb774fa199ca62157c567c3d1": {
+      "title": "VuoriTradewind 2.0 Performance T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T02:16:29.903782",
+      "sale_price": 23.2
     }
   }
 }
