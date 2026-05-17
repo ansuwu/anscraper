@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5bb469cb6e9d6f87502b90a58735b576": {
-      "title": "New BalanceGender Inclusive 530 Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-10T08:16:39.512618",
-      "sale_price": 39.99
-    },
     "5db16e11648439ff7dc9f3d682460abf": {
       "title": "Saucony Ride Millennium",
       "site": "Foot Locker Canada",
@@ -2747,6 +2741,42 @@
       "site": "Browns Shoes",
       "first_seen": "2026-05-17T06:02:02.473308",
       "sale_price": 97.98
+    },
+    "a001e8caed20e688711c06df82beb63f": {
+      "title": "adidasSamba LT Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T08:29:25.502025",
+      "sale_price": 47.99
+    },
+    "40ef4c9e47e7e4962d8bd59730d0c5af": {
+      "title": "adidasSL 72 Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T08:29:25.502039",
+      "sale_price": 40.0
+    },
+    "9a3cf1c5d9675419a801375950103336": {
+      "title": "UGG®Ultra Mini Classic Boot (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T08:29:25.502046",
+      "sale_price": 67.98
+    },
+    "fae8f941bc527fb6da6cc5f5ea247917": {
+      "title": "Cole HaanGrandPro Topspin Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T08:29:25.502171",
+      "sale_price": 80.0
+    },
+    "7ffb08f51943986595f18b8295e8f9c9": {
+      "title": "Pisarro NightsBeaded Floral Mesh Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-17T08:29:25.502178",
+      "sale_price": 134.0
+    },
+    "ca24dee0481846229d4a31f086dcc0dc": {
+      "title": "adidas Originals Samba",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-17T08:29:25.502194",
+      "sale_price": 50.0
     }
   }
 }
