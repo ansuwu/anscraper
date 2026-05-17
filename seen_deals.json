@@ -1,11 +1,5 @@
 {
   "deals": {
-    "3ae5c950091778c7b8d9ed1851a8ab4b": {
-      "title": "GIGABYTE 27\" QHD 2K 1440P 180hz IPS with AMD FreeSync Premium 1ms HDR ready Gaming Computer Monitor GS27QA",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-10T20:14:55.811848",
-      "sale_price": 79.99
-    },
     "29805cf11fa3be07f454e86936aa3027": {
       "title": "VikingSet of 2 3-Ply Nonstick Stainless Steel Fry Pans",
       "site": "Nordstrom Canada",
@@ -3389,6 +3383,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-17T19:10:03.201983",
       "sale_price": 144.0
+    },
+    "232c89a63f9ebf276adcbc1e9c246487": {
+      "title": "Phanteks Enthoo Pro series PH-ES614PC_BK Black Steel / Plastic ATX Full Tower Computer Case (non-power supply cover)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-17T20:18:15.973547",
+      "sale_price": 19.99
     }
   }
 }
