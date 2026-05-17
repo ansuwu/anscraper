@@ -1,17 +1,5 @@
 {
   "deals": {
-    "6ba9395f2d7e97c52ee91df7c00a7fa4": {
-      "title": "SKIMSFits Everybody Short Sleeve T-Shirt (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-10T11:15:55.161852",
-      "sale_price": 18.99
-    },
-    "3869badc84d9c920faf310b33838ceab": {
-      "title": "Alice + OliviaChic High Waist Wide Leg Jeans (Darla Light Indigo)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-10T11:15:55.161862",
-      "sale_price": 132.0
-    },
     "b9aca20e41a3c730d3058d6f03271ee4": {
       "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
       "site": "Canada Computers",
@@ -2795,6 +2783,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-17T10:35:25.709036",
       "sale_price": 65.0
+    },
+    "d7a2b7c1f57a78af01c9805eef5061cb": {
+      "title": "Samsung Odyssey G3 24\" Full HD 180Hz with AMD FreeSync Premium 1ms HDR10 Gaming Computer Monitor with Height Adjustable,",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-17T12:12:19.757715",
+      "sale_price": 109.99
     }
   }
 }
