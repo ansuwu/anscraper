@@ -1,65 +1,5 @@
 {
   "deals": {
-    "566dbc10fe353485894c719f96fbde8a": {
-      "title": "LARGE BOOK LIGHT",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-11T14:49:06.512811",
-      "sale_price": 12.0
-    },
-    "4d3035a0e17b5903a16d593aec8ac772": {
-      "title": "The Biography 30oz Water Bottle, White",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-05-11T14:49:06.512857",
-      "sale_price": 20.0
-    },
-    "651090565b05a7ea4b362084ad03ac79": {
-      "title": "SKIMSSoft Lounge Rib Sleep Set (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T17:40:11.706425",
-      "sale_price": 47.97
-    },
-    "1673f94615e4c4e3e172d258943eeafa": {
-      "title": "Open EditThe Curator Relaxed Blazer",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T17:40:11.706448",
-      "sale_price": 73.97
-    },
-    "465a922a0d9dc8ae1d7052cace5fc451": {
-      "title": "ASUS AirVision M1 Smart AR Glasses",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-11T17:40:11.706459",
-      "sale_price": 449.99
-    },
-    "6a6f305f13a9050b3614eeee54042e8a": {
-      "title": "SalomonGender Inclusive XT-6 Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T17:40:11.706516",
-      "sale_price": 90.0
-    },
-    "924cd65fd95e8d92e50468e1c9c211d5": {
-      "title": "Nike Swoosh Ankle Sock 6 Pack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-11T17:40:11.706526",
-      "sale_price": 9.0
-    },
-    "c9f474d6867ddc9823bcc4940b0f2108": {
-      "title": "adidas Originals Handball Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-11T17:40:11.706533",
-      "sale_price": 70.0
-    },
-    "61991d6bb9701526ddfbad978b02d750": {
-      "title": "adidas Originals Samba XLG",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-11T17:40:11.706536",
-      "sale_price": 75.0
-    },
-    "f39bed4c8a1d67d30415c970e81cab91": {
-      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-11T17:40:11.706538",
-      "sale_price": 50.0
-    },
     "06b1908ddb359143362e854dbd4855a8": {
       "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
       "site": "Newegg Canada",
@@ -3575,6 +3515,66 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-18T14:41:17.193109",
       "sale_price": 44.98
+    },
+    "651090565b05a7ea4b362084ad03ac79": {
+      "title": "SKIMSSoft Lounge Rib Sleep Set (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-18T17:45:03.062886",
+      "sale_price": 47.97
+    },
+    "7bd6669c20bfd11e94b8a4388bba925d": {
+      "title": "NikeLD-1000 SE Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-18T17:45:03.062894",
+      "sale_price": 41.99
+    },
+    "ca7dbd02b5214c89abfa51b2de1d2d70": {
+      "title": "OnCloudpulse Next Athletic Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-18T17:45:03.062910",
+      "sale_price": 56.0
+    },
+    "12d5f3daec0c6c2c8643efa5d4836c71": {
+      "title": "UGG®Ellis Wool Loafer (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-18T17:45:03.062921",
+      "sale_price": 64.99
+    },
+    "35d708f16f79a43e8412e55910aa7790": {
+      "title": "SAMA V40 White ATX Mid Tower PC Case, 6 Pre-Installed 120mm ARGB PWM Fans, Dual Tempered Glass Panels, Vertical Airflow ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-18T17:45:03.062941",
+      "sale_price": 59.99
+    },
+    "566dbc10fe353485894c719f96fbde8a": {
+      "title": "LARGE BOOK LIGHT",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-05-18T17:45:03.062952",
+      "sale_price": 12.0
+    },
+    "4fd85cfa49b4159be1c89f8c4c63d869": {
+      "title": "AMD Ryzen 5 7600X - Zen 4 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-18T17:45:03.062957",
+      "sale_price": 219.99
+    },
+    "4d3035a0e17b5903a16d593aec8ac772": {
+      "title": "The Biography 30oz Water Bottle, White",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-05-18T17:45:03.063034",
+      "sale_price": 20.0
+    },
+    "258a033a08c9ad5da9f483d7d3babee1": {
+      "title": "Halogen®Pleated Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-18T17:45:03.063072",
+      "sale_price": 64.5
+    },
+    "61991d6bb9701526ddfbad978b02d750": {
+      "title": "adidas Originals Samba XLG",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-18T17:45:03.063076",
+      "sale_price": 75.0
     }
   }
 }
