@@ -1,53 +1,5 @@
 {
   "deals": {
-    "d07863dcc835dc1d7e71c83af51274e0": {
-      "title": "Barefoot Dreams®CozyChic™ Rib Throw Blanket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483495",
-      "sale_price": 49.99
-    },
-    "afaed6352d9581d6fa601c02ff6395d9": {
-      "title": "Haus of Brilliance14K White Gold 6.00 Cttw Round Lab Grown Diamond Solitaire Stud Earrings",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483534",
-      "sale_price": 2499.0
-    },
-    "3da45c64b5546f9f4cfc2c1e9a88fd0b": {
-      "title": "NaturalizerJayla Half d'Orsay Slingback Pump (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483540",
-      "sale_price": 49.99
-    },
-    "6315d6c7b7b9ef3f7d2720c216713c14": {
-      "title": "SKIMSStretch Cotton Jersey T-Shirt (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483546",
-      "sale_price": 18.99
-    },
-    "44a42d19b6a741cf7bcf60565491a0fd": {
-      "title": "SKIMSHip Enhancing Mid Thigh Padded Shorts (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483551",
-      "sale_price": 42.99
-    },
-    "c375631f30a9e11afb70451886aeda02": {
-      "title": "Cole HaanGrandPro Rally LTT Sneaker (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483566",
-      "sale_price": 66.99
-    },
-    "520b7468892988afe71870bbd92e8ccc": {
-      "title": "adidasGender Inclusive Samba OG Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483622",
-      "sale_price": 49.99
-    },
-    "02232f5fcfb831a905c391dfa97e1acd": {
-      "title": "TOM FORDTraceless Soft Matte Face Primer",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-11T12:18:53.483635",
-      "sale_price": 40.0
-    },
     "566dbc10fe353485894c719f96fbde8a": {
       "title": "LARGE BOOK LIGHT",
       "site": "Indigo / Chapters",
@@ -3581,6 +3533,48 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-18T11:14:46.311301",
       "sale_price": 13.0
+    },
+    "48c1d6d357264500f1640f6b6c7b63ce": {
+      "title": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model F5-6400J3239G16G",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-18T14:41:17.192985",
+      "sale_price": 198.99
+    },
+    "110b27d03c54f0c7fed4ff66a588aea5": {
+      "title": "Evoke Agility Rings",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-18T14:41:17.192990",
+      "sale_price": 11.98
+    },
+    "3c2b70ab02acb05d902aa910d33eb5e6": {
+      "title": "WD_BLACK SN7100 M.2 2280 1TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS100T4X0E",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-18T14:41:17.193034",
+      "sale_price": 133.96
+    },
+    "a7a2c1f6860afb763e4dd41d8290f23d": {
+      "title": "Kingston NV3 M.2 2280 2TB PCIe 4.0 x4 NVMe Internal Solid State Drive (SSD) SNV3S/2000G Up to 6000 MB/s",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-18T14:41:17.193052",
+      "sale_price": 195.97
+    },
+    "60974bd17d8db904eb7e7d76250ceda2": {
+      "title": "Ripzone Men's Bayside 3.0 Summer Sandals",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-18T14:41:17.193078",
+      "sale_price": 14.98
+    },
+    "396134dc7280be2ed72789cce5b64d65": {
+      "title": "Ripzone Men's Skyline Windbreaker Jacket",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-18T14:41:17.193101",
+      "sale_price": 34.98
+    },
+    "bce55d9235c74b64378f39ebfc94c30a": {
+      "title": "Helly Hansen Women's Capilano Sandals",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-18T14:41:17.193109",
+      "sale_price": 44.98
     }
   }
 }
