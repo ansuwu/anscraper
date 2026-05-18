@@ -1,11 +1,5 @@
 {
   "deals": {
-    "06b1908ddb359143362e854dbd4855a8": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-11T19:47:58.015691",
-      "sale_price": 419.97
-    },
     "270c64173a0e3145e8037da60a0450ca": {
       "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
       "site": "Nordstrom Canada",
@@ -3575,6 +3569,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-18T17:45:03.063076",
       "sale_price": 75.0
+    },
+    "56a7b4e8cdbbeaec9233c1249b4c2bfb": {
+      "title": "Damaged Boxes - MARY & MAY Vegan Rose Hyaluronic Hydra Wash Off Pack 30g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-18T21:18:39.776009",
+      "sale_price": 4.0
+    },
+    "465a922a0d9dc8ae1d7052cace5fc451": {
+      "title": "ASUS AirVision M1 Smart AR Glasses",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-18T21:18:39.776068",
+      "sale_price": 449.99
     }
   }
 }
