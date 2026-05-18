@@ -1,11 +1,5 @@
 {
   "deals": {
-    "1f47aea6577f1e8e0b0087933c96632c": {
-      "title": "1906L",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-11T06:09:34.140873",
-      "sale_price": 89.98
-    },
     "40521347ac9c65b657e41551dadad106": {
       "title": "Phanteks XT Pro Ultra, Mid-Tower Gaming Chassis, 4x M25-140 Fans Included, High Airflow Performance Mesh, Tempered Glass",
       "site": "Newegg Canada",
@@ -3419,6 +3413,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-18T02:26:33.004588",
       "sale_price": 35.0
+    },
+    "b507b40f0eb6f103d71dfbe08fa9a249": {
+      "title": "ASUS P520 ROG Strix Impact III Wireless Gaming Mouse",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-18T07:05:11.881451",
+      "sale_price": 39.99
     }
   }
 }
