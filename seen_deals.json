@@ -1,11 +1,5 @@
 {
   "deals": {
-    "270c64173a0e3145e8037da60a0450ca": {
-      "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-12T00:08:16.708691",
-      "sale_price": 239.99
-    },
     "2373499808e2402c1680d9cddfe6c5b5": {
       "title": "Kissy KissyJacquard Zip Pima Cotton Footie (Baby)",
       "site": "Nordstrom Canada",
@@ -3581,6 +3575,18 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-18T21:18:39.776068",
       "sale_price": 449.99
+    },
+    "b1afb179ca190a1747a719e168f3ac70": {
+      "title": "Arose StudioBrienne Polka Dot Lace Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-19T00:15:40.955894",
+      "sale_price": 59.33
+    },
+    "8a02db60fe37d59ce288de5f13a8b3b8": {
+      "title": "SPANX®AirEssentials Half Zip Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-19T00:15:40.955944",
+      "sale_price": 49.99
     }
   }
 }
