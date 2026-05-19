@@ -1,17 +1,5 @@
 {
   "deals": {
-    "cdfc2bef6ae3a04c65f215f73c71ac76": {
-      "title": "Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler - 4 Copper Heat Pipes, 120mm High Performance PWM Fan, Low Noise",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-12T18:52:06.584068",
-      "sale_price": 6.99
-    },
-    "1a922da09ec7827537e4f01eb905d0c5": {
-      "title": "50% off on Deoproce Snail Galac Line Set of 5",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-12T18:52:06.584187",
-      "sale_price": 54.0
-    },
     "a917b45673deb49a09819ac2917c7459": {
       "title": "TravisMathewRome Around Floral Button Down Polo",
       "site": "Nordstrom Canada",
@@ -4055,6 +4043,12 @@
       "site": "Browns Shoes",
       "first_seen": "2026-05-19T17:01:40.392935",
       "sale_price": 44.98
+    },
+    "1a922da09ec7827537e4f01eb905d0c5": {
+      "title": "50% off on Deoproce Snail Galac Line Set of 5",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-19T19:10:03.237310",
+      "sale_price": 54.0
     }
   }
 }
