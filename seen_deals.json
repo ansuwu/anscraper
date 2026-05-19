@@ -1,17 +1,5 @@
 {
   "deals": {
-    "2373499808e2402c1680d9cddfe6c5b5": {
-      "title": "Kissy KissyJacquard Zip Pima Cotton Footie (Baby)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-12T05:53:13.116310",
-      "sale_price": 24.99
-    },
-    "26b661cbe661a0dff33c3edcf0436976": {
-      "title": "Bib Overall - Men's",
-      "site": "Altitude Sports",
-      "first_seen": "2026-05-12T05:53:13.116367",
-      "sale_price": 0
-    },
     "05074bfe99e4f3c3e1feaea9da2b8859": {
       "title": "WD_BLACK SN7100 M.2 2280 2TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS200T4X0E",
       "site": "Newegg Canada",
@@ -3833,6 +3821,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-19T02:28:33.563713",
       "sale_price": 94.0
+    },
+    "df8725c7994a33ece788c34c14e49287": {
+      "title": "New Era Dodgers 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-19T06:57:42.498809",
+      "sale_price": 19.99
     }
   }
 }
