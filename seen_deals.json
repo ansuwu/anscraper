@@ -1,17 +1,5 @@
 {
   "deals": {
-    "6d9fc1d7b31982258be40c67d90a4689": {
-      "title": "Jordan Stencil Tag T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-12T14:13:11.848944",
-      "sale_price": 15.0
-    },
-    "ba88f69e84b0111248e29bcb79645fff": {
-      "title": "CanaliSiena Regular Fit Light Blue Glen Check Super 150s Wool Suit",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-12T16:29:38.229476",
-      "sale_price": 1527.74
-    },
     "cdfc2bef6ae3a04c65f215f73c71ac76": {
       "title": "Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler - 4 Copper Heat Pipes, 120mm High Performance PWM Fan, Low Noise",
       "site": "Newegg Canada",
@@ -4061,6 +4049,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-19T14:08:17.117767",
       "sale_price": 59.0
+    },
+    "63b3e0cc8f5364f78bd0286c2d6ed502": {
+      "title": "VERDE ESPADRILLE",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-19T17:01:40.392935",
+      "sale_price": 44.98
     }
   }
 }
