@@ -1,11 +1,5 @@
 {
   "deals": {
-    "8868a749218b64b7d86fbc9ba85c4b03": {
-      "title": "Reebok Women's Identity Small Logo T Shirt",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-13T14:21:29.626626",
-      "sale_price": 11.98
-    },
     "6eb3b484f8b2fb7bc16d22bbc980ed23": {
       "title": "PAIGECindy Raw Edge Straight Leg Jeans (Foreign Film)",
       "site": "Nordstrom Canada",
@@ -4043,6 +4037,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-20T13:49:40.322324",
       "sale_price": 52.5
+    },
+    "da1a322c64332b45c3909dc8564018f8": {
+      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T17:04:06.151919",
+      "sale_price": 34.99
+    },
+    "22e9ce2073012a366ef7e35262fb0341": {
+      "title": "The North Face1996 Retro Nuptse 700 Fill Power Down Packable Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T17:04:06.151972",
+      "sale_price": 132.0
+    },
+    "9669fc8451bdee138b981599118a055a": {
+      "title": "DeepCool MYSTIQUE 240 LCD Liquid Cooler",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-20T17:04:06.151989",
+      "sale_price": 89.88
     }
   }
 }
