@@ -1,71 +1,5 @@
 {
   "deals": {
-    "aa9317bed41e224f3216cbbda65b24ed": {
-      "title": "19V69 ITALIAVintage 3 Piece Expandable Spinner Luggage Set",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863504",
-      "sale_price": 189.99
-    },
-    "b0f4856c563a440d294511bc761c5c70": {
-      "title": "Favorite DaughterGraphic Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863547",
-      "sale_price": 46.99
-    },
-    "811c6ac4c0915114431af6c059a4bfae": {
-      "title": "AllSaintsLexi Long Sleeve High-Low Shirtdress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863562",
-      "sale_price": 127.6
-    },
-    "aae11a824961a17053a03e2de95498b6": {
-      "title": "Chelsea28Tiered Ruffle Chiffon Cape Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863574",
-      "sale_price": 57.99
-    },
-    "88f42b711a22061652b42555aa29f9b1": {
-      "title": "BarbourRyedale Waxed Cotton Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863577",
-      "sale_price": 211.5
-    },
-    "7b169982a8cdf2ab7ea062cdf9efa17e": {
-      "title": "Wit & WisdomSam High Waist Wide Leg Jeans (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863580",
-      "sale_price": 39.6
-    },
-    "1fbd368a322d425666c681af4f430fa9": {
-      "title": "MOTHERThe Square Colorblock Appliqué Cotton Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863638",
-      "sale_price": 139.0
-    },
-    "d240eaf02a8fa5510d0ecafe93ed8624": {
-      "title": "DÔENAnisa Cardigan",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863642",
-      "sale_price": 139.0
-    },
-    "31f17623a572ef7c86e45850264c57c9": {
-      "title": "Alice + OliviaArlette Lace Trim Floral Satin Burnout Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863645",
-      "sale_price": 220.0
-    },
-    "efeccd56216ed74d30885a4d499dd8f9": {
-      "title": "Free PeopleMoxie Paint Fleck Cotton Utility Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863648",
-      "sale_price": 74.0
-    },
-    "f95fb4de3f24e99e429e3913e59d77c5": {
-      "title": "SanctuaryThe Marine Crop Denim Pants (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-13T08:53:22.863651",
-      "sale_price": 49.5
-    },
     "8868a749218b64b7d86fbc9ba85c4b03": {
       "title": "Reebok Women's Identity Small Logo T Shirt",
       "site": "Sport Chek",
@@ -3995,6 +3929,90 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-05-19T19:10:03.237310",
       "sale_price": 54.0
+    },
+    "b37801399b48edcf83b5542810945b21": {
+      "title": "NikeSportswear Phoenix Fleece Crop Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T10:38:03.808063",
+      "sale_price": 30.0
+    },
+    "bc38b9b6174064c53aadf09b64701174": {
+      "title": "Peter MillarCoolspun Lite Quarter Zip Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T10:38:03.808080",
+      "sale_price": 102.6
+    },
+    "c02768bb125e42e7af5a6ef3e6d325df": {
+      "title": "BurberryCheck Slides",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T10:38:03.808092",
+      "sale_price": 212.0
+    },
+    "8e889cf0b86215df110b30a490606bc6": {
+      "title": "ReebokMen's Engine Light Performance Basketball Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808121",
+      "sale_price": 54.98
+    },
+    "06406a6fe308b3ac25a29ff25d54acc5": {
+      "title": "BAHECork Yoga Block",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808149",
+      "sale_price": 15.0
+    },
+    "d027b3d027d140c6b5b4a83b6a9ace51": {
+      "title": "BAHEYoga Mat Towel",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808152",
+      "sale_price": 27.5
+    },
+    "dbf570ed2a218f7480efec51bedbd0d0": {
+      "title": "BAHEPILATES RING",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808155",
+      "sale_price": 17.5
+    },
+    "541c272d3ac1a44a47ec2e6d972866b3": {
+      "title": "BAHEBe U Yoga Block",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808158",
+      "sale_price": 15.0
+    },
+    "de7b157c43c797467327d9515d190cdf": {
+      "title": "BAHEPilates Bar Set",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808161",
+      "sale_price": 30.0
+    },
+    "a724144312340bda3add76b352f31b21": {
+      "title": "BAHEFlow Sliders",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808163",
+      "sale_price": 10.0
+    },
+    "36d8e2b4c56b22b36b9b933cad4e322c": {
+      "title": "BAHEFLOWLOOPS LUXE COMBO",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808166",
+      "sale_price": 20.0
+    },
+    "f82e01d3054f0e41294da44358357378": {
+      "title": "BAHEFlowbands Combo, 3 Pack",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-20T10:38:03.808169",
+      "sale_price": 17.5
+    },
+    "31f17623a572ef7c86e45850264c57c9": {
+      "title": "Alice + OliviaArlette Lace Trim Floral Satin Burnout Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T10:38:03.808176",
+      "sale_price": 220.0
+    },
+    "06dbb07772c196c811d5c25dcc8dafec": {
+      "title": "CanaliSiena Regular Fit Light Grey Mélange Wool Suit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-20T10:38:03.808180",
+      "sale_price": 1175.0
     }
   }
 }
