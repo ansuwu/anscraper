@@ -1,17 +1,5 @@
 {
   "deals": {
-    "3722ca203882efd3f7755d456de321a9": {
-      "title": "ABS 27\" QHD 2K 1440P 180Hz Fast IPS with AMD FreeSync (AMD Adaptive Sync) 1ms HDR400, DCI-P3 95% Gaming Computer Monitor",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-14T06:08:26.826750",
-      "sale_price": 79.99
-    },
-    "36795e120efcfb7fc11bc5b6b3ae9ede": {
-      "title": "UGG Classic Micro",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T06:08:26.826866",
-      "sale_price": 82.5
-    },
     "bbc5b5ae292eb5dd11bd304557f4adff": {
       "title": "Carhartt Work In ProgressAviation Ripstop Cotton Cargo Pants",
       "site": "Nordstrom Canada",
@@ -4025,6 +4013,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-20T23:24:11.243121",
       "sale_price": 205.0
+    },
+    "37a2e597804d8f9eeccebbbc8e99385f": {
+      "title": "Vans Knu Skool Suede",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T06:58:14.946681",
+      "sale_price": 52.5
     }
   }
 }
