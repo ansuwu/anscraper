@@ -1,35 +1,5 @@
 {
   "deals": {
-    "dcbf6e2988082a2a5cda48a29e4260bd": {
-      "title": "New Era Yankees 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T11:29:46.333002",
-      "sale_price": 19.99
-    },
-    "db719b30e8e32c31d0e4dde5da0dc9b6": {
-      "title": "BAHE Flow Sliders",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-14T11:29:46.333076",
-      "sale_price": 10.0
-    },
-    "353d6a568b7bab099d69d9f27fe24f29": {
-      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  1m/ 3.28ft (CAC-1371)",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-14T13:47:24.820136",
-      "sale_price": 7.88
-    },
-    "baa0a4f575632a986de7dc6d33f70f67": {
-      "title": "New Balance 2000",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T13:47:24.820190",
-      "sale_price": 109.99
-    },
-    "acb5518eeb882aa7bded1fb4dba0b9fb": {
-      "title": "50% off on Deoproce Bakuchiol Line Set of 5",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-14T13:47:24.820195",
-      "sale_price": 46.0
-    },
     "8b90bade737527f0240f0e5938bbdcff": {
       "title": "Nike BB Footwear Vintage T-Shirt",
       "site": "Foot Locker Canada",
@@ -2981,6 +2951,42 @@
       "site": "SportingLife",
       "first_seen": "2026-05-21T10:46:26.232243",
       "sale_price": 94.98
+    },
+    "93af852e7431b3c28bae91502633dd5c": {
+      "title": "SKYWARD X",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-21T14:13:27.043079",
+      "sale_price": 99.98
+    },
+    "dcbf6e2988082a2a5cda48a29e4260bd": {
+      "title": "New Era Yankees 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T14:13:27.043084",
+      "sale_price": 19.99
+    },
+    "74d09fab1d3889ecb29426d6b2dc9eb0": {
+      "title": "LCKR C-24 Standard Fit Cargo Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T14:13:27.043091",
+      "sale_price": 24.99
+    },
+    "07efac244292ebf9f7a3169afe877f7e": {
+      "title": "GOLDENSTAR WILDWOOD",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-21T14:13:27.043099",
+      "sale_price": 89.98
+    },
+    "acb5518eeb882aa7bded1fb4dba0b9fb": {
+      "title": "50% off on Deoproce Bakuchiol Line Set of 5",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-21T14:13:27.043142",
+      "sale_price": 46.0
+    },
+    "924cd65fd95e8d92e50468e1c9c211d5": {
+      "title": "Nike Swoosh Ankle Sock 6 Pack",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T14:13:27.043159",
+      "sale_price": 9.0
     }
   }
 }
