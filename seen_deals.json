@@ -1,23 +1,5 @@
 {
   "deals": {
-    "71599656c3e41d427acd0fd1f1e83769": {
-      "title": "Jordan Retro 9 NRG Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T18:49:25.937520",
-      "sale_price": 139.99
-    },
-    "f57a58379be87bf3d4cf3fc9ac4f44ab": {
-      "title": "rag & boneTomlin Cotton Dobby Button-Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-14T18:49:25.937590",
-      "sale_price": 99.0
-    },
-    "84cd1c19ad9895aa0bb2ea53de92da34": {
-      "title": "DÔENBalsam Pintuck Ruffle Organic Cotton Button-Up Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-14T18:49:25.937594",
-      "sale_price": 139.0
-    },
     "b738e9b3ff8a0a218a29b6c72a96027e": {
       "title": "SKIMSFits Everybody Short Sleeve T-Shirt",
       "site": "Nordstrom Canada",
@@ -3011,6 +2993,78 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-21T16:54:32.954558",
       "sale_price": 15.0
+    },
+    "897c57be32c54b54adcd6cc6ae234a4d": {
+      "title": "Dasique Cream De Rose Tint 01 Nudy Rose (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516927",
+      "sale_price": 3.4
+    },
+    "22141b4024bdeffb2227ac669bfad548": {
+      "title": "Dasique Cream De Rose Tint 06 Ruby Jam (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516932",
+      "sale_price": 3.4
+    },
+    "8863e174d9dae641d0d03a7492259bb8": {
+      "title": "Dasique Cream De Rose Tint 02 Rose Cream (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516936",
+      "sale_price": 3.4
+    },
+    "523661ff01c7ded0525d9c4bcaca58e1": {
+      "title": "Dasique Cream De Rose Tint 07 Crimson (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516939",
+      "sale_price": 3.4
+    },
+    "acb3f9ede7d377289260039cf976b061": {
+      "title": "Etude House Lovely Cookie Blusher BE101 Ginger Honey Cookie (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516942",
+      "sale_price": 1.8
+    },
+    "7b8775113ec773be4368e54e3345d223": {
+      "title": "Etude House Lovely Cookie Blusher OR201 Apricot Peach Mousse (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516945",
+      "sale_price": 1.8
+    },
+    "7dae8b3cbd8240a00b84f72b5aa2b9b1": {
+      "title": "COSRX All About Snail Trial Kit (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.516948",
+      "sale_price": 8.0
+    },
+    "9315448a469509e7efd892eb0e7e41f9": {
+      "title": "Barefoot Dreams®CozyChic™ Starry Night Robe",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-21T19:13:11.517009",
+      "sale_price": 79.99
+    },
+    "c7838c1151a34a85378f599d561af208": {
+      "title": "Polo Ralph LaurenKids' Mini Cable Knit Sweater (Big Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-21T19:13:11.517014",
+      "sale_price": 29.24
+    },
+    "90ba1d1e53d503b78707f3fa0de34d91": {
+      "title": "FLORTTE I AM SUPER BEAUTY Lip Gloss Serum 06 Grape Jelly (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.517042",
+      "sale_price": 6.49
+    },
+    "8df93c86fadd140f9987e99e2843fcd2": {
+      "title": "Dasique Blending Mood Cheek 03 Peach Blending (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-05-21T19:13:11.517084",
+      "sale_price": 12.5
+    },
+    "4f3304ffdf230218b41f57508776a4ea": {
+      "title": "Lauren Ralph LaurenCotton Blend Shirtdress (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-21T19:13:11.517088",
+      "sale_price": 77.5
     }
   }
 }
