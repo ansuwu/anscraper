@@ -1,23 +1,5 @@
 {
   "deals": {
-    "8b90bade737527f0240f0e5938bbdcff": {
-      "title": "Nike BB Footwear Vintage T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T16:22:06.980278",
-      "sale_price": 19.99
-    },
-    "c211b72880b70e4f670b32b6d068aabb": {
-      "title": "MerrellMen's Moab 3 Mid Waterproof Hiking Boot",
-      "site": "SportingLife",
-      "first_seen": "2026-05-14T16:22:06.980334",
-      "sale_price": 94.98
-    },
-    "c1b579679e582b83a0ca6dcac5b76722": {
-      "title": "Jordan Brooklyn Air Oversized Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-14T16:22:06.980361",
-      "sale_price": 24.0
-    },
     "71599656c3e41d427acd0fd1f1e83769": {
       "title": "Jordan Retro 9 NRG Boots",
       "site": "Foot Locker Canada",
@@ -2987,6 +2969,48 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-21T14:13:27.043159",
       "sale_price": 9.0
+    },
+    "5f2a1b4e7be10208d089ac7352967af2": {
+      "title": "GIGABYTE X870 GAMING WIFI6 AM5 LGA 1718, ATX, DDR5, 3x M.2, PCIe 5.0, USB4, WIFI 6, 2.5GbE LAN, EZ-Latch, 5-Year Warrant",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-21T16:54:32.954414",
+      "sale_price": 29.99
+    },
+    "fd7e5e2c6f14603eed1e45c0db54c72e": {
+      "title": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-21T16:54:32.954467",
+      "sale_price": 149.99
+    },
+    "86f6882856448aab5555d5abd305d540": {
+      "title": "GOLDENSTAR WILDWOOD",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-21T16:54:32.954474",
+      "sale_price": 129.98
+    },
+    "8b90bade737527f0240f0e5938bbdcff": {
+      "title": "Nike BB Footwear Vintage T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T16:54:32.954481",
+      "sale_price": 19.99
+    },
+    "60b567bdf74ce3e738f35c246b1aa0b6": {
+      "title": "CLIFTON 10",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-21T16:54:32.954486",
+      "sale_price": 95.98
+    },
+    "c1b579679e582b83a0ca6dcac5b76722": {
+      "title": "Jordan Brooklyn Air Oversized Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T16:54:32.954555",
+      "sale_price": 24.0
+    },
+    "6d9fc1d7b31982258be40c67d90a4689": {
+      "title": "Jordan Stencil Tag T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-21T16:54:32.954558",
+      "sale_price": 15.0
     }
   }
 }
