@@ -1,23 +1,5 @@
 {
   "deals": {
-    "7de4ddb0d428cd40a670721a5597901c": {
-      "title": "HOUSE OF CBChristiana Floral Minidress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-15T16:05:46.929409",
-      "sale_price": 45.0
-    },
-    "b59295123dbde897cddbd57ae52ee071": {
-      "title": "NikeTech Colorblock Full Zip Fleece Windrunner Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-15T16:05:46.929473",
-      "sale_price": 58.0
-    },
-    "3a1de086e99d5b8baece070cefe27f65": {
-      "title": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK32GX4M2E3200C16",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-15T16:05:46.929505",
-      "sale_price": 189.99
-    },
     "ea073d760863578424d64624d487af1f": {
       "title": "DIYPC DIY-mATX06-Wood Black USB3.0 /Type C Micro ATX Mid Tower Gaming Computer Case w/ Tempered Glass Side Panel and Wal",
       "site": "Newegg Canada",
@@ -2885,6 +2867,24 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-22T06:58:52.006270",
       "sale_price": 38.0
+    },
+    "6651ca39d0e35e7d57f2bb9175f3421d": {
+      "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-22T16:34:03.588612",
+      "sale_price": 79.99
+    },
+    "ce72bd5e75b1fa952565b5ed2e51ec47": {
+      "title": "RAZER BlackWidow V3 TKL- Mechanical Gaming Keyboard",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-22T16:34:03.588627",
+      "sale_price": 69.99
+    },
+    "3ae595c8bc593dd384617ba1ddb5e85e": {
+      "title": "RAZER DeathAdder V3 - Ultra-lightweight Ergonomic Esports Mouse",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-22T16:34:03.588671",
+      "sale_price": 49.99
     }
   }
 }
