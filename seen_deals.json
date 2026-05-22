@@ -1,65 +1,5 @@
 {
   "deals": {
-    "2f3ec5cbe728ec497d0ad72f68d12fec": {
-      "title": "RAYNA SMALL HOBO",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-15T06:01:37.013301",
-      "sale_price": 22.49
-    },
-    "a2d485c18ddb87390cc88ba056047e41": {
-      "title": "SQUARE BRAID TOTE BAG",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-15T06:01:37.013325",
-      "sale_price": 49.99
-    },
-    "3f570510d904e5b03a024f041baa1ab2": {
-      "title": "7 WONDERS",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-15T06:01:37.013356",
-      "sale_price": 124.99
-    },
-    "c6eb2a1be9315f33dc06a2806379ebfb": {
-      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-15T06:01:37.013361",
-      "sale_price": 46.88
-    },
-    "ebfba325979cde10d8651f63369fefeb": {
-      "title": "HP Elite SFF | AMD Ryzen 5 8600G | 16GB | 512GB SSD | W11P",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-15T06:01:37.013367",
-      "sale_price": 899.0
-    },
-    "49f7d22343e9a84a17957b509ed677fb": {
-      "title": "Dolce VitaBaylee Grommet Mary Jane Flat",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-15T06:01:37.013373",
-      "sale_price": 52.0
-    },
-    "e3db65b9972fb9eb1ee21eb32d858ca3": {
-      "title": "adidasGazelle Bold Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-15T06:01:37.013378",
-      "sale_price": 48.0
-    },
-    "0a82098b28621d6975e835ce869a82b2": {
-      "title": "be quiet! ARGB Light Wings 120mm PWM-high-speed",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-15T06:01:37.013386",
-      "sale_price": 16.99
-    },
-    "93e6cf3d061fc055a5d9cd81b93ee6c5": {
-      "title": "SL 72 OG",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-15T06:01:37.013389",
-      "sale_price": 55.98
-    },
-    "d241ed015ed61c008ed40f6e0c9c677a": {
-      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-15T06:01:37.013406",
-      "sale_price": 57.88
-    },
     "3cd2d31fd89547dfb97f000ef96d4bf1": {
       "title": "Peter MillarCoolspun Performance Full Zip Sweater Vest",
       "site": "Nordstrom Canada",
@@ -2975,6 +2915,54 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-22T02:22:48.837275",
       "sale_price": 413.99
+    },
+    "fbf9dc52c977b2b416ab47c50f70a0cf": {
+      "title": "19V69 ITALIAVintage 3 Piece Expandable Spinner Luggage Set",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006194",
+      "sale_price": 179.99
+    },
+    "0ba68195573672c077fbe3e04755d0a2": {
+      "title": "PactOrganic Cotton Stretch Twill Wide Leg Pant",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006199",
+      "sale_price": 28.0
+    },
+    "3b6457adb8b6245a49a2a422f90dff48": {
+      "title": "Crocs Classic Clogs Velvet",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-22T06:58:52.006227",
+      "sale_price": 19.99
+    },
+    "777c075845e80fa051cc4b48e8183aaf": {
+      "title": "TravisMathewThe Zinna 2.0 Polo Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006234",
+      "sale_price": 39.98
+    },
+    "c375631f30a9e11afb70451886aeda02": {
+      "title": "Cole HaanGrandPro Rally LTT Sneaker (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006244",
+      "sale_price": 66.99
+    },
+    "77f4a14aa87137345576e1af706df99e": {
+      "title": "SanctuaryThe Perfect T-Shirt (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006250",
+      "sale_price": 21.99
+    },
+    "115efd7393022b9503a26c6e7200f055": {
+      "title": "VinceSpencer Oxford (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006266",
+      "sale_price": 119.98
+    },
+    "d17acbb32cb0d7d2f8705efecdaaf194": {
+      "title": "PactOrganic Cotton Coastal Double Gauze Relaxed Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-22T06:58:52.006270",
+      "sale_price": 38.0
     }
   }
 }
