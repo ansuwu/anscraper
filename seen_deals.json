@@ -1,11 +1,5 @@
 {
   "deals": {
-    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
-      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-16T22:53:03.631364",
-      "sale_price": 14.99
-    },
     "e5d3e9bef768f0ee724d88d3194e897c": {
       "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
       "site": "Nordstrom Canada",
@@ -2759,6 +2753,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-23T19:13:14.523517",
       "sale_price": 90.0
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-23T22:58:48.692268",
+      "sale_price": 14.99
     }
   }
 }
