@@ -1,23 +1,5 @@
 {
   "deals": {
-    "d9369a9e0e46123cf9ad32852595889a": {
-      "title": "Carhartt Work In ProgressCotton Ripstop Cargo Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-16T02:09:07.099423",
-      "sale_price": 58.0
-    },
-    "0afdcd3081985b8e8a757f1e5f1c9fa3": {
-      "title": "Carhartt Work In ProgressDeconstructed Organic Cotton Jersey Graphic T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-16T02:09:07.099435",
-      "sale_price": 24.99
-    },
-    "df79d5f70795f88afc0d0b809083381f": {
-      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-16T02:09:07.099529",
-      "sale_price": 36.0
-    },
     "1c1fde9ae104ee09836bef3fe1e094aa": {
       "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
       "site": "Nordstrom Canada",
@@ -2801,6 +2783,48 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-22T20:41:31.418904",
       "sale_price": 32.53
+    },
+    "bac8af74733f885fd94979b0da05d715": {
+      "title": "Favorite DaughterShiloh Kitten Heel Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153614",
+      "sale_price": 99.99
+    },
+    "7b271b9a018f401bbcb24e585399b0d1": {
+      "title": "SanctuaryThe Perfect T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153627",
+      "sale_price": 21.99
+    },
+    "5c47bb33fb0345e17cd5e82f416f3baa": {
+      "title": "Wit & WisdomSam High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153635",
+      "sale_price": 39.6
+    },
+    "367c5f6ed1cb8ec35ee3ea2766a323f3": {
+      "title": "Adrianna PapellFloral Embroidered Beaded Trumpet Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153688",
+      "sale_price": 149.99
+    },
+    "d53afc5e308aa40ce038436cc3e48ed5": {
+      "title": "Rebecca TaylorAllegra Stripe Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153706",
+      "sale_price": 295.0
+    },
+    "6249a5b3906ffdc69f97be91cf50e555": {
+      "title": "BOSSHuge Solid Wool Suit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153710",
+      "sale_price": 447.5
+    },
+    "e50d41e352b6819afe40488b796255d8": {
+      "title": "Treasure & BondKids' Crop Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-05-23T02:23:22.153715",
+      "sale_price": 12.5
     }
   }
 }
