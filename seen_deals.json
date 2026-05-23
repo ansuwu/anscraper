@@ -1,11 +1,5 @@
 {
   "deals": {
-    "1c1fde9ae104ee09836bef3fe1e094aa": {
-      "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-16T05:40:25.182120",
-      "sale_price": 38.0
-    },
     "28d831e7cfcc0b4326c2ab9a81906555": {
       "title": "Black Rouge Colordation Mood Palette - MP01 Brickdation",
       "site": "KBeauty.ca",
@@ -2824,6 +2818,18 @@
       "title": "Treasure & BondKids' Crop Cotton Graphic T-Shirt",
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-23T02:23:22.153715",
+      "sale_price": 12.5
+    },
+    "36795e120efcfb7fc11bc5b6b3ae9ede": {
+      "title": "UGG Classic Micro",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-23T08:28:48.937671",
+      "sale_price": 82.5
+    },
+    "25fadfcf325c8cdd987904d8486b8103": {
+      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-23T08:28:48.937681",
       "sale_price": 12.5
     }
   }
