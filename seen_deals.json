@@ -1,11 +1,5 @@
 {
   "deals": {
-    "4eba33b148223a6ff0e3ad8ac9c10071": {
-      "title": "ElliattKiran Floral Embellished Sleeveless Minidress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T19:10:03.201983",
-      "sale_price": 144.0
-    },
     "232c89a63f9ebf276adcbc1e9c246487": {
       "title": "Phanteks Enthoo Pro series PH-ES614PC_BK Black Steel / Plastic ATX Full Tower Computer Case (non-power supply cover)",
       "site": "Newegg Canada",
@@ -2111,6 +2105,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-24T18:11:33.647095",
       "sale_price": 80.0
+    },
+    "2a73309f66a5d1c6f82025d4f2f39616": {
+      "title": "BAHEFlow Reformer",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-24T19:19:06.613367",
+      "sale_price": 15.0
     }
   }
 }
