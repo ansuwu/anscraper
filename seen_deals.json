@@ -1,35 +1,5 @@
 {
   "deals": {
-    "00a818c73a54ffe49ed0ab03f713df11": {
-      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T10:35:25.708909",
-      "sale_price": 66.99
-    },
-    "4438d4cd06d6dad7033cafe4e2d10794": {
-      "title": "Daniel BuchlerLounge Pajama Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T10:35:25.708922",
-      "sale_price": 44.0
-    },
-    "b05217f1e446f5fe9d039ce5ebbfc2fe": {
-      "title": "Steve MaddenLucia Mary Jane Flat",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T10:35:25.708955",
-      "sale_price": 48.99
-    },
-    "bda9ec37e3921b0a35d90e0cdd9ad10d": {
-      "title": "UGG Tasman Maxi Curly",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-17T10:35:25.709032",
-      "sale_price": 82.5
-    },
-    "5db16e11648439ff7dc9f3d682460abf": {
-      "title": "Saucony Ride Millennium",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-17T10:35:25.709036",
-      "sale_price": 65.0
-    },
     "d7a2b7c1f57a78af01c9805eef5061cb": {
       "title": "Samsung Odyssey G3 24\" Full HD 180Hz with AMD FreeSync Premium 1ms HDR10 Gaming Computer Monitor with Height Adjustable,",
       "site": "Newegg Canada",
@@ -2705,6 +2675,18 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-24T09:33:10.484907",
       "sale_price": 139.99
+    },
+    "e9e8b503190d8ced25ead2845e03bc27": {
+      "title": "Lian Li V100 ATX Mid-Tower PC Case, LED RGB Strip, Display Platform Design with Tempered Glass, Support 420mm GPUs, 360m",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-24T11:26:40.624933",
+      "sale_price": 14.99
+    },
+    "5db16e11648439ff7dc9f3d682460abf": {
+      "title": "Saucony Ride Millennium",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-24T11:26:40.625080",
+      "sale_price": 65.0
     }
   }
 }
