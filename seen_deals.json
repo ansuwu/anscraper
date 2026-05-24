@@ -1,41 +1,5 @@
 {
   "deals": {
-    "a001e8caed20e688711c06df82beb63f": {
-      "title": "adidasSamba LT Sneaker (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T08:29:25.502025",
-      "sale_price": 47.99
-    },
-    "40ef4c9e47e7e4962d8bd59730d0c5af": {
-      "title": "adidasSL 72 Sneaker (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T08:29:25.502039",
-      "sale_price": 40.0
-    },
-    "9a3cf1c5d9675419a801375950103336": {
-      "title": "UGG®Ultra Mini Classic Boot (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T08:29:25.502046",
-      "sale_price": 67.98
-    },
-    "fae8f941bc527fb6da6cc5f5ea247917": {
-      "title": "Cole HaanGrandPro Topspin Sneaker (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T08:29:25.502171",
-      "sale_price": 80.0
-    },
-    "7ffb08f51943986595f18b8295e8f9c9": {
-      "title": "Pisarro NightsBeaded Floral Mesh Gown",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-17T08:29:25.502178",
-      "sale_price": 134.0
-    },
-    "ca24dee0481846229d4a31f086dcc0dc": {
-      "title": "adidas Originals Samba",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-17T08:29:25.502194",
-      "sale_price": 50.0
-    },
     "00a818c73a54ffe49ed0ab03f713df11": {
       "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
       "site": "Nordstrom Canada",
@@ -2735,6 +2699,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-23T22:58:48.692268",
       "sale_price": 14.99
+    },
+    "71599656c3e41d427acd0fd1f1e83769": {
+      "title": "Jordan Retro 9 NRG Boots",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-24T09:33:10.484907",
+      "sale_price": 139.99
     }
   }
 }
