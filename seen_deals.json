@@ -1,35 +1,5 @@
 {
   "deals": {
-    "306dfd0dede41ed9e5859f0538216ab5": {
-      "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-18T02:26:33.004494",
-      "sale_price": 19.99
-    },
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-18T02:26:33.004507",
-      "sale_price": 49.99
-    },
-    "1b4b7535f434c7e48872e8d4eb040d76": {
-      "title": "BAHE Flow Reformer",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-18T02:26:33.004580",
-      "sale_price": 15.0
-    },
-    "902629c9c763f1f54cea12ea7c81f904": {
-      "title": "Nike Puffle Mini Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-18T02:26:33.004588",
-      "sale_price": 35.0
-    },
-    "b507b40f0eb6f103d71dfbe08fa9a249": {
-      "title": "ASUS P520 ROG Strix Impact III Wireless Gaming Mouse",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-18T07:05:11.881451",
-      "sale_price": 39.99
-    },
     "d737415a4176f94c86a4d6d8e1b58f40": {
       "title": "LIAN LI UNI FAN SL INFINITY 140 REVERSED RGB BLACK - 14RSLIN1B (No controller included)",
       "site": "Newegg Canada",
@@ -2087,6 +2057,12 @@
       "site": "Sport Chek",
       "first_seen": "2026-05-24T19:19:06.613367",
       "sale_price": 15.0
+    },
+    "ffcde7b85ba2102a8d1b470c025fd159": {
+      "title": "POCTectal Race MIPS® Helmet",
+      "site": "SportingLife",
+      "first_seen": "2026-05-25T07:20:53.787009",
+      "sale_price": 99.98
     }
   }
 }
