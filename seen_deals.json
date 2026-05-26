@@ -1,11 +1,5 @@
 {
   "deals": {
-    "df8725c7994a33ece788c34c14e49287": {
-      "title": "New Era Dodgers 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-19T06:57:42.498809",
-      "sale_price": 19.99
-    },
     "28e32931842a7fbf6b605330519481ca": {
       "title": "7 WONDERS",
       "site": "Browns Shoes",
@@ -1577,6 +1571,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-25T22:20:03.903199",
       "sale_price": 39.99
+    },
+    "df8725c7994a33ece788c34c14e49287": {
+      "title": "New Era Dodgers 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-26T14:02:21.632396",
+      "sale_price": 19.99
     }
   }
 }
