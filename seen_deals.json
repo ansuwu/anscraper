@@ -1,23 +1,5 @@
 {
   "deals": {
-    "8feac215912bc96792ff403b26f14b9b": {
-      "title": "Naked WardrobePleated Faux Leather A-Line Miniskirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T19:34:38.457998",
-      "sale_price": 36.8
-    },
-    "272870455f4bbdbc23d9164215ad3224": {
-      "title": "The North FaceNuptse® 1996 Packable Quilted 700 Fill Power Down Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T19:34:38.458015",
-      "sale_price": 148.5
-    },
-    "7b169982a8cdf2ab7ea062cdf9efa17e": {
-      "title": "Wit & WisdomSam High Waist Wide Leg Jeans (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T19:34:38.458023",
-      "sale_price": 39.6
-    },
     "101cceab34e367860ae42c11088cbec3": {
       "title": "Tory BurchRobinson Spazzolato Leather Shoulder Bag",
       "site": "Nordstrom Canada",
@@ -1229,6 +1211,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-27T19:32:22.731040",
       "sale_price": 189.99
+    },
+    "c5e1d99cda0baad1b5cbd45a9691cecb": {
+      "title": "SAMA SV02 ATX Computer Gaming PC Case Mid Tower Black with 3 ARGB Fans Pre-Installed, Tempered Glass Transparent Side Pa",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-27T22:05:30.921174",
+      "sale_price": 69.99
     }
   }
 }
