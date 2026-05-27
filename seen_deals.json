@@ -1,89 +1,5 @@
 {
   "deals": {
-    "b37801399b48edcf83b5542810945b21": {
-      "title": "NikeSportswear Phoenix Fleece Crop Sweatshirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T10:38:03.808063",
-      "sale_price": 30.0
-    },
-    "bc38b9b6174064c53aadf09b64701174": {
-      "title": "Peter MillarCoolspun Lite Quarter Zip Sweater",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T10:38:03.808080",
-      "sale_price": 102.6
-    },
-    "c02768bb125e42e7af5a6ef3e6d325df": {
-      "title": "BurberryCheck Slides",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T10:38:03.808092",
-      "sale_price": 212.0
-    },
-    "8e889cf0b86215df110b30a490606bc6": {
-      "title": "ReebokMen's Engine Light Performance Basketball Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808121",
-      "sale_price": 54.98
-    },
-    "06406a6fe308b3ac25a29ff25d54acc5": {
-      "title": "BAHECork Yoga Block",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808149",
-      "sale_price": 15.0
-    },
-    "d027b3d027d140c6b5b4a83b6a9ace51": {
-      "title": "BAHEYoga Mat Towel",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808152",
-      "sale_price": 27.5
-    },
-    "dbf570ed2a218f7480efec51bedbd0d0": {
-      "title": "BAHEPILATES RING",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808155",
-      "sale_price": 17.5
-    },
-    "541c272d3ac1a44a47ec2e6d972866b3": {
-      "title": "BAHEBe U Yoga Block",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808158",
-      "sale_price": 15.0
-    },
-    "de7b157c43c797467327d9515d190cdf": {
-      "title": "BAHEPilates Bar Set",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808161",
-      "sale_price": 30.0
-    },
-    "a724144312340bda3add76b352f31b21": {
-      "title": "BAHEFlow Sliders",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808163",
-      "sale_price": 10.0
-    },
-    "36d8e2b4c56b22b36b9b933cad4e322c": {
-      "title": "BAHEFLOWLOOPS LUXE COMBO",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808166",
-      "sale_price": 20.0
-    },
-    "f82e01d3054f0e41294da44358357378": {
-      "title": "BAHEFlowbands Combo, 3 Pack",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-20T10:38:03.808169",
-      "sale_price": 17.5
-    },
-    "31f17623a572ef7c86e45850264c57c9": {
-      "title": "Alice + OliviaArlette Lace Trim Floral Satin Burnout Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T10:38:03.808176",
-      "sale_price": 220.0
-    },
-    "06dbb07772c196c811d5c25dcc8dafec": {
-      "title": "CanaliSiena Regular Fit Light Grey Mélange Wool Suit",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-20T10:38:03.808180",
-      "sale_price": 1175.0
-    },
     "91cca1f5129fe4427d34437027fe860c": {
       "title": "204L",
       "site": "Browns Shoes",
@@ -1313,6 +1229,36 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-27T09:19:51.779649",
       "sale_price": 9.99
+    },
+    "816f3f3c89529905df7c065d2e18c8d3": {
+      "title": "Phanteks NV5S Showcase Mid-Tower ATX PC Case, 4 x M25-120 ARGB Fans, High-Airflow Gaming Chassis with Seamless Tempered ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-27T12:38:18.738897",
+      "sale_price": 14.99
+    },
+    "6ce56fe5061b8ea95fad93a7dab940fd": {
+      "title": "PHYLINA",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-27T12:38:18.738927",
+      "sale_price": 149.98
+    },
+    "b6aed7e586534b360f33ff2f0f5aef58": {
+      "title": "ZEBZAG SLIDE",
+      "site": "Browns Shoes",
+      "first_seen": "2026-05-27T12:38:18.738930",
+      "sale_price": 59.98
+    },
+    "8e889cf0b86215df110b30a490606bc6": {
+      "title": "ReebokMen's Engine Light Performance Basketball Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-27T12:38:18.739001",
+      "sale_price": 54.98
+    },
+    "d027b3d027d140c6b5b4a83b6a9ace51": {
+      "title": "BAHEYoga Mat Towel",
+      "site": "Sport Chek",
+      "first_seen": "2026-05-27T12:38:18.739022",
+      "sale_price": 27.5
     }
   }
 }
