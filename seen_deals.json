@@ -1,11 +1,5 @@
 {
   "deals": {
-    "37a2e597804d8f9eeccebbbc8e99385f": {
-      "title": "Vans Knu Skool Suede",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-21T06:58:14.946681",
-      "sale_price": 52.5
-    },
     "f75a2633b75f757c25d390575a252469": {
       "title": "DeepCool CH780 ATX Panoramic Case, Black",
       "site": "Canada Computers",
@@ -1535,6 +1529,24 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-28T02:13:09.731731",
       "sale_price": 59.0
+    },
+    "ff8e5bd6bbd9adbebed1f3e08865a104": {
+      "title": "SauconyMen's Guide 18 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-28T10:20:33.150723",
+      "sale_price": 89.98
+    },
+    "c211b72880b70e4f670b32b6d068aabb": {
+      "title": "MerrellMen's Moab 3 Mid Waterproof Hiking Boot",
+      "site": "SportingLife",
+      "first_seen": "2026-05-28T10:20:33.150729",
+      "sale_price": 94.98
+    },
+    "820311d26b5c79721a200ae09dfbc6c2": {
+      "title": "SauconyWomen's Endorphin Trainer Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-05-28T10:20:33.150732",
+      "sale_price": 129.98
     }
   }
 }
