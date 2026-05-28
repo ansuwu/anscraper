@@ -1,47 +1,5 @@
 {
   "deals": {
-    "5f2a1b4e7be10208d089ac7352967af2": {
-      "title": "GIGABYTE X870 GAMING WIFI6 AM5 LGA 1718, ATX, DDR5, 3x M.2, PCIe 5.0, USB4, WIFI 6, 2.5GbE LAN, EZ-Latch, 5-Year Warrant",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-21T16:54:32.954414",
-      "sale_price": 29.99
-    },
-    "fd7e5e2c6f14603eed1e45c0db54c72e": {
-      "title": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-21T16:54:32.954467",
-      "sale_price": 149.99
-    },
-    "86f6882856448aab5555d5abd305d540": {
-      "title": "GOLDENSTAR WILDWOOD",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-21T16:54:32.954474",
-      "sale_price": 129.98
-    },
-    "8b90bade737527f0240f0e5938bbdcff": {
-      "title": "Nike BB Footwear Vintage T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-21T16:54:32.954481",
-      "sale_price": 19.99
-    },
-    "60b567bdf74ce3e738f35c246b1aa0b6": {
-      "title": "CLIFTON 10",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-21T16:54:32.954486",
-      "sale_price": 95.98
-    },
-    "c1b579679e582b83a0ca6dcac5b76722": {
-      "title": "Jordan Brooklyn Air Oversized Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-21T16:54:32.954555",
-      "sale_price": 24.0
-    },
-    "6d9fc1d7b31982258be40c67d90a4689": {
-      "title": "Jordan Stencil Tag T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-21T16:54:32.954558",
-      "sale_price": 15.0
-    },
     "897c57be32c54b54adcd6cc6ae234a4d": {
       "title": "Dasique Cream De Rose Tint 01 Nudy Rose (Clearance)",
       "site": "Kiokii & Co",
@@ -1709,6 +1667,30 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-28T14:49:25.574475",
       "sale_price": 9.0
+    },
+    "d7a2b7c1f57a78af01c9805eef5061cb": {
+      "title": "Samsung Odyssey G3 24\" Full HD 180Hz with AMD FreeSync Premium 1ms HDR10 Gaming Computer Monitor with Height Adjustable,",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-28T18:13:09.741720",
+      "sale_price": 109.99
+    },
+    "8b90bade737527f0240f0e5938bbdcff": {
+      "title": "Nike BB Footwear Vintage T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T18:13:09.741726",
+      "sale_price": 19.99
+    },
+    "1a922da09ec7827537e4f01eb905d0c5": {
+      "title": "50% off on Deoproce Snail Galac Line Set of 5",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-28T18:13:09.741768",
+      "sale_price": 54.0
+    },
+    "37a2e597804d8f9eeccebbbc8e99385f": {
+      "title": "Vans Knu Skool Suede",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T18:13:09.741789",
+      "sale_price": 52.5
     }
   }
 }
