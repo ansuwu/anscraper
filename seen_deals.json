@@ -1,41 +1,5 @@
 {
   "deals": {
-    "a245863d5f1776a89dcfce8cf5a4a472": {
-      "title": "NatoriFeathers Plunge T-Shirt Basics Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-21T20:51:05.697095",
-      "sale_price": 11.97
-    },
-    "bb9ce1842939803464c119fed7d13e81": {
-      "title": "SKIMSStretch Cotton Rib Tank (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-21T20:51:05.697163",
-      "sale_price": 14.97
-    },
-    "8f8aab31ceab72323b62be54eccbc346": {
-      "title": "SKIMSStretch Cotton Jersey Foldover Pants (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-21T20:51:05.697167",
-      "sale_price": 26.99
-    },
-    "bbce1f8905cffb9eaaa9bef41a347479": {
-      "title": "RhoneCommuter Slim Fit Button-Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-21T20:51:05.697249",
-      "sale_price": 69.0
-    },
-    "b46149340c7dec5e65836c26f1b3e208": {
-      "title": "Converse Chuck 70 Hi",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-21T20:51:05.697265",
-      "sale_price": 50.0
-    },
-    "9c3d0e93f9b4616308bfe0591907a937": {
-      "title": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-21T22:31:24.099663",
-      "sale_price": 246.85
-    },
     "216da6305b5ee8e6cb94fecd1c7460d7": {
       "title": "WD_BLACK 2TB SN8100 NVMe SSD Internal Solid State Drive - Gen 5 PCIe 5.0x4, M.2 2280, Seq. Read Speeds Up to 14,900 MB/s",
       "site": "Newegg Canada",
@@ -1661,6 +1625,54 @@
       "site": "Kiokii & Co",
       "first_seen": "2026-05-28T20:25:13.598889",
       "sale_price": 12.5
+    },
+    "dfa1661d7eb1d66330dbdbce6d91b041": {
+      "title": "adidas Originals Wabash Loose T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.210934",
+      "sale_price": 19.99
+    },
+    "b46149340c7dec5e65836c26f1b3e208": {
+      "title": "Converse Chuck 70 Hi",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.210992",
+      "sale_price": 50.0
+    },
+    "b94e43f49cc92069f22d8a5e8ee9fbc8": {
+      "title": "Jordan Brooklyn Oversize Stretch Pants",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211000",
+      "sale_price": 47.5
+    },
+    "c9f474d6867ddc9823bcc4940b0f2108": {
+      "title": "adidas Originals Handball Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211007",
+      "sale_price": 70.0
+    },
+    "6d9fc1d7b31982258be40c67d90a4689": {
+      "title": "Jordan Stencil Tag T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211009",
+      "sale_price": 15.0
+    },
+    "f39bed4c8a1d67d30415c970e81cab91": {
+      "title": "Nike Club Basketball Graphic Neo Varsity Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211012",
+      "sale_price": 50.0
+    },
+    "a821bb265170ab7e0ec7f58d69734c53": {
+      "title": "Nike Puffle Tote 2.0",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211016",
+      "sale_price": 52.5
+    },
+    "ca24dee0481846229d4a31f086dcc0dc": {
+      "title": "adidas Originals Samba",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-28T22:45:40.211019",
+      "sale_price": 50.0
     }
   }
 }
