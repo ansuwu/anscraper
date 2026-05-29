@@ -1,23 +1,5 @@
 {
   "deals": {
-    "6651ca39d0e35e7d57f2bb9175f3421d": {
-      "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-22T16:34:03.588612",
-      "sale_price": 79.99
-    },
-    "ce72bd5e75b1fa952565b5ed2e51ec47": {
-      "title": "RAZER BlackWidow V3 TKL- Mechanical Gaming Keyboard",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-22T16:34:03.588627",
-      "sale_price": 69.99
-    },
-    "3ae595c8bc593dd384617ba1ddb5e85e": {
-      "title": "RAZER DeathAdder V3 - Ultra-lightweight Ergonomic Esports Mouse",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-22T16:34:03.588671",
-      "sale_price": 49.99
-    },
     "c24d3b5fbff5ca8b313c63b6a6eb5f91": {
       "title": "FLORTTE Glass Sea Series Dual-Ended Highlighter & Contour Pencil - 01 Pearl Reef",
       "site": "Kiokii & Co",
@@ -1775,6 +1757,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-29T12:59:58.258517",
       "sale_price": 249.0
+    },
+    "b74a214943bc0c6e712938ae845cbdaa": {
+      "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-29T16:55:01.750925",
+      "sale_price": 152.2
+    },
+    "494f64bd70169ad5fca00ce1f6daee85": {
+      "title": "MINISFORUM UM890 Pro Mini PC AMD Ryzen 9 8945HS(8C/16T, up to 5.2GHz) 32GB DDR5 1TB PCIe4.0 SSD, 2xUSB4(PD 8K)|1xHDMI|1x",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-29T16:55:01.750974",
+      "sale_price": 851.87
     }
   }
 }
