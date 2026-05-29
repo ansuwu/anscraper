@@ -1,53 +1,5 @@
 {
   "deals": {
-    "fbf9dc52c977b2b416ab47c50f70a0cf": {
-      "title": "19V69 ITALIAVintage 3 Piece Expandable Spinner Luggage Set",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006194",
-      "sale_price": 179.99
-    },
-    "0ba68195573672c077fbe3e04755d0a2": {
-      "title": "PactOrganic Cotton Stretch Twill Wide Leg Pant",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006199",
-      "sale_price": 28.0
-    },
-    "3b6457adb8b6245a49a2a422f90dff48": {
-      "title": "Crocs Classic Clogs Velvet",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-22T06:58:52.006227",
-      "sale_price": 19.99
-    },
-    "777c075845e80fa051cc4b48e8183aaf": {
-      "title": "TravisMathewThe Zinna 2.0 Polo Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006234",
-      "sale_price": 39.98
-    },
-    "c375631f30a9e11afb70451886aeda02": {
-      "title": "Cole HaanGrandPro Rally LTT Sneaker (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006244",
-      "sale_price": 66.99
-    },
-    "77f4a14aa87137345576e1af706df99e": {
-      "title": "SanctuaryThe Perfect T-Shirt (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006250",
-      "sale_price": 21.99
-    },
-    "115efd7393022b9503a26c6e7200f055": {
-      "title": "VinceSpencer Oxford (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006266",
-      "sale_price": 119.98
-    },
-    "d17acbb32cb0d7d2f8705efecdaaf194": {
-      "title": "PactOrganic Cotton Coastal Double Gauze Relaxed Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-22T06:58:52.006270",
-      "sale_price": 38.0
-    },
     "6651ca39d0e35e7d57f2bb9175f3421d": {
       "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-Black",
       "site": "Canada Computers",
@@ -1667,6 +1619,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-28T22:45:40.211019",
       "sale_price": 50.0
+    },
+    "3b6457adb8b6245a49a2a422f90dff48": {
+      "title": "Crocs Classic Clogs Velvet",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-29T09:51:53.261689",
+      "sale_price": 19.99
     }
   }
 }
