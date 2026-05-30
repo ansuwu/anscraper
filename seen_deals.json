@@ -1,17 +1,5 @@
 {
   "deals": {
-    "36795e120efcfb7fc11bc5b6b3ae9ede": {
-      "title": "UGG Classic Micro",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-23T08:28:48.937671",
-      "sale_price": 82.5
-    },
-    "25fadfcf325c8cdd987904d8486b8103": {
-      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-23T08:28:48.937681",
-      "sale_price": 12.5
-    },
     "d57416b3b8e9441f1dba13e2ca941bf7": {
       "title": "Cooler Master Hyper 212 Black CPU Air Cooler - 120mm High Performance PWM Fan, 4 Copper Heat Pipes, Aluminum Top Cover, ",
       "site": "Newegg Canada",
@@ -1727,6 +1715,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-05-30T06:00:05.760622",
       "sale_price": 79.99
+    },
+    "ebfba325979cde10d8651f63369fefeb": {
+      "title": "HP Elite SFF | AMD Ryzen 5 8600G | 16GB | 512GB SSD | W11P",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-30T08:34:20.374220",
+      "sale_price": 899.0
     }
   }
 }
