@@ -1,47 +1,5 @@
 {
   "deals": {
-    "bac8af74733f885fd94979b0da05d715": {
-      "title": "Favorite DaughterShiloh Kitten Heel Sandal",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153614",
-      "sale_price": 99.99
-    },
-    "7b271b9a018f401bbcb24e585399b0d1": {
-      "title": "SanctuaryThe Perfect T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153627",
-      "sale_price": 21.99
-    },
-    "5c47bb33fb0345e17cd5e82f416f3baa": {
-      "title": "Wit & WisdomSam High Waist Wide Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153635",
-      "sale_price": 39.6
-    },
-    "367c5f6ed1cb8ec35ee3ea2766a323f3": {
-      "title": "Adrianna PapellFloral Embroidered Beaded Trumpet Gown",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153688",
-      "sale_price": 149.99
-    },
-    "d53afc5e308aa40ce038436cc3e48ed5": {
-      "title": "Rebecca TaylorAllegra Stripe Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153706",
-      "sale_price": 295.0
-    },
-    "6249a5b3906ffdc69f97be91cf50e555": {
-      "title": "BOSSHuge Solid Wool Suit",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153710",
-      "sale_price": 447.5
-    },
-    "e50d41e352b6819afe40488b796255d8": {
-      "title": "Treasure & BondKids' Crop Cotton Graphic T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-23T02:23:22.153715",
-      "sale_price": 12.5
-    },
     "36795e120efcfb7fc11bc5b6b3ae9ede": {
       "title": "UGG Classic Micro",
       "site": "Foot Locker Canada",
@@ -1757,6 +1715,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-30T02:16:57.143790",
       "sale_price": 197.5
+    },
+    "b87486b7171587c3c0ba8d50bf2a9ab6": {
+      "title": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3636F16G",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-30T06:00:05.760561",
+      "sale_price": 188.99
+    },
+    "6651ca39d0e35e7d57f2bb9175f3421d": {
+      "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-30T06:00:05.760622",
+      "sale_price": 79.99
     }
   }
 }
