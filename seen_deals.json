@@ -1,95 +1,5 @@
 {
   "deals": {
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-24T16:14:19.737445",
-      "sale_price": 19.88
-    },
-    "dda2478e87c82538a5c429dddba30bca": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-24T16:14:19.737488",
-      "sale_price": 10.0
-    },
-    "03e9d1261437d53cb681ba36c8349f44": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-24T16:14:19.737492",
-      "sale_price": 10.0
-    },
-    "4774465cdfad78633501523d72f07d43": {
-      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-24T16:14:19.737495",
-      "sale_price": 7.0
-    },
-    "969cb94961359f23cd48100a67af0dd0": {
-      "title": "adidas Originals Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-24T16:14:19.737511",
-      "sale_price": 55.0
-    },
-    "1c1fde9ae104ee09836bef3fe1e094aa": {
-      "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113093",
-      "sale_price": 38.0
-    },
-    "6ba9395f2d7e97c52ee91df7c00a7fa4": {
-      "title": "SKIMSFits Everybody Short Sleeve T-Shirt (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113105",
-      "sale_price": 18.99
-    },
-    "31b06a32c9a96015643a71c0cc309326": {
-      "title": "Dolce VitaBaylee Grommet Mary Jane Flat (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113112",
-      "sale_price": 52.0
-    },
-    "6eb3b484f8b2fb7bc16d22bbc980ed23": {
-      "title": "PAIGECindy Raw Edge Straight Leg Jeans (Foreign Film)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113115",
-      "sale_price": 95.6
-    },
-    "d6619170c5454e45cde3ef2f8900ee1f": {
-      "title": "Billionaire Boys ClubCurve Cotton Graphic Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113121",
-      "sale_price": 58.0
-    },
-    "a006c5eb8fb80a32cf455bdf85434b6c": {
-      "title": "SANTO STUDIOTwitch Edition - Tempo Fade T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113124",
-      "sale_price": 28.0
-    },
-    "88d9c6450387da36233c302050dff43f": {
-      "title": "Jeffrey CampbellRhian Stiletto Sandal (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113128",
-      "sale_price": 69.98
-    },
-    "0d0946ec6713278a99c5bbca3edbeff1": {
-      "title": "Open EditChiffon Ruffle Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113142",
-      "sale_price": 31.27
-    },
-    "5630858e21de52f1cd5c0549c54160c7": {
-      "title": "MIKOSnug Neck Massage Pillow with Heat",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113195",
-      "sale_price": 49.99
-    },
-    "1c8a15e262428db2e58ca7f0ddbe6ea1": {
-      "title": "LulusVallia Floral Tiered Gown",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-24T17:10:08.113215",
-      "sale_price": 74.0
-    },
     "9203841ea95db687f22d4e412f32bf70": {
       "title": "7 For All MankindComfort Sateen The Straight Leg Jeans",
       "site": "Nordstrom Canada",
@@ -1769,6 +1679,42 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-31T15:26:31.374356",
       "sale_price": 12.99
+    },
+    "9874b62b6335a6b6ae9f1751efa97823": {
+      "title": "AZZA SOURCE CSAZ-203A02 Black Case",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-31T17:14:16.840571",
+      "sale_price": 14.99
+    },
+    "b9aca20e41a3c730d3058d6f03271ee4": {
+      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
+      "site": "Canada Computers",
+      "first_seen": "2026-05-31T17:14:16.840635",
+      "sale_price": 19.88
+    },
+    "dda2478e87c82538a5c429dddba30bca": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-31T17:14:16.840669",
+      "sale_price": 10.0
+    },
+    "03e9d1261437d53cb681ba36c8349f44": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-31T17:14:16.840672",
+      "sale_price": 10.0
+    },
+    "4774465cdfad78633501523d72f07d43": {
+      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-05-31T17:14:16.840675",
+      "sale_price": 7.0
+    },
+    "969cb94961359f23cd48100a67af0dd0": {
+      "title": "adidas Originals Spezial",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-31T17:14:16.840694",
+      "sale_price": 55.0
     }
   }
 }
