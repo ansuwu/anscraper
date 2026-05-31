@@ -1,11 +1,5 @@
 {
   "deals": {
-    "71599656c3e41d427acd0fd1f1e83769": {
-      "title": "Jordan Retro 9 NRG Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-24T09:33:10.484907",
-      "sale_price": 139.99
-    },
     "e9e8b503190d8ced25ead2845e03bc27": {
       "title": "Lian Li V100 ATX Mid-Tower PC Case, LED RGB Strip, Display Platform Design with Tempered Glass, Support 420mm GPUs, 360m",
       "site": "Newegg Canada",
@@ -1751,6 +1745,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-05-31T07:04:14.495430",
       "sale_price": 90.0
+    },
+    "5c0d08898a230d86d9f13cb8a1a77d62": {
+      "title": "Fractal Design Pop XL Air RGB White TG ATX High-Airflow Clear Tempered Glass Window Full Tower Computer Case",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-31T10:00:43.943305",
+      "sale_price": 19.99
+    },
+    "fd7e5e2c6f14603eed1e45c0db54c72e": {
+      "title": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
+      "site": "Newegg Canada",
+      "first_seen": "2026-05-31T10:00:43.943367",
+      "sale_price": 149.99
+    },
+    "25fadfcf325c8cdd987904d8486b8103": {
+      "title": "Jordan MJ BRAND Skeleton Jumpman T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-31T10:00:43.943446",
+      "sale_price": 12.5
     }
   }
 }
