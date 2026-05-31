@@ -1745,6 +1745,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-05-30T23:02:44.224708",
       "sale_price": 174.0
+    },
+    "7f11b116e14c8ba27638adf4c45f0519": {
+      "title": "PUMA MB.05 Rick & Morty",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-05-31T07:04:14.495430",
+      "sale_price": 90.0
     }
   }
 }
