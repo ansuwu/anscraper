@@ -1,11 +1,5 @@
 {
   "deals": {
-    "ffcde7b85ba2102a8d1b470c025fd159": {
-      "title": "POCTectal Race MIPS® Helmet",
-      "site": "SportingLife",
-      "first_seen": "2026-05-25T07:20:53.787009",
-      "sale_price": 99.98
-    },
     "306dfd0dede41ed9e5859f0538216ab5": {
       "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
       "site": "Canada Computers",
@@ -1715,6 +1709,42 @@
       "site": "Newegg Canada",
       "first_seen": "2026-05-31T20:25:54.535485",
       "sale_price": 34.99
+    },
+    "6c9a9c6cd3df43bca39fa4a656f2749a": {
+      "title": "ASRock B650M Pro RS WiFi AM5 Micro ATX Motherboard",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-01T08:43:12.735994",
+      "sale_price": 29.99
+    },
+    "01ae4dbb13ad55f49559f1573b74a9e6": {
+      "title": "First4Figures - MY HERO ACADEMIA - All Might (Casual Wear)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-01T08:43:12.736021",
+      "sale_price": 27.88
+    },
+    "2e35ba8c93c111f74904c5872d80561f": {
+      "title": "HYPERX Cloud Mini — Gaming wired headset (multi)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-01T08:43:12.736057",
+      "sale_price": 16.88
+    },
+    "c6eb2a1be9315f33dc06a2806379ebfb": {
+      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-01T08:43:12.736063",
+      "sale_price": 46.88
+    },
+    "ffcde7b85ba2102a8d1b470c025fd159": {
+      "title": "POCTectal Race MIPS® Helmet",
+      "site": "SportingLife",
+      "first_seen": "2026-06-01T08:43:12.736069",
+      "sale_price": 99.98
+    },
+    "98a620c3925b5f94973e1524a33db620": {
+      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-01T08:43:12.736080",
+      "sale_price": 55.88
     }
   }
 }
