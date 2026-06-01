@@ -1,35 +1,5 @@
 {
   "deals": {
-    "306dfd0dede41ed9e5859f0538216ab5": {
-      "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-25T11:32:25.010645",
-      "sale_price": 19.99
-    },
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-25T11:32:25.010662",
-      "sale_price": 49.99
-    },
-    "ef6ca17cbf3edbe1474d71211cfe9748": {
-      "title": "RAVIEL Green Derma Double Cica Cream - Single",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-25T11:32:25.010714",
-      "sale_price": 9.0
-    },
-    "067aaa67f0d5b7219e42337ba0df5ced": {
-      "title": "Nike 3 Pack NSW Crew Socks",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-25T11:32:25.010721",
-      "sale_price": 13.0
-    },
-    "9f16177c36c725ae363c0aa36bfdff6e": {
-      "title": "Jordan Brooklyn 2Air Reissue Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-25T14:50:28.951665",
-      "sale_price": 27.5
-    },
     "ef66bdd3a37c936648b00f1f8f864a7f": {
       "title": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
       "site": "Newegg Canada",
@@ -1745,6 +1715,384 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-01T08:43:12.736080",
       "sale_price": 55.88
+    },
+    "48cd48ac5b8ece7ef95cb328b9481066": {
+      "title": "Erin McDermott JewelryFilled With Gratitude Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300455",
+      "sale_price": 34.0
+    },
+    "b182cf6992821852ec1a9498a604592d": {
+      "title": "Sergio TacchiniPortico Track Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300463",
+      "sale_price": 45.0
+    },
+    "785cb7be29300ef4a6bfbb52eec3df06": {
+      "title": "Sergio TacchiniSandro Track Pant",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300467",
+      "sale_price": 31.25
+    },
+    "3985279d35286c2fa9058962f705afac": {
+      "title": "PactOrganic Cotton Coastal Double Gauze Tapered Pull-On Pant",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300470",
+      "sale_price": 23.0
+    },
+    "edc6fd6721ca94dbe02a23cf943157d7": {
+      "title": "SanctuaryThe Perfect T-Shirt (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300477",
+      "sale_price": 14.63
+    },
+    "b26ee868df97500046784efe3631a1bd": {
+      "title": "WacoalB-Smooth® Briefs (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300488",
+      "sale_price": 6.0
+    },
+    "9fb648b1403eed7de09a91905338d6d8": {
+      "title": "SKIMSFits Everybody Triangle Bralette (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300491",
+      "sale_price": 10.97
+    },
+    "3603c404f3799dd56e4a611d967a5d12": {
+      "title": "b.tempt'd by Wacoalb.bare Thong",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300496",
+      "sale_price": 4.99
+    },
+    "94a719c77b23e508925799b49e8d3288": {
+      "title": "SKIMSStretch Lace Triangle Bralette (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300527",
+      "sale_price": 14.99
+    },
+    "dcbf6e2988082a2a5cda48a29e4260bd": {
+      "title": "New Era Yankees 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-01T15:06:58.300539",
+      "sale_price": 19.99
+    },
+    "8ce6e530a65e305bc3b0600de42aa140": {
+      "title": "SKIMSCotton Fleece Blend Classic Joggers (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300542",
+      "sale_price": 34.99
+    },
+    "f0c74c521d9d54bf995c6780f7080f67": {
+      "title": "Favorite DaughterThe Favorite Midi Skirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300547",
+      "sale_price": 90.99
+    },
+    "306dfd0dede41ed9e5859f0538216ab5": {
+      "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-01T15:06:58.300552",
+      "sale_price": 19.99
+    },
+    "5005d65800d6999e34ba4ee227db81a9": {
+      "title": "NikeStride Dri-FIT UV Hooded Running Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300559",
+      "sale_price": 49.99
+    },
+    "31b06a32c9a96015643a71c0cc309326": {
+      "title": "Dolce VitaBaylee Grommet Mary Jane Flat (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300566",
+      "sale_price": 52.0
+    },
+    "5f2d5009d8c5f32ab3d9d96ef52bf9d0": {
+      "title": "adidasGazelle Indoor Sneaker (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300569",
+      "sale_price": 48.0
+    },
+    "6eb3b484f8b2fb7bc16d22bbc980ed23": {
+      "title": "PAIGECindy Raw Edge Straight Leg Jeans (Foreign Film)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300576",
+      "sale_price": 95.6
+    },
+    "7bf901c8d41c5e0956ad7f6fa535add7": {
+      "title": "JordanAir Jordan 1 Low Basketball Sneaker (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300582",
+      "sale_price": 48.0
+    },
+    "fcf8988b1bf66044555e4b8fe4e599c3": {
+      "title": "Veronica BeardVega Wool Dickey Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300589",
+      "sale_price": 319.2
+    },
+    "069a1210d6828eef7ea6a0a8613aa109": {
+      "title": "SKIMSFeatherweight Cashmere Cardigan",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300591",
+      "sale_price": 79.99
+    },
+    "e306e5bed8306dfb9be721373bc60298": {
+      "title": "Lucky BrandGold-Tone Rope Chain Bracelet",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300603",
+      "sale_price": 60.0
+    },
+    "7513c549d80ea0567e26bb436f70158c": {
+      "title": "NordstromEveryday Invisible Edge Tank",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300605",
+      "sale_price": 12.99
+    },
+    "8d1e2c4ae517d7c50fd9fb80e9227cd2": {
+      "title": "GOLDEN HOURFruit Embroidery Fleece Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300608",
+      "sale_price": 21.99
+    },
+    "4d312455c7a3b28f2521cdf4709d55f4": {
+      "title": "Peter MillarMen's Crown Crafted Surge Performance Flat Front Trousers",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300611",
+      "sale_price": 88.99
+    },
+    "79a44fbe116556058c8876b595cbed81": {
+      "title": "NordstromTexture Crewneck Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300614",
+      "sale_price": 57.99
+    },
+    "9b3dd27b14f64a86cc3e61ffc252efab": {
+      "title": "NordstromShirred Waist Long Sleeve Minidress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300616",
+      "sale_price": 57.99
+    },
+    "4260339aa0f348aceac598a69175a355": {
+      "title": "Hanky PankyPrint Original Rise Thong",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300621",
+      "sale_price": 11.24
+    },
+    "edb256f9d5ecb2d93f88bf1536044a48": {
+      "title": "FRAMELe Slim Palazzo High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300623",
+      "sale_price": 124.99
+    },
+    "f1d28d251f4ae14feaa6dfd0660367ea": {
+      "title": "ElwoodCore Oversize Organic Cotton Jersey T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300626",
+      "sale_price": 13.49
+    },
+    "bea116ccde8db750c29a5c7a8afaf290": {
+      "title": "PAIGEAnessa High Waist Raw Hem Wide Leg Jeans (Mesmerize)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300629",
+      "sale_price": 111.99
+    },
+    "89bf00da74959b705e849d5a23d3a7aa": {
+      "title": "Petal & PupOakley Pleated Midi Skirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300632",
+      "sale_price": 35.54
+    },
+    "340cf1a62326e2e1c7e683c18bf7c0a8": {
+      "title": "La BlancaIsland Goddess One-Piece Swimsuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300635",
+      "sale_price": 37.34
+    },
+    "7473b6e3c5fc9b650ce429a0a92546b8": {
+      "title": "BP.Ruffle Tie Neck Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300637",
+      "sale_price": 22.27
+    },
+    "5ad43c73076e1a424f03e1a2386ea489": {
+      "title": "Caslon®Oversize V-Neck Cotton Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300641",
+      "sale_price": 35.77
+    },
+    "a11ffa8c51d8e4f169cf258ec4d8da87": {
+      "title": "NordstromTrim Fit Check Premium Performance Twill Dress Shirt (Regular, Big & Tall)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300645",
+      "sale_price": 44.77
+    },
+    "148c295ac5b7da38163711983c6584fc": {
+      "title": "Cinq à SeptCezanne Denim Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300649",
+      "sale_price": 222.74
+    },
+    "64014eba81eb624a5cf7bfcad75bcb78": {
+      "title": "Adelyn RaeAudrey Stripe Cotton Blend Shirtdress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300654",
+      "sale_price": 62.1
+    },
+    "dc0fc042c6e98e5735677e8ac308ba60": {
+      "title": "NordstromSide Ruched Knit Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300660",
+      "sale_price": 49.05
+    },
+    "cccfa1441c2c5445709754ec92adfef8": {
+      "title": "Treasure & BondSmocked Bodice Tie Back Cotton Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300666",
+      "sale_price": 53.55
+    },
+    "1e2cf64cb4039a09963f617ffdb40095": {
+      "title": "Wit & WisdomWyatt Skyrise V-Pocket Ankle Wide Leg Jeans (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300670",
+      "sale_price": 39.6
+    },
+    "cf2cd4553cf8eef8a75cad1e5610d1d2": {
+      "title": "ECCOMetropole Milan Derby (Men)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300673",
+      "sale_price": 83.24
+    },
+    "11e7cee98409c9fb13a805370f711895": {
+      "title": "DLORIAElena Moissanite Solitaire Vermeil Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300679",
+      "sale_price": 420.0
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-01T15:06:58.300682",
+      "sale_price": 49.99
+    },
+    "c9ea091da09d7b8d82af0ae23f11e614": {
+      "title": "Erin McDermott JewelryBluebell Garden Drops",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300687",
+      "sale_price": 25.0
+    },
+    "c6d6fb2b463feae128f925f31508d306": {
+      "title": "FRAMELe Sleek High Waist Ankle Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300692",
+      "sale_price": 124.99
+    },
+    "c97df1001803c40dd189c967395c0448": {
+      "title": "Steve MaddenLucia Mary Jane Flat (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300696",
+      "sale_price": 48.99
+    },
+    "e5205ed6677138cde4abff3f1040a137": {
+      "title": "CROCSKids' Classic Clog (Baby, Walker & Toddler)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300721",
+      "sale_price": 17.49
+    },
+    "b4e80a9d880492064394e8a1bb79bdee": {
+      "title": "adidasGender Inclusive Handball Spezial Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300727",
+      "sale_price": 54.99
+    },
+    "ef6ca17cbf3edbe1474d71211cfe9748": {
+      "title": "RAVIEL Green Derma Double Cica Cream - Single",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-01T15:06:58.300744",
+      "sale_price": 9.0
+    },
+    "bcc14d4f97c614ea037fd25e9a06bac5": {
+      "title": "Eileen FisherPleated Organic Linen Lantern Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300749",
+      "sale_price": 84.0
+    },
+    "1f7177a90d49951c1b98927f79fb10eb": {
+      "title": "NADINE MERABILydia Floral Lace Long Sleeve Minidress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300753",
+      "sale_price": 267.5
+    },
+    "450c0507199dc76c191b58c0e6c61dd0": {
+      "title": "Robert TalbottReynolds Twill Classic Fit Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300756",
+      "sale_price": 142.5
+    },
+    "4be5170bda2f415b2c3a9ac800ef3b00": {
+      "title": "ZellaCloud Fleece Relaxed Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300759",
+      "sale_price": 29.5
+    },
+    "f806c05acce9cf70c87200fd7ba10a66": {
+      "title": "Koy ClothingBrushed Cotton Long Sleeve Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300762",
+      "sale_price": 97.5
+    },
+    "f953815ae1c0db0707b48213e675cd1b": {
+      "title": "VionicOrinda Perforated Ballet Flat (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300766",
+      "sale_price": 72.5
+    },
+    "498c39209541993a892300f11df1a649": {
+      "title": "BP.Barrel Leg Fleece Sweatpants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300769",
+      "sale_price": 24.75
+    },
+    "5d8180e8dab35add7dfde37fad49692e": {
+      "title": "BP.Baggy Wide Leg Sweatpants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300777",
+      "sale_price": 19.75
+    },
+    "5bbbd8e33731a1268fbf0f45c2d780f2": {
+      "title": "VionicUptown Hybrid Penny Loafer (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300780",
+      "sale_price": 72.5
+    },
+    "0cc78f9e25134b3eb75efc21465b4744": {
+      "title": "ElwoodCore Organic Cotton Brushed Terry Sweatpants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300783",
+      "sale_price": 32.5
+    },
+    "f9f6b6366d43dbf1a0d7c7bcfe448912": {
+      "title": "Dress the PopulationRuth Asymmetric Neck Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300788",
+      "sale_price": 99.0
+    },
+    "8811ca47162c77c10837b6956356ddf6": {
+      "title": "Treasure & BondKids' Crop Cotton Graphic T-Shirt (Big Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-01T15:06:58.300791",
+      "sale_price": 12.5
+    },
+    "067aaa67f0d5b7219e42337ba0df5ced": {
+      "title": "Nike 3 Pack NSW Crew Socks",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-01T15:06:58.300795",
+      "sale_price": 13.0
+    },
+    "9f16177c36c725ae363c0aa36bfdff6e": {
+      "title": "Jordan Brooklyn 2Air Reissue Short Sleeve Crew",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-01T15:06:58.300805",
+      "sale_price": 27.5
     }
   }
 }
