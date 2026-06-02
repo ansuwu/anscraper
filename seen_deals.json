@@ -1,11 +1,5 @@
 {
   "deals": {
-    "df8725c7994a33ece788c34c14e49287": {
-      "title": "New Era Dodgers 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-26T14:02:21.632396",
-      "sale_price": 19.99
-    },
     "0e4c7dd50b04be41747fc1e0f9268990": {
       "title": "G.SKILL Ripjaws Series 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 3200 (PC4 25600) Laptop Memory Model F4-3200C22D-32GRS",
       "site": "Newegg Canada",
@@ -2105,6 +2099,30 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-02T10:14:45.243598",
       "sale_price": 39.88
+    },
+    "f7cfc4a09f533a8bd313f281c26114b5": {
+      "title": "ARMANILuminous Silk Glow Liquid Bronzer Drops (Nordstrom Exclusive)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-02T14:18:42.495152",
+      "sale_price": 12.0
+    },
+    "9e248557b0445db2b6fe53945dc35352": {
+      "title": "CliniqueMerry Moisture: Moisture Surge Mini Skincare Gift Set Value",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-02T14:18:42.495166",
+      "sale_price": 12.0
+    },
+    "df8725c7994a33ece788c34c14e49287": {
+      "title": "New Era Dodgers 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-02T14:18:42.495213",
+      "sale_price": 19.99
+    },
+    "85f4ceebab7b3abe770b44db0f709a2a": {
+      "title": "Vince CamutoLace Yoke Tie Front Long Sleeve Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-02T14:18:42.495298",
+      "sale_price": 44.5
     }
   }
 }
