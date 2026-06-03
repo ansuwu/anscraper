@@ -1,41 +1,5 @@
 {
   "deals": {
-    "7ba724d70faa6d9e6f2eec7f075d2ef9": {
-      "title": "be quiet! PURE WINGS 3 140mm PWM Case Fan",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-27T09:19:51.779649",
-      "sale_price": 9.99
-    },
-    "816f3f3c89529905df7c065d2e18c8d3": {
-      "title": "Phanteks NV5S Showcase Mid-Tower ATX PC Case, 4 x M25-120 ARGB Fans, High-Airflow Gaming Chassis with Seamless Tempered ",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-27T12:38:18.738897",
-      "sale_price": 14.99
-    },
-    "6ce56fe5061b8ea95fad93a7dab940fd": {
-      "title": "PHYLINA",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-27T12:38:18.738927",
-      "sale_price": 149.98
-    },
-    "b6aed7e586534b360f33ff2f0f5aef58": {
-      "title": "ZEBZAG SLIDE",
-      "site": "Browns Shoes",
-      "first_seen": "2026-05-27T12:38:18.738930",
-      "sale_price": 59.98
-    },
-    "8e889cf0b86215df110b30a490606bc6": {
-      "title": "ReebokMen's Engine Light Performance Basketball Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-27T12:38:18.739001",
-      "sale_price": 54.98
-    },
-    "d027b3d027d140c6b5b4a83b6a9ace51": {
-      "title": "BAHEYoga Mat Towel",
-      "site": "Sport Chek",
-      "first_seen": "2026-05-27T12:38:18.739022",
-      "sale_price": 27.5
-    },
     "81c49741413c7c572d8a130bf6fb8eda": {
       "title": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040",
       "site": "Newegg Canada",
@@ -2117,6 +2081,18 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-03T02:57:09.155357",
       "sale_price": 1.88
+    },
+    "52b910762590717f3d405abfe6878abb": {
+      "title": "DARCY LOAFER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-06-03T12:49:33.552834",
+      "sale_price": 79.98
+    },
+    "465a922a0d9dc8ae1d7052cace5fc451": {
+      "title": "ASUS AirVision M1 Smart AR Glasses",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-03T12:49:33.552881",
+      "sale_price": 449.99
     }
   }
 }
