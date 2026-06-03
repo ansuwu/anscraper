@@ -1,11 +1,5 @@
 {
   "deals": {
-    "0e4c7dd50b04be41747fc1e0f9268990": {
-      "title": "G.SKILL Ripjaws Series 32GB (2 x 16GB) 260-Pin DDR4 SO-DIMM DDR4 3200 (PC4 25600) Laptop Memory Model F4-3200C22D-32GRS",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-27T00:24:48.340496",
-      "sale_price": 150.0
-    },
     "465a922a0d9dc8ae1d7052cace5fc451": {
       "title": "ASUS AirVision M1 Smart AR Glasses",
       "site": "Canada Computers",
@@ -2123,6 +2117,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-02T14:18:42.495298",
       "sale_price": 44.5
+    },
+    "28a7d74c678caa31f074acf37026e303": {
+      "title": "RAYOVAC High Energy AAA Alkaline Battery 4 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-03T02:57:09.155357",
+      "sale_price": 1.88
     }
   }
 }
