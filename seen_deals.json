@@ -1,17 +1,5 @@
 {
   "deals": {
-    "b74a214943bc0c6e712938ae845cbdaa": {
-      "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-29T16:55:01.750925",
-      "sale_price": 152.2
-    },
-    "494f64bd70169ad5fca00ce1f6daee85": {
-      "title": "MINISFORUM UM890 Pro Mini PC AMD Ryzen 9 8945HS(8C/16T, up to 5.2GHz) 32GB DDR5 1TB PCIe4.0 SSD, 2xUSB4(PD 8K)|1xHDMI|1x",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-29T16:55:01.750974",
-      "sale_price": 851.87
-    },
     "c24d3b5fbff5ca8b313c63b6a6eb5f91": {
       "title": "FLORTTE Glass Sea Series Dual-Ended Highlighter & Contour Pencil - 01 Pearl Reef",
       "site": "Kiokii & Co",
@@ -2795,6 +2783,12 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-05T16:23:41.778946",
       "sale_price": 39.99
+    },
+    "108a4aabd962dc0c4a669e13fd8cbfce": {
+      "title": "50% off on Deoproce Snail Galac Line Set of 5",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-05T18:20:07.503618",
+      "sale_price": 53.0
     }
   }
 }
