@@ -1,155 +1,5 @@
 {
   "deals": {
-    "284a694da42e5edd4e0d94788a5e6fe6": {
-      "title": "WacoalB-Smooth® High Cut Briefs (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258309",
-      "sale_price": 6.0
-    },
-    "fba3cb8e00d14ae6311c4a2bdf3d5c75": {
-      "title": "PactOrganic Cotton All Day Poplin Shirred Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258340",
-      "sale_price": 23.0
-    },
-    "099bec6688bffec26371b7841c78ab11": {
-      "title": "FellowMighty Stagg [X] Pour Over Set (Nordstrom Exclusive)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258345",
-      "sale_price": 29.75
-    },
-    "3ef2a0efe28e43e9abf18f9d39ccaf1b": {
-      "title": "SanctuaryLover Print Tie Hem Crop Sateen Shirt (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258347",
-      "sale_price": 31.15
-    },
-    "f19c37b0bf575e1acc06bb41aa94d08d": {
-      "title": "DLORIADainty Huggie Hoop Earrings -3 Pairs",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258353",
-      "sale_price": 49.0
-    },
-    "4e394a2a02c6da5fb18c9d4e436089a7": {
-      "title": "SPANX®AirEssentials Half Zip Sweatshirt (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258358",
-      "sale_price": 49.99
-    },
-    "7279c3b80e16d46fcf410738d6f241a1": {
-      "title": "SKIMSFits Everybody Lace Dipped Thong (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258366",
-      "sale_price": 7.99
-    },
-    "da0e147403a9cc412e58d4a8ccd8b086": {
-      "title": "JordanFlight Sneaker (Toddler & Little Kid)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258370",
-      "sale_price": 27.99
-    },
-    "cbfe5d82660ef2cc3bfffb84dab0890b": {
-      "title": "Steve MaddenAlyse Mule (Women)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258377",
-      "sale_price": 43.6
-    },
-    "5714db3a9d3e36c3c6839e2ead52bdfa": {
-      "title": "WacoalConfidence Boost™ Underwire Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258390",
-      "sale_price": 30.4
-    },
-    "eec43bab1bfb709373b55500a6956858": {
-      "title": "Carhartt Work In ProgressLogo Pocket T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258395",
-      "sale_price": 18.0
-    },
-    "c375631f30a9e11afb70451886aeda02": {
-      "title": "Cole HaanGrandPro Rally LTT Sneaker (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258403",
-      "sale_price": 66.99
-    },
-    "0771b33fe45853c5d955d43b95e6bad7": {
-      "title": "SIMONMILLERLoch Sleeveless Poplin Tie Back Button Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258409",
-      "sale_price": 94.0
-    },
-    "1673f94615e4c4e3e172d258943eeafa": {
-      "title": "Open EditThe Curator Relaxed Blazer",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258412",
-      "sale_price": 73.97
-    },
-    "b32e90531451a468d45546ed80cc443d": {
-      "title": "Lucky BrandStainless Steel (316L) Two Tone Cross Necklace",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258416",
-      "sale_price": 29.99
-    },
-    "115efd7393022b9503a26c6e7200f055": {
-      "title": "VinceSpencer Oxford (Men)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258437",
-      "sale_price": 119.98
-    },
-    "520b7468892988afe71870bbd92e8ccc": {
-      "title": "adidasGender Inclusive Samba OG Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258475",
-      "sale_price": 49.99
-    },
-    "31ca7a61f18de623c422b49a869aa5f7": {
-      "title": "Lucky BrandSodalite Bead Stretch Bracelets with Cross Accents",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258494",
-      "sale_price": 30.0
-    },
-    "4c64fa69b0ef71cbcd47669c863671af": {
-      "title": "VinceSmall Vivian Leather Hobo Bag",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258497",
-      "sale_price": 199.0
-    },
-    "b7599a4edb577972bd524711310f39ad": {
-      "title": "Caslon®Short Sleeve Merino Wool Blend Sweater Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258502",
-      "sale_price": 29.75
-    },
-    "4f3304ffdf230218b41f57508776a4ea": {
-      "title": "Lauren Ralph LaurenCotton Blend Shirtdress (Regular & Petite)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258505",
-      "sale_price": 77.5
-    },
-    "cffabf7752bb86dd249ed9d7996d63b8": {
-      "title": "BP.Baggy Flare Leg Sweatpants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258507",
-      "sale_price": 19.75
-    },
-    "9947c94c3f31aeb85ae7b86f77b96476": {
-      "title": "Ever NewRosie Tuck Detail Sleeveless Linen Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258510",
-      "sale_price": 99.5
-    },
-    "bb48f159092c75e5e78334c3eab0c822": {
-      "title": "SKIMSStretch Lace Dipped Thong (Regular & Plus)",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258514",
-      "sale_price": 10.0
-    },
-    "fa380a17cfbb697f93423f1060cfcbca": {
-      "title": "Mac DuggalBeaded Cap Sleeve Column Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-29T12:59:58.258517",
-      "sale_price": 249.0
-    },
     "b74a214943bc0c6e712938ae845cbdaa": {
       "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
       "site": "Newegg Canada",
@@ -2537,6 +2387,414 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-05T12:44:50.794303",
       "sale_price": 53.99
+    },
+    "4166a3ccc890f58c89d6c5a00bc3c54b": {
+      "title": "GIGABYTE GC-USB MCU RGB Module (GC-USB MCU RGB Module)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778643",
+      "sale_price": 0.96
+    },
+    "c55fd6b35c7a50b674f1fb8ed7a7b1fa": {
+      "title": "Ring Spotlight Cam Wired HD Security Camera - Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778648",
+      "sale_price": 44.88
+    },
+    "703ee040e34a9deb411202744487a38f": {
+      "title": "ELink (E)scape 3.2\" Dash Cam (EK800) | HD Recording | Cycled Recording",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778658",
+      "sale_price": 6.88
+    },
+    "59a74ba61b56d26ff5cc45fc2acb70cf": {
+      "title": "iCAN MTS101 32\"-48\" TV Lifting Stand.",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778661",
+      "sale_price": 49.88
+    },
+    "404de8efad424f4dfdd7c9f6970ef101": {
+      "title": "iCAN SDE90 Electric Sit-Stand Desk",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778664",
+      "sale_price": 59.88
+    },
+    "fc0727c6e9d2f11d0a5fbafa6192aac7": {
+      "title": "IESSENTIALS USB Fans (White)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778667",
+      "sale_price": 0.99
+    },
+    "5c69f1e903367b9b5063b763aae22e5d": {
+      "title": "LBT Mag Stream Stand Magsafe W/ 20W PD Adaptor",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778676",
+      "sale_price": 29.88
+    },
+    "28c9a8ad389a020a80970d3a383527df": {
+      "title": "MOUNT-IT! Standing Desk Converter with Spring Adjustment",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778679",
+      "sale_price": 74.88
+    },
+    "c8addf7f018c90f264ea20ee99242f6b": {
+      "title": "Rocelco  40\" Sit To Stand Adjustable Height Desk Riser w/ Extended Vertical Range (Black)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778687",
+      "sale_price": 143.88
+    },
+    "ffb59de6da0ad95ce147e0987deec5b1": {
+      "title": "Rocelco 32\" Sit To Stand Adjustable Height Desk Riser",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778691",
+      "sale_price": 97.88
+    },
+    "f57910f9cf186161ce3eafa96433d9a4": {
+      "title": "RAYOVAC AA Alkaline Battery 4 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778694",
+      "sale_price": 0.88
+    },
+    "ff8a2f99956f42966e02ea5ddacc59a0": {
+      "title": "Bower 11.5\" Grapple Pod with Flexible Legs (BPH-TRIGRA)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778698",
+      "sale_price": 8.88
+    },
+    "1d4040dc94906590d7817db117f7e69d": {
+      "title": "TOUCHBeauty Cellulite Massager Brush Mitt",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778713",
+      "sale_price": 0.96
+    },
+    "982435611becbc8fbe315f83ffad18b8": {
+      "title": "Cooler Master MasterFan SF120M ARGB Case Fan",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778716",
+      "sale_price": 21.88
+    },
+    "0c3dbdaaa802096a9b2667f631e44d1f": {
+      "title": "ROCELCO 46\" Sit To Stand Adjustable Height Desk Riser",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778724",
+      "sale_price": 156.88
+    },
+    "cbd5c4866d0e187e9431f9ef95a5e719": {
+      "title": "HYPERX Cloud Mini — Wireless Gaming Headset (White)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778728",
+      "sale_price": 23.88
+    },
+    "0f6f6e9bd29e73b666bfca4d41cf1175": {
+      "title": "ROCELCO PDR Portable Desk Riser (White/Silver)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778731",
+      "sale_price": 44.88
+    },
+    "c46258c0d808989ee3b649746d0c3030": {
+      "title": "EZVIZ Smart Chime (EZCHIMEB0)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778733",
+      "sale_price": 11.88
+    },
+    "66f83d79de552593e39f78673f768f63": {
+      "title": "Cuisinart 2-Pack 11\" Biodegradable Vacuum Bag Rolls",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778736",
+      "sale_price": 9.88
+    },
+    "85e0821f6c4179b77d8759ccfd4ca3cc": {
+      "title": "Lenovo -",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778739",
+      "sale_price": 8.88
+    },
+    "80e4844ecfa0539bd9be8f9487fe4839": {
+      "title": "PULSAR 4K Wireless Dongle",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778745",
+      "sale_price": 10.88
+    },
+    "4761d0bb91fe6bc0547562cdaff23747": {
+      "title": "Targus PowerElite 65W GaN Wall Charger",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778762",
+      "sale_price": 29.88
+    },
+    "7d405ad9682ad256befa15f9ed937217": {
+      "title": "THERMALTAKE SWAFAN EX12 ARGB PC Cooling Fan",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778766",
+      "sale_price": 41.88
+    },
+    "a2cd7d4ce0f35e0a813096682e530488": {
+      "title": "Cuisinart 2-Slice Metal Classic Toaster",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778769",
+      "sale_price": 28.88
+    },
+    "fb242060257a9f48220fca1618317657": {
+      "title": "Cuisinart 2-Pack 8\" Biodegradable Vacuum Bag Rolls",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778772",
+      "sale_price": 8.88
+    },
+    "31edb2305d631cacb0ede3e515cf6628": {
+      "title": "iCAN TBL-3A Modern Office Desk",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778774",
+      "sale_price": 29.88
+    },
+    "1139ce42f621362f66cc954991c372dc": {
+      "title": "Seasonic Magflow 120 ARGB Case Fan 3-Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778784",
+      "sale_price": 66.88
+    },
+    "5cbacbae24fa1cf3be5901439ed16e93": {
+      "title": "iCan Car Air Vent Phone Holder, Magnet Phone Holder, Yellow",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778787",
+      "sale_price": 1.99
+    },
+    "1d8430a46362cf9ebbea77bfb9454ea6": {
+      "title": "Razer Kaira (Simone T2) Wireless Headset for Xbox Series X",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778790",
+      "sale_price": 44.88
+    },
+    "0f68cd17c8d77c7b886342fcab46a0d2": {
+      "title": "Seasonic Magflow 120 ARGB Case Fan 1-Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778794",
+      "sale_price": 22.88
+    },
+    "b447c93e8d2e9eba74daed2ebd40367a": {
+      "title": "Kingston Workflow Station Dock Hub",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778800",
+      "sale_price": 14.88
+    },
+    "01b27b740d9846b67327db0163fe4951": {
+      "title": "Aukey OMNIA MIX DUAL-PORT USB-C + USB-A PD 65W CHARGER BLACK SMALLER",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778802",
+      "sale_price": 29.88
+    },
+    "47424784791aa6dc4579de199df9ed6d": {
+      "title": "Razer Kraken X Multi-Platform Wired Gaming Headset",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778810",
+      "sale_price": 24.88
+    },
+    "fc7ca0d2f047e23df6fbbaba699d9e45": {
+      "title": "iCAN KG-1302B 2.0 L Glass Electric Kettle",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778813",
+      "sale_price": 9.99
+    },
+    "9c39855e62e17b554173627c809c34f7": {
+      "title": "BOROFONE Magnetic Air Outlet Car Holder, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778815",
+      "sale_price": 4.99
+    },
+    "9ab5cd888b0cf3419a61736bf3461ae8": {
+      "title": "Targus PowerElite™ 100W GaN Wall Charger, 2 x USB-A + 2 x USB-C",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778819",
+      "sale_price": 59.99
+    },
+    "78e1a43924c96401d3ebef2aeea858d1": {
+      "title": "RAYOVAC 2025 3V Lithium Coin Cell Battery 2 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778822",
+      "sale_price": 1.88
+    },
+    "57e9c0c9c4ef9c702ae8d3f906beccb1": {
+      "title": "BANDAI Spirits S.H.Figuarts Hajime Saito \"Rurouni Kenshin: Meiji Swordsman Romantic Story\" Action Figure (SHF Figuarts)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778826",
+      "sale_price": 55.88
+    },
+    "e9b48d2a2054cf5ec12bb9e2459fceac": {
+      "title": "Corsair Void Elite Surround Gaming Headset, Carbon",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778829",
+      "sale_price": 55.88
+    },
+    "721723d9e9d058fce7de262be51f22e0": {
+      "title": "EDIFIER 2ch Soundbar 70W with built-in Subwoofer (B3)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778832",
+      "sale_price": 83.88
+    },
+    "a03d4384a6b6341aae39a5e45d6814fd": {
+      "title": "HUAWEI FreeClip True Wireless Earphones, Purple",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778835",
+      "sale_price": 139.88
+    },
+    "32ad6135bd1b523d7ee8f2b7238cf256": {
+      "title": "HUAWEI FreeClip True Wireless Earphones, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778837",
+      "sale_price": 139.88
+    },
+    "da837783926d74fb1589a8cf70d3999c": {
+      "title": "HUAWEI FreeClip True Wireless Earphones, Rose Gold",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778840",
+      "sale_price": 139.88
+    },
+    "aa7378c1a10238bc3c48efabdcd012ab": {
+      "title": "UNCAGED ERGONOMICS KT3-B Adjustable Height and Tilt Computer Keyboard",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778844",
+      "sale_price": 32.88
+    },
+    "cccd21080be14a032a593ab6a00e59a1": {
+      "title": "RAYOVAC 2016 3V Lithium Coin Cell Battery 2 Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778847",
+      "sale_price": 1.88
+    },
+    "9828470a3df6a5c889a9f6677bf8d13a": {
+      "title": "EPSON T812XL High Capacity Cyan Ink Cartridge with Sensormatic",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778850",
+      "sale_price": 20.88
+    },
+    "3471c39c91e7048156d1e58bc790f1a5": {
+      "title": "Ring Stick up Camera Plug-in 2 pack HB-white, Smart 1080p HD security camera with Two-Way Talk, Works with Amazon Alexa",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778853",
+      "sale_price": 104.88
+    },
+    "6e64eb0b57cc710da1c25cdbc201b5a8": {
+      "title": "S.H.MonsterArts Elemental HERO Flame Wingman \"Yu-Gi-Oh! GX\"",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778855",
+      "sale_price": 85.88
+    },
+    "c7268503dc42db3fbf72b2126f2288c7": {
+      "title": "Swiss Gear 17.3\" Slim Laptop Case, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778858",
+      "sale_price": 21.49
+    },
+    "674fcd57c7333b69114aaa648f81635c": {
+      "title": "ASUS ROG GR101 Z11 Mini-ITX/-DTX Tempered Glass Gaming Case",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778861",
+      "sale_price": 133.88
+    },
+    "a1b453d0c8f337cb196f1d44698f106a": {
+      "title": "Arlo Video Doorbell (AVD1001-100CNS) Wired, 2K HD, 180° FOV, Motion Detection Smart Activity Zone Alert, IR Night Vision",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778866",
+      "sale_price": 85.88
+    },
+    "8cbd15cd3077f32a9e23f44f1b2443df": {
+      "title": "TELESIN 10000mAh Powerful Rechargeable Selfie Stick",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778871",
+      "sale_price": 35.99
+    },
+    "ee86efe4694a7c02564a9c149035b1fb": {
+      "title": "UNCAGED Ergonomics CDM-B Change Desk Portable Sit Stand Desk",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778874",
+      "sale_price": 74.88
+    },
+    "c317b0ed03472fdf5315862e5dabd0ce": {
+      "title": "BANDAI Spirits S.H.Figuarts Schierke \"Berserk\" Action Figure (SHF Figuarts)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778877",
+      "sale_price": 55.88
+    },
+    "5bad56bcbaed92a9ac8f0a1e6beb3ad9": {
+      "title": "CORSAIR QL Series CO-9050106-WW Case Fan  White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778879",
+      "sale_price": 43.88
+    },
+    "65996fd6dafe89648d90afc8c4054fdf": {
+      "title": "Cuisinart Brew Central 12-Cup Programmable Coffeemaker",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778882",
+      "sale_price": 53.88
+    },
+    "0450e267944c3861ab851f6addb09151": {
+      "title": "iCAN 12W USB-A Foldable Quick Wall Charger",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778886",
+      "sale_price": 4.88
+    },
+    "0948eadcffa2bdbfde1ef5d9f5f47511": {
+      "title": "Ring Spotlight Cam Wired HD Security Camera - White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778889",
+      "sale_price": 103.88
+    },
+    "e53efac2e379da3d078479853485cefc": {
+      "title": "XTRFY Coiled Cable USB-C - Red",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778893",
+      "sale_price": 14.88
+    },
+    "ae9ee0249caadbec3025f7e973b16dcc": {
+      "title": "XTRFY Coiled Cable USB-C - Grey",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778896",
+      "sale_price": 14.88
+    },
+    "9ac7bb88c2c6e9bfb369e434a0dedede": {
+      "title": "XTRFY Coiled Cable USB-C - Blue",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778898",
+      "sale_price": 14.88
+    },
+    "7c5e52b2af880befcfcfc86a7460d27c": {
+      "title": "EKSA E900 PC Gaming Headset",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778901",
+      "sale_price": 9.88
+    },
+    "45812c230cd879ebb906e41397387382": {
+      "title": "Silverstone Shark Force 120 ARGB Performance Enhanced 120mm PWM ARGB Fan, SST-SF120B-ARGB",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778904",
+      "sale_price": 14.88
+    },
+    "453b465c774f966d6e1cf5f98bdb41e7": {
+      "title": "iCAN 6 Outlets 2 USB-A Metal Power Strip with 2 LED Lamps and 3ft Cord",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778906",
+      "sale_price": 19.88
+    },
+    "d4261d1265dda3304533de7943c9df1d": {
+      "title": "LIAN LI Uni Fan TLLCD120 Reverse White, Single Pack",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778909",
+      "sale_price": 24.88
+    },
+    "eab8663ddeeae3376ccc509624c692b4": {
+      "title": "Good Smile Company Nendoroid Vagabond \"Elden Ring\" Action Figure",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778912",
+      "sale_price": 59.88
+    },
+    "057c3a06d722aec438c55be54dda78b1": {
+      "title": "iCAN Tempered Glass Top TV Stand",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778916",
+      "sale_price": 49.88
+    },
+    "c7f5ff134c7984a49d93a50a44b9fa10": {
+      "title": "HUAWEI Backpack, up to15.6\"Laptops",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-05T16:23:41.778946",
+      "sale_price": 39.99
     }
   }
 }
