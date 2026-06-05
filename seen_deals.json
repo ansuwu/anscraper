@@ -2951,6 +2951,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-05T21:43:00.728649",
       "sale_price": 119.0
+    },
+    "81c49741413c7c572d8a130bf6fb8eda": {
+      "title": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-05T23:28:05.168046",
+      "sale_price": 385.99
+    },
+    "9d23a90e3c145b8b2439eefee1a35aae": {
+      "title": "SAMSUNG SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s, Best for AI Computing, Gaming, and Hea",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-05T23:28:05.168197",
+      "sale_price": 455.02
     }
   }
 }
