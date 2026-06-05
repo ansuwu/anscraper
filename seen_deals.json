@@ -1,11 +1,5 @@
 {
   "deals": {
-    "3b6457adb8b6245a49a2a422f90dff48": {
-      "title": "Crocs Classic Clogs Velvet",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-29T09:51:53.261689",
-      "sale_price": 19.99
-    },
     "284a694da42e5edd4e0d94788a5e6fe6": {
       "title": "WacoalB-Smooth® High Cut Briefs (Regular & Plus)",
       "site": "Nordstrom Canada",
@@ -2519,6 +2513,30 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-05T09:39:55.998684",
       "sale_price": 61.88
+    },
+    "45ddaf20a7a46bf337c2d998dc4dd229": {
+      "title": "DARCY LOAFER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-06-05T12:44:50.794241",
+      "sale_price": 74.98
+    },
+    "3b6457adb8b6245a49a2a422f90dff48": {
+      "title": "Crocs Classic Clogs Velvet",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-05T12:44:50.794264",
+      "sale_price": 19.99
+    },
+    "4e79124a87461bb1e76e03e7e9cf2f68": {
+      "title": "RAINA TRAINER",
+      "site": "Browns Shoes",
+      "first_seen": "2026-06-05T12:44:50.794300",
+      "sale_price": 74.98
+    },
+    "e08250149d15f05edf82c8410d30c640": {
+      "title": "adidasGazelle Indoor Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-05T12:44:50.794303",
+      "sale_price": 53.99
     }
   }
 }
