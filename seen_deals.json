@@ -1,17 +1,5 @@
 {
   "deals": {
-    "94f0689b1d14ae0ad8098361e5a317c9": {
-      "title": "NatoriBliss Cotton French Cut Briefs",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-30T02:16:57.143735",
-      "sale_price": 9.97
-    },
-    "99ffa4ac9b5dd7ca5568cb40080cabfb": {
-      "title": "Rebecca TaylorGabrielle Denim Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-05-30T02:16:57.143790",
-      "sale_price": 197.5
-    },
     "b87486b7171587c3c0ba8d50bf2a9ab6": {
       "title": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3636F16G",
       "site": "Newegg Canada",
@@ -2963,6 +2951,12 @@
       "site": "Newegg Canada",
       "first_seen": "2026-06-05T23:28:05.168197",
       "sale_price": 455.02
+    },
+    "7d87f4811815a0d88ecf8effc57ba51f": {
+      "title": "LIAN LI UNI FAN SL INFINITY 120 RGB WHITE REVERSE BLADE VERSION ---UF-RSLIN120-1W (No controller included)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-06T03:28:04.795702",
+      "sale_price": 4.99
     }
   }
 }
