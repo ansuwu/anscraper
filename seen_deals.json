@@ -1,11 +1,5 @@
 {
   "deals": {
-    "7798e4f166e95ceb8b677afa96c12ad7": {
-      "title": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-30T18:12:45.158429",
-      "sale_price": 65.38
-    },
     "10f66595174c1c4b58f6651a067bcaeb": {
       "title": "PactCloudKnit Wide Leg Pant",
       "site": "Nordstrom Canada",
@@ -2915,6 +2909,18 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-06-06T13:32:43.849965",
       "sale_price": 1.0
+    },
+    "ea073d760863578424d64624d487af1f": {
+      "title": "DIYPC DIY-mATX06-Wood Black USB3.0 /Type C Micro ATX Mid Tower Gaming Computer Case w/ Tempered Glass Side Panel and Wal",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-06T18:29:47.612969",
+      "sale_price": 12.99
+    },
+    "92d61eec1180b038d474c309714e6186": {
+      "title": "Phanteks XT Pro, Mid-Tower Gaming Chassis, High Airflow Performance Mesh, Tempered Glass Window, 1x M25-120 Black fan in",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-06T18:29:47.612979",
+      "sale_price": 14.99
     }
   }
 }
