@@ -1,11 +1,5 @@
 {
   "deals": {
-    "7f11b116e14c8ba27638adf4c45f0519": {
-      "title": "PUMA MB.05 Rick & Morty",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-31T07:04:14.495430",
-      "sale_price": 90.0
-    },
     "5c0d08898a230d86d9f13cb8a1a77d62": {
       "title": "Fractal Design Pop XL Air RGB White TG ATX High-Airflow Clear Tempered Glass Window Full Tower Computer Case",
       "site": "Newegg Canada",
@@ -2645,6 +2639,246 @@
       "site": "Newegg Canada",
       "first_seen": "2026-06-06T18:29:47.612979",
       "sale_price": 14.99
+    },
+    "227f04c5dea05fc5c421666165e6868e": {
+      "title": "Erin McDermott JewelryMediterranean Mindset Necklace",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705737",
+      "sale_price": 22.0
+    },
+    "41f2ccc97508bdf6b24fa7fa1d24e6bc": {
+      "title": "NikeLD-1000 SE Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705780",
+      "sale_price": 39.97
+    },
+    "b65c29a623764d12db002a8f91b32070": {
+      "title": "Donald PlinerRosalie Slingback Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705798",
+      "sale_price": 69.97
+    },
+    "ac93d1e36eefab3fe9ef8180550b2dfa": {
+      "title": "Cole HaanJaya Travel Ballet Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705803",
+      "sale_price": 59.97
+    },
+    "f19c37b0bf575e1acc06bb41aa94d08d": {
+      "title": "DLORIADainty Huggie Hoop Earrings -3 Pairs",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705807",
+      "sale_price": 49.0
+    },
+    "ee296d028b94c8b8b65fe7e640eec894": {
+      "title": "BP.Livia Ankle Strap Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705810",
+      "sale_price": 18.97
+    },
+    "fc9246384598d655c11b814178b85c54": {
+      "title": "adidasSamba LT Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705815",
+      "sale_price": 45.97
+    },
+    "1b2e9e128db163102ecc5fbf08b783e6": {
+      "title": "Dolce VitaBaylee Grommet Mary Jane Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705817",
+      "sale_price": 49.97
+    },
+    "05f24d0d12dbc16fd6964c6df11493b0": {
+      "title": "SORELJoan Rhapsody Waterproof Chelsea Boot",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705821",
+      "sale_price": 53.97
+    },
+    "3698463576cbdad083c3b75355b39e2b": {
+      "title": "Dolce VitaCarel Pointed Toe Slingback Pump",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705825",
+      "sale_price": 57.97
+    },
+    "8d4b2c354c52b16ca8df7c766bd885ee": {
+      "title": "Nine WestMaizy Ankle Strap Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705834",
+      "sale_price": 26.97
+    },
+    "ba754fc5f96d06009b258e08cc508686": {
+      "title": "Steve MaddenAlyse Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705837",
+      "sale_price": 42.97
+    },
+    "bd42612e9dc1827ef6f855faf03b3256": {
+      "title": "Carhartt Work In ProgressHeavy Duty Organic Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705840",
+      "sale_price": 30.99
+    },
+    "00a818c73a54ffe49ed0ab03f713df11": {
+      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705845",
+      "sale_price": 66.99
+    },
+    "fd9aa2911a9ba095e4f017e2b1b4e56a": {
+      "title": "adidasx C.P. Company Italia 70s Shoe",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705853",
+      "sale_price": 44.0
+    },
+    "2f909636e922a7aed0addd4dc19731fb": {
+      "title": "JordanAir Jordan 4 Retro Basketball Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705856",
+      "sale_price": 88.0
+    },
+    "276bc8c87fdf7def98750b786d40deb1": {
+      "title": "Sam EdelmanCora Slingback Kitten Heel Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705860",
+      "sale_price": 56.0
+    },
+    "69e7fb29a59baea48711caaebead17ff": {
+      "title": "Sam EdelmanHazel Pointed Toe Pump",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705864",
+      "sale_price": 60.0
+    },
+    "79513901e8ab9fd0cf6fd714c799c7ed": {
+      "title": "Sam EdelmanPax Ankle Strap Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705872",
+      "sale_price": 56.0
+    },
+    "5714db3a9d3e36c3c6839e2ead52bdfa": {
+      "title": "WacoalConfidence Boost™ Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705876",
+      "sale_price": 30.4
+    },
+    "d90e61179a0848ce47304a924100ba40": {
+      "title": "VansSuper Lowpro Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705884",
+      "sale_price": 32.97
+    },
+    "8312fad7b8f9c8986227d113eea0d915": {
+      "title": "LECHERY®3-Pack Semi Sheer Glossy Shiny Pantyhose Tights",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705935",
+      "sale_price": 25.19
+    },
+    "af9423531139429f205f30fb7f54d432": {
+      "title": "Dolce VitaMerit Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705943",
+      "sale_price": 59.97
+    },
+    "a1c6f8d882c6b0be2f6ee1695a9d2db6": {
+      "title": "Steve MaddenDessa Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705952",
+      "sale_price": 49.0
+    },
+    "a479058a10e01c7b5c2d1e998b7c826e": {
+      "title": "PacSunNoa Wide Neck Bell Sleeve Knit Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705957",
+      "sale_price": 19.32
+    },
+    "0d0946ec6713278a99c5bbca3edbeff1": {
+      "title": "Open EditChiffon Ruffle Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705965",
+      "sale_price": 31.27
+    },
+    "e551a19e52047edf196bfe868b991c23": {
+      "title": "Vince CamutoAmbee Ankle Strap Wedge Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705970",
+      "sale_price": 44.55
+    },
+    "267faa8cac4d41e47d92b43e821cd92a": {
+      "title": "NordstromTextured Merino Wool & Silk Short Sleeve Button-Up Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705976",
+      "sale_price": 42.75
+    },
+    "5c47bb33fb0345e17cd5e82f416f3baa": {
+      "title": "Wit & WisdomSam High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705979",
+      "sale_price": 39.6
+    },
+    "4c7f12b8006ea2fc8b883f314c3a97d5": {
+      "title": "Wit & WisdomWyatt Skyrise V-Pocket Ankle Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705983",
+      "sale_price": 39.6
+    },
+    "7beaedd93645c311570c862d523dfba2": {
+      "title": "LECHERY®3-Pack ​Glossy Colored Fashion ​Sheer Tights for Women",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.705998",
+      "sale_price": 27.99
+    },
+    "6398e091c6d90e1ed12ddd0bb378b9a3": {
+      "title": "VionicCleo Loafer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706045",
+      "sale_price": 79.9
+    },
+    "4e68d98d1a5d7dd796aa0cbcbcbfa6cf": {
+      "title": "SAVAGE X FENTYRomantic Corded Lace Unlined Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706078",
+      "sale_price": 29.96
+    },
+    "d9e0b806c41cbfee5ba691c22ca2523f": {
+      "title": "VionicMonarch Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706081",
+      "sale_price": 69.97
+    },
+    "3f93a485d458fd39cdf7159f6453e6a1": {
+      "title": "MIKOKumo Mini Wireless Massage Pillow with Heat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706093",
+      "sale_price": 59.99
+    },
+    "1273357978b1d61884b5258ea5bce76e": {
+      "title": "WacoalWacoal Comfort First Wire Free T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706110",
+      "sale_price": 34.0
+    },
+    "ad92b3d99d598f6f3a2bca02f169eff8": {
+      "title": "VionicOrinda Perforated Ballet Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706114",
+      "sale_price": 72.5
+    },
+    "df79d5f70795f88afc0d0b809083381f": {
+      "title": "NatoriBliss Perfection Comfort T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706119",
+      "sale_price": 36.0
+    },
+    "82e782293e970c05391993643b154cb9": {
+      "title": "VionicChardonnay Block Heel Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-07T07:27:18.706122",
+      "sale_price": 77.5
+    },
+    "7f11b116e14c8ba27638adf4c45f0519": {
+      "title": "PUMA MB.05 Rick & Morty",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-07T07:27:18.706134",
+      "sale_price": 90.0
     }
   }
 }
