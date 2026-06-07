@@ -1,23 +1,5 @@
 {
   "deals": {
-    "d15e6f45fbc973a27f5b5cea49b9a9cc": {
-      "title": "ASRock PRO Series PRO-750G 750 W Power Supply",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-31T11:45:44.741429",
-      "sale_price": 39.99
-    },
-    "0a82098b28621d6975e835ce869a82b2": {
-      "title": "be quiet! ARGB Light Wings 120mm PWM-high-speed",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-31T11:45:44.741451",
-      "sale_price": 16.99
-    },
-    "5db16e11648439ff7dc9f3d682460abf": {
-      "title": "Saucony Ride Millennium",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-31T11:45:44.741518",
-      "sale_price": 65.0
-    },
     "5959afcd94b9b7be3b8b2bb661cda6a4": {
       "title": "Lian Li VECTOR V100 MINI Micro Form Factor Compact PC Case, Pre-install 4 x 120mm ARGB PWM Fans, Panoramic Tempered Glas",
       "site": "Newegg Canada",
@@ -2861,6 +2843,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-07T07:27:18.706134",
       "sale_price": 90.0
+    },
+    "5db16e11648439ff7dc9f3d682460abf": {
+      "title": "Saucony Ride Millennium",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-07T12:15:05.182896",
+      "sale_price": 65.0
     }
   }
 }
