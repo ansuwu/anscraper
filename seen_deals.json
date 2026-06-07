@@ -1,41 +1,5 @@
 {
   "deals": {
-    "9874b62b6335a6b6ae9f1751efa97823": {
-      "title": "AZZA SOURCE CSAZ-203A02 Black Case",
-      "site": "Newegg Canada",
-      "first_seen": "2026-05-31T17:14:16.840571",
-      "sale_price": 14.99
-    },
-    "b9aca20e41a3c730d3058d6f03271ee4": {
-      "title": "ICAN Car Vacuum Cleaner (Black) | 54000 RPM",
-      "site": "Canada Computers",
-      "first_seen": "2026-05-31T17:14:16.840635",
-      "sale_price": 19.88
-    },
-    "dda2478e87c82538a5c429dddba30bca": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-31T17:14:16.840669",
-      "sale_price": 10.0
-    },
-    "03e9d1261437d53cb681ba36c8349f44": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-31T17:14:16.840672",
-      "sale_price": 10.0
-    },
-    "4774465cdfad78633501523d72f07d43": {
-      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-05-31T17:14:16.840675",
-      "sale_price": 7.0
-    },
-    "969cb94961359f23cd48100a67af0dd0": {
-      "title": "adidas Originals Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-05-31T17:14:16.840694",
-      "sale_price": 55.0
-    },
     "a245863d5f1776a89dcfce8cf5a4a472": {
       "title": "NatoriFeathers Plunge T-Shirt Basics Bra",
       "site": "Nordstrom Canada",
@@ -2915,6 +2879,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-07T15:46:04.033093",
       "sale_price": 295.0
+    },
+    "3a1de086e99d5b8baece070cefe27f65": {
+      "title": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK32GX4M2E3200C16",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-07T17:31:09.660542",
+      "sale_price": 189.99
+    },
+    "4774465cdfad78633501523d72f07d43": {
+      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-07T17:31:09.660620",
+      "sale_price": 7.0
     }
   }
 }
