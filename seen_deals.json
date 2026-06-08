@@ -1,29 +1,5 @@
 {
   "deals": {
-    "4552b386614e4ea9eceeeb73be1627b9": {
-      "title": "UGG Cable Balaclava",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-01T20:10:53.251115",
-      "sale_price": 19.99
-    },
-    "566dbc10fe353485894c719f96fbde8a": {
-      "title": "LARGE BOOK LIGHT",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-06-01T20:10:53.251181",
-      "sale_price": 12.0
-    },
-    "4d3035a0e17b5903a16d593aec8ac772": {
-      "title": "The Biography 30oz Water Bottle, White",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-06-01T20:10:53.251216",
-      "sale_price": 20.0
-    },
-    "61991d6bb9701526ddfbad978b02d750": {
-      "title": "adidas Originals Samba XLG",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-01T20:10:53.251234",
-      "sale_price": 75.0
-    },
     "56a7b4e8cdbbeaec9233c1249b4c2bfb": {
       "title": "Damaged Boxes - MARY & MAY Vegan Rose Hyaluronic Hydra Wash Off Pack 30g",
       "site": "KBeauty.ca",
@@ -2705,6 +2681,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-08T16:56:57.086514",
       "sale_price": 13.0
+    },
+    "4552b386614e4ea9eceeeb73be1627b9": {
+      "title": "UGG Cable Balaclava",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-08T21:54:50.589453",
+      "sale_price": 19.99
+    },
+    "566dbc10fe353485894c719f96fbde8a": {
+      "title": "LARGE BOOK LIGHT",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-06-08T21:54:50.589510",
+      "sale_price": 12.0
+    },
+    "4d3035a0e17b5903a16d593aec8ac772": {
+      "title": "The Biography 30oz Water Bottle, White",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-06-08T21:54:50.589543",
+      "sale_price": 20.0
     }
   }
 }
