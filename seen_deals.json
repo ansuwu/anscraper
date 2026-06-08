@@ -1,29 +1,5 @@
 {
   "deals": {
-    "56a7b4e8cdbbeaec9233c1249b4c2bfb": {
-      "title": "Damaged Boxes - MARY & MAY Vegan Rose Hyaluronic Hydra Wash Off Pack 30g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-01T22:45:34.500974",
-      "sale_price": 4.0
-    },
-    "3c2b70ab02acb05d902aa910d33eb5e6": {
-      "title": "WD_BLACK SN7100 M.2 2280 1TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS100T4X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-01T22:45:34.501003",
-      "sale_price": 133.96
-    },
-    "45727fc0ca315e7e17e2989c4f8b4084": {
-      "title": "Vans Old Skool",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-01T22:45:34.501017",
-      "sale_price": 39.99
-    },
-    "8b2419978f2be50a491bc3280ed3d8a7": {
-      "title": "Lilybyred Luv Beam Cheek (AD) - #01 Loveable Coral",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-01T22:45:34.501067",
-      "sale_price": 6.5
-    },
     "55ca34a5d31e1e63ea0a1086f5e2c08b": {
       "title": "ENERGIZER 1216 3V Lithium Coin Cell Battery 1 Pack (ECR1216BP)",
       "site": "Canada Computers",
@@ -2699,6 +2675,18 @@
       "site": "Indigo / Chapters",
       "first_seen": "2026-06-08T21:54:50.589543",
       "sale_price": 20.0
+    },
+    "56a7b4e8cdbbeaec9233c1249b4c2bfb": {
+      "title": "Damaged Boxes - MARY & MAY Vegan Rose Hyaluronic Hydra Wash Off Pack 30g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-08T23:20:46.521110",
+      "sale_price": 4.0
+    },
+    "8b2419978f2be50a491bc3280ed3d8a7": {
+      "title": "Lilybyred Luv Beam Cheek (AD) - #01 Loveable Coral",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-08T23:20:46.521179",
+      "sale_price": 6.5
     }
   }
 }
