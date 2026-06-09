@@ -1,17 +1,5 @@
 {
   "deals": {
-    "55ca34a5d31e1e63ea0a1086f5e2c08b": {
-      "title": "ENERGIZER 1216 3V Lithium Coin Cell Battery 1 Pack (ECR1216BP)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-02T10:14:45.243589",
-      "sale_price": 1.88
-    },
-    "259dd943d1f50c5c2aaa995c6d52462a": {
-      "title": "TELESIN New Design 3m Carbon Fiber Selfie Stick",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-02T10:14:45.243598",
-      "sale_price": 39.88
-    },
     "f7cfc4a09f533a8bd313f281c26114b5": {
       "title": "ARMANILuminous Silk Glow Liquid Bronzer Drops (Nordstrom Exclusive)",
       "site": "Nordstrom Canada",
@@ -2705,6 +2693,24 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-09T09:54:55.684178",
       "sale_price": 27.5
+    },
+    "259dd943d1f50c5c2aaa995c6d52462a": {
+      "title": "TELESIN New Design 3m Carbon Fiber Selfie Stick",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-09T12:44:08.845353",
+      "sale_price": 39.88
+    },
+    "dda2478e87c82538a5c429dddba30bca": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-09T12:44:08.845384",
+      "sale_price": 10.0
+    },
+    "03e9d1261437d53cb681ba36c8349f44": {
+      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-09T12:44:08.845388",
+      "sale_price": 10.0
     }
   }
 }
