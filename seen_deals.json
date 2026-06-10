@@ -1,17 +1,5 @@
 {
   "deals": {
-    "52b910762590717f3d405abfe6878abb": {
-      "title": "DARCY LOAFER",
-      "site": "Browns Shoes",
-      "first_seen": "2026-06-03T12:49:33.552834",
-      "sale_price": 79.98
-    },
-    "465a922a0d9dc8ae1d7052cace5fc451": {
-      "title": "ASUS AirVision M1 Smart AR Glasses",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-03T12:49:33.552881",
-      "sale_price": 449.99
-    },
     "af5972996514d5d6fcd5758c9c12211b": {
       "title": "Phanteks Enthoo Pro TG PH-ES614PTG_BK Integrated RGB Lighting Control Tempered Glass Side Panel ATX Full Tower Computer ",
       "site": "Newegg Canada",
@@ -2861,6 +2849,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-10T07:10:58.322011",
       "sale_price": 70.0
+    },
+    "465a922a0d9dc8ae1d7052cace5fc451": {
+      "title": "ASUS AirVision M1 Smart AR Glasses",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-10T14:29:41.822306",
+      "sale_price": 449.99
     }
   }
 }
