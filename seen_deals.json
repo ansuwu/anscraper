@@ -1,605 +1,5 @@
 {
   "deals": {
-    "36795e120efcfb7fc11bc5b6b3ae9ede": {
-      "title": "UGG Classic Micro",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T06:03:31.906389",
-      "sale_price": 82.5
-    },
-    "4c0c237fb7e40dfd0812ee07ddd55df9": {
-      "title": "PUMA x Rose Oversized T7 Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654938",
-      "sale_price": 49.99
-    },
-    "b996d1e3b18ddda7f6eca1ea6b52b912": {
-      "title": "PUMA x Rosé Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654944",
-      "sale_price": 19.99
-    },
-    "e6beab2042323d9956806e911050c471": {
-      "title": "New Era IT Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654959",
-      "sale_price": 19.99
-    },
-    "4d88fa9394882aecee81a7c6b56b9ad6": {
-      "title": "New Era White Sox Premium T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654962",
-      "sale_price": 19.99
-    },
-    "561d0d40322f6ff29b935c25c5863bbf": {
-      "title": "New Balance Classic Full-Zip Fleece",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654966",
-      "sale_price": 19.99
-    },
-    "2c8a29494c55b26169c7f9a696bcda18": {
-      "title": "New Era Tigers 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654984",
-      "sale_price": 19.99
-    },
-    "2201ff4f558d63e7ec0c017c8c0ce109": {
-      "title": "Cozi Yabsia Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654987",
-      "sale_price": 19.99
-    },
-    "297bc5e409c9a2b060b8c0bd82877781": {
-      "title": "adidas Aces T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654990",
-      "sale_price": 19.99
-    },
-    "d33310ec25a7af90c0ada9bf14d135c4": {
-      "title": "adidas Kingston T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654992",
-      "sale_price": 19.99
-    },
-    "74d09fab1d3889ecb29426d6b2dc9eb0": {
-      "title": "LCKR C-24 Standard Fit Cargo Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.654998",
-      "sale_price": 24.99
-    },
-    "9f71a1fc7181ca32f3ba4000f8ae9191": {
-      "title": "adidas Buffy Pullover Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655000",
-      "sale_price": 49.99
-    },
-    "5c123d2b5b07155ec4f01c54181788e2": {
-      "title": "Nike Reactx ReJuven8",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655006",
-      "sale_price": 29.99
-    },
-    "fc474a69c44903778ecf100bfb896136": {
-      "title": "adidas Originals Superstar",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655011",
-      "sale_price": 39.99
-    },
-    "b3c8fd5f3cd16b39779b5aeb48132f7f": {
-      "title": "New Balance Classic Fleece Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655014",
-      "sale_price": 19.99
-    },
-    "e2971ad6bf93dc962cfb64c146b22705": {
-      "title": "LCKR Phader Fleece Full-Zip Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655017",
-      "sale_price": 24.99
-    },
-    "c01f63cebc8f2fe4dfc4fca5da704780": {
-      "title": "UGG Tazz II",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655021",
-      "sale_price": 79.99
-    },
-    "430c6597409ce513d70986184ac23ed9": {
-      "title": "Nike Pegasus Premium NA39",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655024",
-      "sale_price": 179.99
-    },
-    "5f62e1653ba15f9744496617593561b3": {
-      "title": "PUMA All-Pro Nitro 2",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655026",
-      "sale_price": 69.99
-    },
-    "0f0907e02e6eaea4c92e0e9e8fbe5539": {
-      "title": "UGG Ultra Dazzle Mini",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655029",
-      "sale_price": 69.99
-    },
-    "15e6bdf4f5d3e9f982786991e2be874d": {
-      "title": "New Era Yankees 59Fifty RC Fitted Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655032",
-      "sale_price": 29.99
-    },
-    "dfb9042466bf721c3b600ac104703b3a": {
-      "title": "UGG Sawmee",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655034",
-      "sale_price": 39.99
-    },
-    "c4b30b8f1b785ca7b773b4a6d42dabae": {
-      "title": "UGG Tasman Hybrid",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655038",
-      "sale_price": 59.99
-    },
-    "71599656c3e41d427acd0fd1f1e83769": {
-      "title": "Jordan Retro 9 NRG Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655040",
-      "sale_price": 139.99
-    },
-    "5933a27b215b46513a11c9645417b3e3": {
-      "title": "LCKR Trinity Baggy Cargo Fleece Sweatpants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655069",
-      "sale_price": 24.99
-    },
-    "2357545cb64e4d5b9aa7282e02146b83": {
-      "title": "LCKR Based Fleece Pullover Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655072",
-      "sale_price": 24.99
-    },
-    "044b9b6c5afc2281e7bc147992abbe55": {
-      "title": "LCKR Based Fleece Relaxed Fit Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655075",
-      "sale_price": 24.99
-    },
-    "db943d25193daa032247e1588dfc5955": {
-      "title": "UGG Lowmel Meadow",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655079",
-      "sale_price": 99.99
-    },
-    "bd8b3b3ca3ebfdaa02919aa2f7ec0e46": {
-      "title": "ASICS® GEL-Kinetic Fluent",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655082",
-      "sale_price": 119.99
-    },
-    "c1b579679e582b83a0ca6dcac5b76722": {
-      "title": "Jordan Brooklyn Air Oversized Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655116",
-      "sale_price": 24.0
-    },
-    "2f3081acd7c48b5112b28a6f7564c156": {
-      "title": "Jordan Brooklyn Velour Track Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655122",
-      "sale_price": 57.5
-    },
-    "c2a8958d9cdd2c95cfa23ace48f7f2b2": {
-      "title": "PUMA Speedcat Full Leather",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655124",
-      "sale_price": 70.0
-    },
-    "b0732880a41144702b8aa971e4a8d381": {
-      "title": "New Balance Run Energy Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655127",
-      "sale_price": 75.0
-    },
-    "db2cf5b3026551f44bb02b69c8ba94db": {
-      "title": "Nike Tech Woven Pant AOP",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655130",
-      "sale_price": 80.0
-    },
-    "2dfb278e48028946be49b23f36f22aea": {
-      "title": "adidas Originals Adicolor Beckenbauer Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655132",
-      "sale_price": 55.0
-    },
-    "867bea68750e2b6205c55c5f15036499": {
-      "title": "Vans MTE SK8 Hi Gore-Tex",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655135",
-      "sale_price": 105.0
-    },
-    "708fb4545923eb46b72826f8fce463f0": {
-      "title": "adidas Essential Open Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655137",
-      "sale_price": 42.5
-    },
-    "781eab06e35d8d023dccc5ed7695f6a8": {
-      "title": "Nike NRG Stranger Things 5 Vecna Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655140",
-      "sale_price": 55.0
-    },
-    "737af1070986fa498385c0e4c9daf0df": {
-      "title": "UGG Finnian Fluff Moto Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655143",
-      "sale_price": 150.0
-    },
-    "2fa81cb597f52c2d61859de086d22409": {
-      "title": "adidas Originals Firebird Adicolor Baggy Track Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655145",
-      "sale_price": 50.0
-    },
-    "d6b51b86c43d8676af8fb3a7d52cb536": {
-      "title": "Nike Tech Fleece Full-Zip Windrunner Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655149",
-      "sale_price": 80.0
-    },
-    "f41468f5f2ac2a0bf8c6f0804f194abc": {
-      "title": "Nike Club Puffer Jacket 550",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655152",
-      "sale_price": 120.0
-    },
-    "076c37902e476cee26d182b3ec1a7b15": {
-      "title": "Timberland Field Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655155",
-      "sale_price": 90.0
-    },
-    "ddeaad90d91bc3fddf2e28d0b4d7879a": {
-      "title": "adidas Originals Ruffle Quarter Socks 3-Pack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655159",
-      "sale_price": 14.0
-    },
-    "d6b95daf72355e83b5ba4ee1fe7b928e": {
-      "title": "UGG Ultra Mini Weather Hybrid",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655161",
-      "sale_price": 120.0
-    },
-    "9825c0d4175eb411ed297bfde712f02d": {
-      "title": "adidas Originals Badge Graphic T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655164",
-      "sale_price": 25.0
-    },
-    "9cc2bcfb9143d5234368bbfa8eeaf6af": {
-      "title": "Nike Futura Block T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655166",
-      "sale_price": 25.0
-    },
-    "856b627c8a5d6fac2a7efc7f8f44702e": {
-      "title": "Vans MTE Crosspath XC GTX",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655169",
-      "sale_price": 112.5
-    },
-    "d07435f390f1e87e9789fa9e29af53e0": {
-      "title": "Vans MTE SK8 HI WP",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655174",
-      "sale_price": 95.0
-    },
-    "c0a88cbd773e3c8ebe60c01eb18e087b": {
-      "title": "UGG Tasman Weather Hybrid",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655176",
-      "sale_price": 100.0
-    },
-    "b873aac4759941c1518f6158bd5f3b63": {
-      "title": "New Era Seinfeld Festivus T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655179",
-      "sale_price": 28.0
-    },
-    "0b139592f40fe291c6c116a6e22a91f8": {
-      "title": "Timberland Chukka",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655182",
-      "sale_price": 75.0
-    },
-    "8201de2907e45dc3ae35ffef9db6fdf9": {
-      "title": "Nike Phoenix HR OS Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655184",
-      "sale_price": 42.5
-    },
-    "b0b63cb0c555dce768534774f07012cb": {
-      "title": "Jordan MJ 88 City Short Sleeve T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655187",
-      "sale_price": 12.5
-    },
-    "070c0efb8ba9e7c31db37b2cb50fae12": {
-      "title": "Nike NRG Nocta CS Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655190",
-      "sale_price": 75.0
-    },
-    "5661a9bf6f3e3a523ea14b9cc8cac38d": {
-      "title": "Jordan Brooklyn Holiday Fleece Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655192",
-      "sale_price": 40.0
-    },
-    "e51857e997e622f2c42dacad6f7a6210": {
-      "title": "Nike NSW Stranger Things 5 Vecna T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655195",
-      "sale_price": 37.5
-    },
-    "e798efcb1020f0ff6c1d4229c16250ae": {
-      "title": "New Balance Abzorb 2000 Track Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655198",
-      "sale_price": 55.0
-    },
-    "5de4083a9bf48becb22f60cfcc698cd5": {
-      "title": "Nike Tech Fleece Joggers",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655200",
-      "sale_price": 70.0
-    },
-    "7d3adfea6b2415e858bcebc7fc784566": {
-      "title": "New Balance Run Energy Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655203",
-      "sale_price": 55.0
-    },
-    "ebceb51e65176c52034df05ae6ef6b54": {
-      "title": "Nike NSW Premium Essential L/S",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655205",
-      "sale_price": 32.0
-    },
-    "a89a310b2923fe4144e055a4768878ef": {
-      "title": "Timberland 6 Inch Brogue Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655208",
-      "sale_price": 140.0
-    },
-    "f418292ee75b8d660dd14a046ff21df0": {
-      "title": "Nike NRG NOCTA Fleece OH Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655210",
-      "sale_price": 65.0
-    },
-    "b9377b522bcb682898e9eda662fe7662": {
-      "title": "Nike Kobe Winterized Bottom",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655213",
-      "sale_price": 75.0
-    },
-    "9c78257da5ed4b01e3f8b764c41045f0": {
-      "title": "adidas Italy World Cup '26 3 Stripe T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655215",
-      "sale_price": 22.5
-    },
-    "d95f77d32c42ffa0a612604de4ca4244": {
-      "title": "Nike Club Fleece Reversible Neckwarmer",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655218",
-      "sale_price": 20.0
-    },
-    "da22031c94b52c2b21e430799933e094": {
-      "title": "Nike City Knitted Gloves",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655221",
-      "sale_price": 17.5
-    },
-    "7c2feba984bed3639f08dbe05e9bc60f": {
-      "title": "Jordan Brooklyn Velour Track Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655224",
-      "sale_price": 62.5
-    },
-    "6abc27b063a42ed5f9038ea86d34d07e": {
-      "title": "Timberland Chukka Boots",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655226",
-      "sale_price": 75.0
-    },
-    "3726a902245cce4fd1544664a0afced5": {
-      "title": "PUMA MB.05 Metallic",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655229",
-      "sale_price": 82.5
-    },
-    "8d727d65ebc94bfeef8454a5a1f68841": {
-      "title": "adidas Firebird Track Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655231",
-      "sale_price": 27.5
-    },
-    "29dda486ffbcfa2fc29112bfbd88f1fb": {
-      "title": "adidas Originals Tile AOP Loose Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655234",
-      "sale_price": 50.0
-    },
-    "e9b29ad88289c54af782c05d5c795745": {
-      "title": "Nike Long Sleeve Swoosh T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655237",
-      "sale_price": 34.0
-    },
-    "fd8347965a79098750229ee76118241f": {
-      "title": "Nike NL Solo Swoosh Pullover Hood Gfx",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655239",
-      "sale_price": 57.5
-    },
-    "e1cf487af8d4a1622d6ca74c3ca9fb05": {
-      "title": "PUMA MB.05 Crowd Surf",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655242",
-      "sale_price": 82.5
-    },
-    "3b71c5c52dfce42abed90c61878bf027": {
-      "title": "Nike Tech Fleece Open Hem Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655244",
-      "sale_price": 75.0
-    },
-    "71b7a45d7bdcc7d5fd2f76cdbc11af63": {
-      "title": "PUMA MB.05 Voltage",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655247",
-      "sale_price": 82.5
-    },
-    "e26e9124f87feb86b7a4aa2d95290973": {
-      "title": "Nike Lebron TF SI Brushed Pullover Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655250",
-      "sale_price": 55.0
-    },
-    "9fe13c11ae86cabf7c2a8d7604aaf8c6": {
-      "title": "Vans Knu Skool",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655252",
-      "sale_price": 35.0
-    },
-    "c2aa97b47baf50c8651f198a76225c2f": {
-      "title": "adidas Originals Tile AOP Sweat Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655255",
-      "sale_price": 47.5
-    },
-    "982b5227dfc5e3383759c88ee9399a6d": {
-      "title": "Jordan Skeleton Jumpman T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655258",
-      "sale_price": 15.0
-    },
-    "48362ccf3f32e46533fc958a0ccaf5a1": {
-      "title": "Nike City Edition WDMK Club Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655260",
-      "sale_price": 37.5
-    },
-    "d3fdb336529562d0f3201d19e02513b3": {
-      "title": "Nike Kobe Light Winter Woven Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655263",
-      "sale_price": 80.0
-    },
-    "5356010d1939fd8885ebf6218132c535": {
-      "title": "PUMA MB.05 World Tour",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655266",
-      "sale_price": 82.5
-    },
-    "cf2ebd90bfda305a1e46ea533aa422f6": {
-      "title": "Nike Tech Fleece Pro Cb Open Hem Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655268",
-      "sale_price": 80.0
-    },
-    "f71549e97616c0ac99d94b5bcb078b5f": {
-      "title": "Jordan Brooklyn Fleece Pants RLT",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655271",
-      "sale_price": 47.5
-    },
-    "906967e35d8d55f8bb11089c6ffd7d98": {
-      "title": "adidas Originals Reversible Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655273",
-      "sale_price": 95.0
-    },
-    "958a7e50b7310a415fe5d41ebd6c2faf": {
-      "title": "PUMA LaFrance RNR Bonds",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655276",
-      "sale_price": 77.5
-    },
-    "f51149902e67175082f8604208e76ed5": {
-      "title": "New Balance Woven Label Pants",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655279",
-      "sale_price": 40.0
-    },
-    "05f6185663738ffd94cc2f9f3c3f9c8b": {
-      "title": "Jordan 6 Rings T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655281",
-      "sale_price": 17.5
-    },
-    "2de6e919b8aa0173bcd7108739bb4ae4": {
-      "title": "Nike Club Puffer Vest Max 550",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655329",
-      "sale_price": 120.0
-    },
-    "8fa35eea9d668c024461300f4ffb2aff": {
-      "title": "Jordan Everyday Essentials 6 Pack Ankle Socks",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655340",
-      "sale_price": 14.0
-    },
-    "be65077a5d25d33ea2e124188c66c1db": {
-      "title": "Nike Heritage Backpack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655344",
-      "sale_price": 27.5
-    },
-    "20976f9d2600200df52715d1dcc6ad54": {
-      "title": "Jordan Brooklyn Holiday Pants AOP",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655347",
-      "sale_price": 50.0
-    },
-    "c7af05d5f5732093c925fbb35e2f4b6c": {
-      "title": "adidas Retro Winter Polo",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655350",
-      "sale_price": 65.0
-    },
-    "407beab0936d510109e42a31e202cc9e": {
-      "title": "New Balance Abzorb 2000 Track Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655352",
-      "sale_price": 60.0
-    },
-    "521a79bf26eedd43e368ebea024e25fd": {
-      "title": "Jordan Night Lights T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655355",
-      "sale_price": 17.5
-    },
-    "9443e51703ab5ab63195e663e20baeb0": {
-      "title": "Jordan Sketch T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655358",
-      "sale_price": 15.0
-    },
-    "cae54999360e967fd94010ae70655e3e": {
-      "title": "Jordan Wings T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655360",
-      "sale_price": 15.0
-    },
-    "d03fc9c8d2ce0fd49325ad143f55201a": {
-      "title": "Nike Field Sport Jacket",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T09:56:43.655363",
-      "sale_price": 105.0
-    },
     "ee985acfb18dc0a424997a9dc1734c22": {
       "title": "JBLVibe Flex 2 Wireless Earbuds",
       "site": "Sport Chek",
@@ -3047,6 +2447,72 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-11T05:34:45.673190",
       "sale_price": 49.5
+    },
+    "3b9606fb65a26c39dfa163931116d07e": {
+      "title": "BillabongWomen's Summer Love Mini Dress",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182552",
+      "sale_price": 24.98
+    },
+    "d2425cac5027669514c1739042ce7f0a": {
+      "title": "BillabongWomen's Road Trippin Short",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182600",
+      "sale_price": 19.98
+    },
+    "216da6305b5ee8e6cb94fecd1c7460d7": {
+      "title": "WD_BLACK 2TB SN8100 NVMe SSD Internal Solid State Drive - Gen 5 PCIe 5.0x4, M.2 2280, Seq. Read Speeds Up to 14,900 MB/s",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-11T10:16:22.182608",
+      "sale_price": 413.99
+    },
+    "25ba28d60c40cb09e2bd1917141673e5": {
+      "title": "OnlyWomen's Bolette Short Sleeve T-Shirt",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182620",
+      "sale_price": 18.98
+    },
+    "8bb65b7ee9ca1d62562b0b7441881f34": {
+      "title": "Under ArmourMen's Charged Assert 10 Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182627",
+      "sale_price": 46.98
+    },
+    "1e008c1eee1e8aef5cf5e414ccb6afe4": {
+      "title": "IpanemaWomen's Ana Flip Flop Sandal",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182632",
+      "sale_price": 15.98
+    },
+    "71604f2e3ae684987889912f97415502": {
+      "title": "ColumbiaWomen's Konos™ TRS Trail Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182638",
+      "sale_price": 64.98
+    },
+    "965ef39fadff183b5a96ebe1718abe0a": {
+      "title": "ColumbiaWomen's Arcadia™ II Jacket",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182645",
+      "sale_price": 59.98
+    },
+    "9acb838e8b301717bd0b180dcc17b88a": {
+      "title": "The North FaceWomen's Altamesa 300 Trail Running Shoe",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182648",
+      "sale_price": 89.98
+    },
+    "2e2367c4e6d3f6431db16076b64d7b81": {
+      "title": "BillabongMen's Portal Premium Short Sleeve T-Shirt",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182651",
+      "sale_price": 19.98
+    },
+    "27f782fdf984f047559473d5eafdaf6b": {
+      "title": "BillabongMen's San O Linen Layback Short",
+      "site": "SportingLife",
+      "first_seen": "2026-06-11T10:16:22.182654",
+      "sale_price": 37.98
     }
   }
 }
