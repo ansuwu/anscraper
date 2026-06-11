@@ -1,17 +1,5 @@
 {
   "deals": {
-    "ee985acfb18dc0a424997a9dc1734c22": {
-      "title": "JBLVibe Flex 2 Wireless Earbuds",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-04T12:50:08.885862",
-      "sale_price": 49.98
-    },
-    "c211b72880b70e4f670b32b6d068aabb": {
-      "title": "MerrellMen's Moab 3 Mid Waterproof Hiking Boot",
-      "site": "SportingLife",
-      "first_seen": "2026-06-04T12:50:08.885868",
-      "sale_price": 94.98
-    },
     "5cc7ac87ec6a5818ae53e3fefa7ba572": {
       "title": "FWDWomen's Drop Tail T Shirt",
       "site": "Sport Chek",
@@ -2513,6 +2501,66 @@
       "site": "SportingLife",
       "first_seen": "2026-06-11T10:16:22.182654",
       "sale_price": 37.98
+    },
+    "f2860ad54c853f149ef9641496758d0c": {
+      "title": "ReebokMen's Washed Oversized Garment-Washed Casual T-shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567154",
+      "sale_price": 19.98
+    },
+    "b06f8b9c0d1e0e70f5c2aa9d8db434fe": {
+      "title": "The North FaceSunder Backpack",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567161",
+      "sale_price": 39.98
+    },
+    "caf896c3e2698d819364d6e4e324cdec": {
+      "title": "adidasMen's Lite Racer Adapt 7.0 Sneakers",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567167",
+      "sale_price": 49.98
+    },
+    "d040b1e268537219ac58299c233208b2": {
+      "title": "ReebokWomen's Nano Gym Training Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567172",
+      "sale_price": 64.98
+    },
+    "a25aa73e8f5bb9b2d1d06e0ebc1c3707": {
+      "title": "ReebokMen's Nano Gym Training Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567176",
+      "sale_price": 64.98
+    },
+    "35cb2d24f858e08b371962dae5cb3488": {
+      "title": "ReebokMen's Nano Lightweight Cushioned Tennis Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T14:43:17.567178",
+      "sale_price": 74.98
+    },
+    "e73ac2c0087633eb41e88bfc6391b23d": {
+      "title": "BOM Peony Garden Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-11T14:43:17.567189",
+      "sale_price": 8.0
+    },
+    "d136ef42ff1ba275932896cdd312b1ee": {
+      "title": "BOM Petit Fig Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-11T14:43:17.567191",
+      "sale_price": 8.0
+    },
+    "b6219370a5c64cbeca75d674bab7be98": {
+      "title": "BOM Chiffon Vanilla Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-11T14:43:17.567194",
+      "sale_price": 8.0
+    },
+    "9c78257da5ed4b01e3f8b764c41045f0": {
+      "title": "adidas Italy World Cup '26 3 Stripe T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-11T14:43:17.567206",
+      "sale_price": 22.5
     }
   }
 }
