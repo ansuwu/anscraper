@@ -1,29 +1,5 @@
 {
   "deals": {
-    "5cc7ac87ec6a5818ae53e3fefa7ba572": {
-      "title": "FWDWomen's Drop Tail T Shirt",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-04T16:31:47.579695",
-      "sale_price": 14.98
-    },
-    "a86a26deedb8bdc9f593a0939c295182": {
-      "title": "FWDWomen's Lined Shorts",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-04T16:31:47.579709",
-      "sale_price": 19.98
-    },
-    "39cc0f3e2f1c578c315d0b31eac214d7": {
-      "title": "JBLVibe Buds 2 Wireless Earbuds",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-04T16:31:47.579714",
-      "sale_price": 49.98
-    },
-    "924cd65fd95e8d92e50468e1c9c211d5": {
-      "title": "Nike Swoosh Ankle Sock 6 Pack",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-04T16:31:47.579736",
-      "sale_price": 9.0
-    },
     "270c64173a0e3145e8037da60a0450ca": {
       "title": "bugattiBrussels 3 Piece Hardside Luggage Set with Expansion",
       "site": "Nordstrom Canada",
@@ -2561,6 +2537,12 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-11T14:43:17.567206",
       "sale_price": 22.5
+    },
+    "4b12d90d89fb92b553627dde68317e7b": {
+      "title": "LottoMen's Ultra Press 2.0 Firm Ground Soccer Cleats",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-11T18:16:43.912917",
+      "sale_price": 32.5
     }
   }
 }
