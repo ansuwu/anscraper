@@ -1,17 +1,5 @@
 {
   "deals": {
-    "81c49741413c7c572d8a130bf6fb8eda": {
-      "title": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-05T23:28:05.168046",
-      "sale_price": 385.99
-    },
-    "9d23a90e3c145b8b2439eefee1a35aae": {
-      "title": "SAMSUNG SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s, Best for AI Computing, Gaming, and Hea",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-05T23:28:05.168197",
-      "sale_price": 455.02
-    },
     "7d87f4811815a0d88ecf8effc57ba51f": {
       "title": "LIAN LI UNI FAN SL INFINITY 120 RGB WHITE REVERSE BLADE VERSION ---UF-RSLIN120-1W (No controller included)",
       "site": "Newegg Canada",
@@ -1895,6 +1883,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-12T22:40:59.001191",
       "sale_price": 59.5
+    },
+    "9d23a90e3c145b8b2439eefee1a35aae": {
+      "title": "SAMSUNG SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s, Best for AI Computing, Gaming, and Hea",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-13T00:27:40.770584",
+      "sale_price": 455.02
     }
   }
 }
