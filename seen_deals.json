@@ -1,17 +1,5 @@
 {
   "deals": {
-    "3a1de086e99d5b8baece070cefe27f65": {
-      "title": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK32GX4M2E3200C16",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-07T17:31:09.660542",
-      "sale_price": 189.99
-    },
-    "4774465cdfad78633501523d72f07d43": {
-      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-07T17:31:09.660620",
-      "sale_price": 7.0
-    },
     "da1a322c64332b45c3909dc8564018f8": {
       "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
       "site": "Nordstrom Canada",
@@ -1979,6 +1967,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-14T15:20:42.533586",
       "sale_price": 72.5
+    },
+    "4774465cdfad78633501523d72f07d43": {
+      "title": "DEOPROCE AC CICA CALMING ACNE CLEANSING FOAM 150ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-14T19:20:59.476382",
+      "sale_price": 7.0
     }
   }
 }
