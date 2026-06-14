@@ -1,65 +1,5 @@
 {
   "deals": {
-    "b738e9b3ff8a0a218a29b6c72a96027e": {
-      "title": "SKIMSFits Everybody Short Sleeve T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590675",
-      "sale_price": 18.99
-    },
-    "e4b7bff077c56d2d97241739ef6215f0": {
-      "title": "Julia JordanMixed Print Long Sleeve Tiered Shirtdress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590686",
-      "sale_price": 63.6
-    },
-    "aa17e349c9602da834b7558cc955d503": {
-      "title": "Marc Fisher LTDCalynna Pointed Toe Kitten Heel Pump",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590694",
-      "sale_price": 56.0
-    },
-    "5902808cddce6711966732d9a40119a3": {
-      "title": "Rokka&RollaAdventure Fleece Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590712",
-      "sale_price": 19.8
-    },
-    "c02768bb125e42e7af5a6ef3e6d325df": {
-      "title": "BurberryCheck Slides",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590783",
-      "sale_price": 212.0
-    },
-    "75253823642bf7a27c5c1364e09e4349": {
-      "title": "Steve MaddenAlyse Mule",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590828",
-      "sale_price": 54.5
-    },
-    "1fad303922ba8e70f06958c002cd63ac": {
-      "title": "Steve MaddenShay Pointed Toe Slingback Flat",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590831",
-      "sale_price": 49.5
-    },
-    "c0d6453d4286f8ea11ccb6f7c2b3daaf": {
-      "title": "NADINE MERABIMarilyn Sequin Cocktail Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590834",
-      "sale_price": 332.5
-    },
-    "425a436550ca5092fd31b46c41082b24": {
-      "title": "Free PeopleFree People Duo Corset Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590839",
-      "sale_price": 24.0
-    },
-    "e4f8325525cc999df388d3fe035d72b6": {
-      "title": "BurberryWomen's Leather Cadet Loafers",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T13:46:29.590845",
-      "sale_price": 460.0
-    },
     "3f971af044ce85c8c93108ed18afd360": {
       "title": "19V69 ITALIAVintage 3 Piece Expandable Spinner Luggage Set",
       "site": "Nordstrom Canada",
@@ -1871,6 +1811,186 @@
       "site": "Newegg Canada",
       "first_seen": "2026-06-14T10:58:18.393793",
       "sale_price": 19.99
+    },
+    "074e4fa35f54d3a73fd4a785a6713cb6": {
+      "title": "SanctuaryThe Perfect T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533243",
+      "sale_price": 14.63
+    },
+    "3d9ed3afa162034a3622411a87f80fae": {
+      "title": "Wit & WisdomSkyrise Patch Pocket Wide Leg Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533353",
+      "sale_price": 34.99
+    },
+    "00a818c73a54ffe49ed0ab03f713df11": {
+      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533360",
+      "sale_price": 66.99
+    },
+    "3f9a75fde737c4926a570130f525c945": {
+      "title": "UGG®Neumel Era Chukka Boot",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533384",
+      "sale_price": 63.98
+    },
+    "8e4a65d2ce6a70202eab2fdda9697076": {
+      "title": "NikeKids' Ava Rover Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533392",
+      "sale_price": 48.8
+    },
+    "fd9aa2911a9ba095e4f017e2b1b4e56a": {
+      "title": "adidasx C.P. Company Italia 70s Shoe",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533397",
+      "sale_price": 44.0
+    },
+    "8ecf9c79a9decb71141dc5fd6b5eb41b": {
+      "title": "WAYFSelene Ruched Long Sleeve Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533403",
+      "sale_price": 35.6
+    },
+    "ba443e9a59e564063d5754d1f5ec7121": {
+      "title": "MOON RIVERFloral Smocked Bodice Flutter Sleeve Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533406",
+      "sale_price": 43.2
+    },
+    "c92279c62d72fb0ed92eec16fea58bdf": {
+      "title": "NordstromCooling Pajama Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533409",
+      "sale_price": 23.6
+    },
+    "5d8180e8dab35add7dfde37fad49692e": {
+      "title": "BP.Baggy Wide Leg Sweatpants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533425",
+      "sale_price": 19.75
+    },
+    "0307204ab04fb597fd40700b76fd510d": {
+      "title": "ASTR the LabelMaddison Tank",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533430",
+      "sale_price": 30.99
+    },
+    "a1c6f8d882c6b0be2f6ee1695a9d2db6": {
+      "title": "Steve MaddenDessa Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533436",
+      "sale_price": 49.0
+    },
+    "749c8d0c72e74840c59478d0ab884dc6": {
+      "title": "TravisMathewAll Day Social Club Contrast Collar Cotton Blend Polo Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533439",
+      "sale_price": 44.96
+    },
+    "edafb6688582f82312026713d0b8bbc8": {
+      "title": "LacosteParis Regular Fit Stretch Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533444",
+      "sale_price": 56.24
+    },
+    "c261c35fba425aa0a46161f53f1f6d2e": {
+      "title": "Peter MillarHanford Check Performance Twill Button-Down Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533448",
+      "sale_price": 74.24
+    },
+    "52cc645bb67a31e1c872b6d4c8d299e4": {
+      "title": "LacosteTennis Court Cotton Blend Jacquard Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533451",
+      "sale_price": 89.99
+    },
+    "6cb2edfbf788d07dc624789189fc34ba": {
+      "title": "BugatchiJames OoohCotton® Leaf Print Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533456",
+      "sale_price": 89.55
+    },
+    "5c47bb33fb0345e17cd5e82f416f3baa": {
+      "title": "Wit & WisdomSam High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533463",
+      "sale_price": 39.6
+    },
+    "4c7f12b8006ea2fc8b883f314c3a97d5": {
+      "title": "Wit & WisdomWyatt Skyrise V-Pocket Ankle Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533466",
+      "sale_price": 39.6
+    },
+    "04c91d205ce3ef9141a8d126684ba2f9": {
+      "title": "BurberryCheck Dame Pumps",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533490",
+      "sale_price": 412.0
+    },
+    "75253823642bf7a27c5c1364e09e4349": {
+      "title": "Steve MaddenAlyse Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533547",
+      "sale_price": 54.5
+    },
+    "1fad303922ba8e70f06958c002cd63ac": {
+      "title": "Steve MaddenShay Pointed Toe Slingback Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533550",
+      "sale_price": 49.5
+    },
+    "d53afc5e308aa40ce038436cc3e48ed5": {
+      "title": "Rebecca TaylorAllegra Stripe Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533553",
+      "sale_price": 295.0
+    },
+    "15604f8fdfafb9015b6454012d01ce8e": {
+      "title": "Adelyn RaeBrielle Pleated Trapeze Minidress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533559",
+      "sale_price": 69.0
+    },
+    "05e21b32cb6f98ae285ef415317846b9": {
+      "title": "Donna Karan New YorkBelted Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533563",
+      "sale_price": 99.5
+    },
+    "e0755e93884b700275048efb17d5393d": {
+      "title": "Free PeopleEver Had Cap Sleeve Cotton T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533569",
+      "sale_price": 19.0
+    },
+    "82e782293e970c05391993643b154cb9": {
+      "title": "VionicChardonnay Block Heel Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533574",
+      "sale_price": 77.5
+    },
+    "034c68ebb80ae65b38c3ffef35fa49f6": {
+      "title": "Vuorivuori Daily Leggings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533578",
+      "sale_price": 49.0
+    },
+    "ad92b3d99d598f6f3a2bca02f169eff8": {
+      "title": "VionicOrinda Perforated Ballet Flat",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533581",
+      "sale_price": 72.5
+    },
+    "cbd64451cd1927c4bc1de03949a2ebdc": {
+      "title": "VionicUptown Hybrid Penny Loafer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-14T15:20:42.533586",
+      "sale_price": 72.5
     }
   }
 }
