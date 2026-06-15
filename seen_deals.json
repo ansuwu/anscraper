@@ -1,29 +1,5 @@
 {
   "deals": {
-    "306dfd0dede41ed9e5859f0538216ab5": {
-      "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T16:56:57.086451",
-      "sale_price": 19.99
-    },
-    "57cb72a147f49c95bf5c33b8e2701afc": {
-      "title": "Nike Just Do It Hoodie",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-08T16:56:57.086466",
-      "sale_price": 49.99
-    },
-    "ef6ca17cbf3edbe1474d71211cfe9748": {
-      "title": "RAVIEL Green Derma Double Cica Cream - Single",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-08T16:56:57.086507",
-      "sale_price": 9.0
-    },
-    "067aaa67f0d5b7219e42337ba0df5ced": {
-      "title": "Nike 3 Pack NSW Crew Socks",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-08T16:56:57.086514",
-      "sale_price": 13.0
-    },
     "4552b386614e4ea9eceeeb73be1627b9": {
       "title": "UGG Cable Balaclava",
       "site": "Foot Locker Canada",
@@ -1799,6 +1775,24 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-15T16:28:23.417923",
       "sale_price": 53.88
+    },
+    "57cb72a147f49c95bf5c33b8e2701afc": {
+      "title": "Nike Just Do It Hoodie",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-15T20:34:58.759289",
+      "sale_price": 49.99
+    },
+    "ef6ca17cbf3edbe1474d71211cfe9748": {
+      "title": "RAVIEL Green Derma Double Cica Cream - Single",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-15T20:34:58.759327",
+      "sale_price": 9.0
+    },
+    "067aaa67f0d5b7219e42337ba0df5ced": {
+      "title": "Nike 3 Pack NSW Crew Socks",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-15T20:34:58.759334",
+      "sale_price": 13.0
     }
   }
 }
