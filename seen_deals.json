@@ -1,59 +1,5 @@
 {
   "deals": {
-    "b4cf749741bae23d596cfd3a86262b40": {
-      "title": "HUAWEI Wireless Charging Mouse Pad GT, Firm smooth polymer surface, 55035505",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394415",
-      "sale_price": 2.96
-    },
-    "01ae4dbb13ad55f49559f1573b74a9e6": {
-      "title": "First4Figures - MY HERO ACADEMIA - All Might (Casual Wear)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394443",
-      "sale_price": 27.88
-    },
-    "885973de5c8983d28b75d70e1aed777a": {
-      "title": "bugattiWellington 3 Piece Hardside Luggage Set with TSA Lock",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-08T12:35:04.394446",
-      "sale_price": 199.99
-    },
-    "2e35ba8c93c111f74904c5872d80561f": {
-      "title": "HYPERX Cloud Mini — Gaming wired headset (multi)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394496",
-      "sale_price": 16.88
-    },
-    "867589ac549d9f56e77c6a96739538d2": {
-      "title": "NZXT F240 RGB Core",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394532",
-      "sale_price": 30.88
-    },
-    "c6eb2a1be9315f33dc06a2806379ebfb": {
-      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394537",
-      "sale_price": 46.88
-    },
-    "ab593be45d7c7656873e93505e57eec4": {
-      "title": "Rokka&RollaClassic Full Zip Bomber Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-08T12:35:04.394561",
-      "sale_price": 39.6
-    },
-    "9f22c0ddc55222bc64e4e07711bb4870": {
-      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394588",
-      "sale_price": 53.88
-    },
-    "059349b76903534d5d0260a3b8664ede": {
-      "title": "BANDAI Spirits S.H.Figuarts Kaiju No. 9 \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-08T12:35:04.394610",
-      "sale_price": 59.88
-    },
     "306dfd0dede41ed9e5859f0538216ab5": {
       "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
       "site": "Canada Computers",
@@ -1835,6 +1781,24 @@
       "site": "Sport Chek",
       "first_seen": "2026-06-15T00:14:33.506599",
       "sale_price": 19.98
+    },
+    "2e35ba8c93c111f74904c5872d80561f": {
+      "title": "HYPERX Cloud Mini — Gaming wired headset (multi)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-15T16:28:23.417871",
+      "sale_price": 16.88
+    },
+    "c6eb2a1be9315f33dc06a2806379ebfb": {
+      "title": "THERMALTAKE SWAFAN EX14 ARGB PC Cooling Fan, White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-15T16:28:23.417895",
+      "sale_price": 46.88
+    },
+    "9f22c0ddc55222bc64e4e07711bb4870": {
+      "title": "BANDAI Spirits S.H.Figuarts Kikoru Shinomiya \"Kaiju No. 8\" Action Figure (SHF Figuarts)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-15T16:28:23.417923",
+      "sale_price": 53.88
     }
   }
 }
