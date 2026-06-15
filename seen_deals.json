@@ -1,23 +1,5 @@
 {
   "deals": {
-    "4552b386614e4ea9eceeeb73be1627b9": {
-      "title": "UGG Cable Balaclava",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-08T21:54:50.589453",
-      "sale_price": 19.99
-    },
-    "566dbc10fe353485894c719f96fbde8a": {
-      "title": "LARGE BOOK LIGHT",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-06-08T21:54:50.589510",
-      "sale_price": 12.0
-    },
-    "4d3035a0e17b5903a16d593aec8ac772": {
-      "title": "The Biography 30oz Water Bottle, White",
-      "site": "Indigo / Chapters",
-      "first_seen": "2026-06-08T21:54:50.589543",
-      "sale_price": 20.0
-    },
     "56a7b4e8cdbbeaec9233c1249b4c2bfb": {
       "title": "Damaged Boxes - MARY & MAY Vegan Rose Hyaluronic Hydra Wash Off Pack 30g",
       "site": "KBeauty.ca",
@@ -1793,6 +1775,42 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-15T20:34:58.759334",
       "sale_price": 13.0
+    },
+    "4552b386614e4ea9eceeeb73be1627b9": {
+      "title": "UGG Cable Balaclava",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-15T23:09:00.535277",
+      "sale_price": 19.99
+    },
+    "01ae4dbb13ad55f49559f1573b74a9e6": {
+      "title": "First4Figures - MY HERO ACADEMIA - All Might (Casual Wear)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-15T23:09:00.535292",
+      "sale_price": 27.88
+    },
+    "306dfd0dede41ed9e5859f0538216ab5": {
+      "title": "LOGIIX 45W USB-C Nintendo Switch + Laptop Charger",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-15T23:09:00.535348",
+      "sale_price": 19.99
+    },
+    "566dbc10fe353485894c719f96fbde8a": {
+      "title": "LARGE BOOK LIGHT",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-06-15T23:09:00.535366",
+      "sale_price": 12.0
+    },
+    "8c90af79f7180227ae06189447925977": {
+      "title": "MONTECH X5- ATX Mid-Tower Gaming PC Case, High Airflow, 3x 140mm and 1x 120mm ARGB Fans Pre-installed, Glass Side Panel,",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-15T23:09:00.535393",
+      "sale_price": 54.99
+    },
+    "4d3035a0e17b5903a16d593aec8ac772": {
+      "title": "The Biography 30oz Water Bottle, White",
+      "site": "Indigo / Chapters",
+      "first_seen": "2026-06-15T23:09:00.535409",
+      "sale_price": 20.0
     }
   }
 }
