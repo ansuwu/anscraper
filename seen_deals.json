@@ -1,95 +1,5 @@
 {
   "deals": {
-    "da1a322c64332b45c3909dc8564018f8": {
-      "title": "SKIMSUltimate Body Push-Up Enhancing Padded Midthigh Bodysuit",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.737902",
-      "sale_price": 34.99
-    },
-    "d07863dcc835dc1d7e71c83af51274e0": {
-      "title": "Barefoot Dreams®CozyChic™ Rib Throw Blanket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.737935",
-      "sale_price": 49.99
-    },
-    "1c1fde9ae104ee09836bef3fe1e094aa": {
-      "title": "Erin McDermott JewelryHammered Heart Toggle Necklace",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.737978",
-      "sale_price": 38.0
-    },
-    "8a02db60fe37d59ce288de5f13a8b3b8": {
-      "title": "SPANX®AirEssentials Half Zip Sweatshirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738022",
-      "sale_price": 49.99
-    },
-    "ee71ff69e65b1b894c9f7f15d79ae4ea": {
-      "title": "Erin McDermott JewelryFrench Riviera Bracelets",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738029",
-      "sale_price": 19.0
-    },
-    "d4acd83cb46c83e375d2e9406841bc4b": {
-      "title": "SKIMSCotton Blend Jersey Fold Over Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738031",
-      "sale_price": 26.99
-    },
-    "4e427ddfd0bd573df19873a0b63e45c4": {
-      "title": "RhoneReign Long Sleeve T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738036",
-      "sale_price": 30.99
-    },
-    "c9a0b6cd23da7462906cbcf42152e30d": {
-      "title": "SKIMSCotton Fleece Blend Classic Zip-Up Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738051",
-      "sale_price": 37.6
-    },
-    "5ba5718753a22fda9af6825988ffb28e": {
-      "title": "UGG®Ellis Wool Loafer",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738061",
-      "sale_price": 64.99
-    },
-    "35a925b2ab8ac62a46d1bcb3a498896a": {
-      "title": "Lucky BrandSilver-Tone Woven Chain Bracelet",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738077",
-      "sale_price": 30.0
-    },
-    "101cceab34e367860ae42c11088cbec3": {
-      "title": "Tory BurchRobinson Spazzolato Leather Shoulder Bag",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738168",
-      "sale_price": 205.0
-    },
-    "520b7468892988afe71870bbd92e8ccc": {
-      "title": "adidasGender Inclusive Samba OG Sneaker",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738229",
-      "sale_price": 49.99
-    },
-    "b427bd7caa2b7c8aa08d4adceed6c0a9": {
-      "title": "Lauren Ralph LaurenCotton Blend Shirtdress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738244",
-      "sale_price": 77.5
-    },
-    "54e7c611fd961e883f850b8a42f44382": {
-      "title": "Dress the PopulationTahani Floral Embroidered Fit & Flare Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738249",
-      "sale_price": 149.0
-    },
-    "16f58ec7a2dcbdedd3ab7e563ea3e43b": {
-      "title": "Favorite DaughterThe Collegiate Embroidered Graphic Sweatshirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-07T22:34:13.738258",
-      "sale_price": 74.0
-    },
     "c5fd91ea7c5cfbc4b4dab073d36ff1f8": {
       "title": "CliniquePop Treats: Pop Plush Lip Gloss Holiday Gift Set Value",
       "site": "Nordstrom Canada",
@@ -2009,6 +1919,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-14T22:20:01.132724",
       "sale_price": 34.5
+    },
+    "3e6d2f20886ae347e0fcfa71783b6c83": {
+      "title": "Under ArmourMen's Tech™ Vent 7 Inch Shorts",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-15T00:14:33.506599",
+      "sale_price": 19.98
     }
   }
 }
