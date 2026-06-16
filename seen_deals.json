@@ -1,17 +1,5 @@
 {
   "deals": {
-    "c909e2e8392c632d3c6c21e7b0da2b24": {
-      "title": "Lilybyred Luv Beam Cheek (AD) - #02 Dollish Rose",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-09T09:54:55.684167",
-      "sale_price": 6.5
-    },
-    "9f16177c36c725ae363c0aa36bfdff6e": {
-      "title": "Jordan Brooklyn 2Air Reissue Short Sleeve Crew",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-09T09:54:55.684178",
-      "sale_price": 27.5
-    },
     "259dd943d1f50c5c2aaa995c6d52462a": {
       "title": "TELESIN New Design 3m Carbon Fiber Selfie Stick",
       "site": "Canada Computers",
@@ -1847,6 +1835,30 @@
       "site": "Newegg Canada",
       "first_seen": "2026-06-16T06:37:04.274515",
       "sale_price": 74.99
+    },
+    "44d52c0f2563e8503105752534de1222": {
+      "title": "VMAX Magsafe With Metal Camera Holder Case for iPhone 16 Pro",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T12:16:26.194819",
+      "sale_price": 4.99
+    },
+    "e4dce3b23b89a5a5b8d61c01861d5057": {
+      "title": "RipzoneMen's Kensington 2L Rain Jacket",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-16T12:16:26.194837",
+      "sale_price": 49.98
+    },
+    "13dda03cfaef26fb9c8466b39d78453c": {
+      "title": "PowerbiltTempo Men's Golf Driver",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-16T12:16:26.194842",
+      "sale_price": 59.98
+    },
+    "c909e2e8392c632d3c6c21e7b0da2b24": {
+      "title": "Lilybyred Luv Beam Cheek (AD) - #02 Dollish Rose",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-16T12:16:26.194871",
+      "sale_price": 6.5
     }
   }
 }
