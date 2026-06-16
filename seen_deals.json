@@ -1,11 +1,5 @@
 {
   "deals": {
-    "3c2b70ab02acb05d902aa910d33eb5e6": {
-      "title": "WD_BLACK SN7100 M.2 2280 1TB PCI-Express 4.0 x4 TLC 3D NAND Internal Solid State Drive (SSD) WDS100T4X0E",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-09T02:08:28.794818",
-      "sale_price": 133.96
-    },
     "c909e2e8392c632d3c6c21e7b0da2b24": {
       "title": "Lilybyred Luv Beam Cheek (AD) - #02 Dollish Rose",
       "site": "Kiokii & Co",
@@ -1811,6 +1805,48 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-06-16T00:37:00.206153",
       "sale_price": 4.0
+    },
+    "40521347ac9c65b657e41551dadad106": {
+      "title": "Phanteks XT Pro Ultra, Mid-Tower Gaming Chassis, 4x M25-140 Fans Included, High Airflow Performance Mesh, Tempered Glass",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-16T06:37:04.274398",
+      "sale_price": 14.99
+    },
+    "4fd85cfa49b4159be1c89f8c4c63d869": {
+      "title": "AMD Ryzen 5 7600X - Zen 4 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-16T06:37:04.274486",
+      "sale_price": 219.99
+    },
+    "fe93fbff9c26da39d0660190b48a9f6d": {
+      "title": "Rock Space 2.5D Screen Protector for iPhone 16 Pro Max, Clear",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T06:37:04.274494",
+      "sale_price": 4.99
+    },
+    "e15561c0003f0955dadb132f4d5b3f42": {
+      "title": "Rock Space HD Screen Protector for iPhone 16 Plus, Clear",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T06:37:04.274497",
+      "sale_price": 4.99
+    },
+    "c862857af4908d245728e8987534c284": {
+      "title": "Rock Space 2.5D Screen Protector for iPhone 16 Pro, Clear",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T06:37:04.274500",
+      "sale_price": 4.99
+    },
+    "56de5b318c8c7b1d75675091d2998a68": {
+      "title": "Antronic ABS Housing Can Opener | 70W",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T06:37:04.274504",
+      "sale_price": 9.99
+    },
+    "f7047d400b4cc01c12f452471829c527": {
+      "title": "SAMA SV01 Mid Tower ATX Gaming PC Computer Case Black, 4 Addressable RGB Fans Pre-Installed, Tempered Glass Side Panel, ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-16T06:37:04.274515",
+      "sale_price": 74.99
     }
   }
 }
