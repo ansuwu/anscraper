@@ -1,41 +1,5 @@
 {
   "deals": {
-    "259dd943d1f50c5c2aaa995c6d52462a": {
-      "title": "TELESIN New Design 3m Carbon Fiber Selfie Stick",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-09T12:44:08.845353",
-      "sale_price": 39.88
-    },
-    "dda2478e87c82538a5c429dddba30bca": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING ESSENCE LOTION 150ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-09T12:44:08.845384",
-      "sale_price": 10.0
-    },
-    "03e9d1261437d53cb681ba36c8349f44": {
-      "title": "DEOPROCE AC CICA CALMING BOOSTING BALANCING CREAM 50g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-09T12:44:08.845388",
-      "sale_price": 10.0
-    },
-    "df8725c7994a33ece788c34c14e49287": {
-      "title": "New Era Dodgers 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-09T16:03:56.908211",
-      "sale_price": 19.99
-    },
-    "55ca34a5d31e1e63ea0a1086f5e2c08b": {
-      "title": "ENERGIZER 1216 3V Lithium Coin Cell Battery 1 Pack (ECR1216BP)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-09T16:03:56.908228",
-      "sale_price": 1.88
-    },
-    "dcbf6e2988082a2a5cda48a29e4260bd": {
-      "title": "New Era Yankees 9Fifty RC Cap",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-09T18:05:28.400858",
-      "sale_price": 19.99
-    },
     "b49f825434acc895588ca08ff4f4b389": {
       "title": "ASRock B650M PRO RS AM5 Micro ATX Motherboard",
       "site": "Newegg Canada",
@@ -1859,6 +1823,36 @@
       "site": "Kiokii & Co",
       "first_seen": "2026-06-16T12:16:26.194871",
       "sale_price": 6.5
+    },
+    "df8725c7994a33ece788c34c14e49287": {
+      "title": "New Era Dodgers 9Fifty RC Cap",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-16T18:06:40.081114",
+      "sale_price": 19.99
+    },
+    "55ca34a5d31e1e63ea0a1086f5e2c08b": {
+      "title": "ENERGIZER 1216 3V Lithium Coin Cell Battery 1 Pack (ECR1216BP)",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T18:06:40.081143",
+      "sale_price": 1.88
+    },
+    "aab9a9aa56d892aa84c706aee91c826f": {
+      "title": "be quiet! Light Base 600 DX White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T18:06:40.081147",
+      "sale_price": 99.99
+    },
+    "259dd943d1f50c5c2aaa995c6d52462a": {
+      "title": "TELESIN New Design 3m Carbon Fiber Selfie Stick",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T18:06:40.081161",
+      "sale_price": 39.88
+    },
+    "5c12bcae8ee0f6a947fce7e6eaa89ae4": {
+      "title": "be quiet! Light Wings LX 140mm PWM ARGB Case Fan, Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-16T18:06:40.081182",
+      "sale_price": 14.99
     }
   }
 }
