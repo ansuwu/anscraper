@@ -1,65 +1,5 @@
 {
   "deals": {
-    "8392767af0810611104c92da977d5541": {
-      "title": "FLORTTE Solid Small Machete Eyebrow Pencil (5 Shades) - 01 Soft Matte Gray Black",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677385",
-      "sale_price": 3.59
-    },
-    "ab548c31bcd3147cd881cad7af66715e": {
-      "title": "FLORTTE Twin Butterfly Series Lip Serum - Light (3 Shades) - P02 Nude Apricot",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677391",
-      "sale_price": 3.59
-    },
-    "108d20a52ba7e75d0127cbc91d260be8": {
-      "title": "FLORTTE Twin Butterfly Series Lip Serum - Dark (7 Shades) - B00# Shattered Sheer Gray",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677394",
-      "sale_price": 3.59
-    },
-    "8eec66051ea1e5324b8a4c3112a20144": {
-      "title": "Flortte Salade De Fruits Eyeliner Pencil - 01 Sesame",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677397",
-      "sale_price": 3.59
-    },
-    "f575d819ba09eb89567367d35bc00662": {
-      "title": "Flortte Two in One Eyebrow Pencil - 01 Oreo",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677400",
-      "sale_price": 3.99
-    },
-    "97c0e8ab93c11f8add4fc29822c3ea9e": {
-      "title": "Flortte Liquid Glitter Eyeshadow - 01 Beige",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677403",
-      "sale_price": 4.39
-    },
-    "bd6de8f61576e7882cce442b8d4977f3": {
-      "title": "FLORTTE I AM SUPER BEAUTY Lip Gloss Serum (7 Colors) - 02 CASSIA TEA",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677406",
-      "sale_price": 5.19
-    },
-    "e4dffa1e7f0813f82c1f849f4e937fe2": {
-      "title": "Flortte Wackky Series Lip Paste (6 Colors) - 01 Don't Like Sugar",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677409",
-      "sale_price": 5.19
-    },
-    "f3689a01272262d6cb7aa4f6e6e1c687": {
-      "title": "Flortte I am Super Beauty Jelly Heart  Lipstick - S Series (6 Colors) - S01 Watermelon",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-10T20:22:10.677412",
-      "sale_price": 5.19
-    },
-    "0a6ee9db25a920721ba8411a22109ad3": {
-      "title": "BENTON Fermentation Eye Cream 30g",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-10T20:22:10.677443",
-      "sale_price": 11.0
-    },
     "50ed32cedc901dfb5917b2928b6541fa": {
       "title": "Earth®Deeana Tassel Loafer",
       "site": "Nordstrom Canada",
@@ -2561,6 +2501,60 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-17T20:12:25.004904",
       "sale_price": 29.5
+    },
+    "8392767af0810611104c92da977d5541": {
+      "title": "FLORTTE Solid Small Machete Eyebrow Pencil (5 Shades) - 01 Soft Matte Gray Black",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167429",
+      "sale_price": 3.59
+    },
+    "ab548c31bcd3147cd881cad7af66715e": {
+      "title": "FLORTTE Twin Butterfly Series Lip Serum - Light (3 Shades) - P02 Nude Apricot",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167434",
+      "sale_price": 3.59
+    },
+    "108d20a52ba7e75d0127cbc91d260be8": {
+      "title": "FLORTTE Twin Butterfly Series Lip Serum - Dark (7 Shades) - B00# Shattered Sheer Gray",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167437",
+      "sale_price": 3.59
+    },
+    "8eec66051ea1e5324b8a4c3112a20144": {
+      "title": "Flortte Salade De Fruits Eyeliner Pencil - 01 Sesame",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167440",
+      "sale_price": 3.59
+    },
+    "f575d819ba09eb89567367d35bc00662": {
+      "title": "Flortte Two in One Eyebrow Pencil - 01 Oreo",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167443",
+      "sale_price": 3.99
+    },
+    "97c0e8ab93c11f8add4fc29822c3ea9e": {
+      "title": "Flortte Liquid Glitter Eyeshadow - 01 Beige",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167446",
+      "sale_price": 4.39
+    },
+    "f3689a01272262d6cb7aa4f6e6e1c687": {
+      "title": "Flortte I am Super Beauty Jelly Heart  Lipstick - S Series (6 Colors) - S01 Watermelon",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-17T22:07:50.167449",
+      "sale_price": 5.19
+    },
+    "d9b7d209f489e53ef4b0ad26213715fa": {
+      "title": "AMD Ryzen 7 5800X - Ryzen 7 5000 Series Vermeer (Zen 3) 8-Core 3.8 GHz Socket AM4 105W None Integrated Graphics Desktop ",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-17T22:07:50.167458",
+      "sale_price": 289.99
+    },
+    "0a6ee9db25a920721ba8411a22109ad3": {
+      "title": "BENTON Fermentation Eye Cream 30g",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-17T22:07:50.167508",
+      "sale_price": 11.0
     }
   }
 }
