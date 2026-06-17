@@ -1859,6 +1859,72 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-16T20:53:32.406571",
       "sale_price": 19.99
+    },
+    "9f912f9b7e5805a1053f6e66afd4ce6b": {
+      "title": "FLAME SKORT",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075400",
+      "sale_price": 34.99
+    },
+    "5a0fe8987ce4c23fc4fc771055773698": {
+      "title": "SPERRY X ARITZIA AO BOAT SHOE",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075424",
+      "sale_price": 49.99
+    },
+    "59130a3facf2787b79bc96d5c4c322aa": {
+      "title": "SPERRY X ARITZIA SLIM BOAT SHOE",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075428",
+      "sale_price": 49.99
+    },
+    "943206c60ff12d20541c1dbef6498a21": {
+      "title": "GLOTONE™ EMPHASIS HI-RISE 26\" LEGGING",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075465",
+      "sale_price": 38.99
+    },
+    "ce6f19fddaf61af82cf60dc4c632a58f": {
+      "title": "THEO POPLIN SKORT",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075474",
+      "sale_price": 43.99
+    },
+    "3aa5f7100bde8b3f3131b81425de30e7": {
+      "title": "DENIM FORUM SHARON CLASSIC MID-RISE STRAIGHT JEAN",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075477",
+      "sale_price": 44.99
+    },
+    "e2b5eced74999f9776eece9da1371153": {
+      "title": "PLEATED MINI SHORT",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075480",
+      "sale_price": 48.99
+    },
+    "a79f39d427de35e104868885186fc59f": {
+      "title": "FIGUREKNIT™ CUE DRESS",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075488",
+      "sale_price": 63.99
+    },
+    "6f6c53937bb569d7afca979db7d2889a": {
+      "title": "GLYPH SKIRT",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075491",
+      "sale_price": 73.99
+    },
+    "5593e95dd014d52c2cd5081b8dcfdefb": {
+      "title": "DENIM FORUM THE WORKWEAR DENIM SHIRT JACKET",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075495",
+      "sale_price": 88.99
+    },
+    "ab693d8adfc62e8aa9ccaa2243a6d600": {
+      "title": "EUREKA BLAZER",
+      "site": "Aritzia",
+      "first_seen": "2026-06-17T00:23:35.075500",
+      "sale_price": 123.99
     }
   }
 }
