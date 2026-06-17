@@ -1,167 +1,5 @@
 {
   "deals": {
-    "b49f825434acc895588ca08ff4f4b389": {
-      "title": "ASRock B650M PRO RS AM5 Micro ATX Motherboard",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-10T07:10:58.321803",
-      "sale_price": 29.99
-    },
-    "20f1a7ae81fc9981d3bc63a098e6ff21": {
-      "title": "VuoriSedona Crop Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321871",
-      "sale_price": 46.99
-    },
-    "7a134a3566a8d518912e17749b123705": {
-      "title": "MadewellLace Insert Ruffle Pintuck Long Sleeve Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321875",
-      "sale_price": 54.99
-    },
-    "2c2ac2e60edb1ef4ccfe0b04518f96b6": {
-      "title": "Polo Ralph LaurenFlag Fleece Pullover Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321880",
-      "sale_price": 78.99
-    },
-    "0b45abf07337a11ba8577ecd7b29b5dc": {
-      "title": "CeCeLace Trim A-Line Minidress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321884",
-      "sale_price": 43.6
-    },
-    "b9fc57e8950cf055374a38950cd308f4": {
-      "title": "ASTR the LabelHazel Ticking Stripe Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321890",
-      "sale_price": 47.6
-    },
-    "5c2f85d215ae7d6a9baf059c7a4d9d69": {
-      "title": "Chantelle LingerieC Jolie Comfort Convertible T-Shirt Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321895",
-      "sale_price": 32.8
-    },
-    "0fd6c45503acc40b327951c70ca4033b": {
-      "title": "AGEverett Slim Straight Fit Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321899",
-      "sale_price": 90.0
-    },
-    "7788906d69e4df973d96120bec3d2685": {
-      "title": "ZellaUltra Luxe Snap Front Jacket",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321902",
-      "sale_price": 35.6
-    },
-    "3094445f1da4df8706bdffd65e6e03ba": {
-      "title": "Ted BakerLois Sleeveless Button-Up Minidress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321905",
-      "sale_price": 78.0
-    },
-    "9644b74ac787ebcc38e3db4745026c00": {
-      "title": "PAIGEAnessa High Waist Raw Hem Wide Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321914",
-      "sale_price": 111.99
-    },
-    "b0914723f67748877049af54129bfcf3": {
-      "title": "Lucky BrandLace Mesh Detail Square Neck Cotton Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321917",
-      "sale_price": 35.77
-    },
-    "2836d7949fe9973f730d4a4c1c986a35": {
-      "title": "Maggy LondonLong Sleeve Button-Up Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321920",
-      "sale_price": 75.59
-    },
-    "6c8894a9034e06c686f402f0f6ef0fa2": {
-      "title": "Lucky BrandCutwork Detail Stripe Cotton Button-Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321923",
-      "sale_price": 44.55
-    },
-    "8d6c49e5ae8c919c5b5a28ebfdcc19c7": {
-      "title": "Free PeopleSunfade Clean Lines Baby T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321928",
-      "sale_price": 18.0
-    },
-    "c6d6fb2b463feae128f925f31508d306": {
-      "title": "FRAMELe Sleek High Waist Ankle Straight Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321939",
-      "sale_price": 124.99
-    },
-    "5a8af18703b20cb8589f199313b27706": {
-      "title": "DIOR'DiorTag R1I 49mm Small Mirror Round Sunglasses",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321942",
-      "sale_price": 273.99
-    },
-    "2d885cd59d9ee3e8be1c9a032d3618c3": {
-      "title": "Caslon®Easy Wide Leg Linen Pants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321982",
-      "sale_price": 39.75
-    },
-    "626846070ec6004b7a93ca9ad076e481": {
-      "title": "Caslon®Casual Linen Button-Up Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321985",
-      "sale_price": 34.75
-    },
-    "aeddc939de47040fa4d57064b0d2a246": {
-      "title": "Open EditMid Rise Wide Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321988",
-      "sale_price": 44.75
-    },
-    "f5648a317dfa572c1df9d7b2e9b613b6": {
-      "title": "NordstromSeamed Wool Blend Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321990",
-      "sale_price": 74.5
-    },
-    "96662b51d86395487a422b237c7895bd": {
-      "title": "NYDJMarilyn Straight Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321993",
-      "sale_price": 59.5
-    },
-    "498c39209541993a892300f11df1a649": {
-      "title": "BP.Barrel Leg Fleece Sweatpants",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321995",
-      "sale_price": 24.75
-    },
-    "ef7b146b6b11210d73f5b6b3107435c5": {
-      "title": "Adrianna PapellPrint Tie Waist Long Sleeve Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.321998",
-      "sale_price": 74.5
-    },
-    "c8d43ced85f7fa21281d0ecfd224c7f2": {
-      "title": "MELLODAYPrint Ruffle Sleeveless Maxi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.322001",
-      "sale_price": 49.5
-    },
-    "358c63485461c1ff9fcce4dbe35e2631": {
-      "title": "Free PeopleYou're a Star Cotton Knit Top",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-10T07:10:58.322004",
-      "sale_price": 49.0
-    },
-    "c9f474d6867ddc9823bcc4940b0f2108": {
-      "title": "adidas Originals Handball Spezial",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-10T07:10:58.322011",
-      "sale_price": 70.0
-    },
     "465a922a0d9dc8ae1d7052cace5fc451": {
       "title": "ASUS AirVision M1 Smart AR Glasses",
       "site": "Canada Computers",
@@ -2231,6 +2069,138 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-17T06:13:25.019437",
       "sale_price": 59.5
+    },
+    "edc6fd6721ca94dbe02a23cf943157d7": {
+      "title": "SanctuaryThe Perfect T-Shirt (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040646",
+      "sale_price": 14.63
+    },
+    "d556c0b78438834923e110a24aa998ad": {
+      "title": "FURNIQ UKJude Leather Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040651",
+      "sale_price": 225.0
+    },
+    "651090565b05a7ea4b362084ad03ac79": {
+      "title": "SKIMSSoft Lounge Rib Sleep Set (Regular & Plus)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040683",
+      "sale_price": 47.97
+    },
+    "882d153e4626b6afe439308fce426bac": {
+      "title": "BirkenstockMadrid Big Buckle Slide Sandal (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040688",
+      "sale_price": 56.97
+    },
+    "82d049951dda204b8f70d248a96649ba": {
+      "title": "Fear of God Essentials'90s Fit Logo Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040712",
+      "sale_price": 30.0
+    },
+    "499b467373e924ef39cc7e867a7ef09d": {
+      "title": "SanctuaryOrganic Cotton Blend Split Neck T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040716",
+      "sale_price": 19.6
+    },
+    "65f4ecb81d4948bd3f6cf586461d5f6b": {
+      "title": "NikeKids' Ava Rover Sneaker (Little Kid & Big Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040719",
+      "sale_price": 48.8
+    },
+    "cd290e9db61b2a37b563bf22b77a32ac": {
+      "title": "TrimshaperAveri Sweetheart Neckline One-Piece Control Swimsuit",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040722",
+      "sale_price": 32.0
+    },
+    "e916fbc567e2bc84b25821aa8da74e76": {
+      "title": "EtamAmaryllis Embroidered Underwire Demi Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040725",
+      "sale_price": 27.98
+    },
+    "12d5f3daec0c6c2c8643efa5d4836c71": {
+      "title": "UGG®Ellis Wool Loafer (Women)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040730",
+      "sale_price": 64.99
+    },
+    "7500e4e235a641dbc828e825821ca513": {
+      "title": "NikeKids' Dunk Low Basketball Sneaker (Baby, Walker, Toddler, Little Kid & Big Kid)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040733",
+      "sale_price": 22.8
+    },
+    "3052919c93fee77bb9f294ef2c6f8ea3": {
+      "title": "StaubRustic Turquoise 2-Piece Rectangular Baking Dish Set",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040737",
+      "sale_price": 59.99
+    },
+    "6b497e1b3b28d0300d320ae6fdfd2f2d": {
+      "title": "BugatchiMiles OoohCotton® Geometric Print Short Sleeve Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040743",
+      "sale_price": 80.55
+    },
+    "52aa8830f9258973cc02325758dc9a39": {
+      "title": "Rokka&RollaLightweight Packable Puffer Jacket",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040746",
+      "sale_price": 39.6
+    },
+    "561790823788c0783d9ae127395a8b86": {
+      "title": "AllSaintsUnderground Logo Graphic Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040749",
+      "sale_price": 107.55
+    },
+    "2d924d3d5bbdf962bb87a2d0fbab3084": {
+      "title": "SAMA SV02 Dual USB3.0 and Type C Tempered Glass ATX Mid Tower Gaming PC Computer Case, 3 Addressable RGB Fans Pre-Instal",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-17T10:59:44.040783",
+      "sale_price": 69.99
+    },
+    "6221650e0b04ae68943b5b6d583218b7": {
+      "title": "Donna Karan New YorkAbstract Print Belted Stretch Cotton Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040803",
+      "sale_price": 94.5
+    },
+    "626846070ec6004b7a93ca9ad076e481": {
+      "title": "Caslon®Casual Linen Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040807",
+      "sale_price": 34.75
+    },
+    "96662b51d86395487a422b237c7895bd": {
+      "title": "NYDJMarilyn Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040809",
+      "sale_price": 59.5
+    },
+    "66b8137c51b687844999849413d10092": {
+      "title": "Avec Les FillesFloral Embroidery Stripe Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040813",
+      "sale_price": 84.0
+    },
+    "f2ea0e0dec703e6169ad9c02e730fbad": {
+      "title": "HOUSE OF CBLady Strapless Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T10:59:44.040816",
+      "sale_price": 142.5
+    },
+    "7f11b116e14c8ba27638adf4c45f0519": {
+      "title": "PUMA MB.05 Rick & Morty",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-17T10:59:44.040819",
+      "sale_price": 90.0
     }
   }
 }
