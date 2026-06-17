@@ -1,11 +1,5 @@
 {
   "deals": {
-    "465a922a0d9dc8ae1d7052cace5fc451": {
-      "title": "ASUS AirVision M1 Smart AR Glasses",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-10T14:29:41.822306",
-      "sale_price": 449.99
-    },
     "790201d511f59d050874b41d238e762e": {
       "title": "MSI MAG B860 TOMAHAWK WIFI, INTEL B860 ATX Motherboard",
       "site": "Canada Computers",
@@ -2201,6 +2195,42 @@
       "site": "Foot Locker Canada",
       "first_seen": "2026-06-17T10:59:44.040819",
       "sale_price": 90.0
+    },
+    "181a6af37c2cf5ed2876f28685921e0e": {
+      "title": "Polo Ralph LaurenCotton Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T14:36:59.972195",
+      "sale_price": 52.99
+    },
+    "37feff4e8b604d53281ef24b5a3cf636": {
+      "title": "Peter MillarConway Microcheck Crown Lite Performance Twill Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T14:36:59.972204",
+      "sale_price": 74.24
+    },
+    "082f47929ba20905b8b0ffd976ef2ec1": {
+      "title": "Wax LondonCurzon Solid Twill Camp Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T14:36:59.972208",
+      "sale_price": 67.5
+    },
+    "465a922a0d9dc8ae1d7052cace5fc451": {
+      "title": "ASUS AirVision M1 Smart AR Glasses",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-17T14:36:59.972215",
+      "sale_price": 449.99
+    },
+    "3a1de086e99d5b8baece070cefe27f65": {
+      "title": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK32GX4M2E3200C16",
+      "site": "Newegg Canada",
+      "first_seen": "2026-06-17T14:36:59.972222",
+      "sale_price": 189.99
+    },
+    "987f7cc3f5fa1d042680196c19e0d559": {
+      "title": "Lauren Ralph LaurenPrint Ruffle Trim Georgette Tiered Dress (Regular & Petite)",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-17T14:36:59.972298",
+      "sale_price": 97.5
     }
   }
 }
