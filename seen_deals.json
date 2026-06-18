@@ -1,11 +1,5 @@
 {
   "deals": {
-    "4b12d90d89fb92b553627dde68317e7b": {
-      "title": "LottoMen's Ultra Press 2.0 Firm Ground Soccer Cleats",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T18:16:43.912917",
-      "sale_price": 32.5
-    },
     "6af9779692067b08d0b2e32a72b9a259": {
       "title": "Phanteks Eclipse G370A, mid-tower Gaming Chassis, high airflow mesh, 3x M25 D-RGB Fans, Black.",
       "site": "Newegg Canada",
@@ -4103,6 +4097,60 @@
       "site": "KBeauty.ca",
       "first_seen": "2026-06-18T18:15:55.317115",
       "sale_price": 9.0
+    },
+    "7ac0106bf786e0bc7c1efdf79e42fc90": {
+      "title": "WacoalVivid Attraction Underwire T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600652",
+      "sale_price": 22.2
+    },
+    "bc5372d6c155437b272a46c9005bc35e": {
+      "title": "Wit & WisdomBubble Sleeve Flare Button-Up Chambray Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600659",
+      "sale_price": 25.2
+    },
+    "52431bf15d67cc0064f6fd7c84c7bf68": {
+      "title": "Steve MaddenDessa Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600689",
+      "sale_price": 36.75
+    },
+    "409f817bc872fb3a7bc4a0a57d2c7e98": {
+      "title": "Ted BakerCharlie Floral Linen Midi Shirtdress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600695",
+      "sale_price": 129.93
+    },
+    "097d6c838fe89cf31bd51daf8121f4f5": {
+      "title": "Wit & WisdomWyatt Skyrise V-Pocket Ankle Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600700",
+      "sale_price": 29.7
+    },
+    "931d1a79ae86ce80e7519b6c8edf6f81": {
+      "title": "Lauren Ralph LaurenCotton Blend Shirtdress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600729",
+      "sale_price": 58.12
+    },
+    "244ab78da85daf4f9d2060ff70c723b8": {
+      "title": "VuoriCascade Tech Chino Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600770",
+      "sale_price": 57.59
+    },
+    "2df022f8cda68facd6bb77b628ad8254": {
+      "title": "Steve MaddenMontgomery Block Heel Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600787",
+      "sale_price": 49.05
+    },
+    "29ab1aae1661104dbe33d833a51f51fb": {
+      "title": "ElomiNerina Underwire Plunge Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-18T20:26:54.600879",
+      "sale_price": 32.4
     }
   }
 }
