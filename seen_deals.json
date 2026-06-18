@@ -1,65 +1,5 @@
 {
   "deals": {
-    "f2860ad54c853f149ef9641496758d0c": {
-      "title": "ReebokMen's Washed Oversized Garment-Washed Casual T-shirt",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567154",
-      "sale_price": 19.98
-    },
-    "b06f8b9c0d1e0e70f5c2aa9d8db434fe": {
-      "title": "The North FaceSunder Backpack",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567161",
-      "sale_price": 39.98
-    },
-    "caf896c3e2698d819364d6e4e324cdec": {
-      "title": "adidasMen's Lite Racer Adapt 7.0 Sneakers",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567167",
-      "sale_price": 49.98
-    },
-    "d040b1e268537219ac58299c233208b2": {
-      "title": "ReebokWomen's Nano Gym Training Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567172",
-      "sale_price": 64.98
-    },
-    "a25aa73e8f5bb9b2d1d06e0ebc1c3707": {
-      "title": "ReebokMen's Nano Gym Training Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567176",
-      "sale_price": 64.98
-    },
-    "35cb2d24f858e08b371962dae5cb3488": {
-      "title": "ReebokMen's Nano Lightweight Cushioned Tennis Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T14:43:17.567178",
-      "sale_price": 74.98
-    },
-    "e73ac2c0087633eb41e88bfc6391b23d": {
-      "title": "BOM Peony Garden Perfume Body Mist 110ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-11T14:43:17.567189",
-      "sale_price": 8.0
-    },
-    "d136ef42ff1ba275932896cdd312b1ee": {
-      "title": "BOM Petit Fig Perfume Body Mist 110ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-11T14:43:17.567191",
-      "sale_price": 8.0
-    },
-    "b6219370a5c64cbeca75d674bab7be98": {
-      "title": "BOM Chiffon Vanilla Perfume Body Mist 110ml",
-      "site": "KBeauty.ca",
-      "first_seen": "2026-06-11T14:43:17.567194",
-      "sale_price": 8.0
-    },
-    "9c78257da5ed4b01e3f8b764c41045f0": {
-      "title": "adidas Italy World Cup '26 3 Stripe T-Shirt",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-11T14:43:17.567206",
-      "sale_price": 22.5
-    },
     "4b12d90d89fb92b553627dde68317e7b": {
       "title": "LottoMen's Ultra Press 2.0 Firm Ground Soccer Cleats",
       "site": "Sport Chek",
@@ -3953,6 +3893,48 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-18T11:59:15.002565",
       "sale_price": 173.0
+    },
+    "f2860ad54c853f149ef9641496758d0c": {
+      "title": "ReebokMen's Washed Oversized Garment-Washed Casual T-shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-18T14:56:51.829161",
+      "sale_price": 19.98
+    },
+    "caf896c3e2698d819364d6e4e324cdec": {
+      "title": "adidasMen's Lite Racer Adapt 7.0 Sneakers",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-18T14:56:51.829174",
+      "sale_price": 49.98
+    },
+    "e73ac2c0087633eb41e88bfc6391b23d": {
+      "title": "BOM Peony Garden Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-18T14:56:51.829189",
+      "sale_price": 8.0
+    },
+    "d136ef42ff1ba275932896cdd312b1ee": {
+      "title": "BOM Petit Fig Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-18T14:56:51.829192",
+      "sale_price": 8.0
+    },
+    "b6219370a5c64cbeca75d674bab7be98": {
+      "title": "BOM Chiffon Vanilla Perfume Body Mist 110ml",
+      "site": "KBeauty.ca",
+      "first_seen": "2026-06-18T14:56:51.829195",
+      "sale_price": 8.0
+    },
+    "8b2419978f2be50a491bc3280ed3d8a7": {
+      "title": "Lilybyred Luv Beam Cheek (AD) - #01 Loveable Coral",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-18T14:56:51.829202",
+      "sale_price": 6.5
+    },
+    "9c78257da5ed4b01e3f8b764c41045f0": {
+      "title": "adidas Italy World Cup '26 3 Stripe T-Shirt",
+      "site": "Foot Locker Canada",
+      "first_seen": "2026-06-18T14:56:51.829206",
+      "sale_price": 22.5
     }
   }
 }
