@@ -1,29 +1,5 @@
 {
   "deals": {
-    "6af9779692067b08d0b2e32a72b9a259": {
-      "title": "Phanteks Eclipse G370A, mid-tower Gaming Chassis, high airflow mesh, 3x M25 D-RGB Fans, Black.",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-11T23:01:18.816712",
-      "sale_price": 14.99
-    },
-    "90ba1d1e53d503b78707f3fa0de34d91": {
-      "title": "FLORTTE I AM SUPER BEAUTY Lip Gloss Serum 06 Grape Jelly (Clearance)",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-11T23:01:18.816796",
-      "sale_price": 6.49
-    },
-    "66d1d28dc7284bdd0416ecd5178c49d0": {
-      "title": "ReebokWomen's Nano Lightweight Cushioned Tennis Shoes",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-11T23:01:18.816814",
-      "sale_price": 74.98
-    },
-    "8df93c86fadd140f9987e99e2843fcd2": {
-      "title": "Dasique Blending Mood Cheek 03 Peach Blending (Clearance)",
-      "site": "Kiokii & Co",
-      "first_seen": "2026-06-11T23:01:18.816830",
-      "sale_price": 12.5
-    },
     "5c0befb4cc04481c0c0eafd0d37cf441": {
       "title": "ENERGIZER 13 1.4V Zinc-Oxide Hearing Aid Battery 8 Pack (AZ13DP8)",
       "site": "Canada Computers",
@@ -4151,6 +4127,18 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-18T20:26:54.600879",
       "sale_price": 32.4
+    },
+    "90ba1d1e53d503b78707f3fa0de34d91": {
+      "title": "FLORTTE I AM SUPER BEAUTY Lip Gloss Serum 06 Grape Jelly (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-18T23:07:03.131438",
+      "sale_price": 6.49
+    },
+    "8df93c86fadd140f9987e99e2843fcd2": {
+      "title": "Dasique Blending Mood Cheek 03 Peach Blending (Clearance)",
+      "site": "Kiokii & Co",
+      "first_seen": "2026-06-18T23:07:03.131559",
+      "sale_price": 12.5
     }
   }
 }
