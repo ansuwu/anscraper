@@ -1,17 +1,5 @@
 {
   "deals": {
-    "32791a6880bcc92e09b56c148c73f617": {
-      "title": "LIAN LI O11D MINI V2 Flow | Compact ATX Mid-Tower Airflow Computer Case | Panoramic View | High-Performance Airflow | In",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-12T05:40:09.478742",
-      "sale_price": 14.99
-    },
-    "28a7d74c678caa31f074acf37026e303": {
-      "title": "RAYOVAC High Energy AAA Alkaline Battery 4 Pack",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-12T05:40:09.478825",
-      "sale_price": 1.88
-    },
     "05ee139b6608bf08b4d69520e57c9bf4": {
       "title": "Duracell Micro 5 Magnetic Wireless 5,000mAh",
       "site": "Canada Computers",
@@ -4127,6 +4115,348 @@
       "site": "Kiokii & Co",
       "first_seen": "2026-06-18T23:07:03.131559",
       "sale_price": 12.5
+    },
+    "735c3934b2fa5b7294a7f5d71689e0c6": {
+      "title": "NikeKids' Ava Rover Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255902",
+      "sale_price": 36.59
+    },
+    "3c0a7c4b4751fc654895c77f0b94de59": {
+      "title": "UGG®Neumel Era Chukka Boot",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255908",
+      "sale_price": 47.98
+    },
+    "da2212b4496fb7a82c8674b1898dc850": {
+      "title": "NikeFleece Crewneck Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255916",
+      "sale_price": 25.5
+    },
+    "077198451fe3ca9146395546bbe134b3": {
+      "title": "AGTellis Airluxe™ Commuter Performance Sateen Slim Fit Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255921",
+      "sale_price": 64.5
+    },
+    "e14a8f22cb047493008e08b935b98275": {
+      "title": "VansOld Skool Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255927",
+      "sale_price": 22.5
+    },
+    "3d8ba88bc4f87ee04dc079ef99f83c12": {
+      "title": "BOSSPittman Long Sleeve Cotton Piqué Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255931",
+      "sale_price": 44.7
+    },
+    "f6e432c872836959fa8e24b5310610ef": {
+      "title": "ZellaStudio Luxe High Waist Pocket 7/8 Leggings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255934",
+      "sale_price": 23.7
+    },
+    "679092e27e912b6de5265a0c9fc9583e": {
+      "title": "Vince CamutoLace Yoke Tie Front Long Sleeve Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255942",
+      "sale_price": 26.7
+    },
+    "ddb492c4f3343fde0bbd5fd988657e6a": {
+      "title": "UGG®Ellis Wool Loafer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255945",
+      "sale_price": 48.74
+    },
+    "9b4920bb2ebe8127859d8f28f6016ef2": {
+      "title": "Sam EdelmanVienna Pointed Toe Pump",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255955",
+      "sale_price": 45.0
+    },
+    "91f7123b8422a1847ccb4f880ad08fab": {
+      "title": "Lucky BrandLace Mesh Detail Square Neck Cotton Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255980",
+      "sale_price": 26.82
+    },
+    "7c710b77aedf550f58548fe57b041e29": {
+      "title": "Mini BodenKids' Rainbow Cotton & Wool Blend Jacquard Cardigan",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255983",
+      "sale_price": 21.93
+    },
+    "9614b2ec0664923b578001532a8b2c8a": {
+      "title": "Peter MillarCrown Crafted Empire Performance Polo",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255991",
+      "sale_price": 42.18
+    },
+    "9509850598bb4354f23ab9331f8eb84a": {
+      "title": "Lucky BrandCutwork Detail Stripe Cotton Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.255994",
+      "sale_price": 33.41
+    },
+    "187549ce593d968e484e33f2969fd0e8": {
+      "title": "Peter MillarComfort Interlock Quarter Zip Pullover",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256022",
+      "sale_price": 52.31
+    },
+    "0d54d86606c0174291125c99b893ee3c": {
+      "title": "FRAMELe Sleek High Waist Ankle Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256031",
+      "sale_price": 93.74
+    },
+    "f4168103431377ffb5b6bc583219f6c9": {
+      "title": "Ralph Lauren Purple LabelAston Light Blue Cotton Button-Up Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256047",
+      "sale_price": 218.16
+    },
+    "3ce7f5eaca398b550e975422801ef521": {
+      "title": "ZellaCloud Fleece Relaxed Sweatshirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256051",
+      "sale_price": 22.12
+    },
+    "c8b8292e2d30befeb8b36b41e09b34b1": {
+      "title": "Jeffrey CampbellMiles Loafer Mule",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256070",
+      "sale_price": 56.23
+    },
+    "db0b778fbca3f8729a086d42563268ba": {
+      "title": "BirkenstockBoston Genuine Shearling Lined Clog",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256072",
+      "sale_price": 67.48
+    },
+    "a432ec38d9186dab1f92162358191f6d": {
+      "title": "DAZEPleaser High Waist Raw Hem Crop Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256102",
+      "sale_price": 40.42
+    },
+    "72d0b272b5b70249301498d1683f2754": {
+      "title": "NatoriEverFit Seamless Convertible T-Shirt Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256117",
+      "sale_price": 26.54
+    },
+    "5176840e757535a35ca29fdea3eb45ba": {
+      "title": "NatoriMinimal Push Up Convertible Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256121",
+      "sale_price": 30.59
+    },
+    "8b9fa21a9026e0385598c2138204e23f": {
+      "title": "ReformationHudson Knit Tank",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256124",
+      "sale_price": 35.09
+    },
+    "ffdec003d54e541f275386209fa48335": {
+      "title": "Open EditRuffle Tiered Camisole",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256127",
+      "sale_price": 22.27
+    },
+    "c8a460d4c8face53db065d5a3651130a": {
+      "title": "All in FavorBroderie Anglaise Fit & Flare Midi Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256134",
+      "sale_price": 33.3
+    },
+    "0689e0cc6cc56ba9a32c24ec49942ab5": {
+      "title": "PUMASpeedcat OG Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256139",
+      "sale_price": 27.0
+    },
+    "176306bb1c562dffdaf4ad1080d326b9": {
+      "title": "WacoalElevated Allure Full Coverage Underwire Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256146",
+      "sale_price": 33.3
+    },
+    "d07a4e6c32a4d44516b2c1d938e36d60": {
+      "title": "ReformationTerra Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256174",
+      "sale_price": 89.1
+    },
+    "cea7339d627848f4d05f020c3a98e4fe": {
+      "title": "Jimmy ChooBiker Waterproof Rain Boot",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256182",
+      "sale_price": 267.75
+    },
+    "b885ca402e6697fb1a1f65555ded9d36": {
+      "title": "NatoriGravity Contour Underwire Sports Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256186",
+      "sale_price": 33.3
+    },
+    "0e0c58105337fa29eb7b71b801659e6f": {
+      "title": "AMIRIPacific Football Slim Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256189",
+      "sale_price": 292.5
+    },
+    "202aeda1c0878eeba84055f7d2114cd6": {
+      "title": "PistolaLana High Waist Wide Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256193",
+      "sale_price": 89.1
+    },
+    "461f9b4d7a0ab90a35a7c35abcae13fa": {
+      "title": "DiamondbackSentry Men's Bike Helmet",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-19T06:20:26.256215",
+      "sale_price": 29.98
+    },
+    "7830572ba7d968a796e15521e25ac0ef": {
+      "title": "Jimmy ChooDree Platform Espadrille Sandal",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256217",
+      "sale_price": 402.75
+    },
+    "b1db93c40ad02981d70af17bc002eacd": {
+      "title": "Cole HaanGrandPro Topspin Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256222",
+      "sale_price": 74.99
+    },
+    "3e6125e49482d57562691ada60929c19": {
+      "title": "AGProtégé Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256225",
+      "sale_price": 101.25
+    },
+    "7bfe6b177dfeef0f412c020b6707ff98": {
+      "title": "RipzoneMen's Ross T-Shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-19T06:20:26.256229",
+      "sale_price": 12.98
+    },
+    "229843d66fa6bd1d1b76a673dfbffc1a": {
+      "title": "RipzoneMen's Ross Cotton T Shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-19T06:20:26.256232",
+      "sale_price": 12.98
+    },
+    "a640725c562e3cadd9787b7d99f50900": {
+      "title": "Mini BodenKids' Digger Appliqué Long Sleeve Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256237",
+      "sale_price": 18.74
+    },
+    "278f0148b06271bfc6eb2cb0d3f011ea": {
+      "title": "Dolce VitaMerit Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256246",
+      "sale_price": 67.42
+    },
+    "9af3519549fcf8aeda47a8f972084ec1": {
+      "title": "New BalanceKids' 9060 Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256256",
+      "sale_price": 43.86
+    },
+    "0337ad0442da4f8e695d52d7e69b85ee": {
+      "title": "ZellaLive In Flare Leggings",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256259",
+      "sale_price": 33.63
+    },
+    "116e4f25432a7d20f5090e277c311269": {
+      "title": "Free PeopleFP Movement Tighten Up Reversible Bra",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256264",
+      "sale_price": 24.37
+    },
+    "36ecf579094c7473662f4783394bcf92": {
+      "title": "adidasGender Inclusive Handball Spezial Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256275",
+      "sale_price": 53.62
+    },
+    "c21799e35bc9d7097964be2da00b2c8a": {
+      "title": "AllSaintsTucker Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256278",
+      "sale_price": 92.13
+    },
+    "12219f0d7a7c2a09ed0d26c7ac4c06dd": {
+      "title": "adidasGazelle Indoor Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256281",
+      "sale_price": 63.37
+    },
+    "7dd53073e89b38f9b8b5f0a5dc18cd77": {
+      "title": "Fear of God EssentialsKids' Cotton Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256285",
+      "sale_price": 36.56
+    },
+    "b5afb6092903a1245db5a925252b5522": {
+      "title": "Halogen®High Waist Crop Tapered Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256288",
+      "sale_price": 48.26
+    },
+    "9ba8525761f239c3e8b6466a5e982bfa": {
+      "title": "Tory BurchField Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256291",
+      "sale_price": 121.87
+    },
+    "d27cbc59679b98dcf69127ec58518020": {
+      "title": "adidasParis Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256298",
+      "sale_price": 48.75
+    },
+    "41cdfff614db890bb65b1ef9eba5daf9": {
+      "title": "adidasAdistar Control 5 Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256301",
+      "sale_price": 58.5
+    },
+    "d3ef15626907d6b3a20ff7e728d14cb1": {
+      "title": "ElwoodCore Oversize Terry Full Zip Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256304",
+      "sale_price": 41.62
+    },
+    "35cb2d24f858e08b371962dae5cb3488": {
+      "title": "ReebokMen's Nano Lightweight Cushioned Tennis Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-19T06:20:26.256335",
+      "sale_price": 74.98
+    },
+    "4e809ab2b0b90f2aeb0dddfd5093880a": {
+      "title": "Asus ROG Harpe Ace Aim Lab Edition Wireless Gaming Mouse",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T06:20:26.256343",
+      "sale_price": 109.99
+    },
+    "52aabe9da3d9ed4237ef8667ded480c2": {
+      "title": "Asus ROG Harpe Ace Aim Lab Edition Wireless GamingMouse MoonlightWhite",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T06:20:26.256345",
+      "sale_price": 109.99
+    },
+    "e7a0d3a2115d088a7132824f1c8bfbe8": {
+      "title": "Burberry52mm Square optical glasses",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-19T06:20:26.256367",
+      "sale_price": 179.0
     }
   }
 }
