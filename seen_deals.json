@@ -4619,6 +4619,30 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-19T21:13:24.596265",
       "sale_price": 18.5
+    },
+    "ccb55ad93f3c7503fed185aa367bbaac": {
+      "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T22:16:09.780686",
+      "sale_price": 69.99
+    },
+    "0448437b4678cb828ed9bf9bc15305b2": {
+      "title": "ASUS ROG Harpe Ace Mini Wireless Gaming Mouse-Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T22:16:09.780693",
+      "sale_price": 69.99
+    },
+    "586dab72c84573d5739fecbcd7ad60f1": {
+      "title": "ASUS ROG Keris II Ace Wireless Gaming Mouse-White",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T22:16:09.780713",
+      "sale_price": 99.99
+    },
+    "df07e72414a2dcca171a9597f2b6977b": {
+      "title": "ASUS ROG Keris II Ace Wireless Gaming Mouse-Black",
+      "site": "Canada Computers",
+      "first_seen": "2026-06-19T22:16:09.780716",
+      "sale_price": 99.99
     }
   }
 }
