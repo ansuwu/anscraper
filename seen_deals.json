@@ -1,89 +1,5 @@
 {
   "deals": {
-    "d445be665aea261587cdc093d42290c6": {
-      "title": "Tommy BahamaParadise Breezer Linen Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001047",
-      "sale_price": 49.99
-    },
-    "ab364323d7d6de90ff7c27f2f7607dec": {
-      "title": "TrimshaperButton-Down High-Low Beach Shirt Coverup",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001077",
-      "sale_price": 20.0
-    },
-    "07a346cf05e832b452fea1474f6b4fda": {
-      "title": "NatoriCloud Comfort Full Fit Back Smoothing T-Shirt Bra",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001082",
-      "sale_price": 27.6
-    },
-    "fff5668b28292b758fb9f7fd23db0d53": {
-      "title": "L'AGENCEScottie High Waist Wide Leg Jeans",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001085",
-      "sale_price": 114.0
-    },
-    "ee511c50395f3eb98f6596c3cc34a8f7": {
-      "title": "NikeStride Dri-FIT ADV Running T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001090",
-      "sale_price": 24.99
-    },
-    "0395ff524f2ea0dcfa0875a2b06e115f": {
-      "title": "CLUB 3D HDMI 2.1 MALE TO HDMI 2.1 MALE ULTRA HIGH SPEED CABLE 10K 120Hz  2m/ 6.56ft (CAC-1372)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-12T22:40:59.001095",
-      "sale_price": 10.88
-    },
-    "f02194e3d62462b08b5e6dcf262dd765": {
-      "title": "NikeSportswear Embroidered Swoosh Cotton T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001098",
-      "sale_price": 20.99
-    },
-    "b8fe5ac876e1a2f24364548b04da0e95": {
-      "title": "FahertySunwashed Organic Cotton Slub Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001100",
-      "sale_price": 43.99
-    },
-    "249dc4dbca92ab24b9122abf494193a9": {
-      "title": "Peter MillarCrown Crafted Empire Performance Polo",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001105",
-      "sale_price": 56.24
-    },
-    "84020cd2de0927a53885a8fbf730bf7b": {
-      "title": "Fear of God EssentialsClassic Hoodie",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001110",
-      "sale_price": 67.5
-    },
-    "a202846bddc813c38b467a8a98ebce34": {
-      "title": "Miami Carry OnTravelers 6 Piece Organizational Packing Cubes",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001136",
-      "sale_price": 14.99
-    },
-    "4d095067daeb6622ebe65299b81f7868": {
-      "title": "AllSaintsOrlando Logo Oversize Graphic T-Shirt",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001176",
-      "sale_price": 49.5
-    },
-    "c08aa492e8ed34a14150dfb4fdd63e86": {
-      "title": "Tommy BahamaBoracay Chino Shorts",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001185",
-      "sale_price": 49.75
-    },
-    "9f4cb67108a9e3d80d0a9dc856ec6f40": {
-      "title": "CeCeBelted Midi Dress",
-      "site": "Nordstrom Canada",
-      "first_seen": "2026-06-12T22:40:59.001191",
-      "sale_price": 59.5
-    },
     "9d23a90e3c145b8b2439eefee1a35aae": {
       "title": "SAMSUNG SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s, Best for AI Computing, Gaming, and Hea",
       "site": "Newegg Canada",
@@ -4643,6 +4559,60 @@
       "site": "Canada Computers",
       "first_seen": "2026-06-19T22:16:09.780716",
       "sale_price": 99.99
+    },
+    "dc2ed407d79284d51861141541db41dc": {
+      "title": "HOUSE OF CBAdabella Floral Pleated Halter Sundress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365182",
+      "sale_price": 59.0
+    },
+    "58ca34ec05a8b328a9f9ec084bf085b4": {
+      "title": "Carhartt Work In ProgressChase Fleece Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365200",
+      "sale_price": 35.24
+    },
+    "76f7a0d90e16d809672d126dbd3129e7": {
+      "title": "Billionaire Boys ClubStones Spaceman Logo Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365217",
+      "sale_price": 23.61
+    },
+    "b9a69f03d54e17dc186ffa2971b18109": {
+      "title": "Billionaire Boys ClubCurve Logo Short Sleeve Graphic T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365220",
+      "sale_price": 21.93
+    },
+    "1f6bd544e834bcaab4def2b343e2c48f": {
+      "title": "FahertyMovement Quarter Zip Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365225",
+      "sale_price": 49.94
+    },
+    "ac2514d4b87c224e8ef6af388705c4bc": {
+      "title": "Billionaire Boys ClubCamo Logo Graphic Hoodie",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365228",
+      "sale_price": 48.93
+    },
+    "1b0a0d185ccd1dbbd988f08d4f5c5f06": {
+      "title": "Nordstrom3-Pack Boxer Briefs",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365280",
+      "sale_price": 14.99
+    },
+    "2c5791fbe12243404eb53fc4d8c0e49b": {
+      "title": "True & CoTrue Body Boost Longline Bralette",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365327",
+      "sale_price": 23.88
+    },
+    "17cfe7bff64c5d68e335b0bfff955d04": {
+      "title": "DAZETroublemaker Fray Hem Shorts",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-20T00:11:28.365332",
+      "sale_price": 34.12
     }
   }
 }
