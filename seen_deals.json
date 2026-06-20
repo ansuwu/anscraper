@@ -1,41 +1,5 @@
 {
   "deals": {
-    "250e5b44caa339ac887b5e7525623b06": {
-      "title": "Lian Li V100 ATX Mid-Tower PC Case, 4 x 120mm ARGB PWM Fans Pre-Installed, LED RGB Strip, Display Platform with Tempered",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-13T08:59:53.259276",
-      "sale_price": 14.99
-    },
-    "c0825235ce07d3e59d76c3ec5ae504ea": {
-      "title": "NZXT F120 RGB DUO Case Fan, Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-13T08:59:53.259301",
-      "sale_price": 13.88
-    },
-    "82a26e3c64a9d13fc80f1d919df7e28f": {
-      "title": "HYPERX Cloud Mini —  Wired Gaming Headset (Lavender)",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-13T08:59:53.259322",
-      "sale_price": 16.88
-    },
-    "3b6457adb8b6245a49a2a422f90dff48": {
-      "title": "Crocs Classic Clogs Velvet",
-      "site": "Foot Locker Canada",
-      "first_seen": "2026-06-13T08:59:53.259327",
-      "sale_price": 19.99
-    },
-    "57b138e897289733eaf11bc8585e92e3": {
-      "title": "SilverStone Raven SST-RVZ03B-ARGB Mini ITX Tower Black",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-13T08:59:53.259349",
-      "sale_price": 81.88
-    },
-    "1881bde237397d14c7f6e1bb8bad13f5": {
-      "title": "Under ArmourMen's Tech™ Vent 2.0 7 Inch Shorts",
-      "site": "Sport Chek",
-      "first_seen": "2026-06-13T08:59:53.259399",
-      "sale_price": 19.98
-    },
     "3050e3e83f626713804e01be7f89ef12": {
       "title": "Lian Li UNI Fan SL Wireless 120mm ARGB Fan - Single Pack - 2.4 GHz Wireless Signal for RGB & Fan Control - Daisy-Chain D",
       "site": "Newegg Canada",
@@ -4607,6 +4571,12 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-20T00:11:28.365332",
       "sale_price": 34.12
+    },
+    "1881bde237397d14c7f6e1bb8bad13f5": {
+      "title": "Under ArmourMen's Tech™ Vent 2.0 7 Inch Shorts",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-20T10:09:47.735496",
+      "sale_price": 19.98
     }
   }
 }
