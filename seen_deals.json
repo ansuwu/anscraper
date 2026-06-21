@@ -1,11 +1,5 @@
 {
   "deals": {
-    "29dcf41163542ecdbd9bba41945cb18a": {
-      "title": "Phanteks Evolv X2, Mid-Tower Gaming Chassis, Vertical Cooling System, See-through Tempered Glass Chassis, Brushed Alumin",
-      "site": "Newegg Canada",
-      "first_seen": "2026-06-14T10:58:18.393793",
-      "sale_price": 19.99
-    },
     "074e4fa35f54d3a73fd4a785a6713cb6": {
       "title": "SanctuaryThe Perfect T-Shirt",
       "site": "Nordstrom Canada",
@@ -5261,6 +5255,108 @@
       "site": "Sport Chek",
       "first_seen": "2026-06-21T09:06:49.108908",
       "sale_price": 79.98
+    },
+    "b7a92a5e0dc26fc83648b152f54ec963": {
+      "title": "PAIGECindy Raw Edge Straight Leg Jeans",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471850",
+      "sale_price": 71.69
+    },
+    "5b22c6adb73bf3fa0a212096fd4e9933": {
+      "title": "Alice + OliviaDiana Directional Stripe Structured Cotton Blend Dress",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471868",
+      "sale_price": 198.0
+    },
+    "6d398df0183884d8add2851d1f44e43f": {
+      "title": "Alice + OliviaArlette Floral Flutter Sleeve Button-Up Top",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471883",
+      "sale_price": 99.0
+    },
+    "2ee7e5ec7cabfab4f9b6ce9fc8517f48": {
+      "title": "BodenLiz Stripe Collar Cardigan",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471888",
+      "sale_price": 48.0
+    },
+    "a4765ae02d6c1a9f3e0a15a7b69ae162": {
+      "title": "TheoryRiland Crewneck Sweater",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471939",
+      "sale_price": 65.8
+    },
+    "5f5a01781729860d9225abe18ad6a34f": {
+      "title": "Betsy & AdamStrapless Mixed Media Gown",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471943",
+      "sale_price": 94.15
+    },
+    "4b6159f1b6f3574958b39d6b14f045a7": {
+      "title": "GivenchyGV Speed 64mm Oversize Gradient Pilot Sunglasses",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471979",
+      "sale_price": 108.74
+    },
+    "08b79131a2ce4d76031a1c681ca101ae": {
+      "title": "Eileen FisherStripe Organic Linen Long Sleeve T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.471994",
+      "sale_price": 51.75
+    },
+    "fa687d68d5db81cc483b8f5cafda5196": {
+      "title": "SKIMSFits Everybody Long Sleeve T-Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472016",
+      "sale_price": 22.99
+    },
+    "9c31bc881d3e7956603b84f5b48079e1": {
+      "title": "NordstromTrim Fit Premium Performance Dress Shirt",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472037",
+      "sale_price": 41.04
+    },
+    "57799f0f9d08a48b2646646ba75d3615": {
+      "title": "Jack VictorPatrick Stretch Tropical Wool, Silk & Linen Blend Pants",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472040",
+      "sale_price": 114.67
+    },
+    "4d06a28081dc50d7c4c174fe2f22c499": {
+      "title": "Tommy JohnSecond Skin 4-Inch Boxer Briefs",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472044",
+      "sale_price": 14.85
+    },
+    "69d0779ff00d220e1063fafdd79a3ad3": {
+      "title": "Bony LevyMonaco Diamond Coil Ring",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472074",
+      "sale_price": 987.75
+    },
+    "385ad9825c92bd5ddebf2cb543878693": {
+      "title": "Alexander WangCarter Lug Sole Loafer",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472086",
+      "sale_price": 267.75
+    },
+    "73f1f18da91e88bcbf50d623182ba25a": {
+      "title": "BirkenstockBend Low Top Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472132",
+      "sale_price": 74.99
+    },
+    "ac83c9c5d12e2e69bd22962968fac6df": {
+      "title": "UGG®South Bay Low Sneaker",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472190",
+      "sale_price": 48.74
+    },
+    "101cceab34e367860ae42c11088cbec3": {
+      "title": "Tory BurchRobinson Spazzolato Leather Shoulder Bag",
+      "site": "Nordstrom Canada",
+      "first_seen": "2026-06-21T11:52:32.472193",
+      "sale_price": 205.0
     }
   }
 }
