@@ -1,17 +1,5 @@
 {
   "deals": {
-    "1139ce42f621362f66cc954991c372dc": {
-      "title": "Seasonic Magflow 120 ARGB Case Fan 3-Pack",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-14T07:29:31.818964",
-      "sale_price": 66.88
-    },
-    "0f68cd17c8d77c7b886342fcab46a0d2": {
-      "title": "Seasonic Magflow 120 ARGB Case Fan 1-Pack",
-      "site": "Canada Computers",
-      "first_seen": "2026-06-14T07:29:31.818971",
-      "sale_price": 22.88
-    },
     "29dcf41163542ecdbd9bba41945cb18a": {
       "title": "Phanteks Evolv X2, Mid-Tower Gaming Chassis, Vertical Cooling System, See-through Tempered Glass Chassis, Brushed Alumin",
       "site": "Newegg Canada",
@@ -5231,6 +5219,48 @@
       "site": "Nordstrom Canada",
       "first_seen": "2026-06-21T04:28:07.858666",
       "sale_price": 22.49
+    },
+    "ffdee9a366ec67719bc613ac9eec7909": {
+      "title": "DiamondbackSentry Junior Bike Helmet",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108874",
+      "sale_price": 29.98
+    },
+    "b06f8b9c0d1e0e70f5c2aa9d8db434fe": {
+      "title": "The North FaceSunder Backpack",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108883",
+      "sale_price": 39.98
+    },
+    "5e4d4e4e8c31da31c32fb45f333b0011": {
+      "title": "O'NeillMen's Light Check Button-up Shirt",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108886",
+      "sale_price": 39.98
+    },
+    "a25aa73e8f5bb9b2d1d06e0ebc1c3707": {
+      "title": "ReebokMen's Nano Gym Training Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108897",
+      "sale_price": 64.98
+    },
+    "d040b1e268537219ac58299c233208b2": {
+      "title": "ReebokWomen's Nano Gym Training Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108900",
+      "sale_price": 64.98
+    },
+    "66d1d28dc7284bdd0416ecd5178c49d0": {
+      "title": "ReebokWomen's Nano Lightweight Cushioned Tennis Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108905",
+      "sale_price": 74.98
+    },
+    "4760f5163b4e9914d73f424a13798d30": {
+      "title": "ReebokMen's Nano Golf Shoes",
+      "site": "Sport Chek",
+      "first_seen": "2026-06-21T09:06:49.108908",
+      "sale_price": 79.98
     }
   }
 }
